@@ -21,6 +21,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.x'
+      # Fill every confidently mapped playlist channel, then overlay our verified Malayalam feeds.
       - name: Update all mapped channels
         run: python scripts/update_all_channels.py
       - name: Overlay verified Malayalam sources
