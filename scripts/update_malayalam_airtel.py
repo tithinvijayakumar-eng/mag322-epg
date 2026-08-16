@@ -16,11 +16,16 @@ CHANNELS = [
     ('Asianet Movies HD', 'airtel', 'LIVETV_LIVETVCHANNEL_ASIANET_MOVIES_HD', 'AsianetMovies.in'),
     ('Surya TV HD', 'airtel', 'LIVETV_LIVETVCHANNEL_SURYA_HD', 'SURYA.HD.in'),
     ('Surya Movies', 'airtel', 'LIVETV_LIVETVCHANNEL_SURYA_MOVIES', 'SURYA.MOVIES.in'),
+    ('Surya Comedy', 'airtel', 'LIVETV_LIVETVCHANNEL_SURYA_COMEDY', 'SURYA.COMEDY.in'),
+    ('Surya Music', 'airtel', 'LIVETV_LIVETVCHANNEL_SURYA_MUSIC', 'SURYA.MUSIC.in'),
     ('Zee Keralam HD', 'airtel', 'LIVETV_LIVETVCHANNEL_ZEE_KERALAM_HD', 'ts694'),
     ('Mazhavil Manorama HD', 'airtel', 'LIVETV_LIVETVCHANNEL_MAZHAVIL_MANORAMA_HD', 'mazhavilmanoramahd.in'),
     ('Flowers TV', 'airtel', 'LIVETV_LIVETVCHANNEL_FLOWERS_TV', 'flowers.in'),
     ('Kairali TV', 'airtel', 'LIVETV_LIVETVCHANNEL_KAIRALI_TV', 'ts25'),
+    ('Kairali WE', 'airtel', 'LIVETV_LIVETVCHANNEL_KAIRALI_WE', 'Kairali.WE.TV.in'),
     ('Amrita TV', 'tataplay', '178', 'AMRITA.in'),
+    ('Safari TV', 'airtel', 'LIVETV_LIVETVCHANNEL_SAFARI_TV', 'SAFARI.TV.in'),
+    ('Kochu TV', 'airtel', 'LIVETV_LIVETVCHANNEL_KOCHU_TV', 'KOCHU.TV.in'),
     ('24 News', 'airtel', 'LIVETV_LIVETVCHANNEL_TWENTY_FOUR', 'News.24.in'),
 ]
 
