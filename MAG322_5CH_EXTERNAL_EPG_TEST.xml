@@ -20,38 +20,6 @@
     <display-name>MY: Kairali HD</display-name>
     <icon src="https://www.lyngsat.com/logo/tv/kk/kairali_in.png" />
   </channel>
-  <programme start="20260815143000 +0100" stop="20260815150000 +0100" channel="ts694">
-    <title>Kudumbasree Sharada</title>
-    <desc>A single mother raises her three daughters despite a troublesome past. S01 E1576.</desc>
-  </programme>
-  <programme start="20260815150000 +0100" stop="20260815153000 +0100" channel="ts694">
-    <title>Valyettan</title>
-    <desc>Giri suppresses his dreams for his family until deep betrayal forces a change. S01 E116.</desc>
-  </programme>
-  <programme start="20260815153000 +0100" stop="20260815163000 +0100" channel="ts694">
-    <title>Sa Re Ga Ma Pa Keralam Lil Champs</title>
-    <desc>Young aspiring singers compete against each other and try to win the grand prize. S02 E05.</desc>
-  </programme>
-  <programme start="20260815163000 +0100" stop="20260815170000 +0100" channel="ts694">
-    <title>Pranayavilasam</title>
-    <desc>Two women use education and courage to overcome forced marriages and find justice. S01 E41.</desc>
-  </programme>
-  <programme start="20260815170000 +0100" stop="20260815173000 +0100" channel="ts694">
-    <title>Snehapoorvam Shyama</title>
-    <desc>The adopted daughter is forced to replace her absconding sister at the latter's wedding. S01 E640.</desc>
-  </programme>
-  <programme start="20260815173000 +0100" stop="20260815180000 +0100" channel="ts694">
-    <title>Krishnagadha</title>
-    <desc>Nandagopal plans to evict Gadha, only to discover that she is actually Krishna. S01 E377.</desc>
-  </programme>
-  <programme start="20260815180000 +0100" stop="20260815183000 +0100" channel="ts694">
-    <title>Mangalyam</title>
-    <desc>A woman with big dreams and her husband face odds and joys of life after their marriage. S01 E995.</desc>
-  </programme>
-  <programme start="20260815183000 +0100" stop="20260815193000 +0100" channel="ts694">
-    <title>Sa Re Ga Ma Pa Keralam Lil Champs</title>
-    <desc>Young aspiring singers compete against each other and try to win the grand prize. S02 E05.</desc>
-  </programme>
   <programme start="20260815143000 +0100" stop="20260815173000 +0100" channel="ts25">
     <title>Naduvan</title>
     <desc>While Karthik plans on killing his wife, fate has something else in store for the couple.</desc>
@@ -363,6 +331,786 @@
   <programme start="20260819000000 +0530" stop="20260819023000 +0530" channel="ts292">
     <title>Movie</title>
     <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260814230000 +0530" stop="20260815023000 +0530" channel="AsianetPlus.in">
+    <title>Sadaram</title>
+    <desc>Raghunandana, a lawyer, leads a happy life with his family. But his life takes a drastic turn when he tries to save a rape victim, Sethulakshmi.</desc>
+  </programme>
+  <programme start="20260815023000 +0530" stop="20260815030000 +0530" channel="AsianetPlus.in">
+    <title>Chirikkum Thalika II</title>
+    <desc>Unni's old bus, linked to his father's tragic past, leads to chaos when he befriends runaway Gayathri. Their love blossoms amid quirky mishaps and family drama.</desc>
+  </programme>
+  <programme start="20260815030000 +0530" stop="20260815033000 +0530" channel="AsianetPlus.in">
+    <title>Chirikkum Thalika II</title>
+    <desc>Unni's old bus, linked to his father's tragic past, leads to chaos when he befriends runaway Gayathri. Their love blossoms amid quirky mishaps and family drama.</desc>
+  </programme>
+  <programme start="20260815033000 +0530" stop="20260815060000 +0530" channel="AsianetPlus.in">
+    <title>Oru Muthassikkadha</title>
+    <desc>Fishermen's peaceful lives shatter when a stranger's business ambitions arrive.</desc>
+  </programme>
+  <programme start="20260815060000 +0530" stop="20260815080000 +0530" channel="AsianetPlus.in">
+    <title>Vadamalli</title>
+    <desc>Movie starring Rahul Madhav, Richa, Ramesh, Biju Kuttan, Ravindra, Jyothi.</desc>
+  </programme>
+  <programme start="20260815080000 +0530" stop="20260815083000 +0530" channel="AsianetPlus.in">
+    <title>Europe Malayalee Journal</title>
+    <desc>Join us in this lively show as we dive into the unique challenges Malayalees face while living in Europe, sharing relatable experiences and heartfelt stories that resonate with the community.</desc>
+  </programme>
+  <programme start="20260815083000 +0530" stop="20260815090000 +0530" channel="AsianetPlus.in">
+    <title>48Th Soorya Festival 2025</title>
+    <desc>Experts discuss the advances in farming, caring for animals, growing plants, and other related farm activities, highlighting trends, methods, and potential benefits for producers and consumers.</desc>
+  </programme>
+  <programme start="20260815090000 +0530" stop="20260815120000 +0530" channel="AsianetPlus.in">
+    <title>Sarkar Colony</title>
+    <desc>Sarkar Colony portrays the lives of ordinary government employees with their low salary who struggle to make both ends meet.</desc>
+  </programme>
+  <programme start="20260815120000 +0530" stop="20260815150000 +0530" channel="AsianetPlus.in">
+    <title>My Big Father</title>
+    <desc>My Big Father starring : Guinness Pakru, Jayaram, Kanniga.</desc>
+  </programme>
+  <programme start="20260815150000 +0530" stop="20260815180000 +0530" channel="AsianetPlus.in">
+    <title>Agnidevan</title>
+    <desc>The story revolves around the conflict between two brothers who share the legacy of Ezhuthupura, a newspaper company owned by the family.</desc>
+  </programme>
+  <programme start="20260815180000 +0530" stop="20260815183000 +0530" channel="AsianetPlus.in">
+    <title>Malikapuram</title>
+    <desc>A young soul's faith and innocence are tested through loss and miracles, leading to a heartfelt journey of hope, courage and the strength of belief.</desc>
+  </programme>
+  <programme start="20260815183000 +0530" stop="20260815190000 +0530" channel="AsianetPlus.in">
+    <title>Eatho Janma Kalpanayil</title>
+    <desc>Sruthy, a simple girl, and Ashwin, a rich tycoon, clash over a business mishap, igniting a complex love-hate story amid family and societal challenges.</desc>
+  </programme>
+  <programme start="20260815190000 +0530" stop="20260815193000 +0530" channel="AsianetPlus.in">
+    <title>Chandrikayil Aliyunnu Chandrakantham</title>
+    <desc>Alakananda's battle between her dream to be a doctor and her father's IPS officer wish shifts when she marries Gautham, leading to complex family and love dynamics.</desc>
+  </programme>
+  <programme start="20260815193000 +0530" stop="20260815200000 +0530" channel="AsianetPlus.in">
+    <title>Teacher Amma</title>
+    <desc>Teacher Amma devotes her life to guiding students, while balancing family duties, emotional struggles and personal sacrifices.</desc>
+  </programme>
+  <programme start="20260815200000 +0530" stop="20260815203000 +0530" channel="AsianetPlus.in">
+    <title>Paadatha Painkili</title>
+    <desc>Kanmani, a humble maid, faces family conspiracies but finds support and love from Deva after a failed wedding leads to their marriage amidst struggles.</desc>
+  </programme>
+  <programme start="20260815203000 +0530" stop="20260815210000 +0530" channel="AsianetPlus.in">
+    <title>Snehakkoottu</title>
+    <desc>Close-knit friends support one another through love, sacrifice and challenges, proving the strength of lasting companionship.</desc>
+  </programme>
+  <programme start="20260815210000 +0530" stop="20260815213000 +0530" channel="AsianetPlus.in">
+    <title>Santhwanam -1</title>
+    <desc>Thampi and his wife are heartbroken when their only son defies them, marries, and settles in the United States. A granddaughter's visit brings hope and change.</desc>
+  </programme>
+  <programme start="20260815213000 +0530" stop="20260815220000 +0530" channel="AsianetPlus.in">
+    <title>Ishttam Maathram</title>
+    <desc>This heartwarming drama follows a compassionate woman navigating the joys and trials of love and family, striving to bring harmony and genuine happiness to those she holds dear.</desc>
+  </programme>
+  <programme start="20260815220000 +0530" stop="20260816010000 +0530" channel="AsianetPlus.in">
+    <title>Kallan kappalilthanne</title>
+    <desc>A cunning thief boards a ship expecting easy riches, but unexpected twists and clever rivals transform the journey into a thrilling game of deception and survival.</desc>
+  </programme>
+  <programme start="20260816010000 +0530" stop="20260816033000 +0530" channel="AsianetPlus.in">
+    <title>Pathamudayam</title>
+    <desc>B. G. Menon recruits Vikrman, a criminal and the lookalike of Jayamohan, an honest cop who was killed by Lion C. Menon's men, to nab him.</desc>
+  </programme>
+  <programme start="20260816033000 +0530" stop="20260816060000 +0530" channel="AsianetPlus.in">
+    <title>Kabadi Kabadi</title>
+    <desc>Movie starring Kalabhavan Mani, Mukesh, Rambha, Saikumar, Suraj Venjaaramoodu.</desc>
+  </programme>
+  <programme start="20260816060000 +0530" stop="20260816083000 +0530" channel="AsianetPlus.in">
+    <title>Kali</title>
+    <desc>Siddharth often has problems with his wife Anjali owing to his short temper. Their relationship suffers a strain and she even plans to end the marriage.</desc>
+  </programme>
+  <programme start="20260816083000 +0530" stop="20260816085500 +0530" channel="AsianetPlus.in">
+    <title>Malikapuram</title>
+    <desc>A young soul's faith and innocence are tested through loss and miracles, leading to a heartfelt journey of hope, courage and the strength of belief.</desc>
+  </programme>
+  <programme start="20260816085500 +0530" stop="20260816090000 +0530" channel="AsianetPlus.in">
+    <title>Paribhavam Parvathy II</title>
+    <desc>Parvathy faces emotional turmoil and societal challenges, as her journey highlights resilience, relationships, and the fight for dignity.</desc>
+  </programme>
+  <programme start="20260816090000 +0530" stop="20260816120000 +0530" channel="AsianetPlus.in">
+    <title>Banarass</title>
+    <desc>Hari leaves his village and goes to Banaras for higher studies. Things get complex as he gets into a relationship with his classmate, Amritha, while the love of his life, waits for him back home.</desc>
+  </programme>
+  <programme start="20260816120000 +0530" stop="20260816123000 +0530" channel="AsianetPlus.in">
+    <title>48Th Soorya Festival 2025</title>
+    <desc>Experts discuss the advances in farming, caring for animals, growing plants, and other related farm activities, highlighting trends, methods, and potential benefits for producers and consumers.</desc>
+  </programme>
+  <programme start="20260816123000 +0530" stop="20260816150000 +0530" channel="AsianetPlus.in">
+    <title>Red Wine</title>
+    <desc>Vasudevan, tries to solve the murder of Anoop. During the investigation, Vasudevan learns that Anoop was involved in helping the local population.</desc>
+  </programme>
+  <programme start="20260816150000 +0530" stop="20260816180000 +0530" channel="AsianetPlus.in">
+    <title>Prajapathi</title>
+    <desc>Malayalam movie directed by, Renjith starring Mammootty, Nedumudi Venu, Sreenivasan.</desc>
+  </programme>
+  <programme start="20260816180000 +0530" stop="20260816183000 +0530" channel="AsianetPlus.in">
+    <title>Malikapuram</title>
+    <desc>A young soul's faith and innocence are tested through loss and miracles, leading to a heartfelt journey of hope, courage and the strength of belief.</desc>
+  </programme>
+  <programme start="20260816183000 +0530" stop="20260816190000 +0530" channel="AsianetPlus.in">
+    <title>Eatho Janma Kalpanayil</title>
+    <desc>Sruthy, a simple girl, and Ashwin, a rich tycoon, clash over a business mishap, igniting a complex love-hate story amid family and societal challenges.</desc>
+  </programme>
+  <programme start="20260816190000 +0530" stop="20260816193000 +0530" channel="AsianetPlus.in">
+    <title>Chandrikayil Aliyunnu Chandrakantham</title>
+    <desc>Alakananda's battle between her dream to be a doctor and her father's IPS officer wish shifts when she marries Gautham, leading to complex family and love dynamics.</desc>
+  </programme>
+  <programme start="20260816193000 +0530" stop="20260816200000 +0530" channel="AsianetPlus.in">
+    <title>Teacher Amma</title>
+    <desc>Teacher Amma devotes her life to guiding students, while balancing family duties, emotional struggles and personal sacrifices.</desc>
+  </programme>
+  <programme start="20260816200000 +0530" stop="20260816203000 +0530" channel="AsianetPlus.in">
+    <title>Paadatha Painkili</title>
+    <desc>Kanmani, a humble maid, faces family conspiracies but finds support and love from Deva after a failed wedding leads to their marriage amidst struggles.</desc>
+  </programme>
+  <programme start="20260816203000 +0530" stop="20260816210000 +0530" channel="AsianetPlus.in">
+    <title>Snehakkoottu</title>
+    <desc>Close-knit friends support one another through love, sacrifice and challenges, proving the strength of lasting companionship.</desc>
+  </programme>
+  <programme start="20260816210000 +0530" stop="20260816213000 +0530" channel="AsianetPlus.in">
+    <title>Santhwanam -1</title>
+    <desc>Thampi and his wife are heartbroken when their only son defies them, marries, and settles in the United States. A granddaughter's visit brings hope and change.</desc>
+  </programme>
+  <programme start="20260816213000 +0530" stop="20260816220000 +0530" channel="AsianetPlus.in">
+    <title>Ishttam Maathram</title>
+    <desc>This heartwarming drama follows a compassionate woman navigating the joys and trials of love and family, striving to bring harmony and genuine happiness to those she holds dear.</desc>
+  </programme>
+  <programme start="20260816220000 +0530" stop="20260817010000 +0530" channel="AsianetPlus.in">
+    <title>Again Kasarkode Kadarbhai</title>
+    <desc>Kasim Bhai is found murdered. A drama troupe comes under the scanner as he had attacked them the previous day.</desc>
+  </programme>
+  <programme start="20260817010000 +0530" stop="20260817033000 +0530" channel="AsianetPlus.in">
+    <title>Made In U.S.A</title>
+    <desc>Two East Indian men move to the USA and take up work in Las Vegas, hoping to earn enough to move back home and live comfortably.</desc>
+  </programme>
+  <programme start="20260817033000 +0530" stop="20260817060000 +0530" channel="AsianetPlus.in">
+    <title>Calendar</title>
+    <desc>The drama unfolds when two men, Sojappan and Roy Philip enter the life of a widowed college lecturer Thankam George and her only child Kochurani.</desc>
+  </programme>
+  <programme start="20260817060000 +0530" stop="20260817090000 +0530" channel="AsianetPlus.in">
+    <title>Movie</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260817090000 +0530" stop="20260817120000 +0530" channel="AsianetPlus.in">
+    <title>Movie</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260817120000 +0530" stop="20260817150000 +0530" channel="AsianetPlus.in">
+    <title>Movie</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260817150000 +0530" stop="20260817180000 +0530" channel="AsianetPlus.in">
+    <title>Movie</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260817180000 +0530" stop="20260817210000 +0530" channel="AsianetPlus.in">
+    <title>Movie</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260817210000 +0530" stop="20260818000000 +0530" channel="AsianetPlus.in">
+    <title>Movie</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260818000000 +0530" stop="20260818010000 +0530" channel="AsianetPlus.in">
+    <title>Movies</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260818010000 +0530" stop="20260818020000 +0530" channel="AsianetPlus.in">
+    <title>Movies</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260818020000 +0530" stop="20260818030000 +0530" channel="AsianetPlus.in">
+    <title>Movies</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260818030000 +0530" stop="20260818040000 +0530" channel="AsianetPlus.in">
+    <title>Movies</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260818040000 +0530" stop="20260818050000 +0530" channel="AsianetPlus.in">
+    <title>Movies</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260818050000 +0530" stop="20260818060000 +0530" channel="AsianetPlus.in">
+    <title>Movies</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260818060000 +0530" stop="20260818070000 +0530" channel="AsianetPlus.in">
+    <title>Movies</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260818070000 +0530" stop="20260818080000 +0530" channel="AsianetPlus.in">
+    <title>Movies</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260818080000 +0530" stop="20260818090000 +0530" channel="AsianetPlus.in">
+    <title>Movies</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260818090000 +0530" stop="20260818100000 +0530" channel="AsianetPlus.in">
+    <title>Movies</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260818100000 +0530" stop="20260818110000 +0530" channel="AsianetPlus.in">
+    <title>Movies</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260818110000 +0530" stop="20260818120000 +0530" channel="AsianetPlus.in">
+    <title>Movies</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260818120000 +0530" stop="20260818130000 +0530" channel="AsianetPlus.in">
+    <title>Movies</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260818130000 +0530" stop="20260818140000 +0530" channel="AsianetPlus.in">
+    <title>Movies</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260818140000 +0530" stop="20260818150000 +0530" channel="AsianetPlus.in">
+    <title>Movies</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260818150000 +0530" stop="20260818160000 +0530" channel="AsianetPlus.in">
+    <title>Movies</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260818160000 +0530" stop="20260818170000 +0530" channel="AsianetPlus.in">
+    <title>Movies</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260818170000 +0530" stop="20260818180000 +0530" channel="AsianetPlus.in">
+    <title>Movies</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260818180000 +0530" stop="20260818190000 +0530" channel="AsianetPlus.in">
+    <title>Movies</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260818190000 +0530" stop="20260818200000 +0530" channel="AsianetPlus.in">
+    <title>Movies</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260818200000 +0530" stop="20260818210000 +0530" channel="AsianetPlus.in">
+    <title>Movies</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260818210000 +0530" stop="20260818220000 +0530" channel="AsianetPlus.in">
+    <title>Movies</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260818220000 +0530" stop="20260818230000 +0530" channel="AsianetPlus.in">
+    <title>Movies</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260818230000 +0530" stop="20260819000000 +0530" channel="AsianetPlus.in">
+    <title>Movies</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260819000000 +0530" stop="20260819010000 +0530" channel="AsianetPlus.in">
+    <title>Movies</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260814220500 +0530" stop="20260815005000 +0530" channel="AsianetMovies.in">
+    <title>Thejabhai &amp; Family</title>
+    <desc>A don's hidden identity leads to chaos and comedy when he tries to impress a woman. With quirky twists and heartfelt moments, this action-comedy explores family, love, and redemption.</desc>
+  </programme>
+  <programme start="20260815005000 +0530" stop="20260815031000 +0530" channel="AsianetMovies.in">
+    <title>Ben Johnson</title>
+    <desc>Johnson, the son of a thug, avenges his father's societal image by becoming a police officer fighting for justice.</desc>
+  </programme>
+  <programme start="20260815031000 +0530" stop="20260815044500 +0530" channel="AsianetMovies.in">
+    <title>Kayyoppu</title>
+    <desc>A writer reflects on life, relationships and memories, capturing emotional depth through simple moments that reveal profound truths about human connections.</desc>
+  </programme>
+  <programme start="20260815044500 +0530" stop="20260815070000 +0530" channel="AsianetMovies.in">
+    <title>Chess</title>
+    <desc>Man kills brother in law and discredits son for wealth.</desc>
+  </programme>
+  <programme start="20260815070000 +0530" stop="20260815100000 +0530" channel="AsianetMovies.in">
+    <title>Kilichundan Mambazham</title>
+    <desc>Moidukutty Haji, marries Amina, his third wife, who loves Abdul.</desc>
+  </programme>
+  <programme start="20260815100000 +0530" stop="20260815130000 +0530" channel="AsianetMovies.in">
+    <title>Oppam</title>
+    <desc>A retired judge struggles to keep his daughter safe from a convict.</desc>
+  </programme>
+  <programme start="20260815130000 +0530" stop="20260815162000 +0530" channel="AsianetMovies.in">
+    <title>Kerala Varma Pazhassiraja</title>
+    <desc>Kerala Varma, finds refuge in Wayanad forests, and engages in guerrilla warfare.</desc>
+  </programme>
+  <programme start="20260815162000 +0530" stop="20260815190500 +0530" channel="AsianetMovies.in">
+    <title>Anand Sreebala</title>
+    <desc>Anand, a part-time investigator, sets out to solve the mysterious death of a law student. As he digs deeper, he is forced to confront his own inner demons, uncovering dark truths along the way.</desc>
+  </programme>
+  <programme start="20260815190500 +0530" stop="20260815222000 +0530" channel="AsianetMovies.in">
+    <title>Avatharam</title>
+    <desc>Kuppusamy loves acting, joins a theatre troupe, falls in love with a blind lady.</desc>
+  </programme>
+  <programme start="20260815222000 +0530" stop="20260816004500 +0530" channel="AsianetMovies.in">
+    <title>Love Action Drama</title>
+    <desc>Dinesh seeks businesswoman, Shobha's favor with his friend's help.</desc>
+  </programme>
+  <programme start="20260816004500 +0530" stop="20260816032000 +0530" channel="AsianetMovies.in">
+    <title>Happy Husbands</title>
+    <desc>Three men's marriages are threatened by the arrival of a bar singer named Diana, leading to a complicated web of deception.</desc>
+  </programme>
+  <programme start="20260816032000 +0530" stop="20260816050000 +0530" channel="AsianetMovies.in">
+    <title>Aayudham</title>
+    <desc>A powerful bomb blast occurs at the beach town of Vilayam in Kerala. The investigation is then handed down to Hrishikesh, a daring police officer.</desc>
+  </programme>
+  <programme start="20260816050000 +0530" stop="20260816070000 +0530" channel="AsianetMovies.in">
+    <title>Kadha Thudarunnu</title>
+    <desc>Shanavas faces severe opposition after marrying a girl from another religion.</desc>
+  </programme>
+  <programme start="20260816070000 +0530" stop="20260816100000 +0530" channel="AsianetMovies.in">
+    <title>Ohm Shanthi Oshaana</title>
+    <desc>A spirited girl named Pooja Mathew dreams of marrying for love. She sets out to impress Giri, who rescued her from unruly men, in order to win his heart.</desc>
+  </programme>
+  <programme start="20260816100000 +0530" stop="20260816131000 +0530" channel="AsianetMovies.in">
+    <title>Vettam</title>
+    <desc>Unexpected meeting sparks a complex love story between Gopi and Veena.</desc>
+  </programme>
+  <programme start="20260816131000 +0530" stop="20260816160000 +0530" channel="AsianetMovies.in">
+    <title>Lucifer</title>
+    <desc>The leader's death triggers a power struggle; Stephen emerges as controller.</desc>
+  </programme>
+  <programme start="20260816160000 +0530" stop="20260816190000 +0530" channel="AsianetMovies.in">
+    <title>Robin Hood</title>
+    <desc>Menon, MD of IBI bank, hires investigator Felix to solve recent ATM robberies, frustrated with the efforts of ACP Harris.</desc>
+  </programme>
+  <programme start="20260816190000 +0530" stop="20260816222500 +0530" channel="AsianetMovies.in">
+    <title>Thudarum</title>
+    <desc>Shanmugham battles grief and hidden truths while protecting loved ones, facing emotional conflicts that transform his family and destiny.</desc>
+  </programme>
+  <programme start="20260816222500 +0530" stop="20260817005000 +0530" channel="AsianetMovies.in">
+    <title>Sudani From Nigeria</title>
+    <desc>Majeed recruits 3 Nigerian footballers and develop a close bond with 1 of them.</desc>
+  </programme>
+  <programme start="20260817005000 +0530" stop="20260817030000 +0530" channel="AsianetMovies.in">
+    <title>Valatty</title>
+    <desc>Golden retriever Tomy and cocker spaniel Amalu defy owners, eloping on an epic adventure of love</desc>
+  </programme>
+  <programme start="20260817030000 +0530" stop="20260817051500 +0530" channel="AsianetMovies.in">
+    <title>Changathippoocha</title>
+    <desc>Brothers clash over property as Raman schemes to manipulate Sreedharan's daughter.</desc>
+  </programme>
+  <programme start="20260817051500 +0530" stop="20260817070000 +0530" channel="AsianetMovies.in">
+    <title>Five Fingers</title>
+    <desc>Manu, Meera, Rafeeq, Ashok, and Vijayakumar are loyal college friends.</desc>
+  </programme>
+  <programme start="20260817070000 +0530" stop="20260817100000 +0530" channel="AsianetMovies.in">
+    <title>Love 24x7</title>
+    <desc>The story revolves around Roopesh, a media executive, and Kabani, a trainee who becomes a news presenter. Unexpected events disrupt their personal and professional lives.</desc>
+  </programme>
+  <programme start="20260817100000 +0530" stop="20260817130000 +0530" channel="AsianetMovies.in">
+    <title>Kilichundan Mambazham</title>
+    <desc>Moidukutty Haji, marries Amina, his third wife, who loves Abdul.</desc>
+  </programme>
+  <programme start="20260817130000 +0530" stop="20260817160000 +0530" channel="AsianetMovies.in">
+    <title>Niram</title>
+    <desc>Aby loves engaged Sona, faces dilemma in expressing feelings.</desc>
+  </programme>
+  <programme start="20260817160000 +0530" stop="20260817190000 +0530" channel="AsianetMovies.in">
+    <title>Street Lights</title>
+    <desc>Officer James probes burglary and interviews individuals to solve the crime.</desc>
+  </programme>
+  <programme start="20260817190000 +0530" stop="20260817220000 +0530" channel="AsianetMovies.in">
+    <title>Nadodi Mannan</title>
+    <desc>Mayor Padmanabhan gets in trouble when he is forced to fight corruption.</desc>
+  </programme>
+  <programme start="20260817220000 +0530" stop="20260818010000 +0530" channel="AsianetMovies.in">
+    <title>Helen</title>
+    <desc>Helen disappears after work and causing mystery.</desc>
+  </programme>
+  <programme start="20260818010000 +0530" stop="20260818030000 +0530" channel="AsianetMovies.in">
+    <title>Four Friends</title>
+    <desc>Four cancer patients become friends and plan a trip to Malaysia.</desc>
+  </programme>
+  <programme start="20260818030000 +0530" stop="20260818050000 +0530" channel="AsianetMovies.in">
+    <title>Sarkar Colony</title>
+    <desc>Shivaramakrishnan is a government employee who struggles to make ends meet. In order to earn some quick money, he and his friends start a daycare centre, which proves to be even more disastrous.</desc>
+  </programme>
+  <programme start="20260818050000 +0530" stop="20260818070000 +0530" channel="AsianetMovies.in">
+    <title>Acha Dhin</title>
+    <desc>Durgaprasad stumbles upon a deadly terrorist plot while seeking a loan for his wife's medical treatment, and he must act swiftly to save the city from destruction.</desc>
+  </programme>
+  <programme start="20260818070000 +0530" stop="20260818100000 +0530" channel="AsianetMovies.in">
+    <title>Irupathiyonnaam Noottaandu</title>
+    <desc>Siva, a devotee of Lord Siva, fals in love with a modeern girl. Find out how their story unfolds as romance blossoms between two people with different ideologies and mindsets.</desc>
+  </programme>
+  <programme start="20260818100000 +0530" stop="20260818130000 +0530" channel="AsianetMovies.in">
+    <title>Tourist Family</title>
+    <desc>After the COVID-19 pandemic strikes Sri Lanka, a family moves to India seeking a new beginning. Their arrival soon influences and transforms the dynamics of their new neighbourhood in unexpected ways.</desc>
+  </programme>
+  <programme start="20260818130000 +0530" stop="20260818160000 +0530" channel="AsianetMovies.in">
+    <title>Rasathanthram</title>
+    <desc>A carpenter aids an abused maid disguised as a boy, sparking a daring escape.</desc>
+  </programme>
+  <programme start="20260818160000 +0530" stop="20260818190000 +0530" channel="AsianetMovies.in">
+    <title>Vinodayathra</title>
+    <desc>Vinod moves to his sister's village, meets Anupama, and falls in love, as he tries to get his life in order.</desc>
+  </programme>
+  <programme start="20260818190000 +0530" stop="20260818220000 +0530" channel="AsianetMovies.in">
+    <title>Natturajavu</title>
+    <desc>Charlie faces father's secrets as Karnan seeks revenge, risking his life.</desc>
+  </programme>
+  <programme start="20260818220000 +0530" stop="20260819010000 +0530" channel="AsianetMovies.in">
+    <title>Kuttanpillayude sivarathri</title>
+    <desc>Constable Pillai's love for the jackfruit tree causes conflict in the family.</desc>
+  </programme>
+  <programme start="20260814233000 +0530" stop="20260815000000 +0530" channel="ts694">
+    <title>Pranayavilasam</title>
+    <desc>Trapped under his controlling father's thumb and sent to the wrong college, Suraj's entire world shifts when he unexpectedly breaks up with his girlfriend.</desc>
+  </programme>
+  <programme start="20260815000000 +0530" stop="20260815003000 +0530" channel="ts694">
+    <title>Pranayavilasam</title>
+    <desc>Trapped under his controlling father's thumb and sent to the wrong college, Suraj's entire world shifts when he unexpectedly breaks up with his girlfriend.</desc>
+  </programme>
+  <programme start="20260815003000 +0530" stop="20260815010000 +0530" channel="ts694">
+    <title>Valyettan</title>
+    <desc>Arjun stands united with his brothers, protecting family honour while rivalry, sacrifice and loyalty shape his journey.</desc>
+  </programme>
+  <programme start="20260815010000 +0530" stop="20260815013000 +0530" channel="ts694">
+    <title>Akale</title>
+    <desc>Happiness in relationships requires love, understanding, and effort from both individuals. A lack of balance can lead to pain and heartache.</desc>
+  </programme>
+  <programme start="20260815013000 +0530" stop="20260815020000 +0530" channel="ts694">
+    <title>Krishna Gadha</title>
+    <desc>Krishna and Mahalakshmi love each other. A mafia gang attacks her family and kidnaps kids. Krishna must save them to win Mahalakshmi's approval.</desc>
+  </programme>
+  <programme start="20260815020000 +0530" stop="20260815023000 +0530" channel="ts694">
+    <title>Kudumbasree Sharada</title>
+    <desc>Sharada, a resilient single mom with a tough past, bravely raises her three daughters alone, pushing through societal judgments and challenges while striving for a better life for them.</desc>
+  </programme>
+  <programme start="20260815023000 +0530" stop="20260815030000 +0530" channel="ts694">
+    <title>Valyettan</title>
+    <desc>Arjun stands united with his brothers, protecting family honour while rivalry, sacrifice and loyalty shape his journey.</desc>
+  </programme>
+  <programme start="20260815030000 +0530" stop="20260815033000 +0530" channel="ts694">
+    <title>Pranayavilasam</title>
+    <desc>Trapped under his controlling father's thumb and sent to the wrong college, Suraj's entire world shifts when he unexpectedly breaks up with his girlfriend.</desc>
+  </programme>
+  <programme start="20260815033000 +0530" stop="20260815040000 +0530" channel="ts694">
+    <title>Pranayavilasam</title>
+    <desc>Trapped under his controlling father's thumb and sent to the wrong college, Suraj's entire world shifts when he unexpectedly breaks up with his girlfriend.</desc>
+  </programme>
+  <programme start="20260815040000 +0530" stop="20260815043000 +0530" channel="ts694">
+    <title>Chembarathi</title>
+    <desc>Kalyani enters into a family that's controlled by Akhilandeswari. Kalyani captures the heart of Akhilandeswari's elder son, it leads to a conflict.</desc>
+  </programme>
+  <programme start="20260815043000 +0530" stop="20260815050000 +0530" channel="ts694">
+    <title>Durga</title>
+    <desc>IG Durga Prasad leads a new anti-terror squad under political pressure. His probe uncovers his own brother among militants, forcing him into a tragic final showdown.</desc>
+  </programme>
+  <programme start="20260815050000 +0530" stop="20260815053000 +0530" channel="ts694">
+    <title>Valyettan</title>
+    <desc>Arjun stands united with his brothers, protecting family honour while rivalry, sacrifice and loyalty shape his journey.</desc>
+  </programme>
+  <programme start="20260815053000 +0530" stop="20260815060000 +0530" channel="ts694">
+    <title>Akale</title>
+    <desc>Happiness in relationships requires love, understanding, and effort from both individuals. A lack of balance can lead to pain and heartache.</desc>
+  </programme>
+  <programme start="20260815060000 +0530" stop="20260815070000 +0530" channel="ts694">
+    <title>Deva Sangeetham</title>
+    <desc>Watch a calming spiritual trance, hear devotional songs, and glimpse different Hindu gods worshipped by devotees nationwide, offering a peaceful glimpse into traditional devotion and culture.</desc>
+  </programme>
+  <programme start="20260815070000 +0530" stop="20260815080000 +0530" channel="ts694">
+    <title>Sa Re Ga Ma Pa Keralam Lil Champs - S01</title>
+    <desc>Relive the magic, excitement, and unforgettable performances from the grand premiere launch of the popular kids' singing competition show, Sa Re Ga Ma Pa Keralam L'il Champs.</desc>
+  </programme>
+  <programme start="20260815080000 +0530" stop="20260815100000 +0530" channel="ts694">
+    <title>The Ghazi Attack</title>
+    <desc>In 1971, an Indian Naval submarine, S21, intercepts a Pakistani submarine, PNS Ghazi, during routine surveillance and thwarts its mission of destroying INS Vikrant.</desc>
+  </programme>
+  <programme start="20260815100000 +0530" stop="20260815103000 +0530" channel="ts694">
+    <title>Snehapoorvam Shyama - Special</title>
+    <desc>A girl takes her sister's place at a wedding to save her family's name. But when her sister returns, everything falls apart.</desc>
+  </programme>
+  <programme start="20260815103000 +0530" stop="20260815110000 +0530" channel="ts694">
+    <title>Durga</title>
+    <desc>IG Durga Prasad leads a new anti-terror squad under political pressure. His probe uncovers his own brother among militants, forcing him into a tragic final showdown.</desc>
+  </programme>
+  <programme start="20260815110000 +0530" stop="20260815113000 +0530" channel="ts694">
+    <title>Kudumbasree Sharada</title>
+    <desc>Sharada, a resilient single mom with a tough past, bravely raises her three daughters alone, pushing through societal judgments and challenges while striving for a better life for them.</desc>
+  </programme>
+  <programme start="20260815113000 +0530" stop="20260815120000 +0530" channel="ts694">
+    <title>Akale</title>
+    <desc>Happiness in relationships requires love, understanding, and effort from both individuals. A lack of balance can lead to pain and heartache.</desc>
+  </programme>
+  <programme start="20260815120000 +0530" stop="20260815123000 +0530" channel="ts694">
+    <title>Pranayavilasam</title>
+    <desc>Trapped under his controlling father's thumb and sent to the wrong college, Suraj's entire world shifts when he unexpectedly breaks up with his girlfriend.</desc>
+  </programme>
+  <programme start="20260815123000 +0530" stop="20260815130000 +0530" channel="ts694">
+    <title>Valyettan</title>
+    <desc>Arjun stands united with his brothers, protecting family honour while rivalry, sacrifice and loyalty shape his journey.</desc>
+  </programme>
+  <programme start="20260815130000 +0530" stop="20260815133000 +0530" channel="ts694">
+    <title>Aval Arundhati</title>
+    <desc>The sudden demise of Arundhati, a devoted mother and wife of Major Mahendran, leaves her family in turmoil. Can Parvathi, the caretaker, fill the void she left behind?</desc>
+  </programme>
+  <programme start="20260815133000 +0530" stop="20260815140000 +0530" channel="ts694">
+    <title>Aval Arundhati</title>
+    <desc>The sudden demise of Arundhati, a devoted mother and wife of Major Mahendran, leaves her family in turmoil. Can Parvathi, the caretaker, fill the void she left behind?</desc>
+  </programme>
+  <programme start="20260815140000 +0530" stop="20260815143000 +0530" channel="ts694">
+    <title>Kudumbasametham</title>
+    <desc>Raghavan hates music because of his past. But his son Sivan loves singing and fights against all odds to follow his heart.</desc>
+  </programme>
+  <programme start="20260815143000 +0530" stop="20260815153000 +0530" channel="ts694">
+    <title>Sa Re Ga Ma Pa Keralam Lil Champs S02</title>
+    <desc>Sa Re Ga Ma Pa Keralam Lil Champs - S02</desc>
+  </programme>
+  <programme start="20260815153000 +0530" stop="20260815180000 +0530" channel="ts694">
+    <title>Baby Girl</title>
+    <desc>Baby Girl</desc>
+  </programme>
+  <programme start="20260815180000 +0530" stop="20260815183000 +0530" channel="ts694">
+    <title>Karnan</title>
+    <desc>Karnan</desc>
+  </programme>
+  <programme start="20260815183000 +0530" stop="20260815190000 +0530" channel="ts694">
+    <title>Akale</title>
+    <desc>Happiness in relationships requires love, understanding, and effort from both individuals. A lack of balance can lead to pain and heartache.</desc>
+  </programme>
+  <programme start="20260815190000 +0530" stop="20260815193000 +0530" channel="ts694">
+    <title>Kudumbasree Sharada</title>
+    <desc>Sharada, a resilient single mom with a tough past, bravely raises her three daughters alone, pushing through societal judgments and challenges while striving for a better life for them.</desc>
+  </programme>
+  <programme start="20260815193000 +0530" stop="20260815200000 +0530" channel="ts694">
+    <title>Valyettan</title>
+    <desc>Arjun stands united with his brothers, protecting family honour while rivalry, sacrifice and loyalty shape his journey.</desc>
+  </programme>
+  <programme start="20260815200000 +0530" stop="20260815210000 +0530" channel="ts694">
+    <title>Sa Re Ga Ma Pa Keralam Lil Champs S02</title>
+    <desc>Sa Re Ga Ma Pa Keralam Lil Champs - S02</desc>
+  </programme>
+  <programme start="20260815210000 +0530" stop="20260815213000 +0530" channel="ts694">
+    <title>Pranayavilasam</title>
+    <desc>Trapped under his controlling father's thumb and sent to the wrong college, Suraj's entire world shifts when he unexpectedly breaks up with his girlfriend.</desc>
+  </programme>
+  <programme start="20260815213000 +0530" stop="20260815220000 +0530" channel="ts694">
+    <title>Snehapoorvam Shyama</title>
+    <desc>Sina's scheming against Sujata causes tension, while health problems and unexpected changes in behavior ripple through their friend group, leading to drama and revelations that shake their bonds.</desc>
+  </programme>
+  <programme start="20260815220000 +0530" stop="20260815223000 +0530" channel="ts694">
+    <title>Krishna Gadha</title>
+    <desc>Krishna and Mahalakshmi love each other. A mafia gang attacks her family and kidnaps kids. Krishna must save them to win Mahalakshmi's approval.</desc>
+  </programme>
+  <programme start="20260815223000 +0530" stop="20260815230000 +0530" channel="ts694">
+    <title>Mangalyam</title>
+    <desc>A young woman with grand aspirations marries a man from a diverse background, navigating the challenges and joys of life together, creating a unique and enriching journey.</desc>
+  </programme>
+  <programme start="20260815230000 +0530" stop="20260816000000 +0530" channel="ts694">
+    <title>Sa Re Ga Ma Pa Keralam Lil Champs S02</title>
+    <desc>Sa Re Ga Ma Pa Keralam Lil Champs - S02</desc>
+  </programme>
+  <programme start="20260816000000 +0530" stop="20260816003000 +0530" channel="ts694">
+    <title>Valyettan</title>
+    <desc>Arjun stands united with his brothers, protecting family honour while rivalry, sacrifice and loyalty shape his journey.</desc>
+  </programme>
+  <programme start="20260816003000 +0530" stop="20260816010000 +0530" channel="ts694">
+    <title>Durga</title>
+    <desc>IG Durga Prasad leads a new anti-terror squad under political pressure. His probe uncovers his own brother among militants, forcing him into a tragic final showdown.</desc>
+  </programme>
+  <programme start="20260816010000 +0530" stop="20260816013000 +0530" channel="ts694">
+    <title>Akale</title>
+    <desc>Happiness in relationships requires love, understanding, and effort from both individuals. A lack of balance can lead to pain and heartache.</desc>
+  </programme>
+  <programme start="20260816013000 +0530" stop="20260816020000 +0530" channel="ts694">
+    <title>Krishna Gadha</title>
+    <desc>Krishna and Mahalakshmi love each other. A mafia gang attacks her family and kidnaps kids. Krishna must save them to win Mahalakshmi's approval.</desc>
+  </programme>
+  <programme start="20260816020000 +0530" stop="20260816023000 +0530" channel="ts694">
+    <title>Kudumbasree Sharada</title>
+    <desc>Sharada, a resilient single mom with a tough past, bravely raises her three daughters alone, pushing through societal judgments and challenges while striving for a better life for them.</desc>
+  </programme>
+  <programme start="20260816023000 +0530" stop="20260816030000 +0530" channel="ts694">
+    <title>Valyettan</title>
+    <desc>Arjun stands united with his brothers, protecting family honour while rivalry, sacrifice and loyalty shape his journey.</desc>
+  </programme>
+  <programme start="20260816030000 +0530" stop="20260816033000 +0530" channel="ts694">
+    <title>Pranayavilasam</title>
+    <desc>Trapped under his controlling father's thumb and sent to the wrong college, Suraj's entire world shifts when he unexpectedly breaks up with his girlfriend.</desc>
+  </programme>
+  <programme start="20260816033000 +0530" stop="20260816040000 +0530" channel="ts694">
+    <title>Chembarathi</title>
+    <desc>Kalyani enters into a family that's controlled by Akhilandeswari. Kalyani captures the heart of Akhilandeswari's elder son, it leads to a conflict.</desc>
+  </programme>
+  <programme start="20260816040000 +0530" stop="20260816043000 +0530" channel="ts694">
+    <title>Durga</title>
+    <desc>IG Durga Prasad leads a new anti-terror squad under political pressure. His probe uncovers his own brother among militants, forcing him into a tragic final showdown.</desc>
+  </programme>
+  <programme start="20260816043000 +0530" stop="20260816050000 +0530" channel="ts694">
+    <title>Snehapoorvam Shyama</title>
+    <desc>Sina's scheming against Sujata causes tension, while health problems and unexpected changes in behavior ripple through their friend group, leading to drama and revelations that shake their bonds.</desc>
+  </programme>
+  <programme start="20260816050000 +0530" stop="20260816053000 +0530" channel="ts694">
+    <title>Valyettan</title>
+    <desc>Arjun stands united with his brothers, protecting family honour while rivalry, sacrifice and loyalty shape his journey.</desc>
+  </programme>
+  <programme start="20260816053000 +0530" stop="20260816060000 +0530" channel="ts694">
+    <title>Akale</title>
+    <desc>Happiness in relationships requires love, understanding, and effort from both individuals. A lack of balance can lead to pain and heartache.</desc>
+  </programme>
+  <programme start="20260816060000 +0530" stop="20260816070000 +0530" channel="ts694">
+    <title>Deva Sangeetham</title>
+    <desc>Watch a calming spiritual trance, hear devotional songs, and glimpse different Hindu gods worshipped by devotees nationwide, offering a peaceful glimpse into traditional devotion and culture.</desc>
+  </programme>
+  <programme start="20260816070000 +0530" stop="20260816100000 +0530" channel="ts694">
+    <title>Identity</title>
+    <desc>Amar Felix's blackmailing crimes are exposed, leading to his murder. The investigation uncovers Alisha's unreliable eyewitness account and Haran's hidden motive for revenge due to a past crime.</desc>
+  </programme>
+  <programme start="20260816100000 +0530" stop="20260816130000 +0530" channel="ts694">
+    <title>Rekhachitram</title>
+    <desc>A praised Malayalam thriller, Rekhachithram blends innovation and alternate history with strong acting and atmosphere. Some pacing issues and a mixed climax, but praised AI scenes and realism.</desc>
+  </programme>
+  <programme start="20260816130000 +0530" stop="20260816133000 +0530" channel="ts694">
+    <title>Aval Arundhati</title>
+    <desc>The sudden demise of Arundhati, a devoted mother and wife of Major Mahendran, leaves her family in turmoil. Can Parvathi, the caretaker, fill the void she left behind?</desc>
+  </programme>
+  <programme start="20260816133000 +0530" stop="20260816140000 +0530" channel="ts694">
+    <title>Aval Arundhati</title>
+    <desc>The sudden demise of Arundhati, a devoted mother and wife of Major Mahendran, leaves her family in turmoil. Can Parvathi, the caretaker, fill the void she left behind?</desc>
+  </programme>
+  <programme start="20260816140000 +0530" stop="20260816143000 +0530" channel="ts694">
+    <title>Kudumbasametham</title>
+    <desc>Raghavan hates music because of his past. But his son Sivan loves singing and fights against all odds to follow his heart.</desc>
+  </programme>
+  <programme start="20260816143000 +0530" stop="20260816153000 +0530" channel="ts694">
+    <title>Sa Re Ga Ma Pa Keralam Lil Champs S02</title>
+    <desc>Sa Re Ga Ma Pa Keralam Lil Champs - S02</desc>
+  </programme>
+  <programme start="20260816153000 +0530" stop="20260816180000 +0530" channel="ts694">
+    <title>Mana Shankara Vara Prasad Garu</title>
+    <desc>Mana Shankara Vara Prasad Garu</desc>
+  </programme>
+  <programme start="20260816180000 +0530" stop="20260816183100 +0530" channel="ts694">
+    <title>Karnan</title>
+    <desc>Karnan</desc>
+  </programme>
+  <programme start="20260816183100 +0530" stop="20260816190000 +0530" channel="ts694">
+    <title>Akale</title>
+    <desc>Happiness in relationships requires love, understanding, and effort from both individuals. A lack of balance can lead to pain and heartache.</desc>
+  </programme>
+  <programme start="20260816190000 +0530" stop="20260816193000 +0530" channel="ts694">
+    <title>Akale</title>
+    <desc>Happiness in relationships requires love, understanding, and effort from both individuals. A lack of balance can lead to pain and heartache.</desc>
+  </programme>
+  <programme start="20260816193000 +0530" stop="20260816200000 +0530" channel="ts694">
+    <title>Valyettan</title>
+    <desc>Arjun stands united with his brothers, protecting family honour while rivalry, sacrifice and loyalty shape his journey.</desc>
+  </programme>
+  <programme start="20260816200000 +0530" stop="20260816210200 +0530" channel="ts694">
+    <title>Sa Re Ga Ma Pa Keralam Lil Champs S02</title>
+    <desc>Sa Re Ga Ma Pa Keralam Lil Champs - S02</desc>
+  </programme>
+  <programme start="20260816210200 +0530" stop="20260816213200 +0530" channel="ts694">
+    <title>Pranayavilasam</title>
+    <desc>Trapped under his controlling father's thumb and sent to the wrong college, Suraj's entire world shifts when he unexpectedly breaks up with his girlfriend.</desc>
+  </programme>
+  <programme start="20260816213200 +0530" stop="20260816220300 +0530" channel="ts694">
+    <title>Snehapoorvam Shyama</title>
+    <desc>Sina's scheming against Sujata causes tension, while health problems and unexpected changes in behavior ripple through their friend group, leading to drama and revelations that shake their bonds.</desc>
+  </programme>
+  <programme start="20260816220300 +0530" stop="20260816223300 +0530" channel="ts694">
+    <title>Krishna Gadha</title>
+    <desc>Krishna and Mahalakshmi love each other. A mafia gang attacks her family and kidnaps kids. Krishna must save them to win Mahalakshmi's approval.</desc>
+  </programme>
+  <programme start="20260816223300 +0530" stop="20260816230200 +0530" channel="ts694">
+    <title>Mangalyam</title>
+    <desc>A young woman with grand aspirations marries a man from a diverse background, navigating the challenges and joys of life together, creating a unique and enriching journey.</desc>
+  </programme>
+  <programme start="20260816230200 +0530" stop="20260817000000 +0530" channel="ts694">
+    <title>Sa Re Ga Ma Pa Keralam Lil Champs S02</title>
+    <desc>Sa Re Ga Ma Pa Keralam Lil Champs - S02</desc>
+  </programme>
+  <programme start="20260817000000 +0530" stop="20260817003000 +0530" channel="ts694">
+    <title>Valliettan</title>
+    <desc>A family action drama centered on power, respect, and relationships, where strong emotions and conflicts shape the destiny of characters.</desc>
+  </programme>
+  <programme start="20260817003000 +0530" stop="20260817013000 +0530" channel="ts694">
+    <title>Akale</title>
+    <desc>Happiness in relationships requires love, understanding, and effort from both individuals. A lack of balance can lead to pain and heartache.</desc>
+  </programme>
+  <programme start="20260817013000 +0530" stop="20260817020000 +0530" channel="ts694">
+    <title>Krishna Gadha</title>
+    <desc>Krishna and Mahalakshmi love each other. A mafia gang attacks her family and kidnaps kids. Krishna must save them to win Mahalakshmi's approval.</desc>
+  </programme>
+  <programme start="20260817020000 +0530" stop="20260817023000 +0530" channel="ts694">
+    <title>Kudumbasree Sharada</title>
+    <desc>Sharada, a resilient single mom with a tough past, bravely raises her three daughters alone, pushing through societal judgments and challenges while striving for a better life for them.</desc>
+  </programme>
+  <programme start="20260817023000 +0530" stop="20260817030000 +0530" channel="ts694">
+    <title>Valliettan</title>
+    <desc>A family action drama centered on power, respect, and relationships, where strong emotions and conflicts shape the destiny of characters.</desc>
+  </programme>
+  <programme start="20260817030000 +0530" stop="20260817033000 +0530" channel="ts694">
+    <title>Pranayavilasam</title>
+    <desc>Trapped under his controlling father's thumb and sent to the wrong college, Suraj's entire world shifts when he unexpectedly breaks up with his girlfriend.</desc>
+  </programme>
+  <programme start="20260817033000 +0530" stop="20260817040000 +0530" channel="ts694">
+    <title>Chembarathi</title>
+    <desc>Kalyani enters into a family that's controlled by Akhilandeswari. Kalyani captures the heart of Akhilandeswari's elder son, it leads to a conflict.</desc>
+  </programme>
+  <programme start="20260817040000 +0530" stop="20260817043000 +0530" channel="ts694">
+    <title>Durga</title>
+    <desc>IG Durga Prasad leads a new anti-terror squad under political pressure. His probe uncovers his own brother among militants, forcing him into a tragic final showdown.</desc>
+  </programme>
+  <programme start="20260817043000 +0530" stop="20260817050000 +0530" channel="ts694">
+    <title>Snehapoorvam Shyama</title>
+    <desc>Sina's scheming against Sujata causes tension, while health problems and unexpected changes in behavior ripple through their friend group, leading to drama and revelations that shake their bonds.</desc>
+  </programme>
+  <programme start="20260817050000 +0530" stop="20260817060000 +0530" channel="ts694">
+    <title>Akale</title>
+    <desc>Happiness in relationships requires love, understanding, and effort from both individuals. A lack of balance can lead to pain and heartache.</desc>
+  </programme>
+  <programme start="20260817060000 +0530" stop="20260817070000 +0530" channel="ts694">
+    <title>Deva Sangeetham</title>
+    <desc>Watch a calming spiritual trance, hear devotional songs, and glimpse different Hindu gods worshipped by devotees nationwide, offering a peaceful glimpse into traditional devotion and culture.</desc>
+  </programme>
+  <programme start="20260817070000 +0530" stop="20260817100000 +0530" channel="ts694">
+    <title>Drama Juniors S02 Marathon</title>
+    <desc>Celebrity mentors judge Drama Juniors as kids aged 4 to 14 perform joyful and touching skits, competing for the title and winning Kerala's admiration and support.</desc>
+  </programme>
+  <programme start="20260817100000 +0530" stop="20260817130000 +0530" channel="ts694">
+    <title>Movie</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260817130000 +0530" stop="20260817133000 +0530" channel="ts694">
+    <title>Aval Arundhati</title>
+    <desc>The sudden demise of Arundhati, a devoted mother and wife of Major Mahendran, leaves her family in turmoil. Can Parvathi, the caretaker, fill the void she left behind?</desc>
+  </programme>
+  <programme start="20260817133000 +0530" stop="20260817140000 +0530" channel="ts694">
+    <title>Aval Arundhati</title>
+    <desc>The sudden demise of Arundhati, a devoted mother and wife of Major Mahendran, leaves her family in turmoil. Can Parvathi, the caretaker, fill the void she left behind?</desc>
+  </programme>
+  <programme start="20260817140000 +0530" stop="20260817143000 +0530" channel="ts694">
+    <title>Kudumbasametham</title>
+    <desc>Raghavan hates music because of his past. But his son Sivan loves singing and fights against all odds to follow his heart.</desc>
+  </programme>
+  <programme start="20260817143000 +0530" stop="20260817150000 +0530" channel="ts694">
+    <title>Kudumbasametham</title>
+    <desc>Raghavan hates music because of his past. But his son Sivan loves singing and fights against all odds to follow his heart.</desc>
+  </programme>
+  <programme start="20260817150000 +0530" stop="20260817153000 +0530" channel="ts694">
+    <title>Seethayanam</title>
+    <desc>Everyday carelessness is dangerous and can be deadly. Being alert is the only way to stay safe. This story explores this idea with current issues, creating a powerful and thought-provoking narrative.</desc>
+  </programme>
+  <programme start="20260817153000 +0530" stop="20260817190000 +0530" channel="ts694">
+    <title>Movie</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260817190000 +0530" stop="20260817223000 +0530" channel="ts694">
+    <title>Drama Juniors S02 Grand Finale</title>
+    <desc>Celebrity-mentored Drama Juniors spotlights young performers, ages 4-14, delivering playful and heartfelt skits as they compete for the title and Kerala's affection, inspiring audiences everywhere.</desc>
+  </programme>
+  <programme start="20260817223000 +0530" stop="20260818000000 +0530" channel="ts694">
+    <title>Drama Juniors S02 Grand Finale</title>
+    <desc>Celebrity-mentored Drama Juniors spotlights young performers, ages 4-14, delivering playful and heartfelt skits as they compete for the title and Kerala's affection, inspiring audiences everywhere.</desc>
   </programme>
   <programme start="20260814223000 +0530" stop="20260815000000 +0530" channel="mazhavilmanoramahd.in">
     <title>Oru Chiri Iru Chiri Bumper Chiri</title>
