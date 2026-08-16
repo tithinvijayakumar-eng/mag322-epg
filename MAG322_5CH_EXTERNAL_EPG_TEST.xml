@@ -1,0 +1,603 @@
+<?xml version="1.0" ?>
+<tv generator-info-name="Sersi.GA" generator-info-url="https://sersi.ga">
+  <channel id="ts292">
+    <display-name>MY: ASIANET (FHD)</display-name>
+    <icon src="https://i.ibb.co/v3CjsWg/download-1-2.png"/>
+  </channel>
+  <channel id="ts694">
+    <display-name>MY: ZEE KERALAM (FHD)</display-name>
+    <icon src="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Keralam-HD.png"/>
+  </channel>
+  <channel id="mazhavilmanoramahd.in">
+    <display-name>MAL | MANORAMA NEWS</display-name>
+    <icon src="https://static.epg.best/in/ManoramaNews.in.png"/>
+  </channel>
+  <channel id="flowers.in">
+    <display-name>MY: Flowers TV (DP)</display-name>
+    <icon src="https://i.ibb.co/YZ59Jtx/download-3-1.png"/>
+  </channel>
+  <channel id="ts25">
+    <display-name>MY: Kairali HD</display-name>
+    <icon src="https://www.lyngsat.com/logo/tv/kk/kairali_in.png"/>
+  </channel>
+  <programme start="20260815170500 +0100" stop="20260815193000 +0100" channel="mazhavilmanoramahd.in">
+    <title>Mazhavil Manorama</title>
+    <desc>In the bustling city, two families live parallel lives, separated by wealth and social status. Subsequently, the families face challenges and triumphs as they navigate their lives.</desc>
+  </programme>
+  <programme start="20260815170500 +0100" stop="20260815193000 +0100" channel="mazhavilmanoramahd.in">
+    <title>Swargam</title>
+    <desc>In the bustling city, two families live parallel lives, separated by wealth and social status. Subsequently, the families face challenges and triumphs as they navigate their lives.</desc>
+  </programme>
+  <programme start="20260815193000 +0100" stop="20260815200000 +0100" channel="mazhavilmanoramahd.in">
+    <title>Ottashikharam</title>
+    <desc>A couple hires a surrogate mother to have their child, but conflict erupts over parental rights.</desc>
+  </programme>
+  <programme start="20260815200000 +0100" stop="20260815203000 +0100" channel="mazhavilmanoramahd.in">
+    <title>Othiri Othiri Swapnangal</title>
+    <desc>Varsha, a young woman with a heart full of dreams, is burdened by societal stigma and mental health challenges; her life intertwines with Shivananda, a fearless journalist who fights against corruption.</desc>
+  </programme>
+  <programme start="20260815203000 +0100" stop="20260815213000 +0100" channel="mazhavilmanoramahd.in">
+    <title>Super Kanmani</title>
+    <desc>Rejected by most of her family and community since infancy due to a birth defect, Kanmani aspires to become a fashion designer and support her father.</desc>
+  </programme>
+  <programme start="20260815213000 +0100" stop="20260815220000 +0100" channel="mazhavilmanoramahd.in">
+    <title>Marimayam</title>
+    <desc>A host of interesting characters encounter several frustrating and comical situations while visiting government institutions.</desc>
+  </programme>
+  <programme start="20260815220000 +0100" stop="20260815230000 +0100" channel="mazhavilmanoramahd.in">
+    <title>Oru Chiri Iru Chiri Bumper Chiri</title>
+    <desc>Contestants get to win big if they manage to make our panelists laugh; watch and find out whether it is one laugh (Oru Chiri), two laughs (Iru Chiri) or a Bumper Laugh that their hilarious acts manage to elicit from our panelists!</desc>
+  </programme>
+  <programme start="20260815230000 +0100" stop="20260815233000 +0100" channel="mazhavilmanoramahd.in">
+    <title>Marimayam</title>
+    <desc>A host of interesting characters encounter several frustrating and comical situations while visiting government institutions.</desc>
+  </programme>
+  <programme start="20260815233000 +0100" stop="20260816003000 +0100" channel="mazhavilmanoramahd.in">
+    <title>Oru Chiri Iru Chiri Bumper Chiri</title>
+    <desc>Contestants get to win big if they manage to make our panelists laugh; watch and find out whether it is one laugh (Oru Chiri), two laughs (Iru Chiri) or a Bumper Laugh that their hilarious acts manage to elicit from our panelists!</desc>
+  </programme>
+  <programme start="20260816003000 +0100" stop="20260816005900 +0100" channel="mazhavilmanoramahd.in">
+    <title>Marimayam</title>
+    <desc>A host of interesting characters encounter several frustrating and comical situations while visiting government institutions.</desc>
+  </programme>
+  <programme start="20260816010000 +0100" stop="20260816012200 +0100" channel="mazhavilmanoramahd.in">
+    <title>Oru Chiri Iru Chiri Bumper Chiri Special</title>
+    <desc>Skilled participants take the stage to perform various comedy skits to entertain the audience and the judges to win prizes.</desc>
+  </programme>
+  <programme start="20260816012200 +0100" stop="20260816014800 +0100" channel="mazhavilmanoramahd.in">
+    <title>Othiri Othiri Swapnangal</title>
+    <desc>Varsha, a young woman with a heart full of dreams, is burdened by societal stigma and mental health challenges; her life intertwines with Shivananda, a fearless journalist who fights against corruption.</desc>
+  </programme>
+  <programme start="20260816014800 +0100" stop="20260816021400 +0100" channel="mazhavilmanoramahd.in">
+    <title>Marimayam</title>
+    <desc>A host of interesting characters encounter several frustrating and comical situations while visiting government institutions.</desc>
+  </programme>
+  <programme start="20260816021400 +0100" stop="20260816025800 +0100" channel="mazhavilmanoramahd.in">
+    <title>Super Kanmani</title>
+    <desc>Rejected by most of her family and community since infancy due to a birth defect, Kanmani aspires to become a fashion designer and support her father.</desc>
+  </programme>
+  <programme start="20260816025800 +0100" stop="20260816032000 +0100" channel="mazhavilmanoramahd.in">
+    <title>Ottashikharam</title>
+    <desc>A couple hires a surrogate mother to have their child, but conflict erupts over parental rights.</desc>
+  </programme>
+  <programme start="20260816032000 +0100" stop="20260816034200 +0100" channel="mazhavilmanoramahd.in">
+    <title>Othiri Othiri Swapnangal</title>
+    <desc>Varsha, a young woman with a heart full of dreams, is burdened by societal stigma and mental health challenges; her life intertwines with Shivananda, a fearless journalist who fights against corruption.</desc>
+  </programme>
+  <programme start="20260816034200 +0100" stop="20260816044800 +0100" channel="mazhavilmanoramahd.in">
+    <title>Oru Chiri Iru Chiri Bumper Chiri</title>
+    <desc>Contestants get to win big if they manage to make our panelists laugh; watch and find out whether it is one laugh (Oru Chiri), two laughs (Iru Chiri) or a Bumper Laugh that their hilarious acts manage to elicit from our panelists!</desc>
+  </programme>
+  <programme start="20260816044800 +0100" stop="20260816053200 +0100" channel="mazhavilmanoramahd.in">
+    <title>Super Kanmani</title>
+    <desc>Rejected by most of her family and community since infancy due to a birth defect, Kanmani aspires to become a fashion designer and support her father.</desc>
+  </programme>
+  <programme start="20260816053200 +0100" stop="20260816055400 +0100" channel="mazhavilmanoramahd.in">
+    <title>Ottashikharam</title>
+    <desc>A couple hires a surrogate mother to have their child, but conflict erupts over parental rights.</desc>
+  </programme>
+  <programme start="20260816055400 +0100" stop="20260816061600 +0100" channel="mazhavilmanoramahd.in">
+    <title>Marimayam</title>
+    <desc>A host of interesting characters encounter several frustrating and comical situations while visiting government institutions.</desc>
+  </programme>
+  <programme start="20260816061600 +0100" stop="20260816070000 +0100" channel="mazhavilmanoramahd.in">
+    <title>Oru Chiri Iru Chiri Bumper Chiri</title>
+    <desc>Contestants get to win big if they manage to make our panelists laugh; watch and find out whether it is one laugh (Oru Chiri), two laughs (Iru Chiri) or a Bumper Laugh that their hilarious acts manage to elicit from our panelists!</desc>
+  </programme>
+  <programme start="20260816070000 +0100" stop="20260816073000 +0100" channel="mazhavilmanoramahd.in">
+    <title>Ruchi Vismayam</title>
+    <desc>A weekday food show featuring great recipes, mouth-watering food, great chefs and much more.</desc>
+  </programme>
+  <programme start="20260816073000 +0100" stop="20260816080000 +0100" channel="mazhavilmanoramahd.in">
+    <title>Marimayam</title>
+    <desc>A host of interesting characters encounter several frustrating and comical situations while visiting government institutions.</desc>
+  </programme>
+  <programme start="20260816080000 +0100" stop="20260816090000 +0100" channel="mazhavilmanoramahd.in">
+    <title>The Great Family Challenge</title>
+    <desc>Families compete against one another in an attempt to claim the title by successfully navigating a series of entertaining quizzes and challenging tasks.</desc>
+  </programme>
+  <programme start="20260816090000 +0100" stop="20260816100000 +0100" channel="mazhavilmanoramahd.in">
+    <title>The Great Family Challenge</title>
+    <desc>Families compete against one another in an attempt to claim the title by successfully navigating a series of entertaining quizzes and challenging tasks.</desc>
+  </programme>
+  <programme start="20260816100000 +0100" stop="20260816110000 +0100" channel="mazhavilmanoramahd.in">
+    <title>The Great Family Challenge</title>
+    <desc>Families compete against one another in an attempt to claim the title by successfully navigating a series of entertaining quizzes and challenging tasks.</desc>
+  </programme>
+  <programme start="20260816110000 +0100" stop="20260816120000 +0100" channel="mazhavilmanoramahd.in">
+    <title>Oru Chiri Iru Chiri Bumper Chiri</title>
+    <desc>Contestants get to win big if they manage to make our panelists laugh; watch and find out whether it is one laugh (Oru Chiri), two laughs (Iru Chiri) or a Bumper Laugh that their hilarious acts manage to elicit from our panelists!</desc>
+  </programme>
+  <programme start="20260816120000 +0100" stop="20260816123000 +0100" channel="mazhavilmanoramahd.in">
+    <title>Marimayam</title>
+    <desc>A host of interesting characters encounter several frustrating and comical situations while visiting government institutions.</desc>
+  </programme>
+  <programme start="20260816123000 +0100" stop="20260816151500 +0100" channel="mazhavilmanoramahd.in">
+    <title>I Am Kathalan</title>
+    <desc>Upon being humiliated by his former girlfriend's father, Vishnu hacks into his company to take revenge. However, his plan for vengeance slowly takes an unexpected turn.</desc>
+  </programme>
+  <programme start="20260816151500 +0100" stop="20260816181500 +0100" channel="mazhavilmanoramahd.in">
+    <title>Pavi Caretaker</title>
+    <desc>An unmarried caretaker's life changes when he forms an unexpected bond, adding joy to his routine existence in a residential complex.</desc>
+  </programme>
+  <programme start="20260816181500 +0100" stop="20260816213000 +0100" channel="mazhavilmanoramahd.in">
+    <title>Naradan</title>
+    <desc>Upon failing to achieve the desired ratings, promising journalist Chandraprakash abandons ethics to start a famous news channel supplying falsified facts to gain success.</desc>
+  </programme>
+  <programme start="20260816213000 +0100" stop="20260816220000 +0100" channel="mazhavilmanoramahd.in">
+    <title>Marimayam</title>
+    <desc>A host of interesting characters encounter several frustrating and comical situations while visiting government institutions.</desc>
+  </programme>
+  <programme start="20260816220000 +0100" stop="20260816230000 +0100" channel="mazhavilmanoramahd.in">
+    <title>Oru Chiri Iru Chiri Bumper Chiri</title>
+    <desc>Contestants get to win big if they manage to make our panelists laugh; watch and find out whether it is one laugh (Oru Chiri), two laughs (Iru Chiri) or a Bumper Laugh that their hilarious acts manage to elicit from our panelists!</desc>
+  </programme>
+  <programme start="20260816230000 +0100" stop="20260816233000 +0100" channel="mazhavilmanoramahd.in">
+    <title>Marimayam</title>
+    <desc>A host of interesting characters encounter several frustrating and comical situations while visiting government institutions.</desc>
+  </programme>
+  <programme start="20260816233000 +0100" stop="20260817003000 +0100" channel="mazhavilmanoramahd.in">
+    <title>Oru Chiri Iru Chiri Bumper Chiri</title>
+    <desc>Contestants get to win big if they manage to make our panelists laugh; watch and find out whether it is one laugh (Oru Chiri), two laughs (Iru Chiri) or a Bumper Laugh that their hilarious acts manage to elicit from our panelists!</desc>
+  </programme>
+  <programme start="20260817003000 +0100" stop="20260817005900 +0100" channel="mazhavilmanoramahd.in">
+    <title>Marimayam</title>
+    <desc>A host of interesting characters encounter several frustrating and comical situations while visiting government institutions.</desc>
+  </programme>
+  <programme start="20260817010000 +0100" stop="20260817012200 +0100" channel="mazhavilmanoramahd.in">
+    <title>Oru Chiri Iru Chiri Bumper Chiri Special</title>
+    <desc>Skilled participants take the stage to perform various comedy skits to entertain the audience and the judges to win prizes.</desc>
+  </programme>
+  <programme start="20260817012200 +0100" stop="20260817021400 +0100" channel="mazhavilmanoramahd.in">
+    <title>Oru Chiri Iru Chiri Bumper Chiri</title>
+    <desc>Contestants get to win big if they manage to make our panelists laugh; watch and find out whether it is one laugh (Oru Chiri), two laughs (Iru Chiri) or a Bumper Laugh that their hilarious acts manage to elicit from our panelists!</desc>
+  </programme>
+  <programme start="20260817021400 +0100" stop="20260817023600 +0100" channel="mazhavilmanoramahd.in">
+    <title>Marimayam</title>
+    <desc>A host of interesting characters encounter several frustrating and comical situations while visiting government institutions.</desc>
+  </programme>
+  <programme start="20260817023600 +0100" stop="20260817034200 +0100" channel="mazhavilmanoramahd.in">
+    <title>Oru Chiri Iru Chiri Bumper Chiri</title>
+    <desc>Contestants get to win big if they manage to make our panelists laugh; watch and find out whether it is one laugh (Oru Chiri), two laughs (Iru Chiri) or a Bumper Laugh that their hilarious acts manage to elicit from our panelists!</desc>
+  </programme>
+  <programme start="20260817034200 +0100" stop="20260817044800 +0100" channel="mazhavilmanoramahd.in">
+    <title>Oru Chiri Iru Chiri Bumper Chiri</title>
+    <desc>Contestants get to win big if they manage to make our panelists laugh; watch and find out whether it is one laugh (Oru Chiri), two laughs (Iru Chiri) or a Bumper Laugh that their hilarious acts manage to elicit from our panelists!</desc>
+  </programme>
+  <programme start="20260817044800 +0100" stop="20260817055400 +0100" channel="mazhavilmanoramahd.in">
+    <title>Oru Chiri Iru Chiri Bumper Chiri</title>
+    <desc>Contestants get to win big if they manage to make our panelists laugh; watch and find out whether it is one laugh (Oru Chiri), two laughs (Iru Chiri) or a Bumper Laugh that their hilarious acts manage to elicit from our panelists!</desc>
+  </programme>
+  <programme start="20260817055400 +0100" stop="20260817061600 +0100" channel="mazhavilmanoramahd.in">
+    <title>Marimayam</title>
+    <desc>A host of interesting characters encounter several frustrating and comical situations while visiting government institutions.</desc>
+  </programme>
+  <programme start="20260817061600 +0100" stop="20260817070000 +0100" channel="mazhavilmanoramahd.in">
+    <title>Oru Chiri Iru Chiri Bumper Chiri</title>
+    <desc>Contestants get to win big if they manage to make our panelists laugh; watch and find out whether it is one laugh (Oru Chiri), two laughs (Iru Chiri) or a Bumper Laugh that their hilarious acts manage to elicit from our panelists!</desc>
+  </programme>
+  <programme start="20260817070000 +0100" stop="20260817073000 +0100" channel="mazhavilmanoramahd.in">
+    <title>Ruchi Vismayam</title>
+    <desc>A weekday food show featuring great recipes, mouth-watering food, great chefs and much more.</desc>
+  </programme>
+  <programme start="20260817073000 +0100" stop="20260817083000 +0100" channel="mazhavilmanoramahd.in">
+    <title>The Great Family Challenge</title>
+    <desc>Families compete against one another in an attempt to claim the title by successfully navigating a series of entertaining quizzes and challenging tasks.</desc>
+  </programme>
+  <programme start="20260817083000 +0100" stop="20260817093000 +0100" channel="mazhavilmanoramahd.in">
+    <title>Oru Chiri Iru Chiri Bumper Chiri</title>
+    <desc>Contestants get to win big if they manage to make our panelists laugh; watch and find out whether it is one laugh (Oru Chiri), two laughs (Iru Chiri) or a Bumper Laugh that their hilarious acts manage to elicit from our panelists!</desc>
+  </programme>
+  <programme start="20260817093000 +0100" stop="20260817100000 +0100" channel="mazhavilmanoramahd.in">
+    <title>Marimayam</title>
+    <desc>A host of interesting characters encounter several frustrating and comical situations while visiting government institutions.</desc>
+  </programme>
+  <programme start="20260817100000 +0100" stop="20260817110000 +0100" channel="mazhavilmanoramahd.in">
+    <title>Super Kanmani</title>
+    <desc>Rejected by most of her family and community since infancy due to a birth defect, Kanmani aspires to become a fashion designer and support her father.</desc>
+  </programme>
+  <programme start="20260817110000 +0100" stop="20260817113000 +0100" channel="mazhavilmanoramahd.in">
+    <title>Ottashikharam</title>
+    <desc>A couple hires a surrogate mother to have their child, but conflict erupts over parental rights.</desc>
+  </programme>
+  <programme start="20260817113000 +0100" stop="20260817120000 +0100" channel="mazhavilmanoramahd.in">
+    <title>Othiri Othiri Swapnangal</title>
+    <desc>Varsha, a young woman with a heart full of dreams, is burdened by societal stigma and mental health challenges; her life intertwines with Shivananda, a fearless journalist who fights against corruption.</desc>
+  </programme>
+  <programme start="20260817120000 +0100" stop="20260817123000 +0100" channel="mazhavilmanoramahd.in">
+    <title>Oru Chiri Iru Chiri Bumper Chiri Special</title>
+    <desc>Skilled participants take the stage to perform various comedy skits to entertain the audience and the judges to win prizes.</desc>
+  </programme>
+  <programme start="20260817123000 +0100" stop="20260817152500 +0100" channel="mazhavilmanoramahd.in">
+    <title>Alamara</title>
+    <desc>Arun and Swati get a wooden cupboard as a traditional wedding gift. The artefact soon becomes a part of the couple's life as they deal with overbearing parents and misunderstandings.</desc>
+  </programme>
+  <programme start="20260817152500 +0100" stop="20260817183000 +0100" channel="mazhavilmanoramahd.in">
+    <title>Kanaa</title>
+    <desc>Kousalya, a farmer's daughter, dreams of becoming an international cricketer and winning the Cricket World Cup. She faces various challenges as she pursues her dream with the support of her father.</desc>
+  </programme>
+  <programme start="20260817183000 +0100" stop="20260817193000 +0100" channel="mazhavilmanoramahd.in">
+    <title>Atham Pathu Ruchi</title>
+    <desc>Cooking experts prepare a variety of delicious dishes that help in maintaining a healthy diet and share recipes and tips.</desc>
+  </programme>
+  <programme start="20260817193000 +0100" stop="20260817200000 +0100" channel="mazhavilmanoramahd.in">
+    <title>Ottashikharam</title>
+    <desc>A couple hires a surrogate mother to have their child, but conflict erupts over parental rights.</desc>
+  </programme>
+  <programme start="20260817200000 +0100" stop="20260817203000 +0100" channel="mazhavilmanoramahd.in">
+    <title>Othiri Othiri Swapnangal</title>
+    <desc>Varsha, a young woman with a heart full of dreams, is burdened by societal stigma and mental health challenges; her life intertwines with Shivananda, a fearless journalist who fights against corruption.</desc>
+  </programme>
+  <programme start="20260817203000 +0100" stop="20260817210000 +0100" channel="mazhavilmanoramahd.in">
+    <title>Super Kanmani</title>
+    <desc>Rejected by most of her family and community since infancy due to a birth defect, Kanmani aspires to become a fashion designer and support her father.</desc>
+  </programme>
+  <programme start="20260815153000 +0100" stop="20260815160000 +0100" channel="flowers.in">
+    <title>Sukhamo Devi</title>
+    <desc>Devika is in love with Nandagopan, but Karthikeyan forces her to marry him. She elopes with Nandagopan only to get abandoned by him at the temple, which leads her to marry his friend.</desc>
+  </programme>
+  <programme start="20260815160000 +0100" stop="20260815163000 +0100" channel="flowers.in">
+    <title>Panchagni</title>
+    <desc>A restaurant named Pancharatnam is run by five sisters, while their stepmother tries different tactics to close their business.</desc>
+  </programme>
+  <programme start="20260815163000 +0100" stop="20260815170000 +0100" channel="flowers.in">
+    <title>Susu</title>
+    <desc>The conflicting perspectives of daughter-in-law and mother-in-law create tensions that lead to frequent arguments and family discord.</desc>
+  </programme>
+  <programme start="20260815170000 +0100" stop="20260815190000 +0100" channel="flowers.in">
+    <title>Uppum Mulakum</title>
+    <desc>Balachandran and Neelima, who face many challenges to earn a living, aim to successfully fulfil their wish of going to a foreign country.</desc>
+  </programme>
+  <programme start="20260815190000 +0100" stop="20260815193000 +0100" channel="flowers.in">
+    <title>Susu</title>
+    <desc>The conflicting perspectives of daughter-in-law and mother-in-law create tensions that lead to frequent arguments and family discord.</desc>
+  </programme>
+  <programme start="20260815193000 +0100" stop="20260815200000 +0100" channel="flowers.in">
+    <title>Uppum Mulakum</title>
+    <desc>Balachandran and Neelima, who face many challenges to earn a living, aim to successfully fulfil their wish of going to a foreign country.</desc>
+  </programme>
+  <programme start="20260815200000 +0100" stop="20260815213000 +0100" channel="flowers.in">
+    <title>Flowers Top Singer</title>
+    <desc>Talented young singers compete against each other as they perform on stage in front of a panel of judges to emerge victorious and win the title.</desc>
+  </programme>
+  <programme start="20260815213000 +0100" stop="20260815220000 +0100" channel="flowers.in">
+    <title>Sukhamo Devi</title>
+    <desc>Devika is in love with Nandagopan, but Karthikeyan forces her to marry him. She elopes with Nandagopan only to get abandoned by him at the temple, which leads her to marry his friend.</desc>
+  </programme>
+  <programme start="20260815220000 +0100" stop="20260815223000 +0100" channel="flowers.in">
+    <title>Panchagni</title>
+    <desc>A restaurant named Pancharatnam is run by five sisters, while their stepmother tries different tactics to close their business.</desc>
+  </programme>
+  <programme start="20260815223000 +0100" stop="20260815233000 +0100" channel="flowers.in">
+    <title>Flowers Comedy Ith Item Vere</title>
+    <desc>Comedians take the stage and perform hilarious skits, showcasing their talent and attempting to impress the judges, in order to win the competition.</desc>
+  </programme>
+  <programme start="20260815233000 +0100" stop="20260816003000 +0100" channel="flowers.in">
+    <title>Flowers Comedy Golden Moments</title>
+    <desc>Revisit the best moments of the show 'Flowers Comedy,' where comedians put on their greatest skits and performances for the audience.</desc>
+  </programme>
+  <programme start="20260816003000 +0100" stop="20260816005900 +0100" channel="flowers.in">
+    <title>Susu</title>
+    <desc>The conflicting perspectives of daughter-in-law and mother-in-law create tensions that lead to frequent arguments and family discord.</desc>
+  </programme>
+  <programme start="20260816010000 +0100" stop="20260816020000 +0100" channel="flowers.in">
+    <title>Flowers Top Singer</title>
+    <desc>Talented young singers compete against each other as they perform on stage in front of a panel of judges to emerge victorious and win the title.</desc>
+  </programme>
+  <programme start="20260816020000 +0100" stop="20260816023000 +0100" channel="flowers.in">
+    <title>Susu</title>
+    <desc>The conflicting perspectives of daughter-in-law and mother-in-law create tensions that lead to frequent arguments and family discord.</desc>
+  </programme>
+  <programme start="20260816023000 +0100" stop="20260816030000 +0100" channel="flowers.in">
+    <title>Uppum Mulakum</title>
+    <desc>Balachandran and Neelima, who face many challenges to earn a living, aim to successfully fulfil their wish of going to a foreign country.</desc>
+  </programme>
+  <programme start="20260816030000 +0100" stop="20260816043000 +0100" channel="flowers.in">
+    <title>Flowers Top Singer</title>
+    <desc>Talented young singers compete against each other as they perform on stage in front of a panel of judges to emerge victorious and win the title.</desc>
+  </programme>
+  <programme start="20260816043000 +0100" stop="20260816050000 +0100" channel="flowers.in">
+    <title>Sukhamo Devi</title>
+    <desc>Devika is in love with Nandagopan, but Karthikeyan forces her to marry him. She elopes with Nandagopan only to get abandoned by him at the temple, which leads her to marry his friend.</desc>
+  </programme>
+  <programme start="20260816050000 +0100" stop="20260816053000 +0100" channel="flowers.in">
+    <title>Panchagni</title>
+    <desc>A restaurant named Pancharatnam is run by five sisters, while their stepmother tries different tactics to close their business.</desc>
+  </programme>
+  <programme start="20260816053000 +0100" stop="20260816063000 +0100" channel="flowers.in">
+    <title>Flowers Comedy Ith Item Vere</title>
+    <desc>Comedians take the stage and perform hilarious skits, showcasing their talent and attempting to impress the judges, in order to win the competition.</desc>
+  </programme>
+  <programme start="20260816063000 +0100" stop="20260816070000 +0100" channel="flowers.in">
+    <title>Sukhamo Devi</title>
+    <desc>Devika is in love with Nandagopan, but Karthikeyan forces her to marry him. She elopes with Nandagopan only to get abandoned by him at the temple, which leads her to marry his friend.</desc>
+  </programme>
+  <programme start="20260816070000 +0100" stop="20260816073000 +0100" channel="flowers.in">
+    <title>Uppum Mulakum</title>
+    <desc>Balachandran and Neelima, who face many challenges to earn a living, aim to successfully fulfil their wish of going to a foreign country.</desc>
+  </programme>
+  <programme start="20260816073000 +0100" stop="20260816080000 +0100" channel="flowers.in">
+    <title>Student Start Up</title>
+    <desc>The host provides a look into the different innovative start-up ideas developed by students, shedding light on their implementation and significance.</desc>
+  </programme>
+  <programme start="20260816080000 +0100" stop="20260816110000 +0100" channel="flowers.in">
+    <title>Flowers Musical Night 2024</title>
+    <desc>Talented singers, musicians, perform some of the best entertaining songs, added with live comedy performances to enthrall the children.</desc>
+  </programme>
+  <programme start="20260816110000 +0100" stop="20260816113000 +0100" channel="flowers.in">
+    <title>Sora Para</title>
+    <desc>The host invites an accomplished guest and engages in an insightful conversation surrounding the personal and professional aspects of their life.</desc>
+  </programme>
+  <programme start="20260816113000 +0100" stop="20260816150000 +0100" channel="flowers.in">
+    <title>Flowers Comedy Golden Moments</title>
+    <desc>Revisit the best moments of the show 'Flowers Comedy,' where comedians put on their greatest skits and performances for the audience.</desc>
+  </programme>
+  <programme start="20260816150000 +0100" stop="20260816180000 +0100" channel="flowers.in">
+    <title>Movie</title>
+    <desc>Movie to be announced.</desc>
+  </programme>
+  <programme start="20260816180000 +0100" stop="20260816193000 +0100" channel="flowers.in">
+    <title>Flowers Comedy Golden Moments</title>
+    <desc>Revisit the best moments of the show 'Flowers Comedy,' where comedians put on their greatest skits and performances for the audience.</desc>
+  </programme>
+  <programme start="20260816193000 +0100" stop="20260816200000 +0100" channel="flowers.in">
+    <title>Uppum Mulakum</title>
+    <desc>Balachandran and Neelima, who face many challenges to earn a living, aim to successfully fulfil their wish of going to a foreign country.</desc>
+  </programme>
+  <programme start="20260816200000 +0100" stop="20260816213000 +0100" channel="flowers.in">
+    <title>Flowers Top Singer</title>
+    <desc>Talented young singers compete against each other as they perform on stage in front of a panel of judges to emerge victorious and win the title.</desc>
+  </programme>
+  <programme start="20260816213000 +0100" stop="20260816220000 +0100" channel="flowers.in">
+    <title>Sukhamo Devi</title>
+    <desc>Devika is in love with Nandagopan, but Karthikeyan forces her to marry him. She elopes with Nandagopan only to get abandoned by him at the temple, which leads her to marry his friend.</desc>
+  </programme>
+  <programme start="20260816220000 +0100" stop="20260816223000 +0100" channel="flowers.in">
+    <title>Panchagni</title>
+    <desc>A restaurant named Pancharatnam is run by five sisters, while their stepmother tries different tactics to close their business.</desc>
+  </programme>
+  <programme start="20260816223000 +0100" stop="20260816233000 +0100" channel="flowers.in">
+    <title>Flowers Comedy Ith Item Vere</title>
+    <desc>Comedians take the stage and perform hilarious skits, showcasing their talent and attempting to impress the judges, in order to win the competition.</desc>
+  </programme>
+  <programme start="20260816233000 +0100" stop="20260817003000 +0100" channel="flowers.in">
+    <title>Flowers Voice of Kerala</title>
+    <desc>Aspiring singers showcase their talent in front of a panel of judges and compete with each other to win the coveted title.</desc>
+  </programme>
+  <programme start="20260817003000 +0100" stop="20260817005900 +0100" channel="flowers.in">
+    <title>Flowers Comedy Golden Moments</title>
+    <desc>Revisit the best moments of the show 'Flowers Comedy,' where comedians put on their greatest skits and performances for the audience.</desc>
+  </programme>
+  <programme start="20260817010000 +0100" stop="20260817020000 +0100" channel="flowers.in">
+    <title>Flowers Top Singer</title>
+    <desc>Talented young singers compete against each other as they perform on stage in front of a panel of judges to emerge victorious and win the title.</desc>
+  </programme>
+  <programme start="20260817020000 +0100" stop="20260817023000 +0100" channel="flowers.in">
+    <title>Susu</title>
+    <desc>The conflicting perspectives of daughter-in-law and mother-in-law create tensions that lead to frequent arguments and family discord.</desc>
+  </programme>
+  <programme start="20260817023000 +0100" stop="20260817030000 +0100" channel="flowers.in">
+    <title>Uppum Mulakum</title>
+    <desc>Balachandran and Neelima, who face many challenges to earn a living, aim to successfully fulfil their wish of going to a foreign country.</desc>
+  </programme>
+  <programme start="20260817030000 +0100" stop="20260817043000 +0100" channel="flowers.in">
+    <title>Flowers Top Singer</title>
+    <desc>Talented young singers compete against each other as they perform on stage in front of a panel of judges to emerge victorious and win the title.</desc>
+  </programme>
+  <programme start="20260817043000 +0100" stop="20260817050000 +0100" channel="flowers.in">
+    <title>Sukhamo Devi</title>
+    <desc>Devika is in love with Nandagopan, but Karthikeyan forces her to marry him. She elopes with Nandagopan only to get abandoned by him at the temple, which leads her to marry his friend.</desc>
+  </programme>
+  <programme start="20260817050000 +0100" stop="20260817053000 +0100" channel="flowers.in">
+    <title>Panchagni</title>
+    <desc>A restaurant named Pancharatnam is run by five sisters, while their stepmother tries different tactics to close their business.</desc>
+  </programme>
+  <programme start="20260817053000 +0100" stop="20260817063000 +0100" channel="flowers.in">
+    <title>Flowers Comedy Ith Item Vere</title>
+    <desc>Comedians take the stage and perform hilarious skits, showcasing their talent and attempting to impress the judges, in order to win the competition.</desc>
+  </programme>
+  <programme start="20260817063000 +0100" stop="20260817070000 +0100" channel="flowers.in">
+    <title>Susu</title>
+    <desc>The conflicting perspectives of daughter-in-law and mother-in-law create tensions that lead to frequent arguments and family discord.</desc>
+  </programme>
+  <programme start="20260817070000 +0100" stop="20260817073000 +0100" channel="flowers.in">
+    <title>Jeevavarsham</title>
+    <desc>Bringing the best in television.</desc>
+  </programme>
+  <programme start="20260817073000 +0100" stop="20260817080000 +0100" channel="flowers.in">
+    <title>Student Start Up</title>
+    <desc>The host provides a look into the different innovative start-up ideas developed by students, shedding light on their implementation and significance.</desc>
+  </programme>
+  <programme start="20260817080000 +0100" stop="20260817110000 +0100" channel="flowers.in">
+    <title>Uppum Mulakum</title>
+    <desc>Balachandran and Neelima, who face many challenges to earn a living, aim to successfully fulfil their wish of going to a foreign country.</desc>
+  </programme>
+  <programme start="20260817110000 +0100" stop="20260817133000 +0100" channel="flowers.in">
+    <title>Movie</title>
+    <desc>Movie to be announced.</desc>
+  </programme>
+  <programme start="20260817133000 +0100" stop="20260817153000 +0100" channel="flowers.in">
+    <title>Flowers Comedy Golden Moments</title>
+    <desc>Revisit the best moments of the show 'Flowers Comedy,' where comedians put on their greatest skits and performances for the audience.</desc>
+  </programme>
+  <programme start="20260817153000 +0100" stop="20260817160000 +0100" channel="flowers.in">
+    <title>Sukhamo Devi</title>
+    <desc>Devika is in love with Nandagopan, but Karthikeyan forces her to marry him. She elopes with Nandagopan only to get abandoned by him at the temple, which leads her to marry his friend.</desc>
+  </programme>
+  <programme start="20260817160000 +0100" stop="20260817163000 +0100" channel="flowers.in">
+    <title>Panchagni</title>
+    <desc>A restaurant named Pancharatnam is run by five sisters, while their stepmother tries different tactics to close their business.</desc>
+  </programme>
+  <programme start="20260817163000 +0100" stop="20260817170000 +0100" channel="flowers.in">
+    <title>Susu</title>
+    <desc>The conflicting perspectives of daughter-in-law and mother-in-law create tensions that lead to frequent arguments and family discord.</desc>
+  </programme>
+  <programme start="20260817170000 +0100" stop="20260817190000 +0100" channel="flowers.in">
+    <title>Uppum Mulakum</title>
+    <desc>Balachandran and Neelima, who face many challenges to earn a living, aim to successfully fulfil their wish of going to a foreign country.</desc>
+  </programme>
+  <programme start="20260817190000 +0100" stop="20260817193000 +0100" channel="flowers.in">
+    <title>Susu</title>
+    <desc>The conflicting perspectives of daughter-in-law and mother-in-law create tensions that lead to frequent arguments and family discord.</desc>
+  </programme>
+  <programme start="20260817193000 +0100" stop="20260817200000 +0100" channel="flowers.in">
+    <title>Uppum Mulakum</title>
+    <desc>Balachandran and Neelima, who face many challenges to earn a living, aim to successfully fulfil their wish of going to a foreign country.</desc>
+  </programme>
+  <programme start="20260817200000 +0100" stop="20260817213000 +0100" channel="flowers.in">
+    <title>Flowers Top Singer</title>
+    <desc>Talented young singers compete against each other as they perform on stage in front of a panel of judges to emerge victorious and win the title.</desc>
+  </programme>
+  <programme start="20260815143000 +0100" stop="20260815150000 +0100" channel="ts292">
+    <title>Mazha Thorum Munpe</title>
+    <desc>Abandoned as a child, Aleena must find her parents and the love she deserves. S01 E383.</desc>
+  </programme>
+  <programme start="20260815150000 +0100" stop="20260815153000 +0100" channel="ts292">
+    <title>Chempaneer Poovu</title>
+    <desc>Revathy, supporting her family, encounters Sachi, who brings changes to her life. S01 E850.</desc>
+  </programme>
+  <programme start="20260815153000 +0100" stop="20260815163000 +0100" channel="ts292">
+    <title>Star Singer</title>
+    <desc>Talented singers perform different songs in a series of rounds and compete to win. S10 E107.</desc>
+  </programme>
+  <programme start="20260815163000 +0100" stop="20260815173000 +0100" channel="ts292">
+    <title>Bigg Boss 10 - Agnipariksha</title>
+    <desc>. S01 E01.</desc>
+  </programme>
+  <programme start="20260815173000 +0100" stop="20260815203000 +0100" channel="ts292">
+    <title>Forensic</title>
+    <desc>Samuel uses his forensic skills in order to track a psychotic murderer on a killing spree.</desc>
+  </programme>
+  <programme start="20260815143000 +0100" stop="20260815150000 +0100" channel="ts694">
+    <title>Kudumbasree Sharada</title>
+    <desc>A single mother raises her three daughters despite a troublesome past. S01 E1576.</desc>
+  </programme>
+  <programme start="20260815150000 +0100" stop="20260815153000 +0100" channel="ts694">
+    <title>Valyettan</title>
+    <desc>Giri suppresses his dreams for his family until deep betrayal forces a change. S01 E116.</desc>
+  </programme>
+  <programme start="20260815153000 +0100" stop="20260815163000 +0100" channel="ts694">
+    <title>Sa Re Ga Ma Pa Keralam Lil Champs</title>
+    <desc>Young aspiring singers compete against each other and try to win the grand prize. S02 E05.</desc>
+  </programme>
+  <programme start="20260815163000 +0100" stop="20260815170000 +0100" channel="ts694">
+    <title>Pranayavilasam</title>
+    <desc>Two women use education and courage to overcome forced marriages and find justice. S01 E41.</desc>
+  </programme>
+  <programme start="20260815170000 +0100" stop="20260815173000 +0100" channel="ts694">
+    <title>Snehapoorvam Shyama</title>
+    <desc>The adopted daughter is forced to replace her absconding sister at the latter's wedding. S01 E640.</desc>
+  </programme>
+  <programme start="20260815173000 +0100" stop="20260815180000 +0100" channel="ts694">
+    <title>Krishnagadha</title>
+    <desc>Nandagopal plans to evict Gadha, only to discover that she is actually Krishna. S01 E377.</desc>
+  </programme>
+  <programme start="20260815180000 +0100" stop="20260815183000 +0100" channel="ts694">
+    <title>Mangalyam</title>
+    <desc>A woman with big dreams and her husband face odds and joys of life after their marriage. S01 E995.</desc>
+  </programme>
+  <programme start="20260815183000 +0100" stop="20260815193000 +0100" channel="ts694">
+    <title>Sa Re Ga Ma Pa Keralam Lil Champs</title>
+    <desc>Young aspiring singers compete against each other and try to win the grand prize. S02 E05.</desc>
+  </programme>
+  <programme start="20260815143000 +0100" stop="20260815173000 +0100" channel="ts25">
+    <title>Naduvan</title>
+    <desc>While Karthik plans on killing his wife, fate has something else in store for the couple.</desc>
+  </programme>
+  <programme start="20260815173000 +0100" stop="20260815200000 +0100" channel="ts25">
+    <title>Dada</title>
+    <desc>A young boy endures many hardships while raising his son as a single parent.</desc>
+  </programme>
+  <programme start="20260815203000 +0100" stop="20260815230000 +0100" channel="ts292">
+    <title>Movie</title>
+    <desc>Bringing the best in television.</desc>
+  </programme>
+  <programme start="20260815230000 +0100" stop="20260816013000 +0100" channel="ts292">
+    <title>Movie</title>
+    <desc>Bringing the best in television.</desc>
+  </programme>
+  <programme start="20260816013000 +0100" stop="20260816023000 +0100" channel="ts292">
+    <title>Kannante Radha</title>
+    <desc>Radha and Krishna face challenges when a curse separates them for a hundred years. S01 E325.</desc>
+  </programme>
+  <programme start="20260816023000 +0100" stop="20260816030000 +0100" channel="ts292">
+    <title>48th Soorya Festival 2025</title>
+    <desc>. S01 E37.</desc>
+  </programme>
+  <programme start="20260816030000 +0100" stop="20260816033000 +0100" channel="ts292">
+    <title>Kissan Krishideepam</title>
+    <desc>Experts talk about the developments in agriculture, animal husbandry and horticulture. S01 E1170.</desc>
+  </programme>
+  <programme start="20260816033000 +0100" stop="20260816040000 +0100" channel="ts292">
+    <title>Sabarimala Swami Ayyappan</title>
+    <desc>. S01 E134.</desc>
+  </programme>
+  <programme start="20260816040000 +0100" stop="20260816043000 +0100" channel="ts292">
+    <title>Sabarimala Swami Ayyappan</title>
+    <desc>. S01 E135.</desc>
+  </programme>
+  <programme start="20260816043000 +0100" stop="20260816073000 +0100" channel="ts292">
+    <title>Movie</title>
+    <desc>Bringing the best in television.</desc>
+  </programme>
+  <programme start="20260816073000 +0100" stop="20260816083000 +0100" channel="ts292">
+    <title>Star Singer</title>
+    <desc>Contestants compete in the choice round to secure a place in the top five. S10 E104.</desc>
+  </programme>
+  <programme start="20260816083000 +0100" stop="20260816100000 +0100" channel="ts292">
+    <title>Comedy Cooks</title>
+    <desc>Host Twinkle welcomes the audience to the grand finale featuring energetic performances. S01 E31.</desc>
+  </programme>
+  <programme start="20260816100000 +0100" stop="20260816103000 +0100" channel="ts292">
+    <title>Mazha Thorum Munpe</title>
+    <desc>Hari and Kamala speak harshly to Aleena, leaving her deeply hurt. S01 E15.</desc>
+  </programme>
+  <programme start="20260816103000 +0100" stop="20260816110000 +0100" channel="ts292">
+    <title>Chempaneer Poovu</title>
+    <desc>Lakshmi and Krishnan are devastated by Sachi's revelation of Sarath's theft. S01 E13.</desc>
+  </programme>
+  <programme start="20260816110000 +0100" stop="20260816143000 +0100" channel="ts292">
+    <title>Movie</title>
+    <desc>Bringing the best in television.</desc>
+  </programme>
+  <programme start="20260816143000 +0100" stop="20260816150000 +0100" channel="ts292">
+    <title>Mazha Thorum Munpe</title>
+    <desc>Stanly's words leave Aleena hurt after he dismisses her desire to support orphanages. S01 E371.</desc>
+  </programme>
+  <programme start="20260816150000 +0100" stop="20260816153000 +0100" channel="ts292">
+    <title>Chempaneer Poovu</title>
+    <desc>Revathy scolds Sachi for sharing Arun's video, but he refuses to yield. S01 E841.</desc>
+  </programme>
+  <programme start="20260816153000 +0100" stop="20260816163000 +0100" channel="ts292">
+    <title>Star Singer</title>
+    <desc>The host opens the stage with impressive acts as the competition reaches its peak. S10 E105.</desc>
+  </programme>
+  <programme start="20260816163000 +0100" stop="20260816180000 +0100" channel="ts292">
+    <title>Comedy Cooks</title>
+    <desc>Finalists compete in an intense culinary clash during the grand finale of the show. S01 E32.</desc>
+  </programme>
+  <programme start="20260816180000 +0100" stop="20260816210000 +0100" channel="ts292">
+    <title>Movie</title>
+    <desc>Bringing the best in television.</desc>
+  </programme>
+</tv>
