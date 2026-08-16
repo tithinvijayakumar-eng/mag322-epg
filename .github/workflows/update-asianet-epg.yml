@@ -1,4 +1,4 @@
-name: Update Asianet EPG from Airtel
+name: Update Malayalam EPG from Airtel
 
 on:
   workflow_dispatch:
@@ -6,7 +6,7 @@ on:
     - cron: '17 * * * *'
   push:
     paths:
-      - 'scripts/update_asianet_airtel.py'
+      - 'scripts/update_malayalam_airtel.py'
       - '.github/workflows/update-asianet-epg.yml'
 
 permissions:
@@ -20,13 +20,13 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.x'
-      - name: Fetch Airtel Asianet EPG and update XMLTV
-        run: python scripts/update_asianet_airtel.py
+      - name: Fetch Malayalam Airtel EPG and update XMLTV
+        run: python scripts/update_malayalam_airtel.py
       - name: Commit XMLTV if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add MAG322_5CH_EXTERNAL_EPG_TEST.xml
           git diff --cached --quiet && exit 0
-          git commit -m "Update Asianet EPG from Airtel"
+          git commit -m "Update Malayalam EPG from Airtel"
           git push
