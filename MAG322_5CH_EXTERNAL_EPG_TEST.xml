@@ -38,6 +38,21 @@
   <channel id="News.24.in">
     <display-name>24 News</display-name>
   </channel>
+  <channel id="SURYA.COMEDY.in">
+    <display-name>Surya Comedy</display-name>
+  </channel>
+  <channel id="SURYA.MUSIC.in">
+    <display-name>Surya Music</display-name>
+  </channel>
+  <channel id="Kairali.WE.TV.in">
+    <display-name>Kairali WE</display-name>
+  </channel>
+  <channel id="SAFARI.TV.in">
+    <display-name>Safari TV</display-name>
+  </channel>
+  <channel id="KOCHU.TV.in">
+    <display-name>Kochu TV</display-name>
+  </channel>
   <programme start="20260814233000 +0530" stop="20260815000000 +0530" channel="ts292">
     <title>Chempaneerpoovu</title>
     <desc>Revathy supporting her family, encounters Sachi, who brings changes to her life.</desc>
@@ -1514,6 +1529,798 @@
     <title>The Train</title>
     <desc>The film is a take on the lives of the families affected by the Mumbai train bombings way back in July 2006.</desc>
   </programme>
+  <programme start="20260814230000 +0530" stop="20260815000000 +0530" channel="SURYA.COMEDY.in">
+    <title>Premix</title>
+    <desc>Premix is a show bringing together the best in television, featuring popular clips, highlights, and entertainment from various programs.</desc>
+  </programme>
+  <programme start="20260815000000 +0530" stop="20260815060000 +0530" channel="SURYA.COMEDY.in">
+    <title>Back To Back Comedy</title>
+    <desc>Back To Back Comedy is a show featuring consecutive comic sketches and performances, delivering nonstop laughter and entertainment for viewers.</desc>
+  </programme>
+  <programme start="20260815060000 +0530" stop="20260815070000 +0530" channel="SURYA.COMEDY.in">
+    <title>Clap Board</title>
+    <desc>It is a clip-based show featuring emerging super scenes from movies, highlighting memorable moments and exciting cinematic sequences.</desc>
+  </programme>
+  <programme start="20260815070000 +0530" stop="20260815080000 +0530" channel="SURYA.COMEDY.in">
+    <title>Comedy Time</title>
+    <desc>A clip-based program showcasing selected scenes, highlights, or moments from movies, TV shows, or other media for viewers' entertainment.</desc>
+  </programme>
+  <programme start="20260815080000 +0530" stop="20260815090000 +0530" channel="SURYA.COMEDY.in">
+    <title>Hello Comedy Live</title>
+    <desc>A clip-based program featuring selected scenes, highlights, or moments from movies, shows, or other content for viewer entertainment.</desc>
+  </programme>
+  <programme start="20260815090000 +0530" stop="20260815093000 +0530" channel="SURYA.COMEDY.in">
+    <title>Loka Comedy</title>
+    <desc>It is a clip-based show that connects various portions from different movies, creating a seamless and entertaining viewing experience.</desc>
+  </programme>
+  <programme start="20260815093000 +0530" stop="20260815103000 +0530" channel="SURYA.COMEDY.in">
+    <title>One By Two</title>
+    <desc>It is a weekly clip-based show combining scenes from one or two movies, offering highlights and entertaining moments for viewers.</desc>
+  </programme>
+  <programme start="20260815103000 +0530" stop="20260815110000 +0530" channel="SURYA.COMEDY.in">
+    <title>Cinemakkaran</title>
+    <desc>A light funny montage of Malayalam film scenes showcases legendary comic actors known for sharp timing, delivering laughs through a nonstop sequence of amusing moments together.</desc>
+  </programme>
+  <programme start="20260815110000 +0530" stop="20260815113000 +0530" channel="SURYA.COMEDY.in">
+    <title>Tamar Padar</title>
+    <desc>It is a clip-based show featuring selected scenes, highlights, or moments from movies, TV, or other content for viewer entertainment.</desc>
+  </programme>
+  <programme start="20260815113000 +0530" stop="20260815120000 +0530" channel="SURYA.COMEDY.in">
+    <title>Dhe Ippo Sheriyakki Tharam</title>
+    <desc>Dhe Ippo Sheriyakki Tharam is a lighthearted comedy show filled with funny scenarios, designed to make viewers laugh and enjoy entertaining moments.</desc>
+  </programme>
+  <programme start="20260815120000 +0530" stop="20260815123000 +0530" channel="SURYA.COMEDY.in">
+    <title>Yemendan Thamasha</title>
+    <desc>A comprehensive collection of comedy scenes from various movies, featuring some of the biggest names in the Malayalam film industry for nonstop entertainment.</desc>
+  </programme>
+  <programme start="20260815123000 +0530" stop="20260815130000 +0530" channel="SURYA.COMEDY.in">
+    <title>Yemendan Thamasha</title>
+    <desc>A comprehensive collection of comedy scenes from various movies, featuring some of the biggest names in the Malayalam film industry for nonstop entertainment.</desc>
+  </programme>
+  <programme start="20260815130000 +0530" stop="20260815143000 +0530" channel="SURYA.COMEDY.in">
+    <title>Weekend Freehit</title>
+    <desc>A curated collection of popular movie songs featuring renowned actors, played back-to-back to entertain and delight the audience.</desc>
+  </programme>
+  <programme start="20260815143000 +0530" stop="20260815150000 +0530" channel="SURYA.COMEDY.in">
+    <title>Humour Tumar</title>
+    <desc>A comprehensive compilation of the most entertaining and hilarious comedy scenes from recently released Tollywood movies for nonstop laughter.</desc>
+  </programme>
+  <programme start="20260815150000 +0530" stop="20260815160000 +0530" channel="SURYA.COMEDY.in">
+    <title>Chayayodoppam Chiri</title>
+    <desc>Chayayodoppam Chiri is a popular Malayalam comedy show featuring hilarious scenes and comedy tracks from both classic and modern Malayalam movies.</desc>
+  </programme>
+  <programme start="20260815160000 +0530" stop="20260815170000 +0530" channel="SURYA.COMEDY.in">
+    <title>Tamil Jollywood</title>
+    <desc>It is a clip-based program in Tamil, showcasing selected scenes, highlights, or moments for entertainment and viewer enjoyment.</desc>
+  </programme>
+  <programme start="20260815170000 +0530" stop="20260815180000 +0530" channel="SURYA.COMEDY.in">
+    <title>Clap Board</title>
+    <desc>It is a clip-based show featuring emerging super scenes from movies, highlighting memorable moments and exciting cinematic sequences.</desc>
+  </programme>
+  <programme start="20260815180000 +0530" stop="20260815190000 +0530" channel="SURYA.COMEDY.in">
+    <title>One By Two</title>
+    <desc>It is a weekly clip-based show combining scenes from one or two movies, offering highlights and entertaining moments for viewers.</desc>
+  </programme>
+  <programme start="20260815190000 +0530" stop="20260815193000 +0530" channel="SURYA.COMEDY.in">
+    <title>Loka Comedy</title>
+    <desc>It is a clip-based show that connects various portions from different movies, creating a seamless and entertaining viewing experience.</desc>
+  </programme>
+  <programme start="20260815193000 +0530" stop="20260815200000 +0530" channel="SURYA.COMEDY.in">
+    <title>Scratch N Win</title>
+    <desc>A light funny montage of Malayalam film scenes showcases legendary comic actors known for sharp timing, delivering laughs through a nonstop sequence of amusing moments together.</desc>
+  </programme>
+  <programme start="20260815200000 +0530" stop="20260815210000 +0530" channel="SURYA.COMEDY.in">
+    <title>Yemendan Thamasha</title>
+    <desc>A comprehensive collection of comedy scenes from various movies, featuring some of the biggest names in the Malayalam film industry for nonstop entertainment.</desc>
+  </programme>
+  <programme start="20260815210000 +0530" stop="20260815223000 +0530" channel="SURYA.COMEDY.in">
+    <title>Weekend Freehit</title>
+    <desc>A curated collection of popular movie songs featuring renowned actors, played back-to-back to entertain and delight the audience.</desc>
+  </programme>
+  <programme start="20260815223000 +0530" stop="20260815230000 +0530" channel="SURYA.COMEDY.in">
+    <title>Humour Tumar</title>
+    <desc>A comprehensive compilation of the most entertaining and hilarious comedy scenes from recently released Tollywood movies for nonstop laughter.</desc>
+  </programme>
+  <programme start="20260815230000 +0530" stop="20260816000000 +0530" channel="SURYA.COMEDY.in">
+    <title>Premix</title>
+    <desc>Premix is a show bringing together the best in television, featuring popular clips, highlights, and entertainment from various programs.</desc>
+  </programme>
+  <programme start="20260816000000 +0530" stop="20260816060000 +0530" channel="SURYA.COMEDY.in">
+    <title>Back To Back Comedy</title>
+    <desc>Back To Back Comedy is a show featuring consecutive comic sketches and performances, delivering nonstop laughter and entertainment for viewers.</desc>
+  </programme>
+  <programme start="20260816060000 +0530" stop="20260816070000 +0530" channel="SURYA.COMEDY.in">
+    <title>Clap Board</title>
+    <desc>It is a clip-based show featuring emerging super scenes from movies, highlighting memorable moments and exciting cinematic sequences.</desc>
+  </programme>
+  <programme start="20260816070000 +0530" stop="20260816080000 +0530" channel="SURYA.COMEDY.in">
+    <title>Comedy Time</title>
+    <desc>A clip-based program showcasing selected scenes, highlights, or moments from movies, TV shows, or other media for viewers' entertainment.</desc>
+  </programme>
+  <programme start="20260816080000 +0530" stop="20260816090000 +0530" channel="SURYA.COMEDY.in">
+    <title>Hello Comedy Live</title>
+    <desc>A clip-based program featuring selected scenes, highlights, or moments from movies, shows, or other content for viewer entertainment.</desc>
+  </programme>
+  <programme start="20260816090000 +0530" stop="20260816093000 +0530" channel="SURYA.COMEDY.in">
+    <title>Loka Comedy</title>
+    <desc>It is a clip-based show that connects various portions from different movies, creating a seamless and entertaining viewing experience.</desc>
+  </programme>
+  <programme start="20260816093000 +0530" stop="20260816103000 +0530" channel="SURYA.COMEDY.in">
+    <title>One By Two</title>
+    <desc>It is a weekly clip-based show combining scenes from one or two movies, offering highlights and entertaining moments for viewers.</desc>
+  </programme>
+  <programme start="20260816103000 +0530" stop="20260816110000 +0530" channel="SURYA.COMEDY.in">
+    <title>Cinemakkaran</title>
+    <desc>A light funny montage of Malayalam film scenes showcases legendary comic actors known for sharp timing, delivering laughs through a nonstop sequence of amusing moments together.</desc>
+  </programme>
+  <programme start="20260816110000 +0530" stop="20260816113000 +0530" channel="SURYA.COMEDY.in">
+    <title>Tamar Padar</title>
+    <desc>It is a clip-based show featuring selected scenes, highlights, or moments from movies, TV, or other content for viewer entertainment.</desc>
+  </programme>
+  <programme start="20260816113000 +0530" stop="20260816120000 +0530" channel="SURYA.COMEDY.in">
+    <title>Dhe Ippo Sheriyakki Tharam</title>
+    <desc>Dhe Ippo Sheriyakki Tharam is a lighthearted comedy show filled with funny scenarios, designed to make viewers laugh and enjoy entertaining moments.</desc>
+  </programme>
+  <programme start="20260816120000 +0530" stop="20260816123000 +0530" channel="SURYA.COMEDY.in">
+    <title>Yemendan Thamasha</title>
+    <desc>A comprehensive collection of comedy scenes from various movies, featuring some of the biggest names in the Malayalam film industry for nonstop entertainment.</desc>
+  </programme>
+  <programme start="20260816123000 +0530" stop="20260816130000 +0530" channel="SURYA.COMEDY.in">
+    <title>Yemendan Thamasha</title>
+    <desc>A comprehensive collection of comedy scenes from various movies, featuring some of the biggest names in the Malayalam film industry for nonstop entertainment.</desc>
+  </programme>
+  <programme start="20260816130000 +0530" stop="20260816143000 +0530" channel="SURYA.COMEDY.in">
+    <title>Weekend Freehit</title>
+    <desc>A curated collection of popular movie songs featuring renowned actors, played back-to-back to entertain and delight the audience.</desc>
+  </programme>
+  <programme start="20260816143000 +0530" stop="20260816150000 +0530" channel="SURYA.COMEDY.in">
+    <title>Humour Tumar</title>
+    <desc>A comprehensive compilation of the most entertaining and hilarious comedy scenes from recently released Tollywood movies for nonstop laughter.</desc>
+  </programme>
+  <programme start="20260816150000 +0530" stop="20260816160000 +0530" channel="SURYA.COMEDY.in">
+    <title>Chayayodoppam Chiri</title>
+    <desc>Chayayodoppam Chiri is a popular Malayalam comedy show featuring hilarious scenes and comedy tracks from both classic and modern Malayalam movies.</desc>
+  </programme>
+  <programme start="20260816160000 +0530" stop="20260816170000 +0530" channel="SURYA.COMEDY.in">
+    <title>Tamil Jollywood</title>
+    <desc>It is a clip-based program in Tamil, showcasing selected scenes, highlights, or moments for entertainment and viewer enjoyment.</desc>
+  </programme>
+  <programme start="20260816170000 +0530" stop="20260816180000 +0530" channel="SURYA.COMEDY.in">
+    <title>Clap Board</title>
+    <desc>It is a clip-based show featuring emerging super scenes from movies, highlighting memorable moments and exciting cinematic sequences.</desc>
+  </programme>
+  <programme start="20260816180000 +0530" stop="20260816190000 +0530" channel="SURYA.COMEDY.in">
+    <title>One By Two</title>
+    <desc>It is a weekly clip-based show combining scenes from one or two movies, offering highlights and entertaining moments for viewers.</desc>
+  </programme>
+  <programme start="20260816190000 +0530" stop="20260816193000 +0530" channel="SURYA.COMEDY.in">
+    <title>Loka Comedy</title>
+    <desc>It is a clip-based show that connects various portions from different movies, creating a seamless and entertaining viewing experience.</desc>
+  </programme>
+  <programme start="20260816193000 +0530" stop="20260816200000 +0530" channel="SURYA.COMEDY.in">
+    <title>Scratch N Win</title>
+    <desc>A light funny montage of Malayalam film scenes showcases legendary comic actors known for sharp timing, delivering laughs through a nonstop sequence of amusing moments together.</desc>
+  </programme>
+  <programme start="20260816200000 +0530" stop="20260816210000 +0530" channel="SURYA.COMEDY.in">
+    <title>Yemendan Thamasha</title>
+    <desc>A comprehensive collection of comedy scenes from various movies, featuring some of the biggest names in the Malayalam film industry for nonstop entertainment.</desc>
+  </programme>
+  <programme start="20260816210000 +0530" stop="20260816223000 +0530" channel="SURYA.COMEDY.in">
+    <title>Weekend Freehit</title>
+    <desc>A curated collection of popular movie songs featuring renowned actors, played back-to-back to entertain and delight the audience.</desc>
+  </programme>
+  <programme start="20260816223000 +0530" stop="20260816230000 +0530" channel="SURYA.COMEDY.in">
+    <title>Humour Tumar</title>
+    <desc>A comprehensive compilation of the most entertaining and hilarious comedy scenes from recently released Tollywood movies for nonstop laughter.</desc>
+  </programme>
+  <programme start="20260816230000 +0530" stop="20260817000000 +0530" channel="SURYA.COMEDY.in">
+    <title>Premix</title>
+    <desc>Premix is a show bringing together the best in television, featuring popular clips, highlights, and entertainment from various programs.</desc>
+  </programme>
+  <programme start="20260817000000 +0530" stop="20260817060000 +0530" channel="SURYA.COMEDY.in">
+    <title>Back To Back Comedy</title>
+    <desc>Back To Back Comedy is a show featuring consecutive comic sketches and performances, delivering nonstop laughter and entertainment for viewers.</desc>
+  </programme>
+  <programme start="20260817060000 +0530" stop="20260817070000 +0530" channel="SURYA.COMEDY.in">
+    <title>Clap Board</title>
+    <desc>It is a clip-based show featuring emerging super scenes from movies, highlighting memorable moments and exciting cinematic sequences.</desc>
+  </programme>
+  <programme start="20260817070000 +0530" stop="20260817080000 +0530" channel="SURYA.COMEDY.in">
+    <title>Comedy Time</title>
+    <desc>A clip-based program showcasing selected scenes, highlights, or moments from movies, TV shows, or other media for viewers' entertainment.</desc>
+  </programme>
+  <programme start="20260817080000 +0530" stop="20260817090000 +0530" channel="SURYA.COMEDY.in">
+    <title>Hello Comedy Live</title>
+    <desc>A clip-based program featuring selected scenes, highlights, or moments from movies, shows, or other content for viewer entertainment.</desc>
+  </programme>
+  <programme start="20260817090000 +0530" stop="20260817093000 +0530" channel="SURYA.COMEDY.in">
+    <title>Non Stop Comedy</title>
+    <desc>Non Stop Comedy is a show featuring continuous comic sketches and hilarious moments, delivering nonstop laughter and entertainment for viewers.</desc>
+  </programme>
+  <programme start="20260817093000 +0530" stop="20260817100000 +0530" channel="SURYA.COMEDY.in">
+    <title>Savarigiri Giri</title>
+    <desc>It is a comedy clip show featuring hilarious moments from various comedian actors, delivering laughter and entertainment for viewers.</desc>
+  </programme>
+  <programme start="20260817100000 +0530" stop="20260817103000 +0530" channel="SURYA.COMEDY.in">
+    <title>Thamasha Thamasha</title>
+    <desc>It is a clip-based show featuring comedy entertainment, showcasing hilarious scenes and moments for viewers' amusement.</desc>
+  </programme>
+  <programme start="20260817103000 +0530" stop="20260817110000 +0530" channel="SURYA.COMEDY.in">
+    <title>Pinneyum Pinneyum Comedy</title>
+    <desc>Back To Back Comedy is a show featuring consecutive comic scenes and sketches, delivering nonstop laughter and entertainment for viewers.</desc>
+  </programme>
+  <programme start="20260817110000 +0530" stop="20260817120000 +0530" channel="SURYA.COMEDY.in">
+    <title>Ever Green Comedy</title>
+    <desc>It is a clip-based show featuring memorable scenes from old movies, highlighting classic moments for viewers to enjoy.</desc>
+  </programme>
+  <programme start="20260817120000 +0530" stop="20260817130000 +0530" channel="SURYA.COMEDY.in">
+    <title>Yemendan Thamasha</title>
+    <desc>A comprehensive collection of comedy scenes from various movies, featuring some of the biggest names in the Malayalam film industry for nonstop entertainment.</desc>
+  </programme>
+  <programme start="20260817130000 +0530" stop="20260817140000 +0530" channel="SURYA.COMEDY.in">
+    <title>Freehit</title>
+    <desc>A curated collection of popular movie songs featuring renowned actors, played back-to-back to entertain and delight the audience.</desc>
+  </programme>
+  <programme start="20260817140000 +0530" stop="20260817150000 +0530" channel="SURYA.COMEDY.in">
+    <title>Humour Tumar</title>
+    <desc>A comprehensive compilation of the most entertaining and hilarious comedy scenes from recently released Tollywood movies for nonstop laughter.</desc>
+  </programme>
+  <programme start="20260817150000 +0530" stop="20260817160000 +0530" channel="SURYA.COMEDY.in">
+    <title>Chayayodoppam Chiri</title>
+    <desc>Chayayodoppam Chiri is a popular Malayalam comedy show featuring hilarious scenes and comedy tracks from both classic and modern Malayalam movies.</desc>
+  </programme>
+  <programme start="20260817160000 +0530" stop="20260817170000 +0530" channel="SURYA.COMEDY.in">
+    <title>Tamil Jollywood</title>
+    <desc>It is a clip-based program in Tamil, showcasing selected scenes, highlights, or moments for entertainment and viewer enjoyment.</desc>
+  </programme>
+  <programme start="20260817170000 +0530" stop="20260817180000 +0530" channel="SURYA.COMEDY.in">
+    <title>Clap Board</title>
+    <desc>It is a clip-based show featuring emerging super scenes from movies, highlighting memorable moments and exciting cinematic sequences.</desc>
+  </programme>
+  <programme start="20260817180000 +0530" stop="20260817183000 +0530" channel="SURYA.COMEDY.in">
+    <title>Chiri Varunne Chiri</title>
+    <desc>Chiri Varunne Chiri is a collection of funny moments, showcasing famous comedians at their best with jokes and laughter for a delightful viewing experience.</desc>
+  </programme>
+  <programme start="20260817183000 +0530" stop="20260817190000 +0530" channel="SURYA.COMEDY.in">
+    <title>Savarigiri Giri</title>
+    <desc>It is a comedy clip show featuring hilarious moments from various comedian actors, delivering laughter and entertainment for viewers.</desc>
+  </programme>
+  <programme start="20260817190000 +0530" stop="20260817200000 +0530" channel="SURYA.COMEDY.in">
+    <title>Fun Flix</title>
+    <desc>It is a clip-based program featuring highlights and memorable scenes from super hit movies for viewers' entertainment.</desc>
+  </programme>
+  <programme start="20260817200000 +0530" stop="20260817210000 +0530" channel="SURYA.COMEDY.in">
+    <title>Yemendan Thamasha</title>
+    <desc>A comprehensive collection of comedy scenes from various movies, featuring some of the biggest names in the Malayalam film industry for nonstop entertainment.</desc>
+  </programme>
+  <programme start="20260817210000 +0530" stop="20260817223000 +0530" channel="SURYA.COMEDY.in">
+    <title>Freehit</title>
+    <desc>A curated collection of popular movie songs featuring renowned actors, played back-to-back to entertain and delight the audience.</desc>
+  </programme>
+  <programme start="20260817223000 +0530" stop="20260817230000 +0530" channel="SURYA.COMEDY.in">
+    <title>Dhe Ippo Sheriyakki Tharam</title>
+    <desc>Dhe Ippo Sheriyakki Tharam is a lighthearted comedy show filled with funny scenarios, designed to make viewers laugh and enjoy entertaining moments.</desc>
+  </programme>
+  <programme start="20260817230000 +0530" stop="20260818000000 +0530" channel="SURYA.COMEDY.in">
+    <title>Humour Tumar</title>
+    <desc>A comprehensive compilation of the most entertaining and hilarious comedy scenes from recently released Tollywood movies for nonstop laughter.</desc>
+  </programme>
+  <programme start="20260818000000 +0530" stop="20260818060000 +0530" channel="SURYA.COMEDY.in">
+    <title>Back To Back Comedy</title>
+    <desc>Back To Back Comedy is a show featuring consecutive comic sketches and performances, delivering nonstop laughter and entertainment for viewers.</desc>
+  </programme>
+  <programme start="20260818060000 +0530" stop="20260818070000 +0530" channel="SURYA.COMEDY.in">
+    <title>Clap Board</title>
+    <desc>It is a clip-based show featuring emerging super scenes from movies, highlighting memorable moments and exciting cinematic sequences.</desc>
+  </programme>
+  <programme start="20260818070000 +0530" stop="20260818080000 +0530" channel="SURYA.COMEDY.in">
+    <title>Comedy Time</title>
+    <desc>A clip-based program showcasing selected scenes, highlights, or moments from movies, TV shows, or other media for viewers' entertainment.</desc>
+  </programme>
+  <programme start="20260818080000 +0530" stop="20260818090000 +0530" channel="SURYA.COMEDY.in">
+    <title>Hello Comedy Live</title>
+    <desc>A clip-based program featuring selected scenes, highlights, or moments from movies, shows, or other content for viewer entertainment.</desc>
+  </programme>
+  <programme start="20260818090000 +0530" stop="20260818093000 +0530" channel="SURYA.COMEDY.in">
+    <title>Non Stop Comedy</title>
+    <desc>Non Stop Comedy is a show featuring continuous comic sketches and hilarious moments, delivering nonstop laughter and entertainment for viewers.</desc>
+  </programme>
+  <programme start="20260818093000 +0530" stop="20260818100000 +0530" channel="SURYA.COMEDY.in">
+    <title>Savarigiri Giri</title>
+    <desc>It is a comedy clip show featuring hilarious moments from various comedian actors, delivering laughter and entertainment for viewers.</desc>
+  </programme>
+  <programme start="20260818100000 +0530" stop="20260818103000 +0530" channel="SURYA.COMEDY.in">
+    <title>Thamasha Thamasha</title>
+    <desc>It is a clip-based show featuring comedy entertainment, showcasing hilarious scenes and moments for viewers' amusement.</desc>
+  </programme>
+  <programme start="20260818103000 +0530" stop="20260818110000 +0530" channel="SURYA.COMEDY.in">
+    <title>Pinneyum Pinneyum Comedy</title>
+    <desc>Back To Back Comedy is a show featuring consecutive comic scenes and sketches, delivering nonstop laughter and entertainment for viewers.</desc>
+  </programme>
+  <programme start="20260818110000 +0530" stop="20260818120000 +0530" channel="SURYA.COMEDY.in">
+    <title>Ever Green Comedy</title>
+    <desc>It is a clip-based show featuring memorable scenes from old movies, highlighting classic moments for viewers to enjoy.</desc>
+  </programme>
+  <programme start="20260818120000 +0530" stop="20260818130000 +0530" channel="SURYA.COMEDY.in">
+    <title>Yemendan Thamasha</title>
+    <desc>A comprehensive collection of comedy scenes from various movies, featuring some of the biggest names in the Malayalam film industry for nonstop entertainment.</desc>
+  </programme>
+  <programme start="20260818130000 +0530" stop="20260818140000 +0530" channel="SURYA.COMEDY.in">
+    <title>Freehit</title>
+    <desc>A curated collection of popular movie songs featuring renowned actors, played back-to-back to entertain and delight the audience.</desc>
+  </programme>
+  <programme start="20260818140000 +0530" stop="20260818150000 +0530" channel="SURYA.COMEDY.in">
+    <title>Humour Tumar</title>
+    <desc>A comprehensive compilation of the most entertaining and hilarious comedy scenes from recently released Tollywood movies for nonstop laughter.</desc>
+  </programme>
+  <programme start="20260818150000 +0530" stop="20260818160000 +0530" channel="SURYA.COMEDY.in">
+    <title>Chayayodoppam Chiri</title>
+    <desc>Chayayodoppam Chiri is a popular Malayalam comedy show featuring hilarious scenes and comedy tracks from both classic and modern Malayalam movies.</desc>
+  </programme>
+  <programme start="20260818160000 +0530" stop="20260818170000 +0530" channel="SURYA.COMEDY.in">
+    <title>Tamil Jollywood</title>
+    <desc>It is a clip-based program in Tamil, showcasing selected scenes, highlights, or moments for entertainment and viewer enjoyment.</desc>
+  </programme>
+  <programme start="20260818170000 +0530" stop="20260818180000 +0530" channel="SURYA.COMEDY.in">
+    <title>Clap Board</title>
+    <desc>It is a clip-based show featuring emerging super scenes from movies, highlighting memorable moments and exciting cinematic sequences.</desc>
+  </programme>
+  <programme start="20260818180000 +0530" stop="20260818183000 +0530" channel="SURYA.COMEDY.in">
+    <title>Chiri Varunne Chiri</title>
+    <desc>Chiri Varunne Chiri is a collection of funny moments, showcasing famous comedians at their best with jokes and laughter for a delightful viewing experience.</desc>
+  </programme>
+  <programme start="20260818183000 +0530" stop="20260818190000 +0530" channel="SURYA.COMEDY.in">
+    <title>Savarigiri Giri</title>
+    <desc>It is a comedy clip show featuring hilarious moments from various comedian actors, delivering laughter and entertainment for viewers.</desc>
+  </programme>
+  <programme start="20260818190000 +0530" stop="20260818200000 +0530" channel="SURYA.COMEDY.in">
+    <title>Fun Flix</title>
+    <desc>It is a clip-based program featuring highlights and memorable scenes from super hit movies for viewers' entertainment.</desc>
+  </programme>
+  <programme start="20260818200000 +0530" stop="20260818210000 +0530" channel="SURYA.COMEDY.in">
+    <title>Yemendan Thamasha</title>
+    <desc>A comprehensive collection of comedy scenes from various movies, featuring some of the biggest names in the Malayalam film industry for nonstop entertainment.</desc>
+  </programme>
+  <programme start="20260818210000 +0530" stop="20260818223000 +0530" channel="SURYA.COMEDY.in">
+    <title>Freehit</title>
+    <desc>A curated collection of popular movie songs featuring renowned actors, played back-to-back to entertain and delight the audience.</desc>
+  </programme>
+  <programme start="20260818223000 +0530" stop="20260818230000 +0530" channel="SURYA.COMEDY.in">
+    <title>Dhe Ippo Sheriyakki Tharam</title>
+    <desc>Dhe Ippo Sheriyakki Tharam is a lighthearted comedy show filled with funny scenarios, designed to make viewers laugh and enjoy entertaining moments.</desc>
+  </programme>
+  <programme start="20260818230000 +0530" stop="20260819000000 +0530" channel="SURYA.COMEDY.in">
+    <title>Humour Tumar</title>
+    <desc>A comprehensive compilation of the most entertaining and hilarious comedy scenes from recently released Tollywood movies for nonstop laughter.</desc>
+  </programme>
+  <programme start="20260819000000 +0530" stop="20260819060000 +0530" channel="SURYA.COMEDY.in">
+    <title>Back To Back Comedy</title>
+    <desc>Back To Back Comedy is a show featuring consecutive comic sketches and performances, delivering nonstop laughter and entertainment for viewers.</desc>
+  </programme>
+  <programme start="20260814230000 +0530" stop="20260815000000 +0530" channel="SURYA.MUSIC.in">
+    <title>Adipoli Songs</title>
+    <desc>A collection of hit songs by renowned artists is played back-to-back, offering listeners an engaging and entertaining musical experience that keeps them enthralled throughout.</desc>
+  </programme>
+  <programme start="20260815000000 +0530" stop="20260815003000 +0530" channel="SURYA.MUSIC.in">
+    <title>Mood Tapes</title>
+    <desc>Mood Tapes helps you treat every mood with the perfect music. Listen to your favorite songs tailored to your emotions and uplift your spirits anytime, anywhere.</desc>
+  </programme>
+  <programme start="20260815003000 +0530" stop="20260815010000 +0530" channel="SURYA.MUSIC.in">
+    <title>Spicy Mix</title>
+    <desc>Add extra energy to your day with Garam Mix, featuring all the hottest Malayalam songs. Enjoy a lively, upbeat musical experience that keeps you entertained and refreshed.</desc>
+  </programme>
+  <programme start="20260815010000 +0530" stop="20260815020000 +0530" channel="SURYA.MUSIC.in">
+    <title>Nostalgia</title>
+    <desc>Relive your cherished memories with Nostalgia, a show that plays timeless songs, taking listeners on a journey through the golden moments of the past.</desc>
+  </programme>
+  <programme start="20260815020000 +0530" stop="20260815030000 +0530" channel="SURYA.MUSIC.in">
+    <title>Adipoli Songs</title>
+    <desc>A collection of hit songs by renowned artists is played back-to-back, offering listeners an engaging and entertaining musical experience that keeps them enthralled throughout.</desc>
+  </programme>
+  <programme start="20260815030000 +0530" stop="20260815040000 +0530" channel="SURYA.MUSIC.in">
+    <title>Istam Pole Pattu</title>
+    <desc>This program features popular movie songs played back-to-back, offering viewers an engaging musical experience filled with hits from beloved films.</desc>
+  </programme>
+  <programme start="20260815040000 +0530" stop="20260815050000 +0530" channel="SURYA.MUSIC.in">
+    <title>Tamil Thirai</title>
+    <desc>A continuous collection of Tamil film music played back-to-back, featuring timeless hits and popular tracks from beloved movies, keeping listeners entertained throughout.</desc>
+  </programme>
+  <programme start="20260815050000 +0530" stop="20260815060000 +0530" channel="SURYA.MUSIC.in">
+    <title>Nostalgia</title>
+    <desc>Relive your cherished memories with Nostalgia, a show that plays timeless songs, taking listeners on a journey through the golden moments of the past.</desc>
+  </programme>
+  <programme start="20260815060000 +0530" stop="20260815070000 +0530" channel="SURYA.MUSIC.in">
+    <title>Surya Geetham</title>
+    <desc>These are devotional songs dedicated to the Sun God Surya, offering listeners a spiritual experience that celebrates faith, devotion, and the divine power of the sun.</desc>
+  </programme>
+  <programme start="20260815070000 +0530" stop="20260815080000 +0530" channel="SURYA.MUSIC.in">
+    <title>Unstoppable</title>
+    <desc>Unstoppable brings you your favorite songs without any interruptions. Enjoy a seamless musical experience where even breaks can't stop the flow of great music.</desc>
+  </programme>
+  <programme start="20260815080000 +0530" stop="20260815090000 +0530" channel="SURYA.MUSIC.in">
+    <title>Adipoli Songs</title>
+    <desc>A collection of hit songs by renowned artists is played back-to-back, offering listeners an engaging and entertaining musical experience that keeps them enthralled throughout.</desc>
+  </programme>
+  <programme start="20260815090000 +0530" stop="20260815093000 +0530" channel="SURYA.MUSIC.in">
+    <title>Cine Nxt</title>
+    <desc>Cine Nxt</desc>
+  </programme>
+  <programme start="20260815093000 +0530" stop="20260815100000 +0530" channel="SURYA.MUSIC.in">
+    <title>Hridayam</title>
+    <desc>Nothing feels complete without love. Celebrate and cherish your emotions with a collection of beautiful love songs that resonate deeply with your heart and soul.</desc>
+  </programme>
+  <programme start="20260815100000 +0530" stop="20260815110000 +0530" channel="SURYA.MUSIC.in">
+    <title>Istam Pole Pattu</title>
+    <desc>This program features popular movie songs played back-to-back, offering viewers an engaging musical experience filled with hits from beloved films.</desc>
+  </programme>
+  <programme start="20260815110000 +0530" stop="20260815120000 +0530" channel="SURYA.MUSIC.in">
+    <title>Kuthu Reloaded</title>
+    <desc>Kuthu Reloaded is a high-energy Tamil dance song in the Kuthu style. Known for its infectious beats and lively rhythm, it's popular on music platforms and loved by fans.</desc>
+  </programme>
+  <programme start="20260815120000 +0530" stop="20260815130000 +0530" channel="SURYA.MUSIC.in">
+    <title>Tamil Thirai</title>
+    <desc>A continuous collection of Tamil film music played back-to-back, featuring timeless hits and popular tracks from beloved movies, keeping listeners entertained throughout.</desc>
+  </programme>
+  <programme start="20260815130000 +0530" stop="20260815140000 +0530" channel="SURYA.MUSIC.in">
+    <title>Hridayam</title>
+    <desc>Nothing feels complete without love. Celebrate and cherish your emotions with a collection of beautiful love songs that resonate deeply with your heart and soul.</desc>
+  </programme>
+  <programme start="20260815140000 +0530" stop="20260815150000 +0530" channel="SURYA.MUSIC.in">
+    <title>Nostalgia</title>
+    <desc>Relive your cherished memories with Nostalgia, a show that plays timeless songs, taking listeners on a journey through the golden moments of the past.</desc>
+  </programme>
+  <programme start="20260815150000 +0530" stop="20260815160000 +0530" channel="SURYA.MUSIC.in">
+    <title>Adipoli Songs</title>
+    <desc>A collection of hit songs by renowned artists is played back-to-back, offering listeners an engaging and entertaining musical experience that keeps them enthralled throughout.</desc>
+  </programme>
+  <programme start="20260815160000 +0530" stop="20260815170000 +0530" channel="SURYA.MUSIC.in">
+    <title>Kuthu Reloaded</title>
+    <desc>Kuthu Reloaded is a high-energy Tamil dance song in the Kuthu style. Known for its infectious beats and lively rhythm, it's popular on music platforms and loved by fans.</desc>
+  </programme>
+  <programme start="20260815170000 +0530" stop="20260815180000 +0530" channel="SURYA.MUSIC.in">
+    <title>Unstoppable</title>
+    <desc>Unstoppable brings you your favorite songs without any interruptions. Enjoy a seamless musical experience where even breaks can't stop the flow of great music.</desc>
+  </programme>
+  <programme start="20260815180000 +0530" stop="20260815190000 +0530" channel="SURYA.MUSIC.in">
+    <title>Inbox</title>
+    <desc>Inbox is a popular show where viewers can enjoy live or on-demand music requests and countdowns, offering an interactive and entertaining experience for music lovers.</desc>
+  </programme>
+  <programme start="20260815190000 +0530" stop="20260815200000 +0530" channel="SURYA.MUSIC.in">
+    <title>Kuthu Reloaded</title>
+    <desc>Kuthu Reloaded is a high-energy Tamil dance song in the Kuthu style. Known for its infectious beats and lively rhythm, it's popular on music platforms and loved by fans.</desc>
+  </programme>
+  <programme start="20260815200000 +0530" stop="20260815210000 +0530" channel="SURYA.MUSIC.in">
+    <title>Tamil Thirai</title>
+    <desc>A continuous collection of Tamil film music played back-to-back, featuring timeless hits and popular tracks from beloved movies, keeping listeners entertained throughout.</desc>
+  </programme>
+  <programme start="20260815210000 +0530" stop="20260815220000 +0530" channel="SURYA.MUSIC.in">
+    <title>Istam Pole Pattu</title>
+    <desc>This program features popular movie songs played back-to-back, offering viewers an engaging musical experience filled with hits from beloved films.</desc>
+  </programme>
+  <programme start="20260815220000 +0530" stop="20260815230000 +0530" channel="SURYA.MUSIC.in">
+    <title>Nostalgia</title>
+    <desc>Relive your cherished memories with Nostalgia, a show that plays timeless songs, taking listeners on a journey through the golden moments of the past.</desc>
+  </programme>
+  <programme start="20260815230000 +0530" stop="20260816000000 +0530" channel="SURYA.MUSIC.in">
+    <title>Adipoli Songs</title>
+    <desc>A collection of hit songs by renowned artists is played back-to-back, offering listeners an engaging and entertaining musical experience that keeps them enthralled throughout.</desc>
+  </programme>
+  <programme start="20260816000000 +0530" stop="20260816003000 +0530" channel="SURYA.MUSIC.in">
+    <title>Mood Tapes</title>
+    <desc>Mood Tapes helps you treat every mood with the perfect music. Listen to your favorite songs tailored to your emotions and uplift your spirits anytime, anywhere.</desc>
+  </programme>
+  <programme start="20260816003000 +0530" stop="20260816010000 +0530" channel="SURYA.MUSIC.in">
+    <title>Spicy Mix</title>
+    <desc>Add extra energy to your day with Garam Mix, featuring all the hottest Malayalam songs. Enjoy a lively, upbeat musical experience that keeps you entertained and refreshed.</desc>
+  </programme>
+  <programme start="20260816010000 +0530" stop="20260816020000 +0530" channel="SURYA.MUSIC.in">
+    <title>Nostalgia</title>
+    <desc>Relive your cherished memories with Nostalgia, a show that plays timeless songs, taking listeners on a journey through the golden moments of the past.</desc>
+  </programme>
+  <programme start="20260816020000 +0530" stop="20260816030000 +0530" channel="SURYA.MUSIC.in">
+    <title>Adipoli Songs</title>
+    <desc>A collection of hit songs by renowned artists is played back-to-back, offering listeners an engaging and entertaining musical experience that keeps them enthralled throughout.</desc>
+  </programme>
+  <programme start="20260816030000 +0530" stop="20260816040000 +0530" channel="SURYA.MUSIC.in">
+    <title>Istam Pole Pattu</title>
+    <desc>This program features popular movie songs played back-to-back, offering viewers an engaging musical experience filled with hits from beloved films.</desc>
+  </programme>
+  <programme start="20260816040000 +0530" stop="20260816050000 +0530" channel="SURYA.MUSIC.in">
+    <title>Tamil Thirai</title>
+    <desc>A continuous collection of Tamil film music played back-to-back, featuring timeless hits and popular tracks from beloved movies, keeping listeners entertained throughout.</desc>
+  </programme>
+  <programme start="20260816050000 +0530" stop="20260816060000 +0530" channel="SURYA.MUSIC.in">
+    <title>Nostalgia</title>
+    <desc>Relive your cherished memories with Nostalgia, a show that plays timeless songs, taking listeners on a journey through the golden moments of the past.</desc>
+  </programme>
+  <programme start="20260816060000 +0530" stop="20260816070000 +0530" channel="SURYA.MUSIC.in">
+    <title>Surya Geetham</title>
+    <desc>These are devotional songs dedicated to the Sun God Surya, offering listeners a spiritual experience that celebrates faith, devotion, and the divine power of the sun.</desc>
+  </programme>
+  <programme start="20260816070000 +0530" stop="20260816080000 +0530" channel="SURYA.MUSIC.in">
+    <title>Unstoppable</title>
+    <desc>Unstoppable brings you your favorite songs without any interruptions. Enjoy a seamless musical experience where even breaks can't stop the flow of great music.</desc>
+  </programme>
+  <programme start="20260816080000 +0530" stop="20260816090000 +0530" channel="SURYA.MUSIC.in">
+    <title>Adipoli Songs</title>
+    <desc>A collection of hit songs by renowned artists is played back-to-back, offering listeners an engaging and entertaining musical experience that keeps them enthralled throughout.</desc>
+  </programme>
+  <programme start="20260816090000 +0530" stop="20260816093000 +0530" channel="SURYA.MUSIC.in">
+    <title>Cine Nxt</title>
+    <desc>Cine Nxt</desc>
+  </programme>
+  <programme start="20260816093000 +0530" stop="20260816100000 +0530" channel="SURYA.MUSIC.in">
+    <title>Hridayam</title>
+    <desc>Nothing feels complete without love. Celebrate and cherish your emotions with a collection of beautiful love songs that resonate deeply with your heart and soul.</desc>
+  </programme>
+  <programme start="20260816100000 +0530" stop="20260816110000 +0530" channel="SURYA.MUSIC.in">
+    <title>Istam Pole Pattu</title>
+    <desc>This program features popular movie songs played back-to-back, offering viewers an engaging musical experience filled with hits from beloved films.</desc>
+  </programme>
+  <programme start="20260816110000 +0530" stop="20260816120000 +0530" channel="SURYA.MUSIC.in">
+    <title>Kuthu Reloaded</title>
+    <desc>Kuthu Reloaded is a high-energy Tamil dance song in the Kuthu style. Known for its infectious beats and lively rhythm, it's popular on music platforms and loved by fans.</desc>
+  </programme>
+  <programme start="20260816120000 +0530" stop="20260816130000 +0530" channel="SURYA.MUSIC.in">
+    <title>Tamil Thirai</title>
+    <desc>A continuous collection of Tamil film music played back-to-back, featuring timeless hits and popular tracks from beloved movies, keeping listeners entertained throughout.</desc>
+  </programme>
+  <programme start="20260816130000 +0530" stop="20260816140000 +0530" channel="SURYA.MUSIC.in">
+    <title>Hridayam</title>
+    <desc>Nothing feels complete without love. Celebrate and cherish your emotions with a collection of beautiful love songs that resonate deeply with your heart and soul.</desc>
+  </programme>
+  <programme start="20260816140000 +0530" stop="20260816150000 +0530" channel="SURYA.MUSIC.in">
+    <title>Nostalgia</title>
+    <desc>Relive your cherished memories with Nostalgia, a show that plays timeless songs, taking listeners on a journey through the golden moments of the past.</desc>
+  </programme>
+  <programme start="20260816150000 +0530" stop="20260816160000 +0530" channel="SURYA.MUSIC.in">
+    <title>Adipoli Songs</title>
+    <desc>A collection of hit songs by renowned artists is played back-to-back, offering listeners an engaging and entertaining musical experience that keeps them enthralled throughout.</desc>
+  </programme>
+  <programme start="20260816160000 +0530" stop="20260816170000 +0530" channel="SURYA.MUSIC.in">
+    <title>Kuthu Reloaded</title>
+    <desc>Kuthu Reloaded is a high-energy Tamil dance song in the Kuthu style. Known for its infectious beats and lively rhythm, it's popular on music platforms and loved by fans.</desc>
+  </programme>
+  <programme start="20260816170000 +0530" stop="20260816180000 +0530" channel="SURYA.MUSIC.in">
+    <title>Unstoppable</title>
+    <desc>Unstoppable brings you your favorite songs without any interruptions. Enjoy a seamless musical experience where even breaks can't stop the flow of great music.</desc>
+  </programme>
+  <programme start="20260816180000 +0530" stop="20260816190000 +0530" channel="SURYA.MUSIC.in">
+    <title>Inbox</title>
+    <desc>Inbox is a popular show where viewers can enjoy live or on-demand music requests and countdowns, offering an interactive and entertaining experience for music lovers.</desc>
+  </programme>
+  <programme start="20260816190000 +0530" stop="20260816200000 +0530" channel="SURYA.MUSIC.in">
+    <title>Kuthu Reloaded</title>
+    <desc>Kuthu Reloaded is a high-energy Tamil dance song in the Kuthu style. Known for its infectious beats and lively rhythm, it's popular on music platforms and loved by fans.</desc>
+  </programme>
+  <programme start="20260816200000 +0530" stop="20260816210000 +0530" channel="SURYA.MUSIC.in">
+    <title>Tamil Thirai</title>
+    <desc>A continuous collection of Tamil film music played back-to-back, featuring timeless hits and popular tracks from beloved movies, keeping listeners entertained throughout.</desc>
+  </programme>
+  <programme start="20260816210000 +0530" stop="20260816220000 +0530" channel="SURYA.MUSIC.in">
+    <title>Istam Pole Pattu</title>
+    <desc>This program features popular movie songs played back-to-back, offering viewers an engaging musical experience filled with hits from beloved films.</desc>
+  </programme>
+  <programme start="20260816220000 +0530" stop="20260816230000 +0530" channel="SURYA.MUSIC.in">
+    <title>Nostalgia</title>
+    <desc>Relive your cherished memories with Nostalgia, a show that plays timeless songs, taking listeners on a journey through the golden moments of the past.</desc>
+  </programme>
+  <programme start="20260816230000 +0530" stop="20260817000000 +0530" channel="SURYA.MUSIC.in">
+    <title>Adipoli Songs</title>
+    <desc>A collection of hit songs by renowned artists is played back-to-back, offering listeners an engaging and entertaining musical experience that keeps them enthralled throughout.</desc>
+  </programme>
+  <programme start="20260817000000 +0530" stop="20260817003000 +0530" channel="SURYA.MUSIC.in">
+    <title>Mood Tapes</title>
+    <desc>Mood Tapes helps you treat every mood with the perfect music. Listen to your favorite songs tailored to your emotions and uplift your spirits anytime, anywhere.</desc>
+  </programme>
+  <programme start="20260817003000 +0530" stop="20260817010000 +0530" channel="SURYA.MUSIC.in">
+    <title>Spicy Mix</title>
+    <desc>Add extra energy to your day with Garam Mix, featuring all the hottest Malayalam songs. Enjoy a lively, upbeat musical experience that keeps you entertained and refreshed.</desc>
+  </programme>
+  <programme start="20260817010000 +0530" stop="20260817020000 +0530" channel="SURYA.MUSIC.in">
+    <title>Nostalgia</title>
+    <desc>Relive your cherished memories with Nostalgia, a show that plays timeless songs, taking listeners on a journey through the golden moments of the past.</desc>
+  </programme>
+  <programme start="20260817020000 +0530" stop="20260817030000 +0530" channel="SURYA.MUSIC.in">
+    <title>Adipoli Songs</title>
+    <desc>A collection of hit songs by renowned artists is played back-to-back, offering listeners an engaging and entertaining musical experience that keeps them enthralled throughout.</desc>
+  </programme>
+  <programme start="20260817030000 +0530" stop="20260817040000 +0530" channel="SURYA.MUSIC.in">
+    <title>Istam Pole Pattu</title>
+    <desc>This program features popular movie songs played back-to-back, offering viewers an engaging musical experience filled with hits from beloved films.</desc>
+  </programme>
+  <programme start="20260817040000 +0530" stop="20260817050000 +0530" channel="SURYA.MUSIC.in">
+    <title>Tamil Thirai</title>
+    <desc>A continuous collection of Tamil film music played back-to-back, featuring timeless hits and popular tracks from beloved movies, keeping listeners entertained throughout.</desc>
+  </programme>
+  <programme start="20260817050000 +0530" stop="20260817060000 +0530" channel="SURYA.MUSIC.in">
+    <title>Nostalgia</title>
+    <desc>Relive your cherished memories with Nostalgia, a show that plays timeless songs, taking listeners on a journey through the golden moments of the past.</desc>
+  </programme>
+  <programme start="20260817060000 +0530" stop="20260817070000 +0530" channel="SURYA.MUSIC.in">
+    <title>Surya Geetham</title>
+    <desc>These are devotional songs dedicated to the Sun God Surya, offering listeners a spiritual experience that celebrates faith, devotion, and the divine power of the sun.</desc>
+  </programme>
+  <programme start="20260817070000 +0530" stop="20260817080000 +0530" channel="SURYA.MUSIC.in">
+    <title>Unstoppable</title>
+    <desc>Unstoppable brings you your favorite songs without any interruptions. Enjoy a seamless musical experience where even breaks can't stop the flow of great music.</desc>
+  </programme>
+  <programme start="20260817080000 +0530" stop="20260817090000 +0530" channel="SURYA.MUSIC.in">
+    <title>Adipoli Songs</title>
+    <desc>A collection of hit songs by renowned artists is played back-to-back, offering listeners an engaging and entertaining musical experience that keeps them enthralled throughout.</desc>
+  </programme>
+  <programme start="20260817090000 +0530" stop="20260817100000 +0530" channel="SURYA.MUSIC.in">
+    <title>Namasthe Keralam</title>
+    <desc>Kickstart your day with a heartfelt wish from your loved ones. Share your greetings and make someone's day extra special through Namaste Keralam Live.</desc>
+  </programme>
+  <programme start="20260817100000 +0530" stop="20260817110000 +0530" channel="SURYA.MUSIC.in">
+    <title>Istam Pole Pattu</title>
+    <desc>This program features popular movie songs played back-to-back, offering viewers an engaging musical experience filled with hits from beloved films.</desc>
+  </programme>
+  <programme start="20260817110000 +0530" stop="20260817120000 +0530" channel="SURYA.MUSIC.in">
+    <title>Kuthu Reloaded</title>
+    <desc>Kuthu Reloaded is a high-energy Tamil dance song in the Kuthu style. Known for its infectious beats and lively rhythm, it's popular on music platforms and loved by fans.</desc>
+  </programme>
+  <programme start="20260817120000 +0530" stop="20260817130000 +0530" channel="SURYA.MUSIC.in">
+    <title>Vanitha Cafe</title>
+    <desc>This collection brings together popular breakup songs by famous artists and plays them back-to-back, giving listeners a simple, emotional journey through the end of love.</desc>
+  </programme>
+  <programme start="20260817130000 +0530" stop="20260817133000 +0530" channel="SURYA.MUSIC.in">
+    <title>Tamil Thirai</title>
+    <desc>A continuous collection of Tamil film music played back-to-back, featuring timeless hits and popular tracks from beloved movies, keeping listeners entertained throughout.</desc>
+  </programme>
+  <programme start="20260817133000 +0530" stop="20260817140000 +0530" channel="SURYA.MUSIC.in">
+    <title>Hridayam</title>
+    <desc>Nothing feels complete without love. Celebrate and cherish your emotions with a collection of beautiful love songs that resonate deeply with your heart and soul.</desc>
+  </programme>
+  <programme start="20260817140000 +0530" stop="20260817150000 +0530" channel="SURYA.MUSIC.in">
+    <title>Nostalgia</title>
+    <desc>Relive your cherished memories with Nostalgia, a show that plays timeless songs, taking listeners on a journey through the golden moments of the past.</desc>
+  </programme>
+  <programme start="20260817150000 +0530" stop="20260817160000 +0530" channel="SURYA.MUSIC.in">
+    <title>Adipoli Songs</title>
+    <desc>A collection of hit songs by renowned artists is played back-to-back, offering listeners an engaging and entertaining musical experience that keeps them enthralled throughout.</desc>
+  </programme>
+  <programme start="20260817160000 +0530" stop="20260817170000 +0530" channel="SURYA.MUSIC.in">
+    <title>Kuthu Reloaded</title>
+    <desc>Kuthu Reloaded is a high-energy Tamil dance song in the Kuthu style. Known for its infectious beats and lively rhythm, it's popular on music platforms and loved by fans.</desc>
+  </programme>
+  <programme start="20260817170000 +0530" stop="20260817180000 +0530" channel="SURYA.MUSIC.in">
+    <title>Jackpot</title>
+    <desc>Jackpot is a popular live music request show where viewers call in to win cash prizes, enjoy hit songs, and interact with hosts for an exciting and entertaining experience.</desc>
+  </programme>
+  <programme start="20260817180000 +0530" stop="20260817190000 +0530" channel="SURYA.MUSIC.in">
+    <title>Inbox</title>
+    <desc>Inbox is a popular show where viewers can enjoy live or on-demand music requests and countdowns, offering an interactive and entertaining experience for music lovers.</desc>
+  </programme>
+  <programme start="20260817190000 +0530" stop="20260817200000 +0530" channel="SURYA.MUSIC.in">
+    <title>Kuthu Reloaded</title>
+    <desc>Kuthu Reloaded is a high-energy Tamil dance song in the Kuthu style. Known for its infectious beats and lively rhythm, it's popular on music platforms and loved by fans.</desc>
+  </programme>
+  <programme start="20260817200000 +0530" stop="20260817210000 +0530" channel="SURYA.MUSIC.in">
+    <title>Tamil Thirai</title>
+    <desc>A continuous collection of Tamil film music played back-to-back, featuring timeless hits and popular tracks from beloved movies, keeping listeners entertained throughout.</desc>
+  </programme>
+  <programme start="20260817210000 +0530" stop="20260817220000 +0530" channel="SURYA.MUSIC.in">
+    <title>Istam Pole Pattu</title>
+    <desc>This program features popular movie songs played back-to-back, offering viewers an engaging musical experience filled with hits from beloved films.</desc>
+  </programme>
+  <programme start="20260817220000 +0530" stop="20260817230000 +0530" channel="SURYA.MUSIC.in">
+    <title>Nostalgia</title>
+    <desc>Relive your cherished memories with Nostalgia, a show that plays timeless songs, taking listeners on a journey through the golden moments of the past.</desc>
+  </programme>
+  <programme start="20260817230000 +0530" stop="20260818000000 +0530" channel="SURYA.MUSIC.in">
+    <title>Adipoli Songs</title>
+    <desc>A collection of hit songs by renowned artists is played back-to-back, offering listeners an engaging and entertaining musical experience that keeps them enthralled throughout.</desc>
+  </programme>
+  <programme start="20260818000000 +0530" stop="20260818003000 +0530" channel="SURYA.MUSIC.in">
+    <title>Mood Tapes</title>
+    <desc>Mood Tapes helps you treat every mood with the perfect music. Listen to your favorite songs tailored to your emotions and uplift your spirits anytime, anywhere.</desc>
+  </programme>
+  <programme start="20260818003000 +0530" stop="20260818010000 +0530" channel="SURYA.MUSIC.in">
+    <title>Spicy Mix</title>
+    <desc>Add extra energy to your day with Garam Mix, featuring all the hottest Malayalam songs. Enjoy a lively, upbeat musical experience that keeps you entertained and refreshed.</desc>
+  </programme>
+  <programme start="20260818010000 +0530" stop="20260818020000 +0530" channel="SURYA.MUSIC.in">
+    <title>Nostalgia</title>
+    <desc>Relive your cherished memories with Nostalgia, a show that plays timeless songs, taking listeners on a journey through the golden moments of the past.</desc>
+  </programme>
+  <programme start="20260818020000 +0530" stop="20260818030000 +0530" channel="SURYA.MUSIC.in">
+    <title>Adipoli Songs</title>
+    <desc>A collection of hit songs by renowned artists is played back-to-back, offering listeners an engaging and entertaining musical experience that keeps them enthralled throughout.</desc>
+  </programme>
+  <programme start="20260818030000 +0530" stop="20260818040000 +0530" channel="SURYA.MUSIC.in">
+    <title>Istam Pole Pattu</title>
+    <desc>This program features popular movie songs played back-to-back, offering viewers an engaging musical experience filled with hits from beloved films.</desc>
+  </programme>
+  <programme start="20260818040000 +0530" stop="20260818050000 +0530" channel="SURYA.MUSIC.in">
+    <title>Tamil Thirai</title>
+    <desc>A continuous collection of Tamil film music played back-to-back, featuring timeless hits and popular tracks from beloved movies, keeping listeners entertained throughout.</desc>
+  </programme>
+  <programme start="20260818050000 +0530" stop="20260818060000 +0530" channel="SURYA.MUSIC.in">
+    <title>Nostalgia</title>
+    <desc>Relive your cherished memories with Nostalgia, a show that plays timeless songs, taking listeners on a journey through the golden moments of the past.</desc>
+  </programme>
+  <programme start="20260818060000 +0530" stop="20260818070000 +0530" channel="SURYA.MUSIC.in">
+    <title>Surya Geetham</title>
+    <desc>These are devotional songs dedicated to the Sun God Surya, offering listeners a spiritual experience that celebrates faith, devotion, and the divine power of the sun.</desc>
+  </programme>
+  <programme start="20260818070000 +0530" stop="20260818080000 +0530" channel="SURYA.MUSIC.in">
+    <title>Unstoppable</title>
+    <desc>Unstoppable brings you your favorite songs without any interruptions. Enjoy a seamless musical experience where even breaks can't stop the flow of great music.</desc>
+  </programme>
+  <programme start="20260818080000 +0530" stop="20260818090000 +0530" channel="SURYA.MUSIC.in">
+    <title>Adipoli Songs</title>
+    <desc>A collection of hit songs by renowned artists is played back-to-back, offering listeners an engaging and entertaining musical experience that keeps them enthralled throughout.</desc>
+  </programme>
+  <programme start="20260818090000 +0530" stop="20260818100000 +0530" channel="SURYA.MUSIC.in">
+    <title>Namasthe Keralam</title>
+    <desc>Kickstart your day with a heartfelt wish from your loved ones. Share your greetings and make someone's day extra special through Namaste Keralam Live.</desc>
+  </programme>
+  <programme start="20260818100000 +0530" stop="20260818110000 +0530" channel="SURYA.MUSIC.in">
+    <title>Istam Pole Pattu</title>
+    <desc>This program features popular movie songs played back-to-back, offering viewers an engaging musical experience filled with hits from beloved films.</desc>
+  </programme>
+  <programme start="20260818110000 +0530" stop="20260818120000 +0530" channel="SURYA.MUSIC.in">
+    <title>Kuthu Reloaded</title>
+    <desc>Kuthu Reloaded is a high-energy Tamil dance song in the Kuthu style. Known for its infectious beats and lively rhythm, it's popular on music platforms and loved by fans.</desc>
+  </programme>
+  <programme start="20260818120000 +0530" stop="20260818130000 +0530" channel="SURYA.MUSIC.in">
+    <title>Vanitha Cafe</title>
+    <desc>This collection brings together popular breakup songs by famous artists and plays them back-to-back, giving listeners a simple, emotional journey through the end of love.</desc>
+  </programme>
+  <programme start="20260818130000 +0530" stop="20260818133000 +0530" channel="SURYA.MUSIC.in">
+    <title>Tamil Thirai</title>
+    <desc>A continuous collection of Tamil film music played back-to-back, featuring timeless hits and popular tracks from beloved movies, keeping listeners entertained throughout.</desc>
+  </programme>
+  <programme start="20260818133000 +0530" stop="20260818140000 +0530" channel="SURYA.MUSIC.in">
+    <title>Hridayam</title>
+    <desc>Nothing feels complete without love. Celebrate and cherish your emotions with a collection of beautiful love songs that resonate deeply with your heart and soul.</desc>
+  </programme>
+  <programme start="20260818140000 +0530" stop="20260818150000 +0530" channel="SURYA.MUSIC.in">
+    <title>Nostalgia</title>
+    <desc>Relive your cherished memories with Nostalgia, a show that plays timeless songs, taking listeners on a journey through the golden moments of the past.</desc>
+  </programme>
+  <programme start="20260818150000 +0530" stop="20260818160000 +0530" channel="SURYA.MUSIC.in">
+    <title>Adipoli Songs</title>
+    <desc>A collection of hit songs by renowned artists is played back-to-back, offering listeners an engaging and entertaining musical experience that keeps them enthralled throughout.</desc>
+  </programme>
+  <programme start="20260818160000 +0530" stop="20260818170000 +0530" channel="SURYA.MUSIC.in">
+    <title>Kuthu Reloaded</title>
+    <desc>Kuthu Reloaded is a high-energy Tamil dance song in the Kuthu style. Known for its infectious beats and lively rhythm, it's popular on music platforms and loved by fans.</desc>
+  </programme>
+  <programme start="20260818170000 +0530" stop="20260818180000 +0530" channel="SURYA.MUSIC.in">
+    <title>Jackpot</title>
+    <desc>Jackpot is a popular live music request show where viewers call in to win cash prizes, enjoy hit songs, and interact with hosts for an exciting and entertaining experience.</desc>
+  </programme>
+  <programme start="20260818180000 +0530" stop="20260818190000 +0530" channel="SURYA.MUSIC.in">
+    <title>Inbox</title>
+    <desc>Inbox is a popular show where viewers can enjoy live or on-demand music requests and countdowns, offering an interactive and entertaining experience for music lovers.</desc>
+  </programme>
+  <programme start="20260818190000 +0530" stop="20260818200000 +0530" channel="SURYA.MUSIC.in">
+    <title>Kuthu Reloaded</title>
+    <desc>Kuthu Reloaded is a high-energy Tamil dance song in the Kuthu style. Known for its infectious beats and lively rhythm, it's popular on music platforms and loved by fans.</desc>
+  </programme>
+  <programme start="20260818200000 +0530" stop="20260818210000 +0530" channel="SURYA.MUSIC.in">
+    <title>Tamil Thirai</title>
+    <desc>A continuous collection of Tamil film music played back-to-back, featuring timeless hits and popular tracks from beloved movies, keeping listeners entertained throughout.</desc>
+  </programme>
+  <programme start="20260818210000 +0530" stop="20260818220000 +0530" channel="SURYA.MUSIC.in">
+    <title>Istam Pole Pattu</title>
+    <desc>This program features popular movie songs played back-to-back, offering viewers an engaging musical experience filled with hits from beloved films.</desc>
+  </programme>
+  <programme start="20260818220000 +0530" stop="20260818230000 +0530" channel="SURYA.MUSIC.in">
+    <title>Nostalgia</title>
+    <desc>Relive your cherished memories with Nostalgia, a show that plays timeless songs, taking listeners on a journey through the golden moments of the past.</desc>
+  </programme>
+  <programme start="20260818230000 +0530" stop="20260819000000 +0530" channel="SURYA.MUSIC.in">
+    <title>Adipoli Songs</title>
+    <desc>A collection of hit songs by renowned artists is played back-to-back, offering listeners an engaging and entertaining musical experience that keeps them enthralled throughout.</desc>
+  </programme>
+  <programme start="20260819000000 +0530" stop="20260819003000 +0530" channel="SURYA.MUSIC.in">
+    <title>Mood Tapes</title>
+    <desc>Mood Tapes helps you treat every mood with the perfect music. Listen to your favorite songs tailored to your emotions and uplift your spirits anytime, anywhere.</desc>
+  </programme>
   <programme start="20260814233000 +0530" stop="20260815000000 +0530" channel="ts694">
     <title>Pranayavilasam</title>
     <desc>Trapped under his controlling father's thumb and sent to the wrong college, Suraj's entire world shifts when he unexpectedly breaks up with his girlfriend.</desc>
@@ -2878,6 +3685,222 @@
     <title>Aalwar</title>
     <desc>Aalwar, with revenge ringing in his mind, ends up as Shiva the killer, even while working as a ward boy in a hospital.</desc>
   </programme>
+  <programme start="20260814213000 +0530" stop="20260815000000 +0530" channel="Kairali.WE.TV.in">
+    <title>Nettippattam</title>
+    <desc>Peethambaran, a social activist, works for the welfare of the people in his village. However, he ends up in trouble when he fails to take care of his own family.</desc>
+  </programme>
+  <programme start="20260815000000 +0530" stop="20260815014500 +0530" channel="Kairali.WE.TV.in">
+    <title>Justice Raja</title>
+    <desc>A judge's children face revenge plots involving his lookalike son.</desc>
+  </programme>
+  <programme start="20260815014500 +0530" stop="20260815034500 +0530" channel="Kairali.WE.TV.in">
+    <title>Ishtamanu Pakshe</title>
+    <desc>Nandini, a village girl who loves to read novels, wishes to marry a writer. However, her dreams are shattered when she is forced to marry a calculative businessman.</desc>
+  </programme>
+  <programme start="20260815034500 +0530" stop="20260815060000 +0530" channel="Kairali.WE.TV.in">
+    <title>Mr Butler</title>
+    <desc>Gopalakrishnan, a chef, escapes from his village to a city when his marriage gets ruined. He falls in love with Radhika, but his happiness is short-lived as his past returns to haunt him.</desc>
+  </programme>
+  <programme start="20260815060000 +0530" stop="20260815063000 +0530" channel="Kairali.WE.TV.in">
+    <title>Dr Live</title>
+    <desc>A health-focused program where medical experts discuss common illnesses, preventive care, and wellness tips, helping viewers lead healthier lives.</desc>
+  </programme>
+  <programme start="20260815063000 +0530" stop="20260815080000 +0530" channel="Kairali.WE.TV.in">
+    <title>Eeran Sandhya</title>
+    <desc>Raju accidentally tries to kill someone and goes on the run. He hides with his friend Madhavan, who does his best to help him escape.</desc>
+  </programme>
+  <programme start="20260815080000 +0530" stop="20260815100000 +0530" channel="Kairali.WE.TV.in">
+    <title>Mission 90 days</title>
+    <desc>Sivaraman gets appointed by the government to solve the murder mystery of Prim Minister, he gets 90 days to accomplish the mission.</desc>
+  </programme>
+  <programme start="20260815100000 +0530" stop="20260815123000 +0530" channel="Kairali.WE.TV.in">
+    <title>Usthad</title>
+    <desc>A mentor's journey overcoming challenges and guiding others.</desc>
+  </programme>
+  <programme start="20260815123000 +0530" stop="20260815150000 +0530" channel="Kairali.WE.TV.in">
+    <title>Kgf Chapter 01</title>
+    <desc>Gangster Rocky goes undercover as a slave to take down a gold mine owner.</desc>
+  </programme>
+  <programme start="20260815150000 +0530" stop="20260815153000 +0530" channel="Kairali.WE.TV.in">
+    <title>Kerala State Lottery Result</title>
+    <desc>Kerala Lottery Bhagyathara BT-2 result announced on May 12, 2025. Ticket BU 870939 won Rs 1 crore and BY 521750 won Rs 75 lakh.</desc>
+  </programme>
+  <programme start="20260815153000 +0530" stop="20260815160000 +0530" channel="Kairali.WE.TV.in">
+    <title>Kerala State Lottery Result</title>
+    <desc>Kerala Lottery Bhagyathara BT-2 result announced on May 12, 2025. Ticket BU 870939 won Rs 1 crore and BY 521750 won Rs 75 lakh.</desc>
+  </programme>
+  <programme start="20260815160000 +0530" stop="20260815183000 +0530" channel="Kairali.WE.TV.in">
+    <title>Varnappakittu</title>
+    <desc>A man gets angry with his father and runs away to Singapore. He decides to impress his father with his wealth.</desc>
+  </programme>
+  <programme start="20260815183000 +0530" stop="20260815213000 +0530" channel="Kairali.WE.TV.in">
+    <title>Pokkiri Raja</title>
+    <desc>Madhavan Nair unknowingly kills a teenager; his son Raja takes the fall and serves five years. Post-prison, Raja saves a village lord's daughter and rises as his right-hand man, Pokkiri Raja.</desc>
+  </programme>
+  <programme start="20260815213000 +0530" stop="20260816000000 +0530" channel="Kairali.WE.TV.in">
+    <title>Bandhukkal Sathrukkal</title>
+    <desc>The animosity between two brothers extends to their wives and their grown-up children.</desc>
+  </programme>
+  <programme start="20260816000000 +0530" stop="20260816013000 +0530" channel="Kairali.WE.TV.in">
+    <title>Oru Ragam Pala Thalam</title>
+    <desc>Raju is a poor hard-working man who earns a living with great difficulty. However, when a rich industrialist offers him the job of being his personal secretary, his life changes.</desc>
+  </programme>
+  <programme start="20260816013000 +0530" stop="20260816033000 +0530" channel="Kairali.WE.TV.in">
+    <title>Aaranyakam</title>
+    <desc>Ammini's life changes when she meets Devan, who finds her to be a sharp person. However, in an atmosphere where feudal lords rule, he might be more than what he appears to be.</desc>
+  </programme>
+  <programme start="20260816033000 +0530" stop="20260816060000 +0530" channel="Kairali.WE.TV.in">
+    <title>Ponmuttayidunna Tharavu</title>
+    <desc>Bhaskaran is a local village goldsmith madly in love with Snehalatha. Her father is not happy with the idea, but Bhaskaran's patience is running out.</desc>
+  </programme>
+  <programme start="20260816060000 +0530" stop="20260816063000 +0530" channel="Kairali.WE.TV.in">
+    <title>Dr Live</title>
+    <desc>A health-focused program where medical experts discuss common illnesses, preventive care, and wellness tips, helping viewers lead healthier lives.</desc>
+  </programme>
+  <programme start="20260816063000 +0530" stop="20260816080000 +0530" channel="Kairali.WE.TV.in">
+    <title>Jellikkettu</title>
+    <desc>Butcher Kalan chases runaway buffalo, causing chaos in a distant village. Can he fix the mess before it's too late?</desc>
+  </programme>
+  <programme start="20260816080000 +0530" stop="20260816100000 +0530" channel="Kairali.WE.TV.in">
+    <title>British Market</title>
+    <desc>Kunjamma and her sons run a business and lead a successful life. When Chennaikara, a thug, threatens them, her eldest son is determined to fight against him.</desc>
+  </programme>
+  <programme start="20260816100000 +0530" stop="20260816123000 +0530" channel="Kairali.WE.TV.in">
+    <title>Ig Inspector General</title>
+    <desc>Jayanthi searches for her missing husband in a gold smuggling case.</desc>
+  </programme>
+  <programme start="20260816123000 +0530" stop="20260816150000 +0530" channel="Kairali.WE.TV.in">
+    <title>Joseph</title>
+    <desc>Following the death of his wife, a retired police officer who is known for his investigative prowess, unexpectedly gets pulled into a criminal case.</desc>
+  </programme>
+  <programme start="20260816150000 +0530" stop="20260816153000 +0530" channel="Kairali.WE.TV.in">
+    <title>Kerala State Lottery Result</title>
+    <desc>Kerala Lottery Bhagyathara BT-2 result announced on May 12, 2025. Ticket BU 870939 won Rs 1 crore and BY 521750 won Rs 75 lakh.</desc>
+  </programme>
+  <programme start="20260816153000 +0530" stop="20260816160000 +0530" channel="Kairali.WE.TV.in">
+    <title>Kerala State Lottery Result</title>
+    <desc>Kerala Lottery Bhagyathara BT-2 result announced on May 12, 2025. Ticket BU 870939 won Rs 1 crore and BY 521750 won Rs 75 lakh.</desc>
+  </programme>
+  <programme start="20260816160000 +0530" stop="20260816183000 +0530" channel="Kairali.WE.TV.in">
+    <title>My Dear Karadi</title>
+    <desc>A Malayalam drama with a unique storyline blending emotions, culture, and heartwarming relationships, reflecting everyday struggles and joys of life with cinematic warmth.</desc>
+  </programme>
+  <programme start="20260816183000 +0530" stop="20260816213000 +0530" channel="Kairali.WE.TV.in">
+    <title>Mr Butler</title>
+    <desc>Gopalakrishnan, a chef, escapes from his village to a city when his marriage gets ruined. He falls in love with Radhika, but his happiness is short-lived as his past returns to haunt him.</desc>
+  </programme>
+  <programme start="20260816213000 +0530" stop="20260817000000 +0530" channel="Kairali.WE.TV.in">
+    <title>Devasuram</title>
+    <desc>Neelakantan is heir to his father's fortunes. He once belittles a dancer but later they fall in love.</desc>
+  </programme>
+  <programme start="20260817000000 +0530" stop="20260817013000 +0530" channel="Kairali.WE.TV.in">
+    <title>Adhyayam Onnu Muthal</title>
+    <desc>Adhyayam Onnu Muthal traces a woman's emotional transformation as she begins a new phase in life, overcoming past struggles and embracing hope and renewal.</desc>
+  </programme>
+  <programme start="20260817013000 +0530" stop="20260817033000 +0530" channel="Kairali.WE.TV.in">
+    <title>Manushyamrugam</title>
+    <desc>Prithviraj, a rich, charming businessman, hides a violent life. A determined police officer investigates disappearances, uncovering shocking truths about his double life tonight.</desc>
+  </programme>
+  <programme start="20260817033000 +0530" stop="20260817060000 +0530" channel="Kairali.WE.TV.in">
+    <title>Thommanum Makkalum</title>
+    <desc>A thief and his family decide to mend their ways and start afresh. Things take an awry turn when they find themselves embroiled in local issues.</desc>
+  </programme>
+  <programme start="20260817060000 +0530" stop="20260817063000 +0530" channel="Kairali.WE.TV.in">
+    <title>Dr Live</title>
+    <desc>A health-focused program where medical experts discuss common illnesses, preventive care, and wellness tips, helping viewers lead healthier lives.</desc>
+  </programme>
+  <programme start="20260817063000 +0530" stop="20260817080000 +0530" channel="Kairali.WE.TV.in">
+    <title>Kaaliya Mardhanam</title>
+    <desc>Ramu, a taxi driver, works hard to support his beloved, Geeta, and her mother. But Geeta plans to elope with Srini. However, Srini's friends rape and kill Geeta and put the blame on Ramu.</desc>
+  </programme>
+  <programme start="20260817080000 +0530" stop="20260817100000 +0530" channel="Kairali.WE.TV.in">
+    <title>Parambara</title>
+    <desc>When a gang of criminals kidnaps Johny's son, he is left with no choice but to work with Lawrence, his estranged father, to rescue him. However, Lawrence has his own secrets.</desc>
+  </programme>
+  <programme start="20260817100000 +0530" stop="20260817123000 +0530" channel="Kairali.WE.TV.in">
+    <title>Madraskaran</title>
+    <desc>Madraskaran</desc>
+  </programme>
+  <programme start="20260817123000 +0530" stop="20260817150000 +0530" channel="Kairali.WE.TV.in">
+    <title>Lalsalam</title>
+    <desc>Mohanlal leads a workers uprising against greedy powers while Geetha adds heart to this stirring tale of justice and sacrifice.</desc>
+  </programme>
+  <programme start="20260817150000 +0530" stop="20260817153000 +0530" channel="Kairali.WE.TV.in">
+    <title>Kerala State Lottery Result</title>
+    <desc>Kerala Lottery Bhagyathara BT-2 result announced on May 12, 2025. Ticket BU 870939 won Rs 1 crore and BY 521750 won Rs 75 lakh.</desc>
+  </programme>
+  <programme start="20260817153000 +0530" stop="20260817160000 +0530" channel="Kairali.WE.TV.in">
+    <title>Kerala State Lottery Result</title>
+    <desc>Kerala Lottery Bhagyathara BT-2 result announced on May 12, 2025. Ticket BU 870939 won Rs 1 crore and BY 521750 won Rs 75 lakh.</desc>
+  </programme>
+  <programme start="20260817160000 +0530" stop="20260817183000 +0530" channel="Kairali.WE.TV.in">
+    <title>Kathil Oru Kinnaram</title>
+    <desc>Hari is in love with Varsha but they can't get married until her elder sister Megha, gets married. Hari hires a wedding broker to find Megha a match.</desc>
+  </programme>
+  <programme start="20260817183000 +0530" stop="20260817213000 +0530" channel="Kairali.WE.TV.in">
+    <title>Oppam</title>
+    <desc>A retired judge struggles to keep his daughter safe from a convict.</desc>
+  </programme>
+  <programme start="20260817213000 +0530" stop="20260818000000 +0530" channel="Kairali.WE.TV.in">
+    <title>Paravachakan</title>
+    <desc>Paravachakan</desc>
+  </programme>
+  <programme start="20260818000000 +0530" stop="20260818013000 +0530" channel="Kairali.WE.TV.in">
+    <title>Kaaliya Mardhanam</title>
+    <desc>Ramu, a taxi driver, works hard to support his beloved, Geeta, and her mother. But Geeta plans to elope with Srini. However, Srini's friends rape and kill Geeta and put the blame on Ramu.</desc>
+  </programme>
+  <programme start="20260818013000 +0530" stop="20260818033000 +0530" channel="Kairali.WE.TV.in">
+    <title>Saram</title>
+    <desc>Saram</desc>
+  </programme>
+  <programme start="20260818033000 +0530" stop="20260818060000 +0530" channel="Kairali.WE.TV.in">
+    <title>Alibabayum Aarara Kkallanmarum</title>
+    <desc>Alibabayum Aarara Kkallanmarum</desc>
+  </programme>
+  <programme start="20260818060000 +0530" stop="20260818063000 +0530" channel="Kairali.WE.TV.in">
+    <title>Dr Live</title>
+    <desc>A health-focused program where medical experts discuss common illnesses, preventive care, and wellness tips, helping viewers lead healthier lives.</desc>
+  </programme>
+  <programme start="20260818063000 +0530" stop="20260818080000 +0530" channel="Kairali.WE.TV.in">
+    <title>Saahasam</title>
+    <desc>In Kerala's heartland, a simple man decides to chase an ancient secret, triggering thrilling events that push his limits and change his world forever beyond.</desc>
+  </programme>
+  <programme start="20260818080000 +0530" stop="20260818100000 +0530" channel="Kairali.WE.TV.in">
+    <title>Pattom Pole</title>
+    <desc>Fearing opposition from their parents, Karthik and Riya elope only to return after a couple of days following a fight.</desc>
+  </programme>
+  <programme start="20260818100000 +0530" stop="20260818123000 +0530" channel="Kairali.WE.TV.in">
+    <title>Koushalam</title>
+    <desc>The movie starring Siddique and Urvashi in the lead roles and is directed by T.S.Mohan.</desc>
+  </programme>
+  <programme start="20260818123000 +0530" stop="20260818150000 +0530" channel="Kairali.WE.TV.in">
+    <title>Bharathchandran IPS</title>
+    <desc>Hyder Ali Hassan is a scheming, slimy politician who is hand-in-cahoots with the underworld.</desc>
+  </programme>
+  <programme start="20260818150000 +0530" stop="20260818153000 +0530" channel="Kairali.WE.TV.in">
+    <title>Kerala State Lottery Result</title>
+    <desc>Kerala Lottery Bhagyathara BT-2 result announced on May 12, 2025. Ticket BU 870939 won Rs 1 crore and BY 521750 won Rs 75 lakh.</desc>
+  </programme>
+  <programme start="20260818153000 +0530" stop="20260818160000 +0530" channel="Kairali.WE.TV.in">
+    <title>Kerala State Lottery Result</title>
+    <desc>Kerala Lottery Bhagyathara BT-2 result announced on May 12, 2025. Ticket BU 870939 won Rs 1 crore and BY 521750 won Rs 75 lakh.</desc>
+  </programme>
+  <programme start="20260818160000 +0530" stop="20260818183000 +0530" channel="Kairali.WE.TV.in">
+    <title>Ishq</title>
+    <desc>Sachi and Vasudha are harassed by two men while on a road trip. However, the situation puts their love to the test, making them go their separate ways.</desc>
+  </programme>
+  <programme start="20260818183000 +0530" stop="20260818213000 +0530" channel="Kairali.WE.TV.in">
+    <title>Amma Ammayiyamma</title>
+    <desc>Prabhavati forgets her family relations after marrying the rich Shekharankutty. He decides to make her realize the importance of family relationships.</desc>
+  </programme>
+  <programme start="20260818213000 +0530" stop="20260819000000 +0530" channel="Kairali.WE.TV.in">
+    <title>Swamy Ayyapppan</title>
+    <desc>A devotional mythological presentation celebrating the spiritual journey, teachings and divine miracles associated with Lord Ayyappan and traditional faith practices.</desc>
+  </programme>
+  <programme start="20260819000000 +0530" stop="20260819013000 +0530" channel="Kairali.WE.TV.in">
+    <title>Kaaliya Mardhanam</title>
+    <desc>Ramu, a taxi driver, works hard to support his beloved, Geeta, and her mother. But Geeta plans to elope with Srini. However, Srini's friends rape and kill Geeta and put the blame on Ramu.</desc>
+  </programme>
   <programme start="20260815000000 +0530" stop="20260815003000 +0530" channel="AMRITA.in">
     <title>Amrita News Middle East</title>
     <desc>.</desc>
@@ -3289,6 +4312,1158 @@
   <programme start="20260818231000 +0530" stop="20260819000000 +0530" channel="AMRITA.in">
     <title>Super Star Senior</title>
     <desc>Several people take the centre stage to showcase their talents to a panel of judges.</desc>
+  </programme>
+  <programme start="20260814233000 +0530" stop="20260815000000 +0530" channel="SAFARI.TV.in">
+    <title>Movies On The Road</title>
+    <desc>Selected movies where the theme revolves around going places for various needs.</desc>
+  </programme>
+  <programme start="20260815000000 +0530" stop="20260815003000 +0530" channel="SAFARI.TV.in">
+    <title>Sanchariyude Diarikurippukal</title>
+    <desc>Join the host as they explore unique customs in amazing global destinations!</desc>
+  </programme>
+  <programme start="20260815003000 +0530" stop="20260815010000 +0530" channel="SAFARI.TV.in">
+    <title>Around The World In 30 Mins</title>
+    <desc>A calming video postcard with no narration or music-just an uplifting mix of Zen and energy for a vibrant yet relaxing experience.</desc>
+  </programme>
+  <programme start="20260815010000 +0530" stop="20260815013000 +0530" channel="SAFARI.TV.in">
+    <title>Location Hunt</title>
+    <desc>A visually rich travel show uncovering scenic and cinematic locations ideal for film shoots, tourism, and cultural exploration.</desc>
+  </programme>
+  <programme start="20260815013000 +0530" stop="20260815020000 +0530" channel="SAFARI.TV.in">
+    <title>Smrithi</title>
+    <desc>An introspective series that brings to life emotional memories, personal moments, and nostalgic reflections from diverse walks of life.</desc>
+  </programme>
+  <programme start="20260815020000 +0530" stop="20260815023000 +0530" channel="SAFARI.TV.in">
+    <title>His Story</title>
+    <desc>The host presents a detailed account of the lives of famous personalities who have made a significant contribution to the world.</desc>
+  </programme>
+  <programme start="20260815023000 +0530" stop="20260815030000 +0530" channel="SAFARI.TV.in">
+    <title>Movie Classic</title>
+    <desc>A showcase of timeless cinematic masterpieces, bringing viewers classic films that have left an everlasting impact on the world of cinema.</desc>
+  </programme>
+  <programme start="20260815030000 +0530" stop="20260815033000 +0530" channel="SAFARI.TV.in">
+    <title>Movies On The Road</title>
+    <desc>Selected movies where the theme revolves around going places for various needs.</desc>
+  </programme>
+  <programme start="20260815033000 +0530" stop="20260815040000 +0530" channel="SAFARI.TV.in">
+    <title>Animal Kingdom</title>
+    <desc>The documentary features the lifestyle and habitat of various wild and domestic animals.</desc>
+  </programme>
+  <programme start="20260815040000 +0530" stop="20260815043000 +0530" channel="SAFARI.TV.in">
+    <title>Charithram Ennilude</title>
+    <desc>Famous Malayalis from across the world share their success and failure stories and talk about their personal and professional lives.</desc>
+  </programme>
+  <programme start="20260815043000 +0530" stop="20260815050000 +0530" channel="SAFARI.TV.in">
+    <title>History of Cinema</title>
+    <desc>Educational and cultural narratives exploring knowledge, personal development, and traditions while addressing social challenges.</desc>
+  </programme>
+  <programme start="20260815050000 +0530" stop="20260815053000 +0530" channel="SAFARI.TV.in">
+    <title>Sanchariyude Diarikurippukal</title>
+    <desc>Join the host as they explore unique customs in amazing global destinations!</desc>
+  </programme>
+  <programme start="20260815053000 +0530" stop="20260815060000 +0530" channel="SAFARI.TV.in">
+    <title>Around The World In 30 Mins</title>
+    <desc>A calming video postcard with no narration or music-just an uplifting mix of Zen and energy for a vibrant yet relaxing experience.</desc>
+  </programme>
+  <programme start="20260815060000 +0530" stop="20260815063000 +0530" channel="SAFARI.TV.in">
+    <title>Mission Space</title>
+    <desc>Take a look at the stories behind various space missions undertaken by different countries.</desc>
+  </programme>
+  <programme start="20260815063000 +0530" stop="20260815070000 +0530" channel="SAFARI.TV.in">
+    <title>Smrithi</title>
+    <desc>An introspective series that brings to life emotional memories, personal moments, and nostalgic reflections from diverse walks of life.</desc>
+  </programme>
+  <programme start="20260815070000 +0530" stop="20260815073000 +0530" channel="SAFARI.TV.in">
+    <title>His Story</title>
+    <desc>The host presents a detailed account of the lives of famous personalities who have made a significant contribution to the world.</desc>
+  </programme>
+  <programme start="20260815073000 +0530" stop="20260815080000 +0530" channel="SAFARI.TV.in">
+    <title>Movie Classic</title>
+    <desc>A showcase of timeless cinematic masterpieces, bringing viewers classic films that have left an everlasting impact on the world of cinema.</desc>
+  </programme>
+  <programme start="20260815080000 +0530" stop="20260815083000 +0530" channel="SAFARI.TV.in">
+    <title>Movies On The Road</title>
+    <desc>Selected movies where the theme revolves around going places for various needs.</desc>
+  </programme>
+  <programme start="20260815083000 +0530" stop="20260815090000 +0530" channel="SAFARI.TV.in">
+    <title>Animal Kingdom</title>
+    <desc>The documentary features the lifestyle and habitat of various wild and domestic animals.</desc>
+  </programme>
+  <programme start="20260815090000 +0530" stop="20260815093000 +0530" channel="SAFARI.TV.in">
+    <title>Charithram Ennilude</title>
+    <desc>Famous Malayalis from across the world share their success and failure stories and talk about their personal and professional lives.</desc>
+  </programme>
+  <programme start="20260815093000 +0530" stop="20260815100000 +0530" channel="SAFARI.TV.in">
+    <title>History of Cinema</title>
+    <desc>Educational and cultural narratives exploring knowledge, personal development, and traditions while addressing social challenges.</desc>
+  </programme>
+  <programme start="20260815100000 +0530" stop="20260815103000 +0530" channel="SAFARI.TV.in">
+    <title>Sanchariyude Diarikurippukal</title>
+    <desc>Join the host as they explore unique customs in amazing global destinations!</desc>
+  </programme>
+  <programme start="20260815103000 +0530" stop="20260815110000 +0530" channel="SAFARI.TV.in">
+    <title>Around The World In 30 Mins</title>
+    <desc>A calming video postcard with no narration or music-just an uplifting mix of Zen and energy for a vibrant yet relaxing experience.</desc>
+  </programme>
+  <programme start="20260815110000 +0530" stop="20260815113000 +0530" channel="SAFARI.TV.in">
+    <title>Location Hunt</title>
+    <desc>A visually rich travel show uncovering scenic and cinematic locations ideal for film shoots, tourism, and cultural exploration.</desc>
+  </programme>
+  <programme start="20260815113000 +0530" stop="20260815120000 +0530" channel="SAFARI.TV.in">
+    <title>Smrithi</title>
+    <desc>An introspective series that brings to life emotional memories, personal moments, and nostalgic reflections from diverse walks of life.</desc>
+  </programme>
+  <programme start="20260815120000 +0530" stop="20260815123000 +0530" channel="SAFARI.TV.in">
+    <title>His Story</title>
+    <desc>The host presents a detailed account of the lives of famous personalities who have made a significant contribution to the world.</desc>
+  </programme>
+  <programme start="20260815123000 +0530" stop="20260815130000 +0530" channel="SAFARI.TV.in">
+    <title>Movie Classic</title>
+    <desc>A showcase of timeless cinematic masterpieces, bringing viewers classic films that have left an everlasting impact on the world of cinema.</desc>
+  </programme>
+  <programme start="20260815130000 +0530" stop="20260815133000 +0530" channel="SAFARI.TV.in">
+    <title>Movies On The Road</title>
+    <desc>Selected movies where the theme revolves around going places for various needs.</desc>
+  </programme>
+  <programme start="20260815133000 +0530" stop="20260815140000 +0530" channel="SAFARI.TV.in">
+    <title>Animal Kingdom</title>
+    <desc>The documentary features the lifestyle and habitat of various wild and domestic animals.</desc>
+  </programme>
+  <programme start="20260815140000 +0530" stop="20260815143000 +0530" channel="SAFARI.TV.in">
+    <title>Charithram Ennilude</title>
+    <desc>Famous Malayalis from across the world share their success and failure stories and talk about their personal and professional lives.</desc>
+  </programme>
+  <programme start="20260815143000 +0530" stop="20260815150000 +0530" channel="SAFARI.TV.in">
+    <title>History of Cinema</title>
+    <desc>Educational and cultural narratives exploring knowledge, personal development, and traditions while addressing social challenges.</desc>
+  </programme>
+  <programme start="20260815150000 +0530" stop="20260815153000 +0530" channel="SAFARI.TV.in">
+    <title>Location Hunt</title>
+    <desc>A visually rich travel show uncovering scenic and cinematic locations ideal for film shoots, tourism, and cultural exploration.</desc>
+  </programme>
+  <programme start="20260815153000 +0530" stop="20260815160000 +0530" channel="SAFARI.TV.in">
+    <title>Smrithi</title>
+    <desc>An introspective series that brings to life emotional memories, personal moments, and nostalgic reflections from diverse walks of life.</desc>
+  </programme>
+  <programme start="20260815160000 +0530" stop="20260815163000 +0530" channel="SAFARI.TV.in">
+    <title>His Story</title>
+    <desc>The host presents a detailed account of the lives of famous personalities who have made a significant contribution to the world.</desc>
+  </programme>
+  <programme start="20260815163000 +0530" stop="20260815170000 +0530" channel="SAFARI.TV.in">
+    <title>Movie Classic</title>
+    <desc>A showcase of timeless cinematic masterpieces, bringing viewers classic films that have left an everlasting impact on the world of cinema.</desc>
+  </programme>
+  <programme start="20260815170000 +0530" stop="20260815173000 +0530" channel="SAFARI.TV.in">
+    <title>Movies On The Road</title>
+    <desc>Selected movies where the theme revolves around going places for various needs.</desc>
+  </programme>
+  <programme start="20260815173000 +0530" stop="20260815180000 +0530" channel="SAFARI.TV.in">
+    <title>Animal Kingdom</title>
+    <desc>The documentary features the lifestyle and habitat of various wild and domestic animals.</desc>
+  </programme>
+  <programme start="20260815180000 +0530" stop="20260815183000 +0530" channel="SAFARI.TV.in">
+    <title>Charithram Ennilude</title>
+    <desc>Famous Malayalis from across the world share their success and failure stories and talk about their personal and professional lives.</desc>
+  </programme>
+  <programme start="20260815183000 +0530" stop="20260815190000 +0530" channel="SAFARI.TV.in">
+    <title>History of Cinema</title>
+    <desc>Educational and cultural narratives exploring knowledge, personal development, and traditions while addressing social challenges.</desc>
+  </programme>
+  <programme start="20260815190000 +0530" stop="20260815193000 +0530" channel="SAFARI.TV.in">
+    <title>Around The World In 30 Mins</title>
+    <desc>A calming video postcard with no narration or music-just an uplifting mix of Zen and energy for a vibrant yet relaxing experience.</desc>
+  </programme>
+  <programme start="20260815193000 +0530" stop="20260815200000 +0530" channel="SAFARI.TV.in">
+    <title>Face To Face</title>
+    <desc>An interview series featuring one-on-one conversations with influencers, celebrities, and changemakers discussing life and ideas.</desc>
+  </programme>
+  <programme start="20260815200000 +0530" stop="20260815203000 +0530" channel="SAFARI.TV.in">
+    <title>Animal Kingdom</title>
+    <desc>The documentary features the lifestyle and habitat of various wild and domestic animals.</desc>
+  </programme>
+  <programme start="20260815203000 +0530" stop="20260815210000 +0530" channel="SAFARI.TV.in">
+    <title>Aa Yathrayil</title>
+    <desc>Renowned personalities share their travel stories and experiences with the viewers.</desc>
+  </programme>
+  <programme start="20260815210000 +0530" stop="20260815213000 +0530" channel="SAFARI.TV.in">
+    <title>His Story</title>
+    <desc>The host presents a detailed account of the lives of famous personalities who have made a significant contribution to the world.</desc>
+  </programme>
+  <programme start="20260815213000 +0530" stop="20260815220000 +0530" channel="SAFARI.TV.in">
+    <title>City Tour</title>
+    <desc>Takes viewers on a journey through historical places, iconic landmarks, and vibrant neighborhoods in cities across India.</desc>
+  </programme>
+  <programme start="20260815220000 +0530" stop="20260815223000 +0530" channel="SAFARI.TV.in">
+    <title>Sanchariyude Diarikurippukal</title>
+    <desc>Join the host as they explore unique customs in amazing global destinations!</desc>
+  </programme>
+  <programme start="20260815223000 +0530" stop="20260815230000 +0530" channel="SAFARI.TV.in">
+    <title>Opera House</title>
+    <desc>Showcasing spectacular performances, star-studded interviews, and vibrant cultural moments, this program delivers unmatched grandeur and entertainment.</desc>
+  </programme>
+  <programme start="20260815230000 +0530" stop="20260815233000 +0530" channel="SAFARI.TV.in">
+    <title>Charithram Ennilude</title>
+    <desc>Famous Malayalis from across the world share their success and failure stories and talk about their personal and professional lives.</desc>
+  </programme>
+  <programme start="20260815233000 +0530" stop="20260816000000 +0530" channel="SAFARI.TV.in">
+    <title>History of Cinema</title>
+    <desc>Educational and cultural narratives exploring knowledge, personal development, and traditions while addressing social challenges.</desc>
+  </programme>
+  <programme start="20260816000000 +0530" stop="20260816003000 +0530" channel="SAFARI.TV.in">
+    <title>Around The World In 30 Mins</title>
+    <desc>A calming video postcard with no narration or music-just an uplifting mix of Zen and energy for a vibrant yet relaxing experience.</desc>
+  </programme>
+  <programme start="20260816003000 +0530" stop="20260816010000 +0530" channel="SAFARI.TV.in">
+    <title>Face To Face</title>
+    <desc>An interview series featuring one-on-one conversations with influencers, celebrities, and changemakers discussing life and ideas.</desc>
+  </programme>
+  <programme start="20260816010000 +0530" stop="20260816013000 +0530" channel="SAFARI.TV.in">
+    <title>Animal Kingdom</title>
+    <desc>The documentary features the lifestyle and habitat of various wild and domestic animals.</desc>
+  </programme>
+  <programme start="20260816013000 +0530" stop="20260816020000 +0530" channel="SAFARI.TV.in">
+    <title>Aa Yathrayil</title>
+    <desc>Renowned personalities share their travel stories and experiences with the viewers.</desc>
+  </programme>
+  <programme start="20260816020000 +0530" stop="20260816023000 +0530" channel="SAFARI.TV.in">
+    <title>His Story</title>
+    <desc>The host presents a detailed account of the lives of famous personalities who have made a significant contribution to the world.</desc>
+  </programme>
+  <programme start="20260816023000 +0530" stop="20260816030000 +0530" channel="SAFARI.TV.in">
+    <title>City Tour</title>
+    <desc>Takes viewers on a journey through historical places, iconic landmarks, and vibrant neighborhoods in cities across India.</desc>
+  </programme>
+  <programme start="20260816030000 +0530" stop="20260816033000 +0530" channel="SAFARI.TV.in">
+    <title>Sanchariyude Diarikurippukal</title>
+    <desc>Join the host as they explore unique customs in amazing global destinations!</desc>
+  </programme>
+  <programme start="20260816033000 +0530" stop="20260816040000 +0530" channel="SAFARI.TV.in">
+    <title>Opera House</title>
+    <desc>Showcasing spectacular performances, star-studded interviews, and vibrant cultural moments, this program delivers unmatched grandeur and entertainment.</desc>
+  </programme>
+  <programme start="20260816040000 +0530" stop="20260816043000 +0530" channel="SAFARI.TV.in">
+    <title>Charithram Ennilude</title>
+    <desc>Famous Malayalis from across the world share their success and failure stories and talk about their personal and professional lives.</desc>
+  </programme>
+  <programme start="20260816043000 +0530" stop="20260816050000 +0530" channel="SAFARI.TV.in">
+    <title>History of Cinema</title>
+    <desc>Educational and cultural narratives exploring knowledge, personal development, and traditions while addressing social challenges.</desc>
+  </programme>
+  <programme start="20260816050000 +0530" stop="20260816053000 +0530" channel="SAFARI.TV.in">
+    <title>Around The World In 30 Mins</title>
+    <desc>A calming video postcard with no narration or music-just an uplifting mix of Zen and energy for a vibrant yet relaxing experience.</desc>
+  </programme>
+  <programme start="20260816053000 +0530" stop="20260816060000 +0530" channel="SAFARI.TV.in">
+    <title>Face To Face</title>
+    <desc>An interview series featuring one-on-one conversations with influencers, celebrities, and changemakers discussing life and ideas.</desc>
+  </programme>
+  <programme start="20260816060000 +0530" stop="20260816063000 +0530" channel="SAFARI.TV.in">
+    <title>Mission Space</title>
+    <desc>Take a look at the stories behind various space missions undertaken by different countries.</desc>
+  </programme>
+  <programme start="20260816063000 +0530" stop="20260816070000 +0530" channel="SAFARI.TV.in">
+    <title>Aa Yathrayil</title>
+    <desc>Renowned personalities share their travel stories and experiences with the viewers.</desc>
+  </programme>
+  <programme start="20260816070000 +0530" stop="20260816073000 +0530" channel="SAFARI.TV.in">
+    <title>His Story</title>
+    <desc>The host presents a detailed account of the lives of famous personalities who have made a significant contribution to the world.</desc>
+  </programme>
+  <programme start="20260816073000 +0530" stop="20260816080000 +0530" channel="SAFARI.TV.in">
+    <title>City Tour</title>
+    <desc>Takes viewers on a journey through historical places, iconic landmarks, and vibrant neighborhoods in cities across India.</desc>
+  </programme>
+  <programme start="20260816080000 +0530" stop="20260816083000 +0530" channel="SAFARI.TV.in">
+    <title>Sanchariyude Diarikurippukal</title>
+    <desc>Join the host as they explore unique customs in amazing global destinations!</desc>
+  </programme>
+  <programme start="20260816083000 +0530" stop="20260816090000 +0530" channel="SAFARI.TV.in">
+    <title>Opera House</title>
+    <desc>Showcasing spectacular performances, star-studded interviews, and vibrant cultural moments, this program delivers unmatched grandeur and entertainment.</desc>
+  </programme>
+  <programme start="20260816090000 +0530" stop="20260816093000 +0530" channel="SAFARI.TV.in">
+    <title>Charithram Ennilude</title>
+    <desc>Famous Malayalis from across the world share their success and failure stories and talk about their personal and professional lives.</desc>
+  </programme>
+  <programme start="20260816093000 +0530" stop="20260816100000 +0530" channel="SAFARI.TV.in">
+    <title>History of Cinema</title>
+    <desc>Educational and cultural narratives exploring knowledge, personal development, and traditions while addressing social challenges.</desc>
+  </programme>
+  <programme start="20260816100000 +0530" stop="20260816103000 +0530" channel="SAFARI.TV.in">
+    <title>Around The World In 30 Mins</title>
+    <desc>A calming video postcard with no narration or music-just an uplifting mix of Zen and energy for a vibrant yet relaxing experience.</desc>
+  </programme>
+  <programme start="20260816103000 +0530" stop="20260816110000 +0530" channel="SAFARI.TV.in">
+    <title>Face To Face</title>
+    <desc>An interview series featuring one-on-one conversations with influencers, celebrities, and changemakers discussing life and ideas.</desc>
+  </programme>
+  <programme start="20260816110000 +0530" stop="20260816113000 +0530" channel="SAFARI.TV.in">
+    <title>Animal Kingdom</title>
+    <desc>The documentary features the lifestyle and habitat of various wild and domestic animals.</desc>
+  </programme>
+  <programme start="20260816113000 +0530" stop="20260816120000 +0530" channel="SAFARI.TV.in">
+    <title>Aa Yathrayil</title>
+    <desc>Renowned personalities share their travel stories and experiences with the viewers.</desc>
+  </programme>
+  <programme start="20260816120000 +0530" stop="20260816123000 +0530" channel="SAFARI.TV.in">
+    <title>His Story</title>
+    <desc>The host presents a detailed account of the lives of famous personalities who have made a significant contribution to the world.</desc>
+  </programme>
+  <programme start="20260816123000 +0530" stop="20260816130000 +0530" channel="SAFARI.TV.in">
+    <title>City Tour</title>
+    <desc>Takes viewers on a journey through historical places, iconic landmarks, and vibrant neighborhoods in cities across India.</desc>
+  </programme>
+  <programme start="20260816130000 +0530" stop="20260816133000 +0530" channel="SAFARI.TV.in">
+    <title>Sanchariyude Diarikurippukal</title>
+    <desc>Join the host as they explore unique customs in amazing global destinations!</desc>
+  </programme>
+  <programme start="20260816133000 +0530" stop="20260816140000 +0530" channel="SAFARI.TV.in">
+    <title>Opera House</title>
+    <desc>Showcasing spectacular performances, star-studded interviews, and vibrant cultural moments, this program delivers unmatched grandeur and entertainment.</desc>
+  </programme>
+  <programme start="20260816140000 +0530" stop="20260816143000 +0530" channel="SAFARI.TV.in">
+    <title>Charithram Ennilude</title>
+    <desc>Famous Malayalis from across the world share their success and failure stories and talk about their personal and professional lives.</desc>
+  </programme>
+  <programme start="20260816143000 +0530" stop="20260816150000 +0530" channel="SAFARI.TV.in">
+    <title>History of Cinema</title>
+    <desc>Educational and cultural narratives exploring knowledge, personal development, and traditions while addressing social challenges.</desc>
+  </programme>
+  <programme start="20260816150000 +0530" stop="20260816153000 +0530" channel="SAFARI.TV.in">
+    <title>Animal Kingdom</title>
+    <desc>The documentary features the lifestyle and habitat of various wild and domestic animals.</desc>
+  </programme>
+  <programme start="20260816153000 +0530" stop="20260816160000 +0530" channel="SAFARI.TV.in">
+    <title>Aa Yathrayil</title>
+    <desc>Renowned personalities share their travel stories and experiences with the viewers.</desc>
+  </programme>
+  <programme start="20260816160000 +0530" stop="20260816163000 +0530" channel="SAFARI.TV.in">
+    <title>His Story</title>
+    <desc>The host presents a detailed account of the lives of famous personalities who have made a significant contribution to the world.</desc>
+  </programme>
+  <programme start="20260816163000 +0530" stop="20260816170000 +0530" channel="SAFARI.TV.in">
+    <title>City Tour</title>
+    <desc>Takes viewers on a journey through historical places, iconic landmarks, and vibrant neighborhoods in cities across India.</desc>
+  </programme>
+  <programme start="20260816170000 +0530" stop="20260816173000 +0530" channel="SAFARI.TV.in">
+    <title>Sanchariyude Diarikurippukal</title>
+    <desc>Join the host as they explore unique customs in amazing global destinations!</desc>
+  </programme>
+  <programme start="20260816173000 +0530" stop="20260816180000 +0530" channel="SAFARI.TV.in">
+    <title>Opera House</title>
+    <desc>Showcasing spectacular performances, star-studded interviews, and vibrant cultural moments, this program delivers unmatched grandeur and entertainment.</desc>
+  </programme>
+  <programme start="20260816180000 +0530" stop="20260816183000 +0530" channel="SAFARI.TV.in">
+    <title>Charithram Ennilude</title>
+    <desc>Famous Malayalis from across the world share their success and failure stories and talk about their personal and professional lives.</desc>
+  </programme>
+  <programme start="20260816183000 +0530" stop="20260816190000 +0530" channel="SAFARI.TV.in">
+    <title>History of Cinema</title>
+    <desc>Educational and cultural narratives exploring knowledge, personal development, and traditions while addressing social challenges.</desc>
+  </programme>
+  <programme start="20260816190000 +0530" stop="20260816193000 +0530" channel="SAFARI.TV.in">
+    <title>Sanchariyude Diarikurippukal</title>
+    <desc>Join the host as they explore unique customs in amazing global destinations!</desc>
+  </programme>
+  <programme start="20260816193000 +0530" stop="20260816200000 +0530" channel="SAFARI.TV.in">
+    <title>Around The World In 30 Mins</title>
+    <desc>A calming video postcard with no narration or music-just an uplifting mix of Zen and energy for a vibrant yet relaxing experience.</desc>
+  </programme>
+  <programme start="20260816200000 +0530" stop="20260816203000 +0530" channel="SAFARI.TV.in">
+    <title>Location Hunt</title>
+    <desc>A visually rich travel show uncovering scenic and cinematic locations ideal for film shoots, tourism, and cultural exploration.</desc>
+  </programme>
+  <programme start="20260816203000 +0530" stop="20260816210000 +0530" channel="SAFARI.TV.in">
+    <title>Smrithi</title>
+    <desc>An introspective series that brings to life emotional memories, personal moments, and nostalgic reflections from diverse walks of life.</desc>
+  </programme>
+  <programme start="20260816210000 +0530" stop="20260816213000 +0530" channel="SAFARI.TV.in">
+    <title>His Story</title>
+    <desc>The host presents a detailed account of the lives of famous personalities who have made a significant contribution to the world.</desc>
+  </programme>
+  <programme start="20260816213000 +0530" stop="20260816220000 +0530" channel="SAFARI.TV.in">
+    <title>Movie Classic</title>
+    <desc>A showcase of timeless cinematic masterpieces, bringing viewers classic films that have left an everlasting impact on the world of cinema.</desc>
+  </programme>
+  <programme start="20260816220000 +0530" stop="20260816223000 +0530" channel="SAFARI.TV.in">
+    <title>Movies On The Road</title>
+    <desc>Selected movies where the theme revolves around going places for various needs.</desc>
+  </programme>
+  <programme start="20260816223000 +0530" stop="20260816230000 +0530" channel="SAFARI.TV.in">
+    <title>Animal Kingdom</title>
+    <desc>The documentary features the lifestyle and habitat of various wild and domestic animals.</desc>
+  </programme>
+  <programme start="20260816230000 +0530" stop="20260816233000 +0530" channel="SAFARI.TV.in">
+    <title>Charithram Ennilude</title>
+    <desc>Famous Malayalis from across the world share their success and failure stories and talk about their personal and professional lives.</desc>
+  </programme>
+  <programme start="20260816233000 +0530" stop="20260817000000 +0530" channel="SAFARI.TV.in">
+    <title>History of Cinema</title>
+    <desc>Educational and cultural narratives exploring knowledge, personal development, and traditions while addressing social challenges.</desc>
+  </programme>
+  <programme start="20260817000000 +0530" stop="20260817003000 +0530" channel="SAFARI.TV.in">
+    <title>Location Hunt</title>
+    <desc>A visually rich travel show uncovering scenic and cinematic locations ideal for film shoots, tourism, and cultural exploration.</desc>
+  </programme>
+  <programme start="20260817003000 +0530" stop="20260817010000 +0530" channel="SAFARI.TV.in">
+    <title>Animal Kingdom</title>
+    <desc>The documentary features the lifestyle and habitat of various wild and domestic animals.</desc>
+  </programme>
+  <programme start="20260817010000 +0530" stop="20260817013000 +0530" channel="SAFARI.TV.in">
+    <title>Around The World In 30 Mins</title>
+    <desc>A calming video postcard with no narration or music-just an uplifting mix of Zen and energy for a vibrant yet relaxing experience.</desc>
+  </programme>
+  <programme start="20260817013000 +0530" stop="20260817020000 +0530" channel="SAFARI.TV.in">
+    <title>Aa Yathrayil</title>
+    <desc>Renowned personalities share their travel stories and experiences with the viewers.</desc>
+  </programme>
+  <programme start="20260817020000 +0530" stop="20260817023000 +0530" channel="SAFARI.TV.in">
+    <title>Sahasam</title>
+    <desc>An action-packed adventure program that follows daring heroes as they embark on thrilling journeys. Filled with high-stakes challenges, unexpected twists, and courageous feats .</desc>
+  </programme>
+  <programme start="20260817023000 +0530" stop="20260817030000 +0530" channel="SAFARI.TV.in">
+    <title>Sancharam</title>
+    <desc>A visual travelogue presented by Santosh George Kulangara which gives us a sense of the cultures of other lands.</desc>
+  </programme>
+  <programme start="20260817030000 +0530" stop="20260817033000 +0530" channel="SAFARI.TV.in">
+    <title>Sancharam</title>
+    <desc>A visual travelogue presented by Santosh George Kulangara which gives us a sense of the cultures of other lands.</desc>
+  </programme>
+  <programme start="20260817033000 +0530" stop="20260817040000 +0530" channel="SAFARI.TV.in">
+    <title>Charithram Ennilude</title>
+    <desc>Famous Malayalis from across the world share their success and failure stories and talk about their personal and professional lives.</desc>
+  </programme>
+  <programme start="20260817040000 +0530" stop="20260817043000 +0530" channel="SAFARI.TV.in">
+    <title>Sanchariyude Diarikurippukal</title>
+    <desc>Join the host as they explore unique customs in amazing global destinations!</desc>
+  </programme>
+  <programme start="20260817043000 +0530" stop="20260817050000 +0530" channel="SAFARI.TV.in">
+    <title>Movies On The Road</title>
+    <desc>Selected movies where the theme revolves around going places for various needs.</desc>
+  </programme>
+  <programme start="20260817050000 +0530" stop="20260817053000 +0530" channel="SAFARI.TV.in">
+    <title>Location Hunt</title>
+    <desc>A visually rich travel show uncovering scenic and cinematic locations ideal for film shoots, tourism, and cultural exploration.</desc>
+  </programme>
+  <programme start="20260817053000 +0530" stop="20260817060000 +0530" channel="SAFARI.TV.in">
+    <title>Animal Kingdom</title>
+    <desc>The documentary features the lifestyle and habitat of various wild and domestic animals.</desc>
+  </programme>
+  <programme start="20260817060000 +0530" stop="20260817063000 +0530" channel="SAFARI.TV.in">
+    <title>Sukhino Bhavanthu</title>
+    <desc>Journey through Sukhino Bhavanthu, exploring global wellness and inner peace.</desc>
+  </programme>
+  <programme start="20260817063000 +0530" stop="20260817070000 +0530" channel="SAFARI.TV.in">
+    <title>Aa Yathrayil</title>
+    <desc>Renowned personalities share their travel stories and experiences with the viewers.</desc>
+  </programme>
+  <programme start="20260817070000 +0530" stop="20260817073000 +0530" channel="SAFARI.TV.in">
+    <title>Sahasam</title>
+    <desc>An action-packed adventure program that follows daring heroes as they embark on thrilling journeys. Filled with high-stakes challenges, unexpected twists, and courageous feats .</desc>
+  </programme>
+  <programme start="20260817073000 +0530" stop="20260817080000 +0530" channel="SAFARI.TV.in">
+    <title>Sancharam</title>
+    <desc>A visual travelogue presented by Santosh George Kulangara which gives us a sense of the cultures of other lands.</desc>
+  </programme>
+  <programme start="20260817080000 +0530" stop="20260817083000 +0530" channel="SAFARI.TV.in">
+    <title>Sancharam</title>
+    <desc>A visual travelogue presented by Santosh George Kulangara which gives us a sense of the cultures of other lands.</desc>
+  </programme>
+  <programme start="20260817083000 +0530" stop="20260817090000 +0530" channel="SAFARI.TV.in">
+    <title>Charithram Ennilude</title>
+    <desc>Famous Malayalis from across the world share their success and failure stories and talk about their personal and professional lives.</desc>
+  </programme>
+  <programme start="20260817090000 +0530" stop="20260817093000 +0530" channel="SAFARI.TV.in">
+    <title>Sanchariyude Diarikurippukal</title>
+    <desc>Join the host as they explore unique customs in amazing global destinations!</desc>
+  </programme>
+  <programme start="20260817093000 +0530" stop="20260817100000 +0530" channel="SAFARI.TV.in">
+    <title>Movies On The Road</title>
+    <desc>Selected movies where the theme revolves around going places for various needs.</desc>
+  </programme>
+  <programme start="20260817100000 +0530" stop="20260817103000 +0530" channel="SAFARI.TV.in">
+    <title>Location Hunt</title>
+    <desc>A visually rich travel show uncovering scenic and cinematic locations ideal for film shoots, tourism, and cultural exploration.</desc>
+  </programme>
+  <programme start="20260817103000 +0530" stop="20260817110000 +0530" channel="SAFARI.TV.in">
+    <title>Animal Kingdom</title>
+    <desc>The documentary features the lifestyle and habitat of various wild and domestic animals.</desc>
+  </programme>
+  <programme start="20260817110000 +0530" stop="20260817113000 +0530" channel="SAFARI.TV.in">
+    <title>Around The World In 30 Mins</title>
+    <desc>A calming video postcard with no narration or music-just an uplifting mix of Zen and energy for a vibrant yet relaxing experience.</desc>
+  </programme>
+  <programme start="20260817113000 +0530" stop="20260817120000 +0530" channel="SAFARI.TV.in">
+    <title>Aa Yathrayil</title>
+    <desc>Renowned personalities share their travel stories and experiences with the viewers.</desc>
+  </programme>
+  <programme start="20260817120000 +0530" stop="20260817123000 +0530" channel="SAFARI.TV.in">
+    <title>Sahasam</title>
+    <desc>An action-packed adventure program that follows daring heroes as they embark on thrilling journeys. Filled with high-stakes challenges, unexpected twists, and courageous feats .</desc>
+  </programme>
+  <programme start="20260817123000 +0530" stop="20260817130000 +0530" channel="SAFARI.TV.in">
+    <title>Sancharam</title>
+    <desc>A visual travelogue presented by Santosh George Kulangara which gives us a sense of the cultures of other lands.</desc>
+  </programme>
+  <programme start="20260817130000 +0530" stop="20260817133000 +0530" channel="SAFARI.TV.in">
+    <title>Sancharam</title>
+    <desc>A visual travelogue presented by Santosh George Kulangara which gives us a sense of the cultures of other lands.</desc>
+  </programme>
+  <programme start="20260817133000 +0530" stop="20260817140000 +0530" channel="SAFARI.TV.in">
+    <title>Charithram Ennilude</title>
+    <desc>Famous Malayalis from across the world share their success and failure stories and talk about their personal and professional lives.</desc>
+  </programme>
+  <programme start="20260817140000 +0530" stop="20260817143000 +0530" channel="SAFARI.TV.in">
+    <title>Sanchariyude Diarikurippukal</title>
+    <desc>Join the host as they explore unique customs in amazing global destinations!</desc>
+  </programme>
+  <programme start="20260817143000 +0530" stop="20260817150000 +0530" channel="SAFARI.TV.in">
+    <title>Movies On The Road</title>
+    <desc>Selected movies where the theme revolves around going places for various needs.</desc>
+  </programme>
+  <programme start="20260817150000 +0530" stop="20260817153000 +0530" channel="SAFARI.TV.in">
+    <title>Around The World In 30 Mins</title>
+    <desc>A calming video postcard with no narration or music-just an uplifting mix of Zen and energy for a vibrant yet relaxing experience.</desc>
+  </programme>
+  <programme start="20260817153000 +0530" stop="20260817160000 +0530" channel="SAFARI.TV.in">
+    <title>Aa Yathrayil</title>
+    <desc>Renowned personalities share their travel stories and experiences with the viewers.</desc>
+  </programme>
+  <programme start="20260817160000 +0530" stop="20260817163000 +0530" channel="SAFARI.TV.in">
+    <title>Sahasam</title>
+    <desc>An action-packed adventure program that follows daring heroes as they embark on thrilling journeys. Filled with high-stakes challenges, unexpected twists, and courageous feats .</desc>
+  </programme>
+  <programme start="20260817163000 +0530" stop="20260817170000 +0530" channel="SAFARI.TV.in">
+    <title>Sancharam</title>
+    <desc>A visual travelogue presented by Santosh George Kulangara which gives us a sense of the cultures of other lands.</desc>
+  </programme>
+  <programme start="20260817170000 +0530" stop="20260817173000 +0530" channel="SAFARI.TV.in">
+    <title>Sancharam</title>
+    <desc>A visual travelogue presented by Santosh George Kulangara which gives us a sense of the cultures of other lands.</desc>
+  </programme>
+  <programme start="20260817173000 +0530" stop="20260817180000 +0530" channel="SAFARI.TV.in">
+    <title>Charithram Ennilude</title>
+    <desc>Famous Malayalis from across the world share their success and failure stories and talk about their personal and professional lives.</desc>
+  </programme>
+  <programme start="20260817180000 +0530" stop="20260817183000 +0530" channel="SAFARI.TV.in">
+    <title>Sanchariyude Diarikurippukal</title>
+    <desc>Join the host as they explore unique customs in amazing global destinations!</desc>
+  </programme>
+  <programme start="20260817183000 +0530" stop="20260817190000 +0530" channel="SAFARI.TV.in">
+    <title>Movies On The Road</title>
+    <desc>Selected movies where the theme revolves around going places for various needs.</desc>
+  </programme>
+  <programme start="20260817190000 +0530" stop="20260817193000 +0530" channel="SAFARI.TV.in">
+    <title>City Tour</title>
+    <desc>Takes viewers on a journey through historical places, iconic landmarks, and vibrant neighborhoods in cities across India.</desc>
+  </programme>
+  <programme start="20260817193000 +0530" stop="20260817200000 +0530" channel="SAFARI.TV.in">
+    <title>Movies On The Road</title>
+    <desc>Selected movies where the theme revolves around going places for various needs.</desc>
+  </programme>
+  <programme start="20260817200000 +0530" stop="20260817203000 +0530" channel="SAFARI.TV.in">
+    <title>Around The World In 30 Mins</title>
+    <desc>A calming video postcard with no narration or music-just an uplifting mix of Zen and energy for a vibrant yet relaxing experience.</desc>
+  </programme>
+  <programme start="20260817203000 +0530" stop="20260817210000 +0530" channel="SAFARI.TV.in">
+    <title>Animal Kingdom</title>
+    <desc>The documentary features the lifestyle and habitat of various wild and domestic animals.</desc>
+  </programme>
+  <programme start="20260817210000 +0530" stop="20260817213000 +0530" channel="SAFARI.TV.in">
+    <title>Sahasam</title>
+    <desc>An action-packed adventure program that follows daring heroes as they embark on thrilling journeys. Filled with high-stakes challenges, unexpected twists, and courageous feats .</desc>
+  </programme>
+  <programme start="20260817213000 +0530" stop="20260817220000 +0530" channel="SAFARI.TV.in">
+    <title>Sancharam</title>
+    <desc>A visual travelogue presented by Santosh George Kulangara which gives us a sense of the cultures of other lands.</desc>
+  </programme>
+  <programme start="20260817220000 +0530" stop="20260817223000 +0530" channel="SAFARI.TV.in">
+    <title>Sancharam</title>
+    <desc>A visual travelogue presented by Santosh George Kulangara which gives us a sense of the cultures of other lands.</desc>
+  </programme>
+  <programme start="20260817223000 +0530" stop="20260817230000 +0530" channel="SAFARI.TV.in">
+    <title>Charithram Ennilude</title>
+    <desc>Famous Malayalis from across the world share their success and failure stories and talk about their personal and professional lives.</desc>
+  </programme>
+  <programme start="20260817230000 +0530" stop="20260817233000 +0530" channel="SAFARI.TV.in">
+    <title>His Story</title>
+    <desc>The host presents a detailed account of the lives of famous personalities who have made a significant contribution to the world.</desc>
+  </programme>
+  <programme start="20260817233000 +0530" stop="20260818000000 +0530" channel="SAFARI.TV.in">
+    <title>Opera House</title>
+    <desc>Showcasing spectacular performances, star-studded interviews, and vibrant cultural moments, this program delivers unmatched grandeur and entertainment.</desc>
+  </programme>
+  <programme start="20260818000000 +0530" stop="20260818003000 +0530" channel="SAFARI.TV.in">
+    <title>City Tour</title>
+    <desc>Takes viewers on a journey through historical places, iconic landmarks, and vibrant neighborhoods in cities across India.</desc>
+  </programme>
+  <programme start="20260818003000 +0530" stop="20260818010000 +0530" channel="SAFARI.TV.in">
+    <title>Movies On The Road</title>
+    <desc>Selected movies where the theme revolves around going places for various needs.</desc>
+  </programme>
+  <programme start="20260818010000 +0530" stop="20260818013000 +0530" channel="SAFARI.TV.in">
+    <title>Around The World In 30 Mins</title>
+    <desc>A calming video postcard with no narration or music-just an uplifting mix of Zen and energy for a vibrant yet relaxing experience.</desc>
+  </programme>
+  <programme start="20260818013000 +0530" stop="20260818020000 +0530" channel="SAFARI.TV.in">
+    <title>Animal Kingdom</title>
+    <desc>The documentary features the lifestyle and habitat of various wild and domestic animals.</desc>
+  </programme>
+  <programme start="20260818020000 +0530" stop="20260818023000 +0530" channel="SAFARI.TV.in">
+    <title>Sahasam</title>
+    <desc>An action-packed adventure program that follows daring heroes as they embark on thrilling journeys. Filled with high-stakes challenges, unexpected twists, and courageous feats .</desc>
+  </programme>
+  <programme start="20260818023000 +0530" stop="20260818030000 +0530" channel="SAFARI.TV.in">
+    <title>Sancharam</title>
+    <desc>A visual travelogue presented by Santosh George Kulangara which gives us a sense of the cultures of other lands.</desc>
+  </programme>
+  <programme start="20260818030000 +0530" stop="20260818033000 +0530" channel="SAFARI.TV.in">
+    <title>Sancharam</title>
+    <desc>A visual travelogue presented by Santosh George Kulangara which gives us a sense of the cultures of other lands.</desc>
+  </programme>
+  <programme start="20260818033000 +0530" stop="20260818040000 +0530" channel="SAFARI.TV.in">
+    <title>Charithram Ennilude</title>
+    <desc>Famous Malayalis from across the world share their success and failure stories and talk about their personal and professional lives.</desc>
+  </programme>
+  <programme start="20260818040000 +0530" stop="20260818043000 +0530" channel="SAFARI.TV.in">
+    <title>His Story</title>
+    <desc>The host presents a detailed account of the lives of famous personalities who have made a significant contribution to the world.</desc>
+  </programme>
+  <programme start="20260818043000 +0530" stop="20260818050000 +0530" channel="SAFARI.TV.in">
+    <title>Opera House</title>
+    <desc>Showcasing spectacular performances, star-studded interviews, and vibrant cultural moments, this program delivers unmatched grandeur and entertainment.</desc>
+  </programme>
+  <programme start="20260818050000 +0530" stop="20260818053000 +0530" channel="SAFARI.TV.in">
+    <title>City Tour</title>
+    <desc>Takes viewers on a journey through historical places, iconic landmarks, and vibrant neighborhoods in cities across India.</desc>
+  </programme>
+  <programme start="20260818053000 +0530" stop="20260818060000 +0530" channel="SAFARI.TV.in">
+    <title>Movies On The Road</title>
+    <desc>Selected movies where the theme revolves around going places for various needs.</desc>
+  </programme>
+  <programme start="20260818060000 +0530" stop="20260818063000 +0530" channel="SAFARI.TV.in">
+    <title>Sukhino Bhavanthu</title>
+    <desc>Journey through Sukhino Bhavanthu, exploring global wellness and inner peace.</desc>
+  </programme>
+  <programme start="20260818063000 +0530" stop="20260818070000 +0530" channel="SAFARI.TV.in">
+    <title>Animal Kingdom</title>
+    <desc>The documentary features the lifestyle and habitat of various wild and domestic animals.</desc>
+  </programme>
+  <programme start="20260818070000 +0530" stop="20260818073000 +0530" channel="SAFARI.TV.in">
+    <title>Sahasam</title>
+    <desc>An action-packed adventure program that follows daring heroes as they embark on thrilling journeys. Filled with high-stakes challenges, unexpected twists, and courageous feats .</desc>
+  </programme>
+  <programme start="20260818073000 +0530" stop="20260818080000 +0530" channel="SAFARI.TV.in">
+    <title>Sancharam</title>
+    <desc>A visual travelogue presented by Santosh George Kulangara which gives us a sense of the cultures of other lands.</desc>
+  </programme>
+  <programme start="20260818080000 +0530" stop="20260818083000 +0530" channel="SAFARI.TV.in">
+    <title>Sancharam</title>
+    <desc>A visual travelogue presented by Santosh George Kulangara which gives us a sense of the cultures of other lands.</desc>
+  </programme>
+  <programme start="20260818083000 +0530" stop="20260818090000 +0530" channel="SAFARI.TV.in">
+    <title>Charithram Ennilude</title>
+    <desc>Famous Malayalis from across the world share their success and failure stories and talk about their personal and professional lives.</desc>
+  </programme>
+  <programme start="20260818090000 +0530" stop="20260818093000 +0530" channel="SAFARI.TV.in">
+    <title>His Story</title>
+    <desc>The host presents a detailed account of the lives of famous personalities who have made a significant contribution to the world.</desc>
+  </programme>
+  <programme start="20260818093000 +0530" stop="20260818100000 +0530" channel="SAFARI.TV.in">
+    <title>Opera House</title>
+    <desc>Showcasing spectacular performances, star-studded interviews, and vibrant cultural moments, this program delivers unmatched grandeur and entertainment.</desc>
+  </programme>
+  <programme start="20260818100000 +0530" stop="20260818103000 +0530" channel="SAFARI.TV.in">
+    <title>City Tour</title>
+    <desc>Takes viewers on a journey through historical places, iconic landmarks, and vibrant neighborhoods in cities across India.</desc>
+  </programme>
+  <programme start="20260818103000 +0530" stop="20260818110000 +0530" channel="SAFARI.TV.in">
+    <title>Movies On The Road</title>
+    <desc>Selected movies where the theme revolves around going places for various needs.</desc>
+  </programme>
+  <programme start="20260818110000 +0530" stop="20260818113000 +0530" channel="SAFARI.TV.in">
+    <title>Around The World In 30 Mins</title>
+    <desc>A calming video postcard with no narration or music-just an uplifting mix of Zen and energy for a vibrant yet relaxing experience.</desc>
+  </programme>
+  <programme start="20260818113000 +0530" stop="20260818120000 +0530" channel="SAFARI.TV.in">
+    <title>Animal Kingdom</title>
+    <desc>The documentary features the lifestyle and habitat of various wild and domestic animals.</desc>
+  </programme>
+  <programme start="20260818120000 +0530" stop="20260818123000 +0530" channel="SAFARI.TV.in">
+    <title>Sahasam</title>
+    <desc>An action-packed adventure program that follows daring heroes as they embark on thrilling journeys. Filled with high-stakes challenges, unexpected twists, and courageous feats .</desc>
+  </programme>
+  <programme start="20260818123000 +0530" stop="20260818130000 +0530" channel="SAFARI.TV.in">
+    <title>Sancharam</title>
+    <desc>A visual travelogue presented by Santosh George Kulangara which gives us a sense of the cultures of other lands.</desc>
+  </programme>
+  <programme start="20260818130000 +0530" stop="20260818133000 +0530" channel="SAFARI.TV.in">
+    <title>Sancharam</title>
+    <desc>A visual travelogue presented by Santosh George Kulangara which gives us a sense of the cultures of other lands.</desc>
+  </programme>
+  <programme start="20260818133000 +0530" stop="20260818140000 +0530" channel="SAFARI.TV.in">
+    <title>Charithram Ennilude</title>
+    <desc>Famous Malayalis from across the world share their success and failure stories and talk about their personal and professional lives.</desc>
+  </programme>
+  <programme start="20260818140000 +0530" stop="20260818143000 +0530" channel="SAFARI.TV.in">
+    <title>His Story</title>
+    <desc>The host presents a detailed account of the lives of famous personalities who have made a significant contribution to the world.</desc>
+  </programme>
+  <programme start="20260818143000 +0530" stop="20260818150000 +0530" channel="SAFARI.TV.in">
+    <title>Opera House</title>
+    <desc>Showcasing spectacular performances, star-studded interviews, and vibrant cultural moments, this program delivers unmatched grandeur and entertainment.</desc>
+  </programme>
+  <programme start="20260818150000 +0530" stop="20260818153000 +0530" channel="SAFARI.TV.in">
+    <title>Around The World In 30 Mins</title>
+    <desc>A calming video postcard with no narration or music-just an uplifting mix of Zen and energy for a vibrant yet relaxing experience.</desc>
+  </programme>
+  <programme start="20260818153000 +0530" stop="20260818160000 +0530" channel="SAFARI.TV.in">
+    <title>Animal Kingdom</title>
+    <desc>The documentary features the lifestyle and habitat of various wild and domestic animals.</desc>
+  </programme>
+  <programme start="20260818160000 +0530" stop="20260818163000 +0530" channel="SAFARI.TV.in">
+    <title>Sahasam</title>
+    <desc>An action-packed adventure program that follows daring heroes as they embark on thrilling journeys. Filled with high-stakes challenges, unexpected twists, and courageous feats .</desc>
+  </programme>
+  <programme start="20260818163000 +0530" stop="20260818170000 +0530" channel="SAFARI.TV.in">
+    <title>Sancharam</title>
+    <desc>A visual travelogue presented by Santosh George Kulangara which gives us a sense of the cultures of other lands.</desc>
+  </programme>
+  <programme start="20260818170000 +0530" stop="20260818173000 +0530" channel="SAFARI.TV.in">
+    <title>Sancharam</title>
+    <desc>A visual travelogue presented by Santosh George Kulangara which gives us a sense of the cultures of other lands.</desc>
+  </programme>
+  <programme start="20260818173000 +0530" stop="20260818180000 +0530" channel="SAFARI.TV.in">
+    <title>Charithram Ennilude</title>
+    <desc>Famous Malayalis from across the world share their success and failure stories and talk about their personal and professional lives.</desc>
+  </programme>
+  <programme start="20260818180000 +0530" stop="20260818183000 +0530" channel="SAFARI.TV.in">
+    <title>His Story</title>
+    <desc>The host presents a detailed account of the lives of famous personalities who have made a significant contribution to the world.</desc>
+  </programme>
+  <programme start="20260818183000 +0530" stop="20260818190000 +0530" channel="SAFARI.TV.in">
+    <title>Opera House</title>
+    <desc>Showcasing spectacular performances, star-studded interviews, and vibrant cultural moments, this program delivers unmatched grandeur and entertainment.</desc>
+  </programme>
+  <programme start="20260818190000 +0530" stop="20260818193000 +0530" channel="SAFARI.TV.in">
+    <title>Smrithi</title>
+    <desc>An introspective series that brings to life emotional memories, personal moments, and nostalgic reflections from diverse walks of life.</desc>
+  </programme>
+  <programme start="20260818193000 +0530" stop="20260818200000 +0530" channel="SAFARI.TV.in">
+    <title>Face To Face</title>
+    <desc>An interview series featuring one-on-one conversations with influencers, celebrities, and changemakers discussing life and ideas.</desc>
+  </programme>
+  <programme start="20260818200000 +0530" stop="20260818203000 +0530" channel="SAFARI.TV.in">
+    <title>Around The World In 30 Mins</title>
+    <desc>A calming video postcard with no narration or music-just an uplifting mix of Zen and energy for a vibrant yet relaxing experience.</desc>
+  </programme>
+  <programme start="20260818203000 +0530" stop="20260818210000 +0530" channel="SAFARI.TV.in">
+    <title>Sanchariyude Diarikurippukal</title>
+    <desc>Join the host as they explore unique customs in amazing global destinations!</desc>
+  </programme>
+  <programme start="20260818210000 +0530" stop="20260818213000 +0530" channel="SAFARI.TV.in">
+    <title>Sahasam</title>
+    <desc>An action-packed adventure program that follows daring heroes as they embark on thrilling journeys. Filled with high-stakes challenges, unexpected twists, and courageous feats .</desc>
+  </programme>
+  <programme start="20260818213000 +0530" stop="20260818220000 +0530" channel="SAFARI.TV.in">
+    <title>Sancharam</title>
+    <desc>A visual travelogue presented by Santosh George Kulangara which gives us a sense of the cultures of other lands.</desc>
+  </programme>
+  <programme start="20260818220000 +0530" stop="20260818223000 +0530" channel="SAFARI.TV.in">
+    <title>Sancharam</title>
+    <desc>A visual travelogue presented by Santosh George Kulangara which gives us a sense of the cultures of other lands.</desc>
+  </programme>
+  <programme start="20260818223000 +0530" stop="20260818230000 +0530" channel="SAFARI.TV.in">
+    <title>Charithram Ennilude</title>
+    <desc>Famous Malayalis from across the world share their success and failure stories and talk about their personal and professional lives.</desc>
+  </programme>
+  <programme start="20260818230000 +0530" stop="20260818233000 +0530" channel="SAFARI.TV.in">
+    <title>His Story</title>
+    <desc>The host presents a detailed account of the lives of famous personalities who have made a significant contribution to the world.</desc>
+  </programme>
+  <programme start="20260818233000 +0530" stop="20260819000000 +0530" channel="SAFARI.TV.in">
+    <title>Animal Kingdom</title>
+    <desc>The documentary features the lifestyle and habitat of various wild and domestic animals.</desc>
+  </programme>
+  <programme start="20260819000000 +0530" stop="20260819003000 +0530" channel="SAFARI.TV.in">
+    <title>Smrithi</title>
+    <desc>An introspective series that brings to life emotional memories, personal moments, and nostalgic reflections from diverse walks of life.</desc>
+  </programme>
+  <programme start="20260814233000 +0530" stop="20260815000000 +0530" channel="KOCHU.TV.in">
+    <title>Happy Kid</title>
+    <desc>This show involves a young boy, Happy Kid. He along with his three close friends, Luay, Lamy and Zaim, experience various fun-filled adventures.</desc>
+  </programme>
+  <programme start="20260815000000 +0530" stop="20260815023000 +0530" channel="KOCHU.TV.in">
+    <title>Happy Kid</title>
+    <desc>This show involves a young boy, Happy Kid. He along with his three close friends, Luay, Lamy and Zaim, experience various fun-filled adventures.</desc>
+  </programme>
+  <programme start="20260815023000 +0530" stop="20260815033000 +0530" channel="KOCHU.TV.in">
+    <title>Singoo Fan Fest</title>
+    <desc>The show features Happy Kid and his friends Luay, Lamy, and Zaim, going on exciting adventures together.</desc>
+  </programme>
+  <programme start="20260815033000 +0530" stop="20260815050000 +0530" channel="KOCHU.TV.in">
+    <title>Happy Kid</title>
+    <desc>This show involves a young boy, Happy Kid. He along with his three close friends, Luay, Lamy and Zaim, experience various fun-filled adventures.</desc>
+  </programme>
+  <programme start="20260815050000 +0530" stop="20260815060000 +0530" channel="KOCHU.TV.in">
+    <title>Kadha Koottu</title>
+    <desc>An entertainment-based program for kids.</desc>
+  </programme>
+  <programme start="20260815060000 +0530" stop="20260815063000 +0530" channel="KOCHU.TV.in">
+    <title>Sakthiman</title>
+    <desc>As darkness grows stronger to end the world, the Suryanshis select Shaktimaan to battle evil forces and defend humanity against rising shadows and bold threats everywhere.</desc>
+  </programme>
+  <programme start="20260815063000 +0530" stop="20260815070000 +0530" channel="KOCHU.TV.in">
+    <title>Maha Ganesha</title>
+    <desc>Ganesha and Karthikeya meet in a tense clash, start playing, and Narada arrives to explain their surprising relationship. Their discovery could change gods' power dynamics.</desc>
+  </programme>
+  <programme start="20260815070000 +0530" stop="20260815080000 +0530" channel="KOCHU.TV.in">
+    <title>Little Hakka</title>
+    <desc>Little Hakka, aided by sister Amei, uses magic and the Hakka Hat to fight evil forces seeking to destroy nature and save their world together.</desc>
+  </programme>
+  <programme start="20260815080000 +0530" stop="20260815080300 +0530" channel="KOCHU.TV.in">
+    <title>Happy Birthday</title>
+    <desc>Celebrate your little one's special day with cheerful birthday wishes, bright visuals, and fun moments. A joyful segment filled with love, laughter, and happy surprises for children.</desc>
+  </programme>
+  <programme start="20260815080300 +0530" stop="20260815100000 +0530" channel="KOCHU.TV.in">
+    <title>Heidi</title>
+    <desc>An animated series about a little girl, Heidi, who lives in the Swiss Alps with her grandfather.</desc>
+  </programme>
+  <programme start="20260815100000 +0530" stop="20260815103000 +0530" channel="KOCHU.TV.in">
+    <title>Super Singoo</title>
+    <desc>Super Singoo</desc>
+  </programme>
+  <programme start="20260815103000 +0530" stop="20260815130000 +0530" channel="KOCHU.TV.in">
+    <title>Heidi</title>
+    <desc>An animated series about a little girl, Heidi, who lives in the Swiss Alps with her grandfather.</desc>
+  </programme>
+  <programme start="20260815130000 +0530" stop="20260815160000 +0530" channel="KOCHU.TV.in">
+    <title>Super Singoo</title>
+    <desc>Super Singoo</desc>
+  </programme>
+  <programme start="20260815160000 +0530" stop="20260815160300 +0530" channel="KOCHU.TV.in">
+    <title>Happy Birthday</title>
+    <desc>Celebrate your little one's special day with cheerful birthday wishes, bright visuals, and fun moments. A joyful segment filled with love, laughter, and happy surprises for children.</desc>
+  </programme>
+  <programme start="20260815160300 +0530" stop="20260815193000 +0530" channel="KOCHU.TV.in">
+    <title>Little Hakka</title>
+    <desc>Little Hakka, aided by sister Amei, uses magic and the Hakka Hat to fight evil forces seeking to destroy nature and save their world together.</desc>
+  </programme>
+  <programme start="20260815193000 +0530" stop="20260815200000 +0530" channel="KOCHU.TV.in">
+    <title>Super Singoo</title>
+    <desc>Super Singoo</desc>
+  </programme>
+  <programme start="20260815200000 +0530" stop="20260815210000 +0530" channel="KOCHU.TV.in">
+    <title>Balaveer</title>
+    <desc>Little girl Dora traverses through various places and meets with different adventures each time.</desc>
+  </programme>
+  <programme start="20260815210000 +0530" stop="20260815213000 +0530" channel="KOCHU.TV.in">
+    <title>Back To School</title>
+    <desc>Your favorite stars relive their childhood as they compete with five to 12-year-olds in this fun-filled game show.</desc>
+  </programme>
+  <programme start="20260815213000 +0530" stop="20260815223000 +0530" channel="KOCHU.TV.in">
+    <title>Little Krishna</title>
+    <desc>This show features the childhood times of Lord Sri Krishna.</desc>
+  </programme>
+  <programme start="20260815223000 +0530" stop="20260815233000 +0530" channel="KOCHU.TV.in">
+    <title>Sakthiman</title>
+    <desc>As darkness grows stronger to end the world, the Suryanshis select Shaktimaan to battle evil forces and defend humanity against rising shadows and bold threats everywhere.</desc>
+  </programme>
+  <programme start="20260815233000 +0530" stop="20260816000000 +0530" channel="KOCHU.TV.in">
+    <title>Happy Kid</title>
+    <desc>This show involves a young boy, Happy Kid. He along with his three close friends, Luay, Lamy and Zaim, experience various fun-filled adventures.</desc>
+  </programme>
+  <programme start="20260816000000 +0530" stop="20260816023000 +0530" channel="KOCHU.TV.in">
+    <title>Happy Kid</title>
+    <desc>This show involves a young boy, Happy Kid. He along with his three close friends, Luay, Lamy and Zaim, experience various fun-filled adventures.</desc>
+  </programme>
+  <programme start="20260816023000 +0530" stop="20260816033000 +0530" channel="KOCHU.TV.in">
+    <title>Singoo Fan Fest</title>
+    <desc>The show features Happy Kid and his friends Luay, Lamy, and Zaim, going on exciting adventures together.</desc>
+  </programme>
+  <programme start="20260816033000 +0530" stop="20260816050000 +0530" channel="KOCHU.TV.in">
+    <title>Happy Kid</title>
+    <desc>This show involves a young boy, Happy Kid. He along with his three close friends, Luay, Lamy and Zaim, experience various fun-filled adventures.</desc>
+  </programme>
+  <programme start="20260816050000 +0530" stop="20260816060000 +0530" channel="KOCHU.TV.in">
+    <title>Kadha Koottu</title>
+    <desc>An entertainment-based program for kids.</desc>
+  </programme>
+  <programme start="20260816060000 +0530" stop="20260816063000 +0530" channel="KOCHU.TV.in">
+    <title>Sakthiman</title>
+    <desc>As darkness grows stronger to end the world, the Suryanshis select Shaktimaan to battle evil forces and defend humanity against rising shadows and bold threats everywhere.</desc>
+  </programme>
+  <programme start="20260816063000 +0530" stop="20260816070000 +0530" channel="KOCHU.TV.in">
+    <title>Maha Ganesha</title>
+    <desc>Ganesha and Karthikeya meet in a tense clash, start playing, and Narada arrives to explain their surprising relationship. Their discovery could change gods' power dynamics.</desc>
+  </programme>
+  <programme start="20260816070000 +0530" stop="20260816080000 +0530" channel="KOCHU.TV.in">
+    <title>Little Hakka</title>
+    <desc>Little Hakka, aided by sister Amei, uses magic and the Hakka Hat to fight evil forces seeking to destroy nature and save their world together.</desc>
+  </programme>
+  <programme start="20260816080000 +0530" stop="20260816080300 +0530" channel="KOCHU.TV.in">
+    <title>Happy Birthday</title>
+    <desc>Celebrate your little one's special day with cheerful birthday wishes, bright visuals, and fun moments. A joyful segment filled with love, laughter, and happy surprises for children.</desc>
+  </programme>
+  <programme start="20260816080300 +0530" stop="20260816100000 +0530" channel="KOCHU.TV.in">
+    <title>Heidi</title>
+    <desc>An animated series about a little girl, Heidi, who lives in the Swiss Alps with her grandfather.</desc>
+  </programme>
+  <programme start="20260816100000 +0530" stop="20260816103000 +0530" channel="KOCHU.TV.in">
+    <title>Super Singoo</title>
+    <desc>Super Singoo</desc>
+  </programme>
+  <programme start="20260816103000 +0530" stop="20260816140000 +0530" channel="KOCHU.TV.in">
+    <title>Heidi</title>
+    <desc>An animated series about a little girl, Heidi, who lives in the Swiss Alps with her grandfather.</desc>
+  </programme>
+  <programme start="20260816140000 +0530" stop="20260816143000 +0530" channel="KOCHU.TV.in">
+    <title>Super Singoo</title>
+    <desc>Super Singoo</desc>
+  </programme>
+  <programme start="20260816143000 +0530" stop="20260816153000 +0530" channel="KOCHU.TV.in">
+    <title>Heidi</title>
+    <desc>An animated series about a little girl, Heidi, who lives in the Swiss Alps with her grandfather.</desc>
+  </programme>
+  <programme start="20260816153000 +0530" stop="20260816160000 +0530" channel="KOCHU.TV.in">
+    <title>Back To School</title>
+    <desc>Your favorite stars relive their childhood as they compete with five to 12-year-olds in this fun-filled game show.</desc>
+  </programme>
+  <programme start="20260816160000 +0530" stop="20260816160300 +0530" channel="KOCHU.TV.in">
+    <title>Happy Birthday</title>
+    <desc>Celebrate your little one's special day with cheerful birthday wishes, bright visuals, and fun moments. A joyful segment filled with love, laughter, and happy surprises for children.</desc>
+  </programme>
+  <programme start="20260816160300 +0530" stop="20260816193000 +0530" channel="KOCHU.TV.in">
+    <title>Little Hakka</title>
+    <desc>Little Hakka, aided by sister Amei, uses magic and the Hakka Hat to fight evil forces seeking to destroy nature and save their world together.</desc>
+  </programme>
+  <programme start="20260816193000 +0530" stop="20260816200000 +0530" channel="KOCHU.TV.in">
+    <title>Super Singoo</title>
+    <desc>Super Singoo</desc>
+  </programme>
+  <programme start="20260816200000 +0530" stop="20260816210000 +0530" channel="KOCHU.TV.in">
+    <title>Balaveer</title>
+    <desc>Little girl Dora traverses through various places and meets with different adventures each time.</desc>
+  </programme>
+  <programme start="20260816210000 +0530" stop="20260816213000 +0530" channel="KOCHU.TV.in">
+    <title>Back To School</title>
+    <desc>Your favorite stars relive their childhood as they compete with five to 12-year-olds in this fun-filled game show.</desc>
+  </programme>
+  <programme start="20260816213000 +0530" stop="20260816223000 +0530" channel="KOCHU.TV.in">
+    <title>Little Krishna</title>
+    <desc>This show features the childhood times of Lord Sri Krishna.</desc>
+  </programme>
+  <programme start="20260816223000 +0530" stop="20260816233000 +0530" channel="KOCHU.TV.in">
+    <title>Sakthiman</title>
+    <desc>As darkness grows stronger to end the world, the Suryanshis select Shaktimaan to battle evil forces and defend humanity against rising shadows and bold threats everywhere.</desc>
+  </programme>
+  <programme start="20260816233000 +0530" stop="20260817000000 +0530" channel="KOCHU.TV.in">
+    <title>Happy Kid</title>
+    <desc>This show involves a young boy, Happy Kid. He along with his three close friends, Luay, Lamy and Zaim, experience various fun-filled adventures.</desc>
+  </programme>
+  <programme start="20260817000000 +0530" stop="20260817023000 +0530" channel="KOCHU.TV.in">
+    <title>Happy Kid</title>
+    <desc>This show involves a young boy, Happy Kid. He along with his three close friends, Luay, Lamy and Zaim, experience various fun-filled adventures.</desc>
+  </programme>
+  <programme start="20260817023000 +0530" stop="20260817033000 +0530" channel="KOCHU.TV.in">
+    <title>Singoo Fan Fest</title>
+    <desc>The show features Happy Kid and his friends Luay, Lamy, and Zaim, going on exciting adventures together.</desc>
+  </programme>
+  <programme start="20260817033000 +0530" stop="20260817050000 +0530" channel="KOCHU.TV.in">
+    <title>Happy Kid</title>
+    <desc>This show involves a young boy, Happy Kid. He along with his three close friends, Luay, Lamy and Zaim, experience various fun-filled adventures.</desc>
+  </programme>
+  <programme start="20260817050000 +0530" stop="20260817060000 +0530" channel="KOCHU.TV.in">
+    <title>Kadha Koottu</title>
+    <desc>An entertainment-based program for kids.</desc>
+  </programme>
+  <programme start="20260817060000 +0530" stop="20260817063000 +0530" channel="KOCHU.TV.in">
+    <title>Sakthiman</title>
+    <desc>As darkness grows stronger to end the world, the Suryanshis select Shaktimaan to battle evil forces and defend humanity against rising shadows and bold threats everywhere.</desc>
+  </programme>
+  <programme start="20260817063000 +0530" stop="20260817070000 +0530" channel="KOCHU.TV.in">
+    <title>Maha Ganesha</title>
+    <desc>Ganesha and Karthikeya meet in a tense clash, start playing, and Narada arrives to explain their surprising relationship. Their discovery could change gods' power dynamics.</desc>
+  </programme>
+  <programme start="20260817070000 +0530" stop="20260817073000 +0530" channel="KOCHU.TV.in">
+    <title>Sabash Bola</title>
+    <desc>Sabash Bola</desc>
+  </programme>
+  <programme start="20260817073000 +0530" stop="20260817080000 +0530" channel="KOCHU.TV.in">
+    <title>Little Hakka</title>
+    <desc>Little Hakka, aided by sister Amei, uses magic and the Hakka Hat to fight evil forces seeking to destroy nature and save their world together.</desc>
+  </programme>
+  <programme start="20260817080000 +0530" stop="20260817080500 +0530" channel="KOCHU.TV.in">
+    <title>Happy Birthday</title>
+    <desc>Celebrate your little one's special day with cheerful birthday wishes, bright visuals, and fun moments. A joyful segment filled with love, laughter, and happy surprises for children.</desc>
+  </programme>
+  <programme start="20260817080500 +0530" stop="20260817103000 +0530" channel="KOCHU.TV.in">
+    <title>Heidi</title>
+    <desc>An animated series about a little girl, Heidi, who lives in the Swiss Alps with her grandfather.</desc>
+  </programme>
+  <programme start="20260817103000 +0530" stop="20260817120000 +0530" channel="KOCHU.TV.in">
+    <title>Balaveer</title>
+    <desc>Little girl Dora traverses through various places and meets with different adventures each time.</desc>
+  </programme>
+  <programme start="20260817120000 +0530" stop="20260817130000 +0530" channel="KOCHU.TV.in">
+    <title>Panda And Rooster</title>
+    <desc>This story follows a curious Rooster traveling to China, where he meets a Panda, learning about places, cultures, and unlikely friendships along the journey together.</desc>
+  </programme>
+  <programme start="20260817130000 +0530" stop="20260817140000 +0530" channel="KOCHU.TV.in">
+    <title>Little Hakka</title>
+    <desc>Little Hakka, aided by sister Amei, uses magic and the Hakka Hat to fight evil forces seeking to destroy nature and save their world together.</desc>
+  </programme>
+  <programme start="20260817140000 +0530" stop="20260817150000 +0530" channel="KOCHU.TV.in">
+    <title>Dorayude Prayanam</title>
+    <desc>Little girl Dora traverses through various places and meets with different adventures each time.</desc>
+  </programme>
+  <programme start="20260817150000 +0530" stop="20260817153000 +0530" channel="KOCHU.TV.in">
+    <title>Danger Mouse</title>
+    <desc>Assisted by Colonel K and Professor Squawkencluck, Danger Mouse takes on his enemy Baron Silas von Greenback.</desc>
+  </programme>
+  <programme start="20260817153000 +0530" stop="20260817160000 +0530" channel="KOCHU.TV.in">
+    <title>Glorias House</title>
+    <desc>Gloria's messy house stands out on a street of perfect homes in Chillsville, yet it's livelier and more enjoyable than the town's pristine places for everyone.</desc>
+  </programme>
+  <programme start="20260817160000 +0530" stop="20260817160300 +0530" channel="KOCHU.TV.in">
+    <title>Happy Birthday</title>
+    <desc>Celebrate your little one's special day with cheerful birthday wishes, bright visuals, and fun moments. A joyful segment filled with love, laughter, and happy surprises for children.</desc>
+  </programme>
+  <programme start="20260817160300 +0530" stop="20260817173000 +0530" channel="KOCHU.TV.in">
+    <title>Little Hakka</title>
+    <desc>Little Hakka, aided by sister Amei, uses magic and the Hakka Hat to fight evil forces seeking to destroy nature and save their world together.</desc>
+  </programme>
+  <programme start="20260817173000 +0530" stop="20260817193000 +0530" channel="KOCHU.TV.in">
+    <title>Panda And Rooster</title>
+    <desc>This story follows a curious Rooster traveling to China, where he meets a Panda, learning about places, cultures, and unlikely friendships along the journey together.</desc>
+  </programme>
+  <programme start="20260817193000 +0530" stop="20260817200000 +0530" channel="KOCHU.TV.in">
+    <title>Sakthiman</title>
+    <desc>As darkness grows stronger to end the world, the Suryanshis select Shaktimaan to battle evil forces and defend humanity against rising shadows and bold threats everywhere.</desc>
+  </programme>
+  <programme start="20260817200000 +0530" stop="20260817213000 +0530" channel="KOCHU.TV.in">
+    <title>Balaveer</title>
+    <desc>Little girl Dora traverses through various places and meets with different adventures each time.</desc>
+  </programme>
+  <programme start="20260817213000 +0530" stop="20260817223000 +0530" channel="KOCHU.TV.in">
+    <title>Little Krishna</title>
+    <desc>This show features the childhood times of Lord Sri Krishna.</desc>
+  </programme>
+  <programme start="20260817223000 +0530" stop="20260817233000 +0530" channel="KOCHU.TV.in">
+    <title>Sakthiman</title>
+    <desc>As darkness grows stronger to end the world, the Suryanshis select Shaktimaan to battle evil forces and defend humanity against rising shadows and bold threats everywhere.</desc>
+  </programme>
+  <programme start="20260817233000 +0530" stop="20260818000000 +0530" channel="KOCHU.TV.in">
+    <title>Happy Kid</title>
+    <desc>This show involves a young boy, Happy Kid. He along with his three close friends, Luay, Lamy and Zaim, experience various fun-filled adventures.</desc>
+  </programme>
+  <programme start="20260818000000 +0530" stop="20260818023000 +0530" channel="KOCHU.TV.in">
+    <title>Happy Kid</title>
+    <desc>This show involves a young boy, Happy Kid. He along with his three close friends, Luay, Lamy and Zaim, experience various fun-filled adventures.</desc>
+  </programme>
+  <programme start="20260818023000 +0530" stop="20260818033000 +0530" channel="KOCHU.TV.in">
+    <title>Singoo Fan Fest</title>
+    <desc>The show features Happy Kid and his friends Luay, Lamy, and Zaim, going on exciting adventures together.</desc>
+  </programme>
+  <programme start="20260818033000 +0530" stop="20260818050000 +0530" channel="KOCHU.TV.in">
+    <title>Happy Kid</title>
+    <desc>This show involves a young boy, Happy Kid. He along with his three close friends, Luay, Lamy and Zaim, experience various fun-filled adventures.</desc>
+  </programme>
+  <programme start="20260818050000 +0530" stop="20260818060000 +0530" channel="KOCHU.TV.in">
+    <title>Kadha Koottu</title>
+    <desc>An entertainment-based program for kids.</desc>
+  </programme>
+  <programme start="20260818060000 +0530" stop="20260818063000 +0530" channel="KOCHU.TV.in">
+    <title>Sakthiman</title>
+    <desc>As darkness grows stronger to end the world, the Suryanshis select Shaktimaan to battle evil forces and defend humanity against rising shadows and bold threats everywhere.</desc>
+  </programme>
+  <programme start="20260818063000 +0530" stop="20260818070000 +0530" channel="KOCHU.TV.in">
+    <title>Maha Ganesha</title>
+    <desc>Ganesha and Karthikeya meet in a tense clash, start playing, and Narada arrives to explain their surprising relationship. Their discovery could change gods' power dynamics.</desc>
+  </programme>
+  <programme start="20260818070000 +0530" stop="20260818073000 +0530" channel="KOCHU.TV.in">
+    <title>Sabash Bola</title>
+    <desc>Sabash Bola</desc>
+  </programme>
+  <programme start="20260818073000 +0530" stop="20260818080000 +0530" channel="KOCHU.TV.in">
+    <title>Little Hakka</title>
+    <desc>Little Hakka, aided by sister Amei, uses magic and the Hakka Hat to fight evil forces seeking to destroy nature and save their world together.</desc>
+  </programme>
+  <programme start="20260818080000 +0530" stop="20260818080500 +0530" channel="KOCHU.TV.in">
+    <title>Happy Birthday</title>
+    <desc>Celebrate your little one's special day with cheerful birthday wishes, bright visuals, and fun moments. A joyful segment filled with love, laughter, and happy surprises for children.</desc>
+  </programme>
+  <programme start="20260818080500 +0530" stop="20260818100000 +0530" channel="KOCHU.TV.in">
+    <title>Heidi</title>
+    <desc>An animated series about a little girl, Heidi, who lives in the Swiss Alps with her grandfather.</desc>
+  </programme>
+  <programme start="20260818100000 +0530" stop="20260818103000 +0530" channel="KOCHU.TV.in">
+    <title>Super Singoo</title>
+    <desc>Super Singoo</desc>
+  </programme>
+  <programme start="20260818103000 +0530" stop="20260818120000 +0530" channel="KOCHU.TV.in">
+    <title>Balaveer</title>
+    <desc>Little girl Dora traverses through various places and meets with different adventures each time.</desc>
+  </programme>
+  <programme start="20260818120000 +0530" stop="20260818130000 +0530" channel="KOCHU.TV.in">
+    <title>Panda And Rooster</title>
+    <desc>This story follows a curious Rooster traveling to China, where he meets a Panda, learning about places, cultures, and unlikely friendships along the journey together.</desc>
+  </programme>
+  <programme start="20260818130000 +0530" stop="20260818140000 +0530" channel="KOCHU.TV.in">
+    <title>Little Hakka</title>
+    <desc>Little Hakka, aided by sister Amei, uses magic and the Hakka Hat to fight evil forces seeking to destroy nature and save their world together.</desc>
+  </programme>
+  <programme start="20260818140000 +0530" stop="20260818143000 +0530" channel="KOCHU.TV.in">
+    <title>Super Singoo</title>
+    <desc>Super Singoo</desc>
+  </programme>
+  <programme start="20260818143000 +0530" stop="20260818150000 +0530" channel="KOCHU.TV.in">
+    <title>Dorayude Prayanam</title>
+    <desc>Little girl Dora traverses through various places and meets with different adventures each time.</desc>
+  </programme>
+  <programme start="20260818150000 +0530" stop="20260818153000 +0530" channel="KOCHU.TV.in">
+    <title>Danger Mouse</title>
+    <desc>Assisted by Colonel K and Professor Squawkencluck, Danger Mouse takes on his enemy Baron Silas von Greenback.</desc>
+  </programme>
+  <programme start="20260818153000 +0530" stop="20260818160000 +0530" channel="KOCHU.TV.in">
+    <title>Glorias House</title>
+    <desc>Gloria's messy house stands out on a street of perfect homes in Chillsville, yet it's livelier and more enjoyable than the town's pristine places for everyone.</desc>
+  </programme>
+  <programme start="20260818160000 +0530" stop="20260818160500 +0530" channel="KOCHU.TV.in">
+    <title>Happy Birthday</title>
+    <desc>Celebrate your little one's special day with cheerful birthday wishes, bright visuals, and fun moments. A joyful segment filled with love, laughter, and happy surprises for children.</desc>
+  </programme>
+  <programme start="20260818160500 +0530" stop="20260818173000 +0530" channel="KOCHU.TV.in">
+    <title>Little Hakka</title>
+    <desc>Little Hakka, aided by sister Amei, uses magic and the Hakka Hat to fight evil forces seeking to destroy nature and save their world together.</desc>
+  </programme>
+  <programme start="20260818173000 +0530" stop="20260818193000 +0530" channel="KOCHU.TV.in">
+    <title>Panda And Rooster</title>
+    <desc>This story follows a curious Rooster traveling to China, where he meets a Panda, learning about places, cultures, and unlikely friendships along the journey together.</desc>
+  </programme>
+  <programme start="20260818193000 +0530" stop="20260818200000 +0530" channel="KOCHU.TV.in">
+    <title>Super Singoo</title>
+    <desc>Super Singoo</desc>
+  </programme>
+  <programme start="20260818200000 +0530" stop="20260818213000 +0530" channel="KOCHU.TV.in">
+    <title>Balaveer</title>
+    <desc>Little girl Dora traverses through various places and meets with different adventures each time.</desc>
+  </programme>
+  <programme start="20260818213000 +0530" stop="20260818223000 +0530" channel="KOCHU.TV.in">
+    <title>Little Krishna</title>
+    <desc>This show features the childhood times of Lord Sri Krishna.</desc>
+  </programme>
+  <programme start="20260818223000 +0530" stop="20260818233000 +0530" channel="KOCHU.TV.in">
+    <title>Sakthiman</title>
+    <desc>As darkness grows stronger to end the world, the Suryanshis select Shaktimaan to battle evil forces and defend humanity against rising shadows and bold threats everywhere.</desc>
+  </programme>
+  <programme start="20260818233000 +0530" stop="20260819000000 +0530" channel="KOCHU.TV.in">
+    <title>Happy Kid</title>
+    <desc>This show involves a young boy, Happy Kid. He along with his three close friends, Luay, Lamy and Zaim, experience various fun-filled adventures.</desc>
+  </programme>
+  <programme start="20260819000000 +0530" stop="20260819023000 +0530" channel="KOCHU.TV.in">
+    <title>Happy Kid</title>
+    <desc>This show involves a young boy, Happy Kid. He along with his three close friends, Luay, Lamy and Zaim, experience various fun-filled adventures.</desc>
   </programme>
   <programme start="20260814233000 +0530" stop="20260815000000 +0530" channel="News.24.in">
     <title>Gulf Today</title>
