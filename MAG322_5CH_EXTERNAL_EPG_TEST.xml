@@ -1,24 +1,24 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <tv generator-info-name="Sersi.GA" generator-info-url="https://sersi.ga">
   <channel id="ts292">
     <display-name>MY: ASIANET (FHD)</display-name>
-    <icon src="https://i.ibb.co/v3CjsWg/download-1-2.png"/>
+    <icon src="https://i.ibb.co/v3CjsWg/download-1-2.png" />
   </channel>
   <channel id="ts694">
     <display-name>MY: ZEE KERALAM (FHD)</display-name>
-    <icon src="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Keralam-HD.png"/>
+    <icon src="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Keralam-HD.png" />
   </channel>
   <channel id="mazhavilmanoramahd.in">
     <display-name>MAL | MANORAMA NEWS</display-name>
-    <icon src="https://static.epg.best/in/ManoramaNews.in.png"/>
+    <icon src="https://static.epg.best/in/ManoramaNews.in.png" />
   </channel>
   <channel id="flowers.in">
     <display-name>MY: Flowers TV (DP)</display-name>
-    <icon src="https://i.ibb.co/YZ59Jtx/download-3-1.png"/>
+    <icon src="https://i.ibb.co/YZ59Jtx/download-3-1.png" />
   </channel>
   <channel id="ts25">
     <display-name>MY: Kairali HD</display-name>
-    <icon src="https://www.lyngsat.com/logo/tv/kk/kairali_in.png"/>
+    <icon src="https://www.lyngsat.com/logo/tv/kk/kairali_in.png" />
   </channel>
   <programme start="20260815170500 +0100" stop="20260815193000 +0100" channel="mazhavilmanoramahd.in">
     <title>Mazhavil Manorama</title>
@@ -468,26 +468,6 @@
     <title>Flowers Top Singer</title>
     <desc>Talented young singers compete against each other as they perform on stage in front of a panel of judges to emerge victorious and win the title.</desc>
   </programme>
-  <programme start="20260815143000 +0100" stop="20260815150000 +0100" channel="ts292">
-    <title>Mazha Thorum Munpe</title>
-    <desc>Abandoned as a child, Aleena must find her parents and the love she deserves. S01 E383.</desc>
-  </programme>
-  <programme start="20260815150000 +0100" stop="20260815153000 +0100" channel="ts292">
-    <title>Chempaneer Poovu</title>
-    <desc>Revathy, supporting her family, encounters Sachi, who brings changes to her life. S01 E850.</desc>
-  </programme>
-  <programme start="20260815153000 +0100" stop="20260815163000 +0100" channel="ts292">
-    <title>Star Singer</title>
-    <desc>Talented singers perform different songs in a series of rounds and compete to win. S10 E107.</desc>
-  </programme>
-  <programme start="20260815163000 +0100" stop="20260815173000 +0100" channel="ts292">
-    <title>Bigg Boss 10 - Agnipariksha</title>
-    <desc>. S01 E01.</desc>
-  </programme>
-  <programme start="20260815173000 +0100" stop="20260815203000 +0100" channel="ts292">
-    <title>Forensic</title>
-    <desc>Samuel uses his forensic skills in order to track a psychotic murderer on a killing spree.</desc>
-  </programme>
   <programme start="20260815143000 +0100" stop="20260815150000 +0100" channel="ts694">
     <title>Kudumbasree Sharada</title>
     <desc>A single mother raises her three daughters despite a troublesome past. S01 E1576.</desc>
@@ -528,76 +508,308 @@
     <title>Dada</title>
     <desc>A young boy endures many hardships while raising his son as a single parent.</desc>
   </programme>
-  <programme start="20260815203000 +0100" stop="20260815230000 +0100" channel="ts292">
-    <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
+  <programme start="20260814233000 +0530" stop="20260815000000 +0530" channel="ts292">
+    <title>Chempaneerpoovu</title>
+    <desc>Revathy supporting her family, encounters Sachi, who brings changes to her life.</desc>
   </programme>
-  <programme start="20260815230000 +0100" stop="20260816013000 +0100" channel="ts292">
-    <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
+  <programme start="20260815000000 +0530" stop="20260815023000 +0530" channel="ts292">
+    <title>Niram</title>
+    <desc>Aby realises that he is in love with Sona, his childhood friend, but is unable to express his feelings. However, he faces a dilemma when he learns that her marriage has already been arranged.</desc>
   </programme>
-  <programme start="20260816013000 +0100" stop="20260816023000 +0100" channel="ts292">
+  <programme start="20260815023000 +0530" stop="20260815030000 +0530" channel="ts292">
+    <title>Chirikkum Thalika Ii</title>
+    <desc>Chirikkum Thalika, a Malayalam reality show on Asianet Plus, compiles funny scenes from Malayalam films to entertain viewers with lighthearted humor.</desc>
+  </programme>
+  <programme start="20260815030000 +0530" stop="20260815053000 +0530" channel="ts292">
+    <title>Parava</title>
+    <desc>Parava focuses on Mattancherry pigeon race.</desc>
+  </programme>
+  <programme start="20260815053000 +0530" stop="20260815060000 +0530" channel="ts292">
+    <title>Chirikkum Thalika Ii</title>
+    <desc>Chirikkum Thalika, a Malayalam reality show on Asianet Plus, compiles funny scenes from Malayalam films to entertain viewers with lighthearted humor.</desc>
+  </programme>
+  <programme start="20260815060000 +0530" stop="20260815070000 +0530" channel="ts292">
     <title>Kannante Radha</title>
-    <desc>Radha and Krishna face challenges when a curse separates them for a hundred years. S01 E325.</desc>
+    <desc>Another touching love story explores emotional bonds, societal expectations, and enduring connection despite obstacles.</desc>
   </programme>
-  <programme start="20260816023000 +0100" stop="20260816030000 +0100" channel="ts292">
-    <title>48th Soorya Festival 2025</title>
-    <desc>. S01 E37.</desc>
+  <programme start="20260815070000 +0530" stop="20260815073000 +0530" channel="ts292">
+    <title>48Th Soorya Festival 2025</title>
+    <desc>A vibrant celebration of classical arts that unites iconic performers and fresh talent in immersive evenings honoring cultural heritage while embracing modern creativity in music and dance.</desc>
   </programme>
-  <programme start="20260816030000 +0100" stop="20260816033000 +0100" channel="ts292">
-    <title>Kissan Krishideepam</title>
-    <desc>Experts talk about the developments in agriculture, animal husbandry and horticulture. S01 E1170.</desc>
+  <programme start="20260815073000 +0530" stop="20260815080000 +0530" channel="ts292">
+    <title>Spon.Prog:Kissan Krishideepam</title>
+    <desc>This is a government-sponsored educational TV show about farming, animal care, gardens, and agriculture topics, teaching practical skills to help farmers succeed nationwide today.</desc>
   </programme>
-  <programme start="20260816033000 +0100" stop="20260816040000 +0100" channel="ts292">
+  <programme start="20260815080000 +0530" stop="20260815083000 +0530" channel="ts292">
     <title>Sabarimala Swami Ayyappan</title>
-    <desc>. S01 E134.</desc>
+    <desc>Born with the powers of Shiva and Vishnu, here's a beautiful retelling of the tales of the divinity called Swami Ayyappan.</desc>
   </programme>
-  <programme start="20260816040000 +0100" stop="20260816043000 +0100" channel="ts292">
+  <programme start="20260815083000 +0530" stop="20260815090000 +0530" channel="ts292">
     <title>Sabarimala Swami Ayyappan</title>
-    <desc>. S01 E135.</desc>
+    <desc>Born with the powers of Shiva and Vishnu, here's a beautiful retelling of the tales of the divinity called Swami Ayyappan.</desc>
   </programme>
-  <programme start="20260816043000 +0100" stop="20260816073000 +0100" channel="ts292">
-    <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
+  <programme start="20260815090000 +0530" stop="20260815120000 +0530" channel="ts292">
+    <title>Kandahar</title>
+    <desc>A gripping war drama inspired by real events, following a daring rescue mission in hostile territory, highlighting the bravery, sacrifice, and determination of soldiers against overwhelming odds.</desc>
   </programme>
-  <programme start="20260816073000 +0100" stop="20260816083000 +0100" channel="ts292">
-    <title>Star Singer</title>
-    <desc>Contestants compete in the choice round to secure a place in the top five. S10 E104.</desc>
+  <programme start="20260815120000 +0530" stop="20260815150000 +0530" channel="ts292">
+    <title>ONE</title>
+    <desc>Allegations test a politician's loyalty to his ideologies.</desc>
   </programme>
-  <programme start="20260816083000 +0100" stop="20260816100000 +0100" channel="ts292">
-    <title>Comedy Cooks</title>
-    <desc>Host Twinkle welcomes the audience to the grand finale featuring energetic performances. S01 E31.</desc>
+  <programme start="20260815150000 +0530" stop="20260815183000 +0530" channel="ts292">
+    <title>Amaran</title>
+    <desc>Major Mukund Varadarajan, an Indian Army officer, was posthumously awarded the Ashok Chakra for bravery in a counterterrorism mission with the 44th Rashtriya Rifles in Jammu and Kashmir.</desc>
   </programme>
-  <programme start="20260816100000 +0100" stop="20260816103000 +0100" channel="ts292">
+  <programme start="20260815183000 +0530" stop="20260815190000 +0530" channel="ts292">
+    <title>Santhwanam-2</title>
+    <desc>Two rival families' centuries-old feud clashes as their children unite. Can they heal ancient wounds, or spark another devastating wave of conflict and heartbreak?</desc>
+  </programme>
+  <programme start="20260815190000 +0530" stop="20260815193000 +0530" channel="ts292">
     <title>Mazha Thorum Munpe</title>
-    <desc>Hari and Kamala speak harshly to Aleena, leaving her deeply hurt. S01 E15.</desc>
+    <desc>Aleena longs for love after being abandoned. As she grows, she hopes life will guide her back to her lost parents and the happiness she dreams of.</desc>
   </programme>
-  <programme start="20260816103000 +0100" stop="20260816110000 +0100" channel="ts292">
-    <title>Chempaneer Poovu</title>
-    <desc>Lakshmi and Krishnan are devastated by Sachi's revelation of Sarath's theft. S01 E13.</desc>
+  <programme start="20260815193000 +0530" stop="20260815200000 +0530" channel="ts292">
+    <title>Chempaneerpoovu</title>
+    <desc>Revathy supporting her family, encounters Sachi, who brings changes to her life.</desc>
   </programme>
-  <programme start="20260816110000 +0100" stop="20260816143000 +0100" channel="ts292">
-    <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
+  <programme start="20260815200000 +0530" stop="20260815210000 +0530" channel="ts292">
+    <title>Star Singer S10</title>
+    <desc>One of the most prestigious singing reality shows returns with judges KS Chithra, Sithara, and Vidhu Prathap, bringing a thrilling musical battle for viewers to enjoy.</desc>
   </programme>
-  <programme start="20260816143000 +0100" stop="20260816150000 +0100" channel="ts292">
+  <programme start="20260815210000 +0530" stop="20260815220000 +0530" channel="ts292">
+    <title>Big Boss Agnipariksha</title>
+    <desc>Big Boss Agnipariksha</desc>
+  </programme>
+  <programme start="20260815220000 +0530" stop="20260816010000 +0530" channel="ts292">
+    <title>Forensic</title>
+    <desc>When Alphonse Kurian, a psychotic murderer, sets out on a killing spree, Samuel, a medico-legal advisor, uses his forensic skills to unravel the truth behind the heinous deeds.</desc>
+  </programme>
+  <programme start="20260816010000 +0530" stop="20260816033000 +0530" channel="ts292">
+    <title>China Town</title>
+    <desc>Mathukutty, Zachariah and Binoy must come together in order to take charge of a casino and thwart Gowda, a local goon.</desc>
+  </programme>
+  <programme start="20260816033000 +0530" stop="20260816060000 +0530" channel="ts292">
+    <title>Minnaminnikkoottam</title>
+    <desc>Seven IT friends enjoy life while secretly battling love and family struggles.</desc>
+  </programme>
+  <programme start="20260816060000 +0530" stop="20260816070000 +0530" channel="ts292">
+    <title>Kannante Radha</title>
+    <desc>Another touching love story explores emotional bonds, societal expectations, and enduring connection despite obstacles.</desc>
+  </programme>
+  <programme start="20260816070000 +0530" stop="20260816073000 +0530" channel="ts292">
+    <title>48Th Soorya Festival 2025</title>
+    <desc>A vibrant celebration of classical arts that unites iconic performers and fresh talent in immersive evenings honoring cultural heritage while embracing modern creativity in music and dance.</desc>
+  </programme>
+  <programme start="20260816073000 +0530" stop="20260816080000 +0530" channel="ts292">
+    <title>Spon.Prog:Kissan Krishideepam</title>
+    <desc>This is a government-sponsored educational TV show about farming, animal care, gardens, and agriculture topics, teaching practical skills to help farmers succeed nationwide today.</desc>
+  </programme>
+  <programme start="20260816080000 +0530" stop="20260816083000 +0530" channel="ts292">
+    <title>Sabarimala Swami Ayyappan</title>
+    <desc>Born with the powers of Shiva and Vishnu, here's a beautiful retelling of the tales of the divinity called Swami Ayyappan.</desc>
+  </programme>
+  <programme start="20260816083000 +0530" stop="20260816090000 +0530" channel="ts292">
+    <title>Sabarimala Swami Ayyappan</title>
+    <desc>Born with the powers of Shiva and Vishnu, here's a beautiful retelling of the tales of the divinity called Swami Ayyappan.</desc>
+  </programme>
+  <programme start="20260816090000 +0530" stop="20260816120000 +0530" channel="ts292">
+    <title>Minnal Murali</title>
+    <desc>Tailor Jaison gains superpowers, battles evil foe to become the village's hero.</desc>
+  </programme>
+  <programme start="20260816120000 +0530" stop="20260816130000 +0530" channel="ts292">
+    <title>Star Singer S10</title>
+    <desc>One of the most prestigious singing reality shows returns with judges KS Chithra, Sithara, and Vidhu Prathap, bringing a thrilling musical battle for viewers to enjoy.</desc>
+  </programme>
+  <programme start="20260816130000 +0530" stop="20260816140000 +0530" channel="ts292">
+    <title>Big Boss Agnipariksha</title>
+    <desc>Big Boss Agnipariksha</desc>
+  </programme>
+  <programme start="20260816140000 +0530" stop="20260816143000 +0530" channel="ts292">
     <title>Mazha Thorum Munpe</title>
-    <desc>Stanly's words leave Aleena hurt after he dismisses her desire to support orphanages. S01 E371.</desc>
+    <desc>Aleena longs for love after being abandoned. As she grows, she hopes life will guide her back to her lost parents and the happiness she dreams of.</desc>
   </programme>
-  <programme start="20260816150000 +0100" stop="20260816153000 +0100" channel="ts292">
-    <title>Chempaneer Poovu</title>
-    <desc>Revathy scolds Sachi for sharing Arun's video, but he refuses to yield. S01 E841.</desc>
+  <programme start="20260816143000 +0530" stop="20260816190000 +0530" channel="ts292">
+    <title>Dhurandhar</title>
+    <desc>Dhurandhar</desc>
   </programme>
-  <programme start="20260816153000 +0100" stop="20260816163000 +0100" channel="ts292">
-    <title>Star Singer</title>
-    <desc>The host opens the stage with impressive acts as the competition reaches its peak. S10 E105.</desc>
+  <programme start="20260816190000 +0530" stop="20260816193000 +0530" channel="ts292">
+    <title>Mazha Thorum Munpe</title>
+    <desc>Aleena longs for love after being abandoned. As she grows, she hopes life will guide her back to her lost parents and the happiness she dreams of.</desc>
   </programme>
-  <programme start="20260816163000 +0100" stop="20260816180000 +0100" channel="ts292">
-    <title>Comedy Cooks</title>
-    <desc>Finalists compete in an intense culinary clash during the grand finale of the show. S01 E32.</desc>
+  <programme start="20260816193000 +0530" stop="20260816200000 +0530" channel="ts292">
+    <title>Chempaneerpoovu</title>
+    <desc>Revathy supporting her family, encounters Sachi, who brings changes to her life.</desc>
   </programme>
-  <programme start="20260816180000 +0100" stop="20260816210000 +0100" channel="ts292">
+  <programme start="20260816200000 +0530" stop="20260816210000 +0530" channel="ts292">
+    <title>Star Singer S10</title>
+    <desc>One of the most prestigious singing reality shows returns with judges KS Chithra, Sithara, and Vidhu Prathap, bringing a thrilling musical battle for viewers to enjoy.</desc>
+  </programme>
+  <programme start="20260816210000 +0530" stop="20260816220000 +0530" channel="ts292">
+    <title>Big Boss Agnipariksha</title>
+    <desc>Big Boss Agnipariksha</desc>
+  </programme>
+  <programme start="20260816220000 +0530" stop="20260817010000 +0530" channel="ts292">
+    <title>Kishkindha kandam</title>
+    <desc>Kishkindha kandam</desc>
+  </programme>
+  <programme start="20260817010000 +0530" stop="20260817030000 +0530" channel="ts292">
+    <title>Lavakusha</title>
+    <desc>Two jobless men with a desire to become cops, meet in Chennai and end up becoming friends. They get involved in a police encounter, and a series of cat and mouse game ensues with criminals and real cops.</desc>
+  </programme>
+  <programme start="20260817030000 +0530" stop="20260817060000 +0530" channel="ts292">
+    <title>Dr. Patient</title>
+    <desc>Dr Ruben Isaac comes to work in a mental hospital and uses humanitarian methods to treat his patients. However, his life takes a turn when another person claims that he is the real doctor.</desc>
+  </programme>
+  <programme start="20260817060000 +0530" stop="20260817090000 +0530" channel="ts292">
     <title>Movie</title>
-    <desc>Bringing the best in television.</desc>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260817090000 +0530" stop="20260817120000 +0530" channel="ts292">
+    <title>Movie</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260817120000 +0530" stop="20260817150000 +0530" channel="ts292">
+    <title>Movie</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260817150000 +0530" stop="20260817180000 +0530" channel="ts292">
+    <title>Movie</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260817180000 +0530" stop="20260817210000 +0530" channel="ts292">
+    <title>Movie</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260817210000 +0530" stop="20260818000000 +0530" channel="ts292">
+    <title>Movie</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260818000000 +0530" stop="20260818023000 +0530" channel="ts292">
+    <title>Vismayathumbathu</title>
+    <desc>A Malayalam drama filled with suspense and supernatural elements, weaving an emotional story that blends family bonds, love, and mysterious twists of fate.</desc>
+  </programme>
+  <programme start="20260818023000 +0530" stop="20260818030000 +0530" channel="ts292">
+    <title>Chirikkum Thalika Ii</title>
+    <desc>Chirikkum Thalika, a Malayalam reality show on Asianet Plus, compiles funny scenes from Malayalam films to entertain viewers with lighthearted humor.</desc>
+  </programme>
+  <programme start="20260818030000 +0530" stop="20260818053000 +0530" channel="ts292">
+    <title>Movie</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260818053000 +0530" stop="20260818080000 +0530" channel="ts292">
+    <title>Movie</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260818080000 +0530" stop="20260818083000 +0530" channel="ts292">
+    <title>Patharamattu</title>
+    <desc>Adarsh protects Nayana, while Devayani isolates her and Jalaja ignores her.</desc>
+  </programme>
+  <programme start="20260818083000 +0530" stop="20260818090000 +0530" channel="ts292">
+    <title>Mounaragam</title>
+    <desc>A mute girl named Ammulu longs for love and touch, while Ankit, her guardian angel, arrives to guide and comfort her through emotions in uncertain times.</desc>
+  </programme>
+  <programme start="20260818090000 +0530" stop="20260818120000 +0530" channel="ts292">
+    <title>Movie</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260818120000 +0530" stop="20260818123000 +0530" channel="ts292">
+    <title>Santhwanam-2</title>
+    <desc>Two rival families' centuries-old feud clashes as their children unite. Can they heal ancient wounds, or spark another devastating wave of conflict and heartbreak?</desc>
+  </programme>
+  <programme start="20260818123000 +0530" stop="20260818130000 +0530" channel="ts292">
+    <title>Movie</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260818130000 +0530" stop="20260818133000 +0530" channel="ts292">
+    <title>Pavithram</title>
+    <desc>A young man navigates the challenges of his career, fiancee, and brotherly bonds as an unexpected sister's arrival tests their relationships and personal growth.</desc>
+  </programme>
+  <programme start="20260818133000 +0530" stop="20260818140000 +0530" channel="ts292">
+    <title>Advocate Anjal</title>
+    <desc>Aarti pushes Ved to complete their arranged marriage with vermilion, but Anjali stops him; later Raghav warns Pankaj to free Uday from custody today.</desc>
+  </programme>
+  <programme start="20260818140000 +0530" stop="20260818143000 +0530" channel="ts292">
+    <title>Ishtam Maathram</title>
+    <desc>Mahesh struggles to express love for his daughter Chippy; Ishitha adores her, triggering envy. Will Chippy help these lonely hearts grow closer and heal their bonds?</desc>
+  </programme>
+  <programme start="20260818143000 +0530" stop="20260818150000 +0530" channel="ts292">
+    <title>Snehakkoottu</title>
+    <desc>Sethumadhavan, now guardian of his stepsisters, faces resistance and trials.</desc>
+  </programme>
+  <programme start="20260818150000 +0530" stop="20260818153000 +0530" channel="ts292">
+    <title>Movie</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260818153000 +0530" stop="20260818160000 +0530" channel="ts292">
+    <title>Amma Manassu</title>
+    <desc>Chandrika and Malar, facing bad luck, find safety at Lakshmi's home, hoping for help and a moment of peace during troubling times while others offer support..</desc>
+  </programme>
+  <programme start="20260818160000 +0530" stop="20260818163000 +0530" channel="ts292">
+    <title>Mazha Thorum Munpe</title>
+    <desc>Aleena longs for love after being abandoned. As she grows, she hopes life will guide her back to her lost parents and the happiness she dreams of.</desc>
+  </programme>
+  <programme start="20260818163000 +0530" stop="20260818170000 +0530" channel="ts292">
+    <title>Chempaneerpoovu</title>
+    <desc>Revathy supporting her family, encounters Sachi, who brings changes to her life.</desc>
+  </programme>
+  <programme start="20260818170000 +0530" stop="20260818173000 +0530" channel="ts292">
+    <title>Ee Puzhayum Kadannu</title>
+    <desc>Anjali hates Gopi at first, but she falls in love. Yet she cannot marry him because two sisters remain single, blocking their future together completely.</desc>
+  </programme>
+  <programme start="20260818173000 +0530" stop="20260818180000 +0530" channel="ts292">
+    <title>Teacheramma</title>
+    <desc>A devoted mother and teacher balances teaching and family while quietly craving the love she richly deserves, giving her all but seeking recognition and fulfillment she longs for.</desc>
+  </programme>
+  <programme start="20260818180000 +0530" stop="20260818183000 +0530" channel="ts292">
+    <title>Mounaragam</title>
+    <desc>A mute girl named Ammulu longs for love and touch, while Ankit, her guardian angel, arrives to guide and comfort her through emotions in uncertain times.</desc>
+  </programme>
+  <programme start="20260818183000 +0530" stop="20260818190000 +0530" channel="ts292">
+    <title>Santhwanam-2</title>
+    <desc>Two rival families' centuries-old feud clashes as their children unite. Can they heal ancient wounds, or spark another devastating wave of conflict and heartbreak?</desc>
+  </programme>
+  <programme start="20260818190000 +0530" stop="20260818193000 +0530" channel="ts292">
+    <title>Mazha Thorum Munpe</title>
+    <desc>Aleena longs for love after being abandoned. As she grows, she hopes life will guide her back to her lost parents and the happiness she dreams of.</desc>
+  </programme>
+  <programme start="20260818193000 +0530" stop="20260818200000 +0530" channel="ts292">
+    <title>Chempaneerpoovu</title>
+    <desc>Revathy supporting her family, encounters Sachi, who brings changes to her life.</desc>
+  </programme>
+  <programme start="20260818200000 +0530" stop="20260818203000 +0530" channel="ts292">
+    <title>Movie</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260818203000 +0530" stop="20260818210000 +0530" channel="ts292">
+    <title>Patharamattu</title>
+    <desc>Adarsh protects Nayana, while Devayani isolates her and Jalaja ignores her.</desc>
+  </programme>
+  <programme start="20260818210000 +0530" stop="20260818213000 +0530" channel="ts292">
+    <title>Pavithram</title>
+    <desc>A young man navigates the challenges of his career, fiancee, and brotherly bonds as an unexpected sister's arrival tests their relationships and personal growth.</desc>
+  </programme>
+  <programme start="20260818213000 +0530" stop="20260818220000 +0530" channel="ts292">
+    <title>Ee Puzhayum Kadannu</title>
+    <desc>Anjali hates Gopi at first, but she falls in love. Yet she cannot marry him because two sisters remain single, blocking their future together completely.</desc>
+  </programme>
+  <programme start="20260818220000 +0530" stop="20260818223000 +0530" channel="ts292">
+    <title>Advocate Anjal</title>
+    <desc>Aarti pushes Ved to complete their arranged marriage with vermilion, but Anjali stops him; later Raghav warns Pankaj to free Uday from custody today.</desc>
+  </programme>
+  <programme start="20260818223000 +0530" stop="20260818230000 +0530" channel="ts292">
+    <title>Teacheramma</title>
+    <desc>A devoted mother and teacher balances teaching and family while quietly craving the love she richly deserves, giving her all but seeking recognition and fulfillment she longs for.</desc>
+  </programme>
+  <programme start="20260818230000 +0530" stop="20260818233000 +0530" channel="ts292">
+    <title>Mazha Thorum Munpe</title>
+    <desc>Aleena longs for love after being abandoned. As she grows, she hopes life will guide her back to her lost parents and the happiness she dreams of.</desc>
+  </programme>
+  <programme start="20260818233000 +0530" stop="20260819000000 +0530" channel="ts292">
+    <title>Santhwanam-2</title>
+    <desc>Two rival families' centuries-old feud clashes as their children unite. Can they heal ancient wounds, or spark another devastating wave of conflict and heartbreak?</desc>
+  </programme>
+  <programme start="20260819000000 +0530" stop="20260819023000 +0530" channel="ts292">
+    <title>Movie</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
   </programme>
 </tv>
