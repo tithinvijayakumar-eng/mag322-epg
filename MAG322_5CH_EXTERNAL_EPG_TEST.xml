@@ -20,6 +20,12 @@
     <display-name>MY: Kairali HD</display-name>
     <icon src="https://www.lyngsat.com/logo/tv/kk/kairali_in.png" />
   </channel>
+  <channel id="AsianetPlus.in">
+    <display-name>Asianet Plus</display-name>
+  </channel>
+  <channel id="AsianetMovies.in">
+    <display-name>Asianet Movies HD</display-name>
+  </channel>
   <programme start="20260815143000 +0100" stop="20260815173000 +0100" channel="ts25">
     <title>Naduvan</title>
     <desc>While Karthik plans on killing his wife, fate has something else in store for the couple.</desc>
