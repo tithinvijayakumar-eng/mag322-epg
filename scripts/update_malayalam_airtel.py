@@ -9,20 +9,36 @@ from pathlib import Path
 XML_PATH = Path('MAG322_5CH_EXTERNAL_EPG_TEST.xml')
 IST = timezone(timedelta(hours=5, minutes=30))
 
+# name, provider, provider channel id, MAG322 XMLTV id
 CHANNELS = [
-    ('Asianet HD', 'LIVETV_LIVETVCHANNEL_ASIANET_HD', 'ts292'),
-    ('Asianet Plus', 'LIVETV_LIVETVCHANNEL_ASIANET_PLUS', 'AsianetPlus.in'),
-    ('Asianet Movies HD', 'LIVETV_LIVETVCHANNEL_ASIANET_MOVIES_HD', 'AsianetMovies.in'),
-    ('Zee Keralam HD', 'LIVETV_LIVETVCHANNEL_ZEE_KERALAM_HD', 'ts694'),
-    ('Mazhavil Manorama HD', 'LIVETV_LIVETVCHANNEL_MAZHAVIL_MANORAMA_HD', 'mazhavilmanoramahd.in'),
-    ('Flowers TV', 'LIVETV_LIVETVCHANNEL_FLOWERS_TV', 'flowers.in'),
+    ('Asianet HD', 'airtel', 'LIVETV_LIVETVCHANNEL_ASIANET_HD', 'ts292'),
+    ('Asianet Plus', 'airtel', 'LIVETV_LIVETVCHANNEL_ASIANET_PLUS', 'AsianetPlus.in'),
+    ('Asianet Movies HD', 'airtel', 'LIVETV_LIVETVCHANNEL_ASIANET_MOVIES_HD', 'AsianetMovies.in'),
+    ('Surya TV HD', 'airtel', 'LIVETV_LIVETVCHANNEL_SURYA_HD', 'SURYA.HD.in'),
+    ('Surya Movies', 'airtel', 'LIVETV_LIVETVCHANNEL_SURYA_MOVIES', 'SURYA.MOVIES.in'),
+    ('Zee Keralam HD', 'airtel', 'LIVETV_LIVETVCHANNEL_ZEE_KERALAM_HD', 'ts694'),
+    ('Mazhavil Manorama HD', 'airtel', 'LIVETV_LIVETVCHANNEL_MAZHAVIL_MANORAMA_HD', 'mazhavilmanoramahd.in'),
+    ('Flowers TV', 'airtel', 'LIVETV_LIVETVCHANNEL_FLOWERS_TV', 'flowers.in'),
+    ('Kairali TV', 'airtel', 'LIVETV_LIVETVCHANNEL_KAIRALI_TV', 'ts25'),
+    ('Amrita TV', 'tataplay', '178', 'AMRITA.in'),
+    ('24 News', 'airtel', 'LIVETV_LIVETVCHANNEL_TWENTY_FOUR', 'News.24.in'),
 ]
 
-HEADERS = {
+AIRTEL_HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/143 Safari/537.36',
     'Referer': 'https://www.airtelxstream.in/',
     'Accept': 'application/json,text/plain,*/*',
 }
+
+TATAPLAY_HEADERS = {
+    'Accept': '*/*',
+    'Origin': 'https://watch.tataplay.com',
+    'Referer': 'https://watch.tataplay.com/',
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/143 Safari/537.36',
+    'Content-Type': 'application/json',
+    'locale': 'ENG',
+}
+
 
 def fetch_airtel(channel_id):
     now = datetime.now(IST)
@@ -35,7 +51,7 @@ def fetch_airtel(channel_id):
     })
     req = urllib.request.Request(
         'https://epg.airtel.tv/app/v2/content/channel/epg?' + params,
-        headers=HEADERS,
+        headers=AIRTEL_HEADERS,
     )
     with urllib.request.urlopen(req, timeout=30) as r:
         data = json.load(r)
@@ -46,9 +62,49 @@ def fetch_airtel(channel_id):
             out.extend(values)
     return out
 
-def xmltv_time(ms):
-    dt = datetime.fromtimestamp(int(ms) / 1000, tz=timezone.utc).astimezone(IST)
-    return dt.strftime('%Y%m%d%H%M%S +0530')
+
+def fetch_tataplay(channel_id):
+    now = datetime.now(IST)
+    out = []
+    for offset in (-1, 0, 1, 2):
+        day = now + timedelta(days=offset)
+        date_text = day.strftime('%d-%m-%Y')
+        url = (
+            'https://tm.tapi.videoready.tv/content-detail/pub/api/v2/'
+            f'channels/schedule?date={date_text}'
+        )
+        body = json.dumps({'id': channel_id}).encode('utf-8')
+        req = urllib.request.Request(url, data=body, headers=TATAPLAY_HEADERS, method='POST')
+        with urllib.request.urlopen(req, timeout=30) as r:
+            data = json.load(r)
+        epg = ((data.get('data') or {}).get('epg') or [])
+        for item in epg:
+            out.append({
+                'title': item.get('title'),
+                'desc': item.get('desc'),
+                'startTime': item.get('startTime'),
+                'endTime': item.get('endTime'),
+            })
+    return out
+
+
+def parse_time(value):
+    if isinstance(value, (int, float)):
+        return datetime.fromtimestamp(float(value) / 1000, tz=timezone.utc).astimezone(IST)
+    if isinstance(value, str):
+        text = value.strip()
+        if text.endswith('Z'):
+            text = text[:-1] + '+00:00'
+        dt = datetime.fromisoformat(text)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=IST)
+        return dt.astimezone(IST)
+    raise ValueError('unsupported time value')
+
+
+def xmltv_time(value):
+    return parse_time(value).strftime('%Y%m%d%H%M%S +0530')
+
 
 def make_node(item, mag_id):
     start = item.get('startTime')
@@ -67,6 +123,7 @@ def make_node(item, mag_id):
         ET.SubElement(p, 'desc').text = desc
     return p
 
+
 def ensure_channel(root, name, mag_id):
     for ch in root.findall('channel'):
         if ch.get('id') == mag_id:
@@ -80,21 +137,28 @@ def ensure_channel(root, name, mag_id):
         root.insert(list(root).index(first_programme), ch)
     print(f'Added channel declaration: {name} ({mag_id})')
 
+
 def main():
     tree = ET.parse(XML_PATH)
     root = tree.getroot()
     updated = 0
 
-    for name, airtel_id, mag_id in CHANNELS:
+    for name, provider, provider_id, mag_id in CHANNELS:
         try:
-            programs = fetch_airtel(airtel_id)
+            if provider == 'airtel':
+                programs = fetch_airtel(provider_id)
+            elif provider == 'tataplay':
+                programs = fetch_tataplay(provider_id)
+            else:
+                raise ValueError(f'unknown provider: {provider}')
+
             nodes = []
-            for item in sorted(programs, key=lambda x: int(x.get('startTime', 0))):
+            for item in sorted(programs, key=lambda x: parse_time(x.get('startTime'))):
                 node = make_node(item, mag_id)
                 if node is not None:
                     nodes.append(node)
             if not nodes:
-                print(f'SKIP {name}: no valid Airtel EPG')
+                print(f'SKIP {name}: no valid {provider} EPG')
                 continue
 
             ensure_channel(root, name, mag_id)
@@ -105,7 +169,7 @@ def main():
             for node in nodes:
                 root.append(node)
             updated += 1
-            print(f'Updated {name}: {len(nodes)} entries')
+            print(f'Updated {name} from {provider}: {len(nodes)} entries')
         except Exception as e:
             print(f'SKIP {name}: {e}')
 
@@ -115,6 +179,7 @@ def main():
     ET.indent(tree, space='  ')
     tree.write(XML_PATH, encoding='utf-8', xml_declaration=True)
     print(f'Updated {updated} Malayalam channels')
+
 
 if __name__ == '__main__':
     main()
