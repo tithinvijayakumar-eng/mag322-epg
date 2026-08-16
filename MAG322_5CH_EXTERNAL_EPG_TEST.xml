@@ -26,14 +26,18 @@
   <channel id="AsianetMovies.in">
     <display-name>Asianet Movies HD</display-name>
   </channel>
-  <programme start="20260815143000 +0100" stop="20260815173000 +0100" channel="ts25">
-    <title>Naduvan</title>
-    <desc>While Karthik plans on killing his wife, fate has something else in store for the couple.</desc>
-  </programme>
-  <programme start="20260815173000 +0100" stop="20260815200000 +0100" channel="ts25">
-    <title>Dada</title>
-    <desc>A young boy endures many hardships while raising his son as a single parent.</desc>
-  </programme>
+  <channel id="SURYA.HD.in">
+    <display-name>Surya TV HD</display-name>
+  </channel>
+  <channel id="SURYA.MOVIES.in">
+    <display-name>Surya Movies</display-name>
+  </channel>
+  <channel id="AMRITA.in">
+    <display-name>Amrita TV</display-name>
+  </channel>
+  <channel id="News.24.in">
+    <display-name>24 News</display-name>
+  </channel>
   <programme start="20260814233000 +0530" stop="20260815000000 +0530" channel="ts292">
     <title>Chempaneerpoovu</title>
     <desc>Revathy supporting her family, encounters Sachi, who brings changes to her life.</desc>
@@ -765,6 +769,750 @@
   <programme start="20260818220000 +0530" stop="20260819010000 +0530" channel="AsianetMovies.in">
     <title>Kuttanpillayude sivarathri</title>
     <desc>Constable Pillai's love for the jackfruit tree causes conflict in the family.</desc>
+  </programme>
+  <programme start="20260814233000 +0530" stop="20260815000000 +0530" channel="SURYA.HD.in">
+    <title>Swayamvarapanthal</title>
+    <desc>Nandini, a devoted village girl, works tirelessly for her family. Surya, resentful of his mother, forms a bond with her, leading to conflict. Discover how destiny shapes their lives.</desc>
+  </programme>
+  <programme start="20260815000000 +0530" stop="20260815003000 +0530" channel="SURYA.HD.in">
+    <title>Chattambipaaru</title>
+    <desc>Born into a humble family facing financial struggles, Parvathi leaves home to create a better life, bravely confronting life's challenges with courage, resilience, and determination.</desc>
+  </programme>
+  <programme start="20260815003000 +0530" stop="20260815010000 +0530" channel="SURYA.HD.in">
+    <title>Peythozhiyaathe</title>
+    <desc>Charulatha, a courageous and self-reliant young woman, lives with an estranged father and cruel stepmother. She yearns for love and belonging beyond her harsh home.</desc>
+  </programme>
+  <programme start="20260815010000 +0530" stop="20260815013000 +0530" channel="SURYA.HD.in">
+    <title>Thenmavin kombath</title>
+    <desc>andnbsp;Thenmavin kombath</desc>
+  </programme>
+  <programme start="20260815013000 +0530" stop="20260815020000 +0530" channel="SURYA.HD.in">
+    <title>Swayamvarapanthal</title>
+    <desc>Nandini, a devoted village girl, works tirelessly for her family. Surya, resentful of his mother, forms a bond with her, leading to conflict. Discover how destiny shapes their lives.</desc>
+  </programme>
+  <programme start="20260815020000 +0530" stop="20260815023000 +0530" channel="SURYA.HD.in">
+    <title>Hridayam</title>
+    <desc>In a troubled marriage, Dr. Niranjan finds joy only in his daughter Shruthi. Meanwhile, Sudhi and Devika believe they've found love, but fate entangles both couples in a complex web.</desc>
+  </programme>
+  <programme start="20260815023000 +0530" stop="20260815030000 +0530" channel="SURYA.HD.in">
+    <title>Anju Sundarikal</title>
+    <desc>Five strangers lead lives until twists change everything. Each person faces a new challenge that reshapes their path, beliefs, and bonds, leading to truly unpredictable outcomes.</desc>
+  </programme>
+  <programme start="20260815030000 +0530" stop="20260815033000 +0530" channel="SURYA.HD.in">
+    <title>Chattambipaaru</title>
+    <desc>Born into a humble family facing financial struggles, Parvathi leaves home to create a better life, bravely confronting life's challenges with courage, resilience, and determination.</desc>
+  </programme>
+  <programme start="20260815033000 +0530" stop="20260815040000 +0530" channel="SURYA.HD.in">
+    <title>Kanyadanam</title>
+    <desc>After his wife's death, Anandan raises his five daughters with love and strong values. Even after their marriages, he remains their guiding light through life's joys and challenges.</desc>
+  </programme>
+  <programme start="20260815040000 +0530" stop="20260815043000 +0530" channel="SURYA.HD.in">
+    <title>Thenmavin kombath</title>
+    <desc>andnbsp;Thenmavin kombath</desc>
+  </programme>
+  <programme start="20260815043000 +0530" stop="20260815050000 +0530" channel="SURYA.HD.in">
+    <title>Swayamvarapanthal</title>
+    <desc>Nandini, a devoted village girl, works tirelessly for her family. Surya, resentful of his mother, forms a bond with her, leading to conflict. Discover how destiny shapes their lives.</desc>
+  </programme>
+  <programme start="20260815050000 +0530" stop="20260815053000 +0530" channel="SURYA.HD.in">
+    <title>Anju Sundarikal</title>
+    <desc>Five strangers lead lives until twists change everything. Each person faces a new challenge that reshapes their path, beliefs, and bonds, leading to truly unpredictable outcomes.</desc>
+  </programme>
+  <programme start="20260815053000 +0530" stop="20260815060000 +0530" channel="SURYA.HD.in">
+    <title>Peythozhiyaathe</title>
+    <desc>Charulatha, a courageous and self-reliant young woman, lives with an estranged father and cruel stepmother. She yearns for love and belonging beyond her harsh home.</desc>
+  </programme>
+  <programme start="20260815060000 +0530" stop="20260815070000 +0530" channel="SURYA.HD.in">
+    <title>Surya Sangeetham</title>
+    <desc>A musical program showcasing melodious songs and performances, celebrating diverse genres and artists, creating an enjoyable and soothing entertainment experience.</desc>
+  </programme>
+  <programme start="20260815070000 +0530" stop="20260815073000 +0530" channel="SURYA.HD.in">
+    <title>Amme Mookambike</title>
+    <desc>This devotional family drama showcases a goddess's miracles, blending devotion, faith, and human emotions. It merges mythology with real-life beliefs across generations.</desc>
+  </programme>
+  <programme start="20260815073000 +0530" stop="20260815080000 +0530" channel="SURYA.HD.in">
+    <title>Anju Sundarikal</title>
+    <desc>Five strangers lead lives until twists change everything. Each person faces a new challenge that reshapes their path, beliefs, and bonds, leading to truly unpredictable outcomes.</desc>
+  </programme>
+  <programme start="20260815080000 +0530" stop="20260815110000 +0530" channel="SURYA.HD.in">
+    <title>Ayalaan</title>
+    <desc>A lost alien seeks help from four friends to get back to his home planet, while a group of hostile scientists tries to capture it.</desc>
+  </programme>
+  <programme start="20260815110000 +0530" stop="20260815113000 +0530" channel="SURYA.HD.in">
+    <title>Thenmavin kombath</title>
+    <desc>andnbsp;Thenmavin kombath</desc>
+  </programme>
+  <programme start="20260815113000 +0530" stop="20260815120000 +0530" channel="SURYA.HD.in">
+    <title>Hridayam</title>
+    <desc>In a troubled marriage, Dr. Niranjan finds joy only in his daughter Shruthi. Meanwhile, Sudhi and Devika believe they've found love, but fate entangles both couples in a complex web.</desc>
+  </programme>
+  <programme start="20260815120000 +0530" stop="20260815123000 +0530" channel="SURYA.HD.in">
+    <title>Chattambipaaru</title>
+    <desc>Born into a humble family facing financial struggles, Parvathi leaves home to create a better life, bravely confronting life's challenges with courage, resilience, and determination.</desc>
+  </programme>
+  <programme start="20260815123000 +0530" stop="20260815130000 +0530" channel="SURYA.HD.in">
+    <title>Peythozhiyaathe</title>
+    <desc>Charulatha, a courageous and self-reliant young woman, lives with an estranged father and cruel stepmother. She yearns for love and belonging beyond her harsh home.</desc>
+  </programme>
+  <programme start="20260815130000 +0530" stop="20260815133000 +0530" channel="SURYA.HD.in">
+    <title>Swayamvarapanthal</title>
+    <desc>Nandini, a devoted village girl, works tirelessly for her family. Surya, resentful of his mother, forms a bond with her, leading to conflict. Discover how destiny shapes their lives.</desc>
+  </programme>
+  <programme start="20260815133000 +0530" stop="20260815140000 +0530" channel="SURYA.HD.in">
+    <title>Ramayanam</title>
+    <desc>Ravana kidnaps Prince Rama's wife, Sita, so Rama seeks allies to rescue her.</desc>
+  </programme>
+  <programme start="20260815140000 +0530" stop="20260815143000 +0530" channel="SURYA.HD.in">
+    <title>Ramayanam</title>
+    <desc>Ravana kidnaps Prince Rama's wife, Sita, so Rama seeks allies to rescue her.</desc>
+  </programme>
+  <programme start="20260815143000 +0530" stop="20260815150000 +0530" channel="SURYA.HD.in">
+    <title>Amme Mookambike</title>
+    <desc>This devotional family drama showcases a goddess's miracles, blending devotion, faith, and human emotions. It merges mythology with real-life beliefs across generations.</desc>
+  </programme>
+  <programme start="20260815150000 +0530" stop="20260815180000 +0530" channel="SURYA.HD.in">
+    <title>Thoppil Joppan</title>
+    <desc>Joppan's failed romance excuses him to be an alcoholic. Hoping to start a new life, he seeks out for some love but would fate favor him this time?</desc>
+  </programme>
+  <programme start="20260815180000 +0530" stop="20260815183000 +0530" channel="SURYA.HD.in">
+    <title>Roopavathi</title>
+    <desc>ROOPAVATHIandnbsp; andnbsp;</desc>
+  </programme>
+  <programme start="20260815183000 +0530" stop="20260815190000 +0530" channel="SURYA.HD.in">
+    <title>Peythozhiyaathe</title>
+    <desc>Charulatha, a courageous and self-reliant young woman, lives with an estranged father and cruel stepmother. She yearns for love and belonging beyond her harsh home.</desc>
+  </programme>
+  <programme start="20260815190000 +0530" stop="20260815193000 +0530" channel="SURYA.HD.in">
+    <title>Chattambipaaru</title>
+    <desc>Born into a humble family facing financial struggles, Parvathi leaves home to create a better life, bravely confronting life's challenges with courage, resilience, and determination.</desc>
+  </programme>
+  <programme start="20260815193000 +0530" stop="20260815200000 +0530" channel="SURYA.HD.in">
+    <title>Kanyadanam</title>
+    <desc>After his wife's death, Anandan raises his five daughters with love and strong values. Even after their marriages, he remains their guiding light through life's joys and challenges.</desc>
+  </programme>
+  <programme start="20260815200000 +0530" stop="20260815203000 +0530" channel="SURYA.HD.in">
+    <title>Swayamvarapanthal</title>
+    <desc>Nandini, a devoted village girl, works tirelessly for her family. Surya, resentful of his mother, forms a bond with her, leading to conflict. Discover how destiny shapes their lives.</desc>
+  </programme>
+  <programme start="20260815203000 +0530" stop="20260815210000 +0530" channel="SURYA.HD.in">
+    <title>Amme Mookambike</title>
+    <desc>This devotional family drama showcases a goddess's miracles, blending devotion, faith, and human emotions. It merges mythology with real-life beliefs across generations.</desc>
+  </programme>
+  <programme start="20260815210000 +0530" stop="20260815213000 +0530" channel="SURYA.HD.in">
+    <title>Thenmavin kombath</title>
+    <desc>andnbsp;Thenmavin kombath</desc>
+  </programme>
+  <programme start="20260815213000 +0530" stop="20260815220000 +0530" channel="SURYA.HD.in">
+    <title>Anju Sundarikal</title>
+    <desc>Five strangers lead lives until twists change everything. Each person faces a new challenge that reshapes their path, beliefs, and bonds, leading to truly unpredictable outcomes.</desc>
+  </programme>
+  <programme start="20260815220000 +0530" stop="20260815223000 +0530" channel="SURYA.HD.in">
+    <title>Hridayam</title>
+    <desc>In a troubled marriage, Dr. Niranjan finds joy only in his daughter Shruthi. Meanwhile, Sudhi and Devika believe they've found love, but fate entangles both couples in a complex web.</desc>
+  </programme>
+  <programme start="20260815223000 +0530" stop="20260815230000 +0530" channel="SURYA.HD.in">
+    <title>Roopavathi</title>
+    <desc>ROOPAVATHIandnbsp; andnbsp;</desc>
+  </programme>
+  <programme start="20260815230000 +0530" stop="20260815233000 +0530" channel="SURYA.HD.in">
+    <title>Kanyadanam</title>
+    <desc>After his wife's death, Anandan raises his five daughters with love and strong values. Even after their marriages, he remains their guiding light through life's joys and challenges.</desc>
+  </programme>
+  <programme start="20260815233000 +0530" stop="20260816000000 +0530" channel="SURYA.HD.in">
+    <title>Swayamvarapanthal</title>
+    <desc>Nandini, a devoted village girl, works tirelessly for her family. Surya, resentful of his mother, forms a bond with her, leading to conflict. Discover how destiny shapes their lives.</desc>
+  </programme>
+  <programme start="20260816000000 +0530" stop="20260816003000 +0530" channel="SURYA.HD.in">
+    <title>Chattambipaaru</title>
+    <desc>Born into a humble family facing financial struggles, Parvathi leaves home to create a better life, bravely confronting life's challenges with courage, resilience, and determination.</desc>
+  </programme>
+  <programme start="20260816003000 +0530" stop="20260816010000 +0530" channel="SURYA.HD.in">
+    <title>Peythozhiyaathe</title>
+    <desc>Charulatha, a courageous and self-reliant young woman, lives with an estranged father and cruel stepmother. She yearns for love and belonging beyond her harsh home.</desc>
+  </programme>
+  <programme start="20260816010000 +0530" stop="20260816013000 +0530" channel="SURYA.HD.in">
+    <title>Thenmavin kombath</title>
+    <desc>andnbsp;Thenmavin kombath</desc>
+  </programme>
+  <programme start="20260816013000 +0530" stop="20260816020000 +0530" channel="SURYA.HD.in">
+    <title>Swayamvarapanthal</title>
+    <desc>Nandini, a devoted village girl, works tirelessly for her family. Surya, resentful of his mother, forms a bond with her, leading to conflict. Discover how destiny shapes their lives.</desc>
+  </programme>
+  <programme start="20260816020000 +0530" stop="20260816023000 +0530" channel="SURYA.HD.in">
+    <title>Hridayam</title>
+    <desc>In a troubled marriage, Dr. Niranjan finds joy only in his daughter Shruthi. Meanwhile, Sudhi and Devika believe they've found love, but fate entangles both couples in a complex web.</desc>
+  </programme>
+  <programme start="20260816023000 +0530" stop="20260816030000 +0530" channel="SURYA.HD.in">
+    <title>Anju Sundarikal</title>
+    <desc>Five strangers lead lives until twists change everything. Each person faces a new challenge that reshapes their path, beliefs, and bonds, leading to truly unpredictable outcomes.</desc>
+  </programme>
+  <programme start="20260816030000 +0530" stop="20260816033000 +0530" channel="SURYA.HD.in">
+    <title>Chattambipaaru</title>
+    <desc>Born into a humble family facing financial struggles, Parvathi leaves home to create a better life, bravely confronting life's challenges with courage, resilience, and determination.</desc>
+  </programme>
+  <programme start="20260816033000 +0530" stop="20260816040000 +0530" channel="SURYA.HD.in">
+    <title>Kanyadanam</title>
+    <desc>After his wife's death, Anandan raises his five daughters with love and strong values. Even after their marriages, he remains their guiding light through life's joys and challenges.</desc>
+  </programme>
+  <programme start="20260816040000 +0530" stop="20260816043000 +0530" channel="SURYA.HD.in">
+    <title>Thenmavin kombath</title>
+    <desc>andnbsp;Thenmavin kombath</desc>
+  </programme>
+  <programme start="20260816043000 +0530" stop="20260816050000 +0530" channel="SURYA.HD.in">
+    <title>Swayamvarapanthal</title>
+    <desc>Nandini, a devoted village girl, works tirelessly for her family. Surya, resentful of his mother, forms a bond with her, leading to conflict. Discover how destiny shapes their lives.</desc>
+  </programme>
+  <programme start="20260816050000 +0530" stop="20260816063000 +0530" channel="SURYA.HD.in">
+    <title>Makante Achan</title>
+    <desc>Movie Starring - Sreenivasan,Vineeth Sreenivasan</desc>
+  </programme>
+  <programme start="20260816063000 +0530" stop="20260816073000 +0530" channel="SURYA.HD.in">
+    <title>Surya Sangeetham</title>
+    <desc>A musical program showcasing melodious songs and performances, celebrating diverse genres and artists, creating an enjoyable and soothing entertainment experience.</desc>
+  </programme>
+  <programme start="20260816073000 +0530" stop="20260816080000 +0530" channel="SURYA.HD.in">
+    <title>Vaaraphalam</title>
+    <desc>An astrology show offering insights into all aspects of life-including family, finance, career, and love-based on the 12 zodiac signs, guiding viewers through daily choices.</desc>
+  </programme>
+  <programme start="20260816080000 +0530" stop="20260816083000 +0530" channel="SURYA.HD.in">
+    <title>Celluloid</title>
+    <desc>The host provides updates on upcoming Malayalam movies while cast and crew of recently released films share their on-set experiences, behind-the-scenes stories, and insights.</desc>
+  </programme>
+  <programme start="20260816083000 +0530" stop="20260816113000 +0530" channel="SURYA.HD.in">
+    <title>Romans</title>
+    <desc>Cast - Kunchacko Boban, Biju Menon, Niveda Thomas and Others</desc>
+  </programme>
+  <programme start="20260816113000 +0530" stop="20260816143000 +0530" channel="SURYA.HD.in">
+    <title>Big Brother</title>
+    <desc>After serving time for murder, Sachidanandan returns to a shaken family and faces a powerful drug racket in the city, forcing him to fight for justice.</desc>
+  </programme>
+  <programme start="20260816143000 +0530" stop="20260816150000 +0530" channel="SURYA.HD.in">
+    <title>Ruchichonam</title>
+    <desc>RUCHICHONAM</desc>
+  </programme>
+  <programme start="20260816150000 +0530" stop="20260816180000 +0530" channel="SURYA.HD.in">
+    <title>Chocolate</title>
+    <desc>Cast : Prithviraj Sukumaran,Jayasurya</desc>
+  </programme>
+  <programme start="20260816180000 +0530" stop="20260816183000 +0530" channel="SURYA.HD.in">
+    <title>Roopavathi</title>
+    <desc>ROOPAVATHIandnbsp; andnbsp;</desc>
+  </programme>
+  <programme start="20260816183000 +0530" stop="20260816190000 +0530" channel="SURYA.HD.in">
+    <title>Peythozhiyaathe</title>
+    <desc>Charulatha, a courageous and self-reliant young woman, lives with an estranged father and cruel stepmother. She yearns for love and belonging beyond her harsh home.</desc>
+  </programme>
+  <programme start="20260816190000 +0530" stop="20260816193000 +0530" channel="SURYA.HD.in">
+    <title>Chattambipaaru</title>
+    <desc>Born into a humble family facing financial struggles, Parvathi leaves home to create a better life, bravely confronting life's challenges with courage, resilience, and determination.</desc>
+  </programme>
+  <programme start="20260816193000 +0530" stop="20260816200000 +0530" channel="SURYA.HD.in">
+    <title>Kanyadanam</title>
+    <desc>After his wife's death, Anandan raises his five daughters with love and strong values. Even after their marriages, he remains their guiding light through life's joys and challenges.</desc>
+  </programme>
+  <programme start="20260816200000 +0530" stop="20260816203000 +0530" channel="SURYA.HD.in">
+    <title>Swayamvarapanthal</title>
+    <desc>Nandini, a devoted village girl, works tirelessly for her family. Surya, resentful of his mother, forms a bond with her, leading to conflict. Discover how destiny shapes their lives.</desc>
+  </programme>
+  <programme start="20260816203000 +0530" stop="20260816210000 +0530" channel="SURYA.HD.in">
+    <title>Amme Mookambike</title>
+    <desc>This devotional family drama showcases a goddess's miracles, blending devotion, faith, and human emotions. It merges mythology with real-life beliefs across generations.</desc>
+  </programme>
+  <programme start="20260816210000 +0530" stop="20260816213000 +0530" channel="SURYA.HD.in">
+    <title>Thenmavin kombath</title>
+    <desc>andnbsp;Thenmavin kombath</desc>
+  </programme>
+  <programme start="20260816213000 +0530" stop="20260816220000 +0530" channel="SURYA.HD.in">
+    <title>Anju Sundarikal</title>
+    <desc>Five strangers lead lives until twists change everything. Each person faces a new challenge that reshapes their path, beliefs, and bonds, leading to truly unpredictable outcomes.</desc>
+  </programme>
+  <programme start="20260816220000 +0530" stop="20260816223000 +0530" channel="SURYA.HD.in">
+    <title>Hridayam</title>
+    <desc>In a troubled marriage, Dr. Niranjan finds joy only in his daughter Shruthi. Meanwhile, Sudhi and Devika believe they've found love, but fate entangles both couples in a complex web.</desc>
+  </programme>
+  <programme start="20260816223000 +0530" stop="20260816230000 +0530" channel="SURYA.HD.in">
+    <title>Roopavathi</title>
+    <desc>ROOPAVATHIandnbsp; andnbsp;</desc>
+  </programme>
+  <programme start="20260816230000 +0530" stop="20260816233000 +0530" channel="SURYA.HD.in">
+    <title>Kanyadanam</title>
+    <desc>After his wife's death, Anandan raises his five daughters with love and strong values. Even after their marriages, he remains their guiding light through life's joys and challenges.</desc>
+  </programme>
+  <programme start="20260816233000 +0530" stop="20260817000000 +0530" channel="SURYA.HD.in">
+    <title>Swayamvarapanthal</title>
+    <desc>Nandini, a devoted village girl, works tirelessly for her family. Surya, resentful of his mother, forms a bond with her, leading to conflict. Discover how destiny shapes their lives.</desc>
+  </programme>
+  <programme start="20260817000000 +0530" stop="20260817003000 +0530" channel="SURYA.HD.in">
+    <title>Chattambipaaru</title>
+    <desc>Born into a humble family facing financial struggles, Parvathi leaves home to create a better life, bravely confronting life's challenges with courage, resilience, and determination.</desc>
+  </programme>
+  <programme start="20260817003000 +0530" stop="20260817010000 +0530" channel="SURYA.HD.in">
+    <title>Peythozhiyaathe</title>
+    <desc>Charulatha, a courageous and self-reliant young woman, lives with an estranged father and cruel stepmother. She yearns for love and belonging beyond her harsh home.</desc>
+  </programme>
+  <programme start="20260817010000 +0530" stop="20260817013000 +0530" channel="SURYA.HD.in">
+    <title>Thenmavin kombath</title>
+    <desc>andnbsp;Thenmavin kombath</desc>
+  </programme>
+  <programme start="20260817013000 +0530" stop="20260817020000 +0530" channel="SURYA.HD.in">
+    <title>Swayamvarapanthal</title>
+    <desc>Nandini, a devoted village girl, works tirelessly for her family. Surya, resentful of his mother, forms a bond with her, leading to conflict. Discover how destiny shapes their lives.</desc>
+  </programme>
+  <programme start="20260817020000 +0530" stop="20260817023000 +0530" channel="SURYA.HD.in">
+    <title>Hridayam</title>
+    <desc>In a troubled marriage, Dr. Niranjan finds joy only in his daughter Shruthi. Meanwhile, Sudhi and Devika believe they've found love, but fate entangles both couples in a complex web.</desc>
+  </programme>
+  <programme start="20260817023000 +0530" stop="20260817030000 +0530" channel="SURYA.HD.in">
+    <title>Anju Sundarikal</title>
+    <desc>Five strangers lead lives until twists change everything. Each person faces a new challenge that reshapes their path, beliefs, and bonds, leading to truly unpredictable outcomes.</desc>
+  </programme>
+  <programme start="20260817030000 +0530" stop="20260817033000 +0530" channel="SURYA.HD.in">
+    <title>Chattambipaaru</title>
+    <desc>Born into a humble family facing financial struggles, Parvathi leaves home to create a better life, bravely confronting life's challenges with courage, resilience, and determination.</desc>
+  </programme>
+  <programme start="20260817033000 +0530" stop="20260817040000 +0530" channel="SURYA.HD.in">
+    <title>Kanyadanam</title>
+    <desc>After his wife's death, Anandan raises his five daughters with love and strong values. Even after their marriages, he remains their guiding light through life's joys and challenges.</desc>
+  </programme>
+  <programme start="20260817040000 +0530" stop="20260817043000 +0530" channel="SURYA.HD.in">
+    <title>Thenmavin kombath</title>
+    <desc>andnbsp;Thenmavin kombath</desc>
+  </programme>
+  <programme start="20260817043000 +0530" stop="20260817050000 +0530" channel="SURYA.HD.in">
+    <title>Swayamvarapanthal</title>
+    <desc>Nandini, a devoted village girl, works tirelessly for her family. Surya, resentful of his mother, forms a bond with her, leading to conflict. Discover how destiny shapes their lives.</desc>
+  </programme>
+  <programme start="20260817050000 +0530" stop="20260817053000 +0530" channel="SURYA.HD.in">
+    <title>Anju Sundarikal</title>
+    <desc>Five strangers lead lives until twists change everything. Each person faces a new challenge that reshapes their path, beliefs, and bonds, leading to truly unpredictable outcomes.</desc>
+  </programme>
+  <programme start="20260817053000 +0530" stop="20260817060000 +0530" channel="SURYA.HD.in">
+    <title>Surya Sangeetham</title>
+    <desc>A musical program showcasing melodious songs and performances, celebrating diverse genres and artists, creating an enjoyable and soothing entertainment experience.</desc>
+  </programme>
+  <programme start="20260817060000 +0530" stop="20260817063000 +0530" channel="SURYA.HD.in">
+    <title>Surya Sangeetham</title>
+    <desc>A musical program showcasing melodious songs and performances, celebrating diverse genres and artists, creating an enjoyable and soothing entertainment experience.</desc>
+  </programme>
+  <programme start="20260817063000 +0530" stop="20260817070000 +0530" channel="SURYA.HD.in">
+    <title>Miracle In Rosary</title>
+    <desc>A religious leader shares insights from the Holy Bible, delivering discourses that guide devotees on the path of righteousness, faith, and spiritual growth.</desc>
+  </programme>
+  <programme start="20260817070000 +0530" stop="20260817073000 +0530" channel="SURYA.HD.in">
+    <title>Amme Mookambike</title>
+    <desc>This devotional family drama showcases a goddess's miracles, blending devotion, faith, and human emotions. It merges mythology with real-life beliefs across generations.</desc>
+  </programme>
+  <programme start="20260817073000 +0530" stop="20260817080000 +0530" channel="SURYA.HD.in">
+    <title>Anju Sundarikal</title>
+    <desc>Five strangers lead lives until twists change everything. Each person faces a new challenge that reshapes their path, beliefs, and bonds, leading to truly unpredictable outcomes.</desc>
+  </programme>
+  <programme start="20260817080000 +0530" stop="20260817110000 +0530" channel="SURYA.HD.in">
+    <title>Lokanathan IAS</title>
+    <desc>Lokanathan, an autorickshaw driver from the slums, works hard to become an IAS officer. Determined, he takes on the challenge of exposing and defeating a corrupt politician.</desc>
+  </programme>
+  <programme start="20260817110000 +0530" stop="20260817113000 +0530" channel="SURYA.HD.in">
+    <title>Thenmavin kombath</title>
+    <desc>andnbsp;Thenmavin kombath</desc>
+  </programme>
+  <programme start="20260817113000 +0530" stop="20260817120000 +0530" channel="SURYA.HD.in">
+    <title>Hridayam</title>
+    <desc>In a troubled marriage, Dr. Niranjan finds joy only in his daughter Shruthi. Meanwhile, Sudhi and Devika believe they've found love, but fate entangles both couples in a complex web.</desc>
+  </programme>
+  <programme start="20260817120000 +0530" stop="20260817123000 +0530" channel="SURYA.HD.in">
+    <title>Chattambipaaru</title>
+    <desc>Born into a humble family facing financial struggles, Parvathi leaves home to create a better life, bravely confronting life's challenges with courage, resilience, and determination.</desc>
+  </programme>
+  <programme start="20260817123000 +0530" stop="20260817130000 +0530" channel="SURYA.HD.in">
+    <title>Peythozhiyaathe</title>
+    <desc>Charulatha, a courageous and self-reliant young woman, lives with an estranged father and cruel stepmother. She yearns for love and belonging beyond her harsh home.</desc>
+  </programme>
+  <programme start="20260817130000 +0530" stop="20260817133000 +0530" channel="SURYA.HD.in">
+    <title>Swayamvarapanthal</title>
+    <desc>Nandini, a devoted village girl, works tirelessly for her family. Surya, resentful of his mother, forms a bond with her, leading to conflict. Discover how destiny shapes their lives.</desc>
+  </programme>
+  <programme start="20260817133000 +0530" stop="20260817140000 +0530" channel="SURYA.HD.in">
+    <title>Ramayanam</title>
+    <desc>Ravana kidnaps Prince Rama's wife, Sita, so Rama seeks allies to rescue her.</desc>
+  </programme>
+  <programme start="20260817140000 +0530" stop="20260817143000 +0530" channel="SURYA.HD.in">
+    <title>Amme Mookambike</title>
+    <desc>This devotional family drama showcases a goddess's miracles, blending devotion, faith, and human emotions. It merges mythology with real-life beliefs across generations.</desc>
+  </programme>
+  <programme start="20260817143000 +0530" stop="20260817150000 +0530" channel="SURYA.HD.in">
+    <title>Ruchichonam</title>
+    <desc>RUCHICHONAM</desc>
+  </programme>
+  <programme start="20260817150000 +0530" stop="20260817180000 +0530" channel="SURYA.HD.in">
+    <title>Chathikkatha Chanthu</title>
+    <desc>Cast - Jayasurya, Vineeth, Lal and Others</desc>
+  </programme>
+  <programme start="20260817180000 +0530" stop="20260817183000 +0530" channel="SURYA.HD.in">
+    <title>Roopavathi</title>
+    <desc>ROOPAVATHIandnbsp; andnbsp;</desc>
+  </programme>
+  <programme start="20260817183000 +0530" stop="20260817190000 +0530" channel="SURYA.HD.in">
+    <title>Peythozhiyaathe</title>
+    <desc>Charulatha, a courageous and self-reliant young woman, lives with an estranged father and cruel stepmother. She yearns for love and belonging beyond her harsh home.</desc>
+  </programme>
+  <programme start="20260817190000 +0530" stop="20260817193000 +0530" channel="SURYA.HD.in">
+    <title>Chattambipaaru</title>
+    <desc>Born into a humble family facing financial struggles, Parvathi leaves home to create a better life, bravely confronting life's challenges with courage, resilience, and determination.</desc>
+  </programme>
+  <programme start="20260817193000 +0530" stop="20260817200000 +0530" channel="SURYA.HD.in">
+    <title>Kanyadanam</title>
+    <desc>After his wife's death, Anandan raises his five daughters with love and strong values. Even after their marriages, he remains their guiding light through life's joys and challenges.</desc>
+  </programme>
+  <programme start="20260817200000 +0530" stop="20260817203000 +0530" channel="SURYA.HD.in">
+    <title>Swayamvarapanthal</title>
+    <desc>Nandini, a devoted village girl, works tirelessly for her family. Surya, resentful of his mother, forms a bond with her, leading to conflict. Discover how destiny shapes their lives.</desc>
+  </programme>
+  <programme start="20260817203000 +0530" stop="20260817210000 +0530" channel="SURYA.HD.in">
+    <title>Amme Mookambike</title>
+    <desc>This devotional family drama showcases a goddess's miracles, blending devotion, faith, and human emotions. It merges mythology with real-life beliefs across generations.</desc>
+  </programme>
+  <programme start="20260817210000 +0530" stop="20260817213000 +0530" channel="SURYA.HD.in">
+    <title>Thenmavin kombath</title>
+    <desc>andnbsp;Thenmavin kombath</desc>
+  </programme>
+  <programme start="20260817213000 +0530" stop="20260817220000 +0530" channel="SURYA.HD.in">
+    <title>Anju Sundarikal</title>
+    <desc>Five strangers lead lives until twists change everything. Each person faces a new challenge that reshapes their path, beliefs, and bonds, leading to truly unpredictable outcomes.</desc>
+  </programme>
+  <programme start="20260817220000 +0530" stop="20260817223000 +0530" channel="SURYA.HD.in">
+    <title>Hridayam</title>
+    <desc>In a troubled marriage, Dr. Niranjan finds joy only in his daughter Shruthi. Meanwhile, Sudhi and Devika believe they've found love, but fate entangles both couples in a complex web.</desc>
+  </programme>
+  <programme start="20260817223000 +0530" stop="20260817230000 +0530" channel="SURYA.HD.in">
+    <title>Roopavathi</title>
+    <desc>ROOPAVATHIandnbsp; andnbsp;</desc>
+  </programme>
+  <programme start="20260817230000 +0530" stop="20260817233000 +0530" channel="SURYA.HD.in">
+    <title>Kanyadanam</title>
+    <desc>After his wife's death, Anandan raises his five daughters with love and strong values. Even after their marriages, he remains their guiding light through life's joys and challenges.</desc>
+  </programme>
+  <programme start="20260817233000 +0530" stop="20260818000000 +0530" channel="SURYA.HD.in">
+    <title>Swayamvarapanthal</title>
+    <desc>Nandini, a devoted village girl, works tirelessly for her family. Surya, resentful of his mother, forms a bond with her, leading to conflict. Discover how destiny shapes their lives.</desc>
+  </programme>
+  <programme start="20260818000000 +0530" stop="20260818003000 +0530" channel="SURYA.HD.in">
+    <title>Chattambipaaru</title>
+    <desc>Born into a humble family facing financial struggles, Parvathi leaves home to create a better life, bravely confronting life's challenges with courage, resilience, and determination.</desc>
+  </programme>
+  <programme start="20260818003000 +0530" stop="20260818010000 +0530" channel="SURYA.HD.in">
+    <title>Peythozhiyaathe</title>
+    <desc>Charulatha, a courageous and self-reliant young woman, lives with an estranged father and cruel stepmother. She yearns for love and belonging beyond her harsh home.</desc>
+  </programme>
+  <programme start="20260818010000 +0530" stop="20260818013000 +0530" channel="SURYA.HD.in">
+    <title>Thenmavin kombath</title>
+    <desc>andnbsp;Thenmavin kombath</desc>
+  </programme>
+  <programme start="20260818013000 +0530" stop="20260818020000 +0530" channel="SURYA.HD.in">
+    <title>Swayamvarapanthal</title>
+    <desc>Nandini, a devoted village girl, works tirelessly for her family. Surya, resentful of his mother, forms a bond with her, leading to conflict. Discover how destiny shapes their lives.</desc>
+  </programme>
+  <programme start="20260818020000 +0530" stop="20260818023000 +0530" channel="SURYA.HD.in">
+    <title>Hridayam</title>
+    <desc>In a troubled marriage, Dr. Niranjan finds joy only in his daughter Shruthi. Meanwhile, Sudhi and Devika believe they've found love, but fate entangles both couples in a complex web.</desc>
+  </programme>
+  <programme start="20260818023000 +0530" stop="20260818030000 +0530" channel="SURYA.HD.in">
+    <title>Anju Sundarikal</title>
+    <desc>Five strangers lead lives until twists change everything. Each person faces a new challenge that reshapes their path, beliefs, and bonds, leading to truly unpredictable outcomes.</desc>
+  </programme>
+  <programme start="20260818030000 +0530" stop="20260818033000 +0530" channel="SURYA.HD.in">
+    <title>Chattambipaaru</title>
+    <desc>Born into a humble family facing financial struggles, Parvathi leaves home to create a better life, bravely confronting life's challenges with courage, resilience, and determination.</desc>
+  </programme>
+  <programme start="20260818033000 +0530" stop="20260818040000 +0530" channel="SURYA.HD.in">
+    <title>Kanyadanam</title>
+    <desc>After his wife's death, Anandan raises his five daughters with love and strong values. Even after their marriages, he remains their guiding light through life's joys and challenges.</desc>
+  </programme>
+  <programme start="20260818040000 +0530" stop="20260818043000 +0530" channel="SURYA.HD.in">
+    <title>Thenmavin kombath</title>
+    <desc>andnbsp;Thenmavin kombath</desc>
+  </programme>
+  <programme start="20260818043000 +0530" stop="20260818050000 +0530" channel="SURYA.HD.in">
+    <title>Swayamvarapanthal</title>
+    <desc>Nandini, a devoted village girl, works tirelessly for her family. Surya, resentful of his mother, forms a bond with her, leading to conflict. Discover how destiny shapes their lives.</desc>
+  </programme>
+  <programme start="20260818050000 +0530" stop="20260818053000 +0530" channel="SURYA.HD.in">
+    <title>Anju Sundarikal</title>
+    <desc>Five strangers lead lives until twists change everything. Each person faces a new challenge that reshapes their path, beliefs, and bonds, leading to truly unpredictable outcomes.</desc>
+  </programme>
+  <programme start="20260818053000 +0530" stop="20260818060000 +0530" channel="SURYA.HD.in">
+    <title>Peythozhiyaathe</title>
+    <desc>Charulatha, a courageous and self-reliant young woman, lives with an estranged father and cruel stepmother. She yearns for love and belonging beyond her harsh home.</desc>
+  </programme>
+  <programme start="20260818060000 +0530" stop="20260818070000 +0530" channel="SURYA.HD.in">
+    <title>Surya Sangeetham</title>
+    <desc>A musical program showcasing melodious songs and performances, celebrating diverse genres and artists, creating an enjoyable and soothing entertainment experience.</desc>
+  </programme>
+  <programme start="20260818070000 +0530" stop="20260818073000 +0530" channel="SURYA.HD.in">
+    <title>Amme Mookambike</title>
+    <desc>This devotional family drama showcases a goddess's miracles, blending devotion, faith, and human emotions. It merges mythology with real-life beliefs across generations.</desc>
+  </programme>
+  <programme start="20260818073000 +0530" stop="20260818080000 +0530" channel="SURYA.HD.in">
+    <title>Anju Sundarikal</title>
+    <desc>Five strangers lead lives until twists change everything. Each person faces a new challenge that reshapes their path, beliefs, and bonds, leading to truly unpredictable outcomes.</desc>
+  </programme>
+  <programme start="20260818080000 +0530" stop="20260818110000 +0530" channel="SURYA.HD.in">
+    <title>Bhagyadevatha</title>
+    <desc>Cast - Puthumana Achan, Annaamma</desc>
+  </programme>
+  <programme start="20260818110000 +0530" stop="20260818113000 +0530" channel="SURYA.HD.in">
+    <title>Thenmavin kombath</title>
+    <desc>andnbsp;Thenmavin kombath</desc>
+  </programme>
+  <programme start="20260818113000 +0530" stop="20260818120000 +0530" channel="SURYA.HD.in">
+    <title>Hridayam</title>
+    <desc>In a troubled marriage, Dr. Niranjan finds joy only in his daughter Shruthi. Meanwhile, Sudhi and Devika believe they've found love, but fate entangles both couples in a complex web.</desc>
+  </programme>
+  <programme start="20260818120000 +0530" stop="20260818123000 +0530" channel="SURYA.HD.in">
+    <title>Chattambipaaru</title>
+    <desc>Born into a humble family facing financial struggles, Parvathi leaves home to create a better life, bravely confronting life's challenges with courage, resilience, and determination.</desc>
+  </programme>
+  <programme start="20260818123000 +0530" stop="20260818130000 +0530" channel="SURYA.HD.in">
+    <title>Peythozhiyaathe</title>
+    <desc>Charulatha, a courageous and self-reliant young woman, lives with an estranged father and cruel stepmother. She yearns for love and belonging beyond her harsh home.</desc>
+  </programme>
+  <programme start="20260818130000 +0530" stop="20260818133000 +0530" channel="SURYA.HD.in">
+    <title>Swayamvarapanthal</title>
+    <desc>Nandini, a devoted village girl, works tirelessly for her family. Surya, resentful of his mother, forms a bond with her, leading to conflict. Discover how destiny shapes their lives.</desc>
+  </programme>
+  <programme start="20260818133000 +0530" stop="20260818140000 +0530" channel="SURYA.HD.in">
+    <title>Ramayanam</title>
+    <desc>Ravana kidnaps Prince Rama's wife, Sita, so Rama seeks allies to rescue her.</desc>
+  </programme>
+  <programme start="20260818140000 +0530" stop="20260818143000 +0530" channel="SURYA.HD.in">
+    <title>Amme Mookambike</title>
+    <desc>This devotional family drama showcases a goddess's miracles, blending devotion, faith, and human emotions. It merges mythology with real-life beliefs across generations.</desc>
+  </programme>
+  <programme start="20260818143000 +0530" stop="20260818150000 +0530" channel="SURYA.HD.in">
+    <title>Ruchichonam</title>
+    <desc>RUCHICHONAM</desc>
+  </programme>
+  <programme start="20260818150000 +0530" stop="20260818180000 +0530" channel="SURYA.HD.in">
+    <title>Annan Thambi</title>
+    <desc>Appu and Achu, twin brothers who have always clashed, are manipulated by their enemies into hating each other, leading them to seek each other's destruction.</desc>
+  </programme>
+  <programme start="20260818180000 +0530" stop="20260818183000 +0530" channel="SURYA.HD.in">
+    <title>Roopavathi</title>
+    <desc>ROOPAVATHIandnbsp; andnbsp;</desc>
+  </programme>
+  <programme start="20260818183000 +0530" stop="20260818190000 +0530" channel="SURYA.HD.in">
+    <title>Peythozhiyaathe</title>
+    <desc>Charulatha, a courageous and self-reliant young woman, lives with an estranged father and cruel stepmother. She yearns for love and belonging beyond her harsh home.</desc>
+  </programme>
+  <programme start="20260818190000 +0530" stop="20260818193000 +0530" channel="SURYA.HD.in">
+    <title>Chattambipaaru</title>
+    <desc>Born into a humble family facing financial struggles, Parvathi leaves home to create a better life, bravely confronting life's challenges with courage, resilience, and determination.</desc>
+  </programme>
+  <programme start="20260818193000 +0530" stop="20260818200000 +0530" channel="SURYA.HD.in">
+    <title>Kanyadanam</title>
+    <desc>After his wife's death, Anandan raises his five daughters with love and strong values. Even after their marriages, he remains their guiding light through life's joys and challenges.</desc>
+  </programme>
+  <programme start="20260818200000 +0530" stop="20260818203000 +0530" channel="SURYA.HD.in">
+    <title>Swayamvarapanthal</title>
+    <desc>Nandini, a devoted village girl, works tirelessly for her family. Surya, resentful of his mother, forms a bond with her, leading to conflict. Discover how destiny shapes their lives.</desc>
+  </programme>
+  <programme start="20260818203000 +0530" stop="20260818210000 +0530" channel="SURYA.HD.in">
+    <title>Amme Mookambike</title>
+    <desc>This devotional family drama showcases a goddess's miracles, blending devotion, faith, and human emotions. It merges mythology with real-life beliefs across generations.</desc>
+  </programme>
+  <programme start="20260818210000 +0530" stop="20260818213000 +0530" channel="SURYA.HD.in">
+    <title>Thenmavin kombath</title>
+    <desc>andnbsp;Thenmavin kombath</desc>
+  </programme>
+  <programme start="20260818213000 +0530" stop="20260818220000 +0530" channel="SURYA.HD.in">
+    <title>Anju Sundarikal</title>
+    <desc>Five strangers lead lives until twists change everything. Each person faces a new challenge that reshapes their path, beliefs, and bonds, leading to truly unpredictable outcomes.</desc>
+  </programme>
+  <programme start="20260818220000 +0530" stop="20260818223000 +0530" channel="SURYA.HD.in">
+    <title>Hridayam</title>
+    <desc>In a troubled marriage, Dr. Niranjan finds joy only in his daughter Shruthi. Meanwhile, Sudhi and Devika believe they've found love, but fate entangles both couples in a complex web.</desc>
+  </programme>
+  <programme start="20260818223000 +0530" stop="20260818230000 +0530" channel="SURYA.HD.in">
+    <title>Roopavathi</title>
+    <desc>ROOPAVATHIandnbsp; andnbsp;</desc>
+  </programme>
+  <programme start="20260818230000 +0530" stop="20260818233000 +0530" channel="SURYA.HD.in">
+    <title>Kanyadanam</title>
+    <desc>After his wife's death, Anandan raises his five daughters with love and strong values. Even after their marriages, he remains their guiding light through life's joys and challenges.</desc>
+  </programme>
+  <programme start="20260818233000 +0530" stop="20260819000000 +0530" channel="SURYA.HD.in">
+    <title>Swayamvarapanthal</title>
+    <desc>Nandini, a devoted village girl, works tirelessly for her family. Surya, resentful of his mother, forms a bond with her, leading to conflict. Discover how destiny shapes their lives.</desc>
+  </programme>
+  <programme start="20260819000000 +0530" stop="20260819003000 +0530" channel="SURYA.HD.in">
+    <title>Chattambipaaru</title>
+    <desc>Born into a humble family facing financial struggles, Parvathi leaves home to create a better life, bravely confronting life's challenges with courage, resilience, and determination.</desc>
+  </programme>
+  <programme start="20260814220000 +0530" stop="20260815000000 +0530" channel="SURYA.MOVIES.in">
+    <title>Purappadu</title>
+    <desc>A village torn by clashes is united after a flood forces relocation.</desc>
+  </programme>
+  <programme start="20260815000000 +0530" stop="20260815010000 +0530" channel="SURYA.MOVIES.in">
+    <title>Purappadu</title>
+    <desc>A village torn by clashes is united after a flood forces relocation.</desc>
+  </programme>
+  <programme start="20260815010000 +0530" stop="20260815033000 +0530" channel="SURYA.MOVIES.in">
+    <title>Lakshmivilasam Renukamakan Reghuraman</title>
+    <desc>Cast - Urvasi and Others</desc>
+  </programme>
+  <programme start="20260815033000 +0530" stop="20260815060000 +0530" channel="SURYA.MOVIES.in">
+    <title>Thiruvithamkoor Thirumanassu</title>
+    <desc>Malayalam movie directed by Aswathi Gopinath, starring Saikumar, Charmila, Dilip.</desc>
+  </programme>
+  <programme start="20260815060000 +0530" stop="20260815070000 +0530" channel="SURYA.MOVIES.in">
+    <title>Filler</title>
+    <desc>Short intermissions offering quick entertainment, visual refreshers, or bite-sized information segments, designed to keep viewers engaged and rejuvenated between programs.</desc>
+  </programme>
+  <programme start="20260815070000 +0530" stop="20260815100000 +0530" channel="SURYA.MOVIES.in">
+    <title>Mughamudra</title>
+    <desc>Varghese Valavil moves to a village to write novels, but a group of miscreants mistakenly believe he is a detective investigating their crime, leading to unexpected chaos.</desc>
+  </programme>
+  <programme start="20260815100000 +0530" stop="20260815130000 +0530" channel="SURYA.MOVIES.in">
+    <title>Darbar</title>
+    <desc>Aaditya, the commissioner of Mumbai Police, sets out to catch Ajay, a drug peddler. However, he uncovers a deeper controversy linked to an international drug lord and must mete out justice.</desc>
+  </programme>
+  <programme start="20260815130000 +0530" stop="20260815160000 +0530" channel="SURYA.MOVIES.in">
+    <title>Manthrikan</title>
+    <desc>Mukundan meets and falls in love with Malu. Years later, he arrives at a palatial house for an exorcism and bumps into Malu who fails to recognise him.</desc>
+  </programme>
+  <programme start="20260815160000 +0530" stop="20260815190000 +0530" channel="SURYA.MOVIES.in">
+    <title>Soothrakkaran</title>
+    <desc>When both Prabhakaran and Sreedharan's sons romantically pursue Aswathy, the recently deceased Balachandran's daughter, their families get dragged into the murder investigation.</desc>
+  </programme>
+  <programme start="20260815190000 +0530" stop="20260815220000 +0530" channel="SURYA.MOVIES.in">
+    <title>Beast</title>
+    <desc>Former RAW agent Veera must face his fears when a terrorist organisation holds him hostage in a mall along with other visitors and demands the release of their leader, who was captured by Veera.</desc>
+  </programme>
+  <programme start="20260815220000 +0530" stop="20260816000000 +0530" channel="SURYA.MOVIES.in">
+    <title>Karmayodha</title>
+    <desc>Maddy, an investigating officer in Mumbai, goes to Kerala in search of a missing girl only to uncover a sex trafficking racket.</desc>
+  </programme>
+  <programme start="20260816000000 +0530" stop="20260816010000 +0530" channel="SURYA.MOVIES.in">
+    <title>Karmayodha</title>
+    <desc>Maddy, an investigating officer in Mumbai, goes to Kerala in search of a missing girl only to uncover a sex trafficking racket.</desc>
+  </programme>
+  <programme start="20260816010000 +0530" stop="20260816033000 +0530" channel="SURYA.MOVIES.in">
+    <title>Movie</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260816033000 +0530" stop="20260816060000 +0530" channel="SURYA.MOVIES.in">
+    <title>Gambler</title>
+    <desc>Anson has always wanted to be a successful businessman and a good father to his son. This is a story of this father-son duo, who face struggles.</desc>
+  </programme>
+  <programme start="20260816060000 +0530" stop="20260816070000 +0530" channel="SURYA.MOVIES.in">
+    <title>Filler</title>
+    <desc>Short intermissions offering quick entertainment, visual refreshers, or bite-sized information segments, designed to keep viewers engaged and rejuvenated between programs.</desc>
+  </programme>
+  <programme start="20260816070000 +0530" stop="20260816100000 +0530" channel="SURYA.MOVIES.in">
+    <title>Alice In Wonderland</title>
+    <desc>Alice returns to the whimsical world she encountered as a young girl to find her true destiny.</desc>
+  </programme>
+  <programme start="20260816100000 +0530" stop="20260816130000 +0530" channel="SURYA.MOVIES.in">
+    <title>Rudhuran</title>
+    <desc>Rudhran, the loving son of a happy family, gets into debt due to unfortunate circumstances. He leaves his mother and lady love behind and takes a job abroad to pay the loan sharks off. But a notorious gangster Bhoomi wreaks havoc on his life</desc>
+  </programme>
+  <programme start="20260816130000 +0530" stop="20260816160000 +0530" channel="SURYA.MOVIES.in">
+    <title>Thrisivaperoor Kliptham</title>
+    <desc>David's aim in life is to witness the downfall of his arch-enemy, Joey. At David's wedding, his friends make a plan to outdo Joey for good.</desc>
+  </programme>
+  <programme start="20260816160000 +0530" stop="20260816190000 +0530" channel="SURYA.MOVIES.in">
+    <title>Sathyam</title>
+    <desc>Police sub-inspector who fights against all the corruption taking place among politicians, liquor mafia, high rank police officers and street goons.</desc>
+  </programme>
+  <programme start="20260816190000 +0530" stop="20260816220000 +0530" channel="SURYA.MOVIES.in">
+    <title>Anyan</title>
+    <desc>Ramanujam suffers from multiple personality disorder, works as a lawyer by day and a vigilante at night. He exposes various antisocial elements.</desc>
+  </programme>
+  <programme start="20260816220000 +0530" stop="20260817000000 +0530" channel="SURYA.MOVIES.in">
+    <title>Pathaka</title>
+    <desc>George Tharian wants to industrialize the state. The opposition party members demand a share of all the business deals.</desc>
+  </programme>
+  <programme start="20260817000000 +0530" stop="20260817010000 +0530" channel="SURYA.MOVIES.in">
+    <title>Pathaka</title>
+    <desc>George Tharian wants to industrialize the state. The opposition party members demand a share of all the business deals.</desc>
+  </programme>
+  <programme start="20260817010000 +0530" stop="20260817033000 +0530" channel="SURYA.MOVIES.in">
+    <title>Eenadu</title>
+    <desc>Eenadu</desc>
+  </programme>
+  <programme start="20260817033000 +0530" stop="20260817060000 +0530" channel="SURYA.MOVIES.in">
+    <title>Rejanee Gendhi</title>
+    <desc>A man befriends Priyanka online, but after her husband's murder, he's suspected of having an affair or stalking her. The truth remains unclear.</desc>
+  </programme>
+  <programme start="20260817060000 +0530" stop="20260817070000 +0530" channel="SURYA.MOVIES.in">
+    <title>Filler</title>
+    <desc>Short intermissions offering quick entertainment, visual refreshers, or bite-sized information segments, designed to keep viewers engaged and rejuvenated between programs.</desc>
+  </programme>
+  <programme start="20260817070000 +0530" stop="20260817100000 +0530" channel="SURYA.MOVIES.in">
+    <title>Kinnam Katta Kallan</title>
+    <desc>A 1996 Indian Malayalam language movie directed by K.K. Haridas starring Srinivasan, Jagadish and Devayani.</desc>
+  </programme>
+  <programme start="20260817100000 +0530" stop="20260817130000 +0530" channel="SURYA.MOVIES.in">
+    <title>Randam Bhavam</title>
+    <desc>Navneet becomes an assassin. His twin brother must bring him on the right path.</desc>
+  </programme>
+  <programme start="20260817130000 +0530" stop="20260817160000 +0530" channel="SURYA.MOVIES.in">
+    <title>Kizhakkan Pathrose</title>
+    <desc>Pathrose, a struggling poor man, lands a job as a lorry driver. His life changes dramatically when he discovers the illegal dealings of his employer, forcing him into unexpected dilemmas and danger.</desc>
+  </programme>
+  <programme start="20260817160000 +0530" stop="20260817190000 +0530" channel="SURYA.MOVIES.in">
+    <title>Manushya Mrugam</title>
+    <desc>Johny, a truck driver consumed by sexual obsession, tragically murders his entire family. As investigators dig deeper, a shocking and disturbing truth behind his actions comes to light.</desc>
+  </programme>
+  <programme start="20260817190000 +0530" stop="20260817220000 +0530" channel="SURYA.MOVIES.in">
+    <title>Bhayya Bhayya</title>
+    <desc>A Bengali migrant worker in Kerala forms a close bond with an agent who loves a politician's daughter. Chaos begins when all three flee together in an ambulance and set off on wild journey to Bengal.</desc>
+  </programme>
+  <programme start="20260817220000 +0530" stop="20260818000000 +0530" channel="SURYA.MOVIES.in">
+    <title>Jersey</title>
+    <desc>Arjun, a talented yet struggling cricketer in his thirties, faces pressure to quit. Will he find the courage to chase his dream despite the odds?</desc>
+  </programme>
+  <programme start="20260818000000 +0530" stop="20260818010000 +0530" channel="SURYA.MOVIES.in">
+    <title>Jersey</title>
+    <desc>Arjun, a talented yet struggling cricketer in his thirties, faces pressure to quit. Will he find the courage to chase his dream despite the odds?</desc>
+  </programme>
+  <programme start="20260818010000 +0530" stop="20260818033000 +0530" channel="SURYA.MOVIES.in">
+    <title>Thusharam</title>
+    <desc>Malayalam-language film directed I. V. Sasi, starring Ratheesh, Seema, Rani Padmini and Jose. The movie ran more than 140 days. Lyrics were written by Yusafali and the music score by Shyam.</desc>
+  </programme>
+  <programme start="20260818033000 +0530" stop="20260818060000 +0530" channel="SURYA.MOVIES.in">
+    <title>Chuzhi</title>
+    <desc>The film features Savitri, Salam and Sujatha in the lead roles. It is directed by Tripayar Sukumaran.</desc>
+  </programme>
+  <programme start="20260818060000 +0530" stop="20260818070000 +0530" channel="SURYA.MOVIES.in">
+    <title>Filler</title>
+    <desc>Short intermissions offering quick entertainment, visual refreshers, or bite-sized information segments, designed to keep viewers engaged and rejuvenated between programs.</desc>
+  </programme>
+  <programme start="20260818070000 +0530" stop="20260818100000 +0530" channel="SURYA.MOVIES.in">
+    <title>Parayanum Vayya Parayathirikkanum Vayya</title>
+    <desc>Ravi, a convict, escapes from prison to take revenge on the man who ruined his life. He disguises himself and takes shelter at a police officer's house.</desc>
+  </programme>
+  <programme start="20260818100000 +0530" stop="20260818130000 +0530" channel="SURYA.MOVIES.in">
+    <title>Meenakshi Kalyanam</title>
+    <desc>Meenakshi struggles to save herself from an unwanted marriage forced upon by her father.</desc>
+  </programme>
+  <programme start="20260818130000 +0530" stop="20260818160000 +0530" channel="SURYA.MOVIES.in">
+    <title>Anjarakalyanam</title>
+    <desc>A 1997 Indian Malayalam language movie directed by VM Vinu starring: Jagadeesh, Janardhanan, Kalpana, Kalabhavan Mani, Usha Rani, Meena and Others.</desc>
+  </programme>
+  <programme start="20260818160000 +0530" stop="20260818190000 +0530" channel="SURYA.MOVIES.in">
+    <title>She Taxi</title>
+    <desc>Devayani a taxi driver, takes 3 college students on a trip to Coorg. This trip changes her life when she learns that they are in search of a treasure.</desc>
+  </programme>
+  <programme start="20260818190000 +0530" stop="20260818220000 +0530" channel="SURYA.MOVIES.in">
+    <title>Chotta Mumbai</title>
+    <desc>This comedy shows the daily lives of Vasco Da Gama and his friends in a small part of Cochin, known as Chota Mumbai. It is a lighthearted and funny story.</desc>
+  </programme>
+  <programme start="20260818220000 +0530" stop="20260819000000 +0530" channel="SURYA.MOVIES.in">
+    <title>The Train</title>
+    <desc>The film is a take on the lives of the families affected by the Mumbai train bombings way back in July 2006.</desc>
+  </programme>
+  <programme start="20260819000000 +0530" stop="20260819010000 +0530" channel="SURYA.MOVIES.in">
+    <title>The Train</title>
+    <desc>The film is a take on the lives of the families affected by the Mumbai train bombings way back in July 2006.</desc>
   </programme>
   <programme start="20260814233000 +0530" stop="20260815000000 +0530" channel="ts694">
     <title>Pranayavilasam</title>
@@ -1917,5 +2665,993 @@
   <programme start="20260819000000 +0530" stop="20260819010000 +0530" channel="flowers.in">
     <title>Flowers Comedy Ith Item Vere</title>
     <desc>Hilarious comedy acts with judges adding fun and feedback for ultimate laughter.</desc>
+  </programme>
+  <programme start="20260814220000 +0530" stop="20260815003000 +0530" channel="ts25">
+    <title>Avane Srimannarayana</title>
+    <desc>A corrupt policeman finds a new purpose when he sets off on a chaotic search for a missing treasure. However, two brothers and a troupe become major obstacles in his meandering adventure.</desc>
+  </programme>
+  <programme start="20260815003000 +0530" stop="20260815023000 +0530" channel="ts25">
+    <title>Puli</title>
+    <desc>A virtuous soldier tries to save people from an evil queen and a throne-seeking commander.</desc>
+  </programme>
+  <programme start="20260815023000 +0530" stop="20260815043000 +0530" channel="ts25">
+    <title>Kodeeswaran 3</title>
+    <desc>Sathya, an orphanage-runner, goes to Poland for Janu's treatment. There, a criminal named Ghost strikes. Who is Ghost, and how is Sathya connected?</desc>
+  </programme>
+  <programme start="20260815043000 +0530" stop="20260815050000 +0530" channel="ts25">
+    <title>Chiriyo Chiri</title>
+    <desc>A comprehensive compilation of the funniest and most entertaining comedy scenes and videos from various famous Malayalam movies.</desc>
+  </programme>
+  <programme start="20260815050000 +0530" stop="20260815060000 +0530" channel="ts25">
+    <title>Siruthai</title>
+    <desc>A thief comes across a little girl who says that he's her father. When he knows his lookalike, who's an honest cop, he decides to turn a new leaf.</desc>
+  </programme>
+  <programme start="20260815060000 +0530" stop="20260815061500 +0530" channel="ts25">
+    <title>Doctorsalk</title>
+    <desc>Doctorsalk</desc>
+  </programme>
+  <programme start="20260815061500 +0530" stop="20260815073000 +0530" channel="ts25">
+    <title>Siruthai</title>
+    <desc>A thief comes across a little girl who says that he's her father. When he knows his lookalike, who's an honest cop, he decides to turn a new leaf.</desc>
+  </programme>
+  <programme start="20260815073000 +0530" stop="20260815100000 +0530" channel="ts25">
+    <title>Singham II</title>
+    <desc>Duraisingam is undercover as an NCC officer He must tackle Bhai and Thangaraj, two criminals who rule the area and who are working in cahoots.</desc>
+  </programme>
+  <programme start="20260815100000 +0530" stop="20260815123000 +0530" channel="ts25">
+    <title>Mersal</title>
+    <desc>Dr. Maaran heads to Paris for a prestigious medical award but ends up in hot water when a lookalike frames him for murder.</desc>
+  </programme>
+  <programme start="20260815123000 +0530" stop="20260815130000 +0530" channel="ts25">
+    <title>Magic Oven</title>
+    <desc>Watch celebrity chef Lekshmi Nair prepare mouth-watering dishes in an easy-to-learn way.</desc>
+  </programme>
+  <programme start="20260815130000 +0530" stop="20260815160000 +0530" channel="ts25">
+    <title>Ee Pattanathil Bhootham</title>
+    <desc>An evil magician releases a friendly spirit to make money by making him commit crime. The sorcerer loses him in an accident.</desc>
+  </programme>
+  <programme start="20260815160000 +0530" stop="20260815190000 +0530" channel="ts25">
+    <title>Yaan</title>
+    <desc>A rich man wagers on his gorgeous wife in a high-stakes poker game; this leads to a risky act of murder, deceit, and hatred.</desc>
+  </programme>
+  <programme start="20260815190000 +0530" stop="20260815220000 +0530" channel="ts25">
+    <title>Movie</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260815220000 +0530" stop="20260816003000 +0530" channel="ts25">
+    <title>Dada The Appa</title>
+    <desc>Manikandan and Sindhu, a young couple, become parents unexpectedly. Problems cause them to separate. Manikandan struggles as a single father until Sindhu returns, changing their fate.</desc>
+  </programme>
+  <programme start="20260816003000 +0530" stop="20260816023000 +0530" channel="ts25">
+    <title>Singham II</title>
+    <desc>Duraisingam is undercover as an NCC officer He must tackle Bhai and Thangaraj, two criminals who rule the area and who are working in cahoots.</desc>
+  </programme>
+  <programme start="20260816023000 +0530" stop="20260816043000 +0530" channel="ts25">
+    <title>Mersal</title>
+    <desc>Dr. Maaran heads to Paris for a prestigious medical award but ends up in hot water when a lookalike frames him for murder.</desc>
+  </programme>
+  <programme start="20260816043000 +0530" stop="20260816050000 +0530" channel="ts25">
+    <title>USA Weekly News</title>
+    <desc>The show that brings the viewers up-to-date on all that is happening in the USA.</desc>
+  </programme>
+  <programme start="20260816050000 +0530" stop="20260816060000 +0530" channel="ts25">
+    <title>Kuruvi</title>
+    <desc>Car racer Vetrivel discovers father's debt to Malaysia-based don, uncovers possible captivity.</desc>
+  </programme>
+  <programme start="20260816060000 +0530" stop="20260816061500 +0530" channel="ts25">
+    <title>Doctorsalk</title>
+    <desc>Doctorsalk</desc>
+  </programme>
+  <programme start="20260816061500 +0530" stop="20260816073000 +0530" channel="ts25">
+    <title>Kuruvi</title>
+    <desc>Car racer Vetrivel discovers father's debt to Malaysia-based don, uncovers possible captivity.</desc>
+  </programme>
+  <programme start="20260816073000 +0530" stop="20260816100000 +0530" channel="ts25">
+    <title>Jilla</title>
+    <desc>A gangster who gets into trouble while taking his wife to the hospital, tries to escape with help from his driver.</desc>
+  </programme>
+  <programme start="20260816100000 +0530" stop="20260816130000 +0530" channel="ts25">
+    <title>Aambbala</title>
+    <desc>Three brothers return to their native village to mend the relationship between their estranged father and his sisters. However, to unite the family, the brothers are told to marry their cousins.</desc>
+  </programme>
+  <programme start="20260816130000 +0530" stop="20260816160000 +0530" channel="ts25">
+    <title>Mr &amp; Mrs Ramachari</title>
+    <desc>Divya faces college bullies but finds rescue and love in Ramachari. Their romance struggles as she questions his lifestyle, leading to a bittersweet separation.</desc>
+  </programme>
+  <programme start="20260816160000 +0530" stop="20260816190000 +0530" channel="ts25">
+    <title>Madraskaaran</title>
+    <desc>A high-energy action entertainer set in Chennai, where a man fights for justice, love, and survival in the face of corruption, crime, and social injustice.</desc>
+  </programme>
+  <programme start="20260816190000 +0530" stop="20260816220000 +0530" channel="ts25">
+    <title>Movie</title>
+    <desc>The movie name is yet to be announced by the channel.</desc>
+  </programme>
+  <programme start="20260816220000 +0530" stop="20260817000000 +0530" channel="ts25">
+    <title>SooryaVamshi</title>
+    <desc>Santhu, a typical do-gooder and angry hero, falls for college student Ananya after chance meetings, with the dreaded Don Deva forming the triangle.</desc>
+  </programme>
+  <programme start="20260817000000 +0530" stop="20260817020000 +0530" channel="ts25">
+    <title>Jilla</title>
+    <desc>A gangster who gets into trouble while taking his wife to the hospital, tries to escape with help from his driver.</desc>
+  </programme>
+  <programme start="20260817020000 +0530" stop="20260817023000 +0530" channel="ts25">
+    <title>USA Weekly News</title>
+    <desc>The show that brings the viewers up-to-date on all that is happening in the USA.</desc>
+  </programme>
+  <programme start="20260817023000 +0530" stop="20260817043000 +0530" channel="ts25">
+    <title>Aambbala</title>
+    <desc>Three brothers return to their native village to mend the relationship between their estranged father and his sisters. However, to unite the family, the brothers are told to marry their cousins.</desc>
+  </programme>
+  <programme start="20260817043000 +0530" stop="20260817050000 +0530" channel="ts25">
+    <title>Chiriyo Chiri</title>
+    <desc>A comprehensive compilation of the funniest and most entertaining comedy scenes and videos from various famous Malayalam movies.</desc>
+  </programme>
+  <programme start="20260817050000 +0530" stop="20260817060000 +0530" channel="ts25">
+    <title>Gowli</title>
+    <desc>The story revolves around Gowli, an innocent villager who, unsure of anger and hate, takes revenge after being subdued by the city's worst police officer and gangsters.</desc>
+  </programme>
+  <programme start="20260817060000 +0530" stop="20260817061500 +0530" channel="ts25">
+    <title>Doctorsalk</title>
+    <desc>Doctorsalk</desc>
+  </programme>
+  <programme start="20260817061500 +0530" stop="20260817080000 +0530" channel="ts25">
+    <title>Gowli</title>
+    <desc>The story revolves around Gowli, an innocent villager who, unsure of anger and hate, takes revenge after being subdued by the city's worst police officer and gangsters.</desc>
+  </programme>
+  <programme start="20260817080000 +0530" stop="20260817103000 +0530" channel="ts25">
+    <title>Maharaja</title>
+    <desc>Ranbir Singh decides to kill Prince Kohinoor when he is a child, but, in vain. After 20 years Kohinoor returns to claim his rightful place.</desc>
+  </programme>
+  <programme start="20260817103000 +0530" stop="20260817133000 +0530" channel="ts25">
+    <title>Viduthalai Part 1</title>
+    <desc>A policeman grapples with the dilemma of duty and morality as his department embarks on a brutal campaign to apprehend a local activist.</desc>
+  </programme>
+  <programme start="20260817133000 +0530" stop="20260817163000 +0530" channel="ts25">
+    <title>KGF: Chapter 1</title>
+    <desc>Rocky seeks to acquire power and wealth to fulfil a promise made to his dying mother. Later, he finds wealth and power but also respect.</desc>
+  </programme>
+  <programme start="20260817163000 +0530" stop="20260817190000 +0530" channel="ts25">
+    <title>Veeram</title>
+    <desc>Vinayagam and Koppu fall in love. Will their violent past come to haunt them?</desc>
+  </programme>
+  <programme start="20260817190000 +0530" stop="20260817200000 +0530" channel="ts25">
+    <title>PayasaRani 2026 - Onam Cookery</title>
+    <desc>PayasaRani 2026 - Onam Cookery</desc>
+  </programme>
+  <programme start="20260817200000 +0530" stop="20260817223000 +0530" channel="ts25">
+    <title>Dhuruvangal Pathinaaru</title>
+    <desc>A couple dies under mysterious circumstances and Inspector Deepak is assigned the case. However, he loses his leg in a confrontation during the investigation, which leads to the end of his career.</desc>
+  </programme>
+  <programme start="20260817223000 +0530" stop="20260818003000 +0530" channel="ts25">
+    <title>Case of Kondana</title>
+    <desc>A police inspector clashes with a gangster while facing rejection from his love's brother.</desc>
+  </programme>
+  <programme start="20260818003000 +0530" stop="20260818023000 +0530" channel="ts25">
+    <title>Maharaja</title>
+    <desc>Ranbir Singh decides to kill Prince Kohinoor when he is a child, but, in vain. After 20 years Kohinoor returns to claim his rightful place.</desc>
+  </programme>
+  <programme start="20260818023000 +0530" stop="20260818043000 +0530" channel="ts25">
+    <title>Viduthalai Part 1</title>
+    <desc>A policeman grapples with the dilemma of duty and morality as his department embarks on a brutal campaign to apprehend a local activist.</desc>
+  </programme>
+  <programme start="20260818043000 +0530" stop="20260818050000 +0530" channel="ts25">
+    <title>Chiriyo Chiri</title>
+    <desc>A comprehensive compilation of the funniest and most entertaining comedy scenes and videos from various famous Malayalam movies.</desc>
+  </programme>
+  <programme start="20260818050000 +0530" stop="20260818060000 +0530" channel="ts25">
+    <title>Rudrangi</title>
+    <desc>Tyrant Bheem Rao Deshmukh, captivated by Rudrangi's beauty, seeks physical contact, terrorizing her village to fulfill his obsession.</desc>
+  </programme>
+  <programme start="20260818060000 +0530" stop="20260818061500 +0530" channel="ts25">
+    <title>Doctorsalk</title>
+    <desc>Doctorsalk</desc>
+  </programme>
+  <programme start="20260818061500 +0530" stop="20260818080000 +0530" channel="ts25">
+    <title>Rudrangi</title>
+    <desc>Tyrant Bheem Rao Deshmukh, captivated by Rudrangi's beauty, seeks physical contact, terrorizing her village to fulfill his obsession.</desc>
+  </programme>
+  <programme start="20260818080000 +0530" stop="20260818103000 +0530" channel="ts25">
+    <title>Shibu</title>
+    <desc>Shibu, an aspiring filmmaker, crosses paths with Kalyani, an ambitious doctor, in a match-making meet. She supports his passion and aspirations.</desc>
+  </programme>
+  <programme start="20260818103000 +0530" stop="20260818133000 +0530" channel="ts25">
+    <title>Ayogya</title>
+    <desc>Karnan is a corrupt police inspector who frequently bends the rules. He realigns his morals and tries to do the right thing after a life-changing event.</desc>
+  </programme>
+  <programme start="20260818133000 +0530" stop="20260818163000 +0530" channel="ts25">
+    <title>Spy</title>
+    <desc>A desk-bound CIA analyst volunteers to go undercover to infiltrate the world of a deadly arms dealer and prevent diabolical global disaster.</desc>
+  </programme>
+  <programme start="20260818163000 +0530" stop="20260818190000 +0530" channel="ts25">
+    <title>CSI Diary</title>
+    <desc>Crime scene investigator probes CEO murder. The case takes a shocking turn.</desc>
+  </programme>
+  <programme start="20260818190000 +0530" stop="20260818200000 +0530" channel="ts25">
+    <title>PayasaRani 2026 - Onam Cookery</title>
+    <desc>PayasaRani 2026 - Onam Cookery</desc>
+  </programme>
+  <programme start="20260818200000 +0530" stop="20260818223000 +0530" channel="ts25">
+    <title>Achaneyanenikkishtam</title>
+    <desc>Bhaskaran, a poor lorry driver, goes through several obstacles to give his son a standard education by sending him to a reputed school.</desc>
+  </programme>
+  <programme start="20260818223000 +0530" stop="20260819003000 +0530" channel="ts25">
+    <title>Aalwar</title>
+    <desc>Aalwar, with revenge ringing in his mind, ends up as Shiva the killer, even while working as a ward boy in a hospital.</desc>
+  </programme>
+  <programme start="20260815000000 +0530" stop="20260815003000 +0530" channel="AMRITA.in">
+    <title>Amrita News Middle East</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260815003000 +0530" stop="20260815010000 +0530" channel="AMRITA.in">
+    <title>Ammayodoppam</title>
+    <desc>Mata Amritanandamayi delivers discourses and inspires devotees to follow a righteous life.</desc>
+  </programme>
+  <programme start="20260815010000 +0530" stop="20260815013000 +0530" channel="AMRITA.in">
+    <title>Jyothir Darshanam</title>
+    <desc>Bringing the best in television.</desc>
+  </programme>
+  <programme start="20260815013000 +0530" stop="20260815020000 +0530" channel="AMRITA.in">
+    <title>Vakku Maruvakku</title>
+    <desc>The host interviews prominent politicians from different political parties in Kerala.</desc>
+  </programme>
+  <programme start="20260815020000 +0530" stop="20260815043000 +0530" channel="AMRITA.in">
+    <title>Meenathil Thalikettu</title>
+    <desc>When Omanakuttan's wife bears a girl child, his father expels them from the house.</desc>
+  </programme>
+  <programme start="20260815043000 +0530" stop="20260815050000 +0530" channel="AMRITA.in">
+    <title>Gulf Panorama</title>
+    <desc>The host discusses the lives of people living in the Persian Gulf countries.</desc>
+  </programme>
+  <programme start="20260815050000 +0530" stop="20260815053000 +0530" channel="AMRITA.in">
+    <title>Annie's Kitchen</title>
+    <desc>The host prepares tasty and simple dishes for everyone to follow along.</desc>
+  </programme>
+  <programme start="20260815053000 +0530" stop="20260815060000 +0530" channel="AMRITA.in">
+    <title>Sandhya Deepam</title>
+    <desc>Religious scholars deliver a discourse on various aspects of Kerala's rich cultural heritage.</desc>
+  </programme>
+  <programme start="20260815060000 +0530" stop="20260815063000 +0530" channel="AMRITA.in">
+    <title>Amritavarsham</title>
+    <desc>Devotees gather for the birthday celebrations of Mata Amritanandamayi at Amritapuri Ashram.</desc>
+  </programme>
+  <programme start="20260815063000 +0530" stop="20260815070000 +0530" channel="AMRITA.in">
+    <title>Good Health</title>
+    <desc>An expert sheds light on matters concerning healthy lifestyle and wellbeing.</desc>
+  </programme>
+  <programme start="20260815070000 +0530" stop="20260815080000 +0530" channel="AMRITA.in">
+    <title>Good Morning Keralam</title>
+    <desc>The host interacts with eminent personalities about their personal and professional life.</desc>
+  </programme>
+  <programme start="20260815080000 +0530" stop="20260815090000 +0530" channel="AMRITA.in">
+    <title>Comedy Masters</title>
+    <desc>Talented comedians perform humorous acts to entertain the audience.</desc>
+  </programme>
+  <programme start="20260815090000 +0530" stop="20260815113000 +0530" channel="AMRITA.in">
+    <title>Edakkad Battalion 06</title>
+    <desc>A young soldier is confronted by criminals who pose a serious threat to his family.</desc>
+  </programme>
+  <programme start="20260815113000 +0530" stop="20260815123000 +0530" channel="AMRITA.in">
+    <title>Annie's Kitchen</title>
+    <desc>The host prepares tasty and simple dishes for everyone to follow along.</desc>
+  </programme>
+  <programme start="20260815123000 +0530" stop="20260815130000 +0530" channel="AMRITA.in">
+    <title>Gulf Panorama</title>
+    <desc>The host discusses the lives of people living in the Persian Gulf countries.</desc>
+  </programme>
+  <programme start="20260815130000 +0530" stop="20260815133000 +0530" channel="AMRITA.in">
+    <title>Ucha Vartha</title>
+    <desc>The host talks about some of the latest news stories from all around the region.</desc>
+  </programme>
+  <programme start="20260815133000 +0530" stop="20260815163000 +0530" channel="AMRITA.in">
+    <title>1971: Beyond Borders</title>
+    <desc>An Indian colonel and a Pakistani commander discuss the terrible human cost of war.</desc>
+  </programme>
+  <programme start="20260815163000 +0530" stop="20260815183000 +0530" channel="AMRITA.in">
+    <title>Super Star Senior Weekend Special</title>
+    <desc>Talented singers and artists take the stage at the Super Star Senior singing contest.</desc>
+  </programme>
+  <programme start="20260815183000 +0530" stop="20260815184500 +0530" channel="AMRITA.in">
+    <title>Sandhya Deepam</title>
+    <desc>Religious scholars deliver a discourse on various aspects of Kerala's rich cultural heritage.</desc>
+  </programme>
+  <programme start="20260815184500 +0530" stop="20260815213000 +0530" channel="AMRITA.in">
+    <title>Aayirathil Oruvan</title>
+    <desc>After taking a huge loan, Aravindan finds himself in the middle of a vicious debt trap.</desc>
+  </programme>
+  <programme start="20260815213000 +0530" stop="20260815220000 +0530" channel="AMRITA.in">
+    <title>Amritavarsham</title>
+    <desc>Devotees gather for the birthday celebrations of Mata Amritanandamayi at Amritapuri Ashram.</desc>
+  </programme>
+  <programme start="20260815220000 +0530" stop="20260815230000 +0530" channel="AMRITA.in">
+    <title>Top 10 at Ten</title>
+    <desc>The host presents a summary of ten of the most important news updates.</desc>
+  </programme>
+  <programme start="20260815230000 +0530" stop="20260816000000 +0530" channel="AMRITA.in">
+    <title>Comedy Master Weekend SPL</title>
+    <desc>Bringing the best in television.</desc>
+  </programme>
+  <programme start="20260816000000 +0530" stop="20260816003000 +0530" channel="AMRITA.in">
+    <title>Amrita News Middle East</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260816003000 +0530" stop="20260816010000 +0530" channel="AMRITA.in">
+    <title>Gulf Panorama</title>
+    <desc>The host discusses the lives of people living in the Persian Gulf countries.</desc>
+  </programme>
+  <programme start="20260816010000 +0530" stop="20260816020000 +0530" channel="AMRITA.in">
+    <title>Comedy Master Weekend SPL</title>
+    <desc>Bringing the best in television.</desc>
+  </programme>
+  <programme start="20260816020000 +0530" stop="20260816040000 +0530" channel="AMRITA.in">
+    <title>Super Star Senior Weekend Special</title>
+    <desc>Talented singers and artists take the stage at the Super Star Senior singing contest.</desc>
+  </programme>
+  <programme start="20260816040000 +0530" stop="20260816050000 +0530" channel="AMRITA.in">
+    <title>Annie's Kitchen</title>
+    <desc>The host prepares tasty and simple dishes for everyone to follow along.</desc>
+  </programme>
+  <programme start="20260816050000 +0530" stop="20260816053000 +0530" channel="AMRITA.in">
+    <title>Amritavarsham</title>
+    <desc>Devotees gather for the birthday celebrations of Mata Amritanandamayi at Amritapuri Ashram.</desc>
+  </programme>
+  <programme start="20260816053000 +0530" stop="20260816060000 +0530" channel="AMRITA.in">
+    <title>Sandhya Deepam</title>
+    <desc>Religious scholars deliver a discourse on various aspects of Kerala's rich cultural heritage.</desc>
+  </programme>
+  <programme start="20260816060000 +0530" stop="20260816063000 +0530" channel="AMRITA.in">
+    <title>Amritavarsham</title>
+    <desc>Devotees gather for the birthday celebrations of Mata Amritanandamayi at Amritapuri Ashram.</desc>
+  </programme>
+  <programme start="20260816063000 +0530" stop="20260816070000 +0530" channel="AMRITA.in">
+    <title>Jyothir Darshanam</title>
+    <desc>Bringing the best in television.</desc>
+  </programme>
+  <programme start="20260816070000 +0530" stop="20260816080000 +0530" channel="AMRITA.in">
+    <title>Good Morning Keralam</title>
+    <desc>The host interacts with eminent personalities about their personal and professional life.</desc>
+  </programme>
+  <programme start="20260816080000 +0530" stop="20260816090000 +0530" channel="AMRITA.in">
+    <title>Comedy Masters</title>
+    <desc>Talented comedians perform humorous acts to entertain the audience.</desc>
+  </programme>
+  <programme start="20260816090000 +0530" stop="20260816113000 +0530" channel="AMRITA.in">
+    <title>Kadha Innuvare</title>
+    <desc>Four couples fight against all odds and difficulties to be with their true love.</desc>
+  </programme>
+  <programme start="20260816113000 +0530" stop="20260816120000 +0530" channel="AMRITA.in">
+    <title>Ammayodoppam</title>
+    <desc>Mata Amritanandamayi delivers discourses and inspires devotees to follow a righteous life.</desc>
+  </programme>
+  <programme start="20260816120000 +0530" stop="20260816123000 +0530" channel="AMRITA.in">
+    <title>Vakku Maruvakku</title>
+    <desc>The host interviews prominent politicians from different political parties in Kerala.</desc>
+  </programme>
+  <programme start="20260816123000 +0530" stop="20260816125000 +0530" channel="AMRITA.in">
+    <title>Annie's Kitchen</title>
+    <desc>The host prepares tasty and simple dishes for everyone to follow along.</desc>
+  </programme>
+  <programme start="20260816125000 +0530" stop="20260816130000 +0530" channel="AMRITA.in">
+    <title>Ruchiyonam</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260816130000 +0530" stop="20260816133000 +0530" channel="AMRITA.in">
+    <title>Ucha Vartha</title>
+    <desc>The host talks about some of the latest news stories from all around the region.</desc>
+  </programme>
+  <programme start="20260816133000 +0530" stop="20260816163000 +0530" channel="AMRITA.in">
+    <title>Annie's Kitchen Cookery Contest</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260816163000 +0530" stop="20260816182000 +0530" channel="AMRITA.in">
+    <title>Super Star Senior Weekend Special</title>
+    <desc>Talented singers and artists take the stage at the Super Star Senior singing contest.</desc>
+  </programme>
+  <programme start="20260816182000 +0530" stop="20260816183000 +0530" channel="AMRITA.in">
+    <title>Ruchiyonam</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260816183000 +0530" stop="20260816184500 +0530" channel="AMRITA.in">
+    <title>Sandhya Deepam</title>
+    <desc>Religious scholars deliver a discourse on various aspects of Kerala's rich cultural heritage.</desc>
+  </programme>
+  <programme start="20260816184500 +0530" stop="20260816213000 +0530" channel="AMRITA.in">
+    <title>Vellaripattanam</title>
+    <desc>A chaotic election season ensues as KP Suresh battles his sister KP Sunanda.</desc>
+  </programme>
+  <programme start="20260816213000 +0530" stop="20260816220000 +0530" channel="AMRITA.in">
+    <title>Amritavarsham</title>
+    <desc>Devotees gather for the birthday celebrations of Mata Amritanandamayi at Amritapuri Ashram.</desc>
+  </programme>
+  <programme start="20260816220000 +0530" stop="20260816230000 +0530" channel="AMRITA.in">
+    <title>Top 10 at Ten</title>
+    <desc>The host presents a summary of ten of the most important news updates.</desc>
+  </programme>
+  <programme start="20260816230000 +0530" stop="20260816231000 +0530" channel="AMRITA.in">
+    <title>Ruchiyonam</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260816231000 +0530" stop="20260817000000 +0530" channel="AMRITA.in">
+    <title>Comedy Master Weekend SPL</title>
+    <desc>Bringing the best in television.</desc>
+  </programme>
+  <programme start="20260817000000 +0530" stop="20260817003000 +0530" channel="AMRITA.in">
+    <title>Amrita News Middle East</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260817003000 +0530" stop="20260817010000 +0530" channel="AMRITA.in">
+    <title>Vakku Maruvakku</title>
+    <desc>The host interviews prominent politicians from different political parties in Kerala.</desc>
+  </programme>
+  <programme start="20260817010000 +0530" stop="20260817040000 +0530" channel="AMRITA.in">
+    <title>Annie's Kitchen Cookery Contest</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260817040000 +0530" stop="20260817043000 +0530" channel="AMRITA.in">
+    <title>Ammayodoppam</title>
+    <desc>Mata Amritanandamayi delivers discourses and inspires devotees to follow a righteous life.</desc>
+  </programme>
+  <programme start="20260817043000 +0530" stop="20260817050000 +0530" channel="AMRITA.in">
+    <title>Annie's Kitchen</title>
+    <desc>The host prepares tasty and simple dishes for everyone to follow along.</desc>
+  </programme>
+  <programme start="20260817050000 +0530" stop="20260817053000 +0530" channel="AMRITA.in">
+    <title>Amritavarsham</title>
+    <desc>Devotees gather for the birthday celebrations of Mata Amritanandamayi at Amritapuri Ashram.</desc>
+  </programme>
+  <programme start="20260817053000 +0530" stop="20260817060000 +0530" channel="AMRITA.in">
+    <title>Sandhya Deepam</title>
+    <desc>Religious scholars deliver a discourse on various aspects of Kerala's rich cultural heritage.</desc>
+  </programme>
+  <programme start="20260817060000 +0530" stop="20260817063000 +0530" channel="AMRITA.in">
+    <title>Swararchana</title>
+    <desc>Bringing the best in television.</desc>
+  </programme>
+  <programme start="20260817063000 +0530" stop="20260817070000 +0530" channel="AMRITA.in">
+    <title>Amritodayam</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260817070000 +0530" stop="20260817080000 +0530" channel="AMRITA.in">
+    <title>Good Morning Keralam</title>
+    <desc>The host interacts with eminent personalities about their personal and professional life.</desc>
+  </programme>
+  <programme start="20260817080000 +0530" stop="20260817085000 +0530" channel="AMRITA.in">
+    <title>Super Star Senior</title>
+    <desc>Several people take the centre stage to showcase their talents to a panel of judges.</desc>
+  </programme>
+  <programme start="20260817085000 +0530" stop="20260817090000 +0530" channel="AMRITA.in">
+    <title>Ruchiyonam</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260817090000 +0530" stop="20260817093000 +0530" channel="AMRITA.in">
+    <title>Dhe Pinneem</title>
+    <desc>With Prakashan Paappadi and his family, simple daily events create humorous situations.</desc>
+  </programme>
+  <programme start="20260817093000 +0530" stop="20260817100000 +0530" channel="AMRITA.in">
+    <title>Sree Padmanabham</title>
+    <desc>A king disturbed by the domestic unrest surrenders his kingdom to Lord Padmanabha.</desc>
+  </programme>
+  <programme start="20260817100000 +0530" stop="20260817125000 +0530" channel="AMRITA.in">
+    <title>Kudumbakodathi</title>
+    <desc>A man decides remarry to resolve all issues creeping into his house.</desc>
+  </programme>
+  <programme start="20260817125000 +0530" stop="20260817130000 +0530" channel="AMRITA.in">
+    <title>Ruchiyonam</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260817130000 +0530" stop="20260817133000 +0530" channel="AMRITA.in">
+    <title>Ucha Vartha</title>
+    <desc>The host talks about some of the latest news stories from all around the region.</desc>
+  </programme>
+  <programme start="20260817133000 +0530" stop="20260817160000 +0530" channel="AMRITA.in">
+    <title>Mr. Fraud</title>
+    <desc>A trickster is tasked with plundering the treasure from a royal household.</desc>
+  </programme>
+  <programme start="20260817160000 +0530" stop="20260817183000 +0530" channel="AMRITA.in">
+    <title>Angane Thanne Nethave Anjettennam Pinnale</title>
+    <desc>The peaceful life in the village of Kanakkodu gets disrupted when Pala Thankachen enters.</desc>
+  </programme>
+  <programme start="20260817183000 +0530" stop="20260817190000 +0530" channel="AMRITA.in">
+    <title>Sandhya Deepam</title>
+    <desc>Religious scholars deliver a discourse on various aspects of Kerala's rich cultural heritage.</desc>
+  </programme>
+  <programme start="20260817190000 +0530" stop="20260817193000 +0530" channel="AMRITA.in">
+    <title>Sree Padmanabham</title>
+    <desc>A king disturbed by the domestic unrest surrenders his kingdom to Lord Padmanabha.</desc>
+  </programme>
+  <programme start="20260817193000 +0530" stop="20260817200000 +0530" channel="AMRITA.in">
+    <title>Dhe Pinneem</title>
+    <desc>With Prakashan Paappadi and his family, simple daily events create humorous situations.</desc>
+  </programme>
+  <programme start="20260817200000 +0530" stop="20260817210000 +0530" channel="AMRITA.in">
+    <title>Super Star Senior</title>
+    <desc>Several people take the centre stage to showcase their talents to a panel of judges.</desc>
+  </programme>
+  <programme start="20260817210000 +0530" stop="20260817220000 +0530" channel="AMRITA.in">
+    <title>Comedy Masters</title>
+    <desc>Talented comedians perform humorous acts to entertain the audience.</desc>
+  </programme>
+  <programme start="20260817220000 +0530" stop="20260817230000 +0530" channel="AMRITA.in">
+    <title>Top 10 at Ten</title>
+    <desc>The host presents a summary of ten of the most important news updates.</desc>
+  </programme>
+  <programme start="20260817230000 +0530" stop="20260817231000 +0530" channel="AMRITA.in">
+    <title>Ruchiyonam</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260817231000 +0530" stop="20260818000000 +0530" channel="AMRITA.in">
+    <title>Super Star Senior</title>
+    <desc>Several people take the centre stage to showcase their talents to a panel of judges.</desc>
+  </programme>
+  <programme start="20260818000000 +0530" stop="20260818003000 +0530" channel="AMRITA.in">
+    <title>Amrita News Middle East</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260818003000 +0530" stop="20260818013000 +0530" channel="AMRITA.in">
+    <title>Comedy Masters</title>
+    <desc>Talented comedians perform humorous acts to entertain the audience.</desc>
+  </programme>
+  <programme start="20260818013000 +0530" stop="20260818020000 +0530" channel="AMRITA.in">
+    <title>Dhe Pinneem</title>
+    <desc>With Prakashan Paappadi and his family, simple daily events create humorous situations.</desc>
+  </programme>
+  <programme start="20260818020000 +0530" stop="20260818023000 +0530" channel="AMRITA.in">
+    <title>Sree Padmanabham</title>
+    <desc>A king disturbed by the domestic unrest surrenders his kingdom to Lord Padmanabha.</desc>
+  </programme>
+  <programme start="20260818023000 +0530" stop="20260818050000 +0530" channel="AMRITA.in">
+    <title>Kudumbakodathi</title>
+    <desc>A man decides remarry to resolve all issues creeping into his house.</desc>
+  </programme>
+  <programme start="20260818050000 +0530" stop="20260818053000 +0530" channel="AMRITA.in">
+    <title>Ruchiyonam</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260818053000 +0530" stop="20260818060000 +0530" channel="AMRITA.in">
+    <title>Sandhya Deepam</title>
+    <desc>Religious scholars deliver a discourse on various aspects of Kerala's rich cultural heritage.</desc>
+  </programme>
+  <programme start="20260818060000 +0530" stop="20260818063000 +0530" channel="AMRITA.in">
+    <title>Swararchana</title>
+    <desc>Bringing the best in television.</desc>
+  </programme>
+  <programme start="20260818063000 +0530" stop="20260818070000 +0530" channel="AMRITA.in">
+    <title>Amritodayam</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260818070000 +0530" stop="20260818080000 +0530" channel="AMRITA.in">
+    <title>Good Morning Keralam</title>
+    <desc>The host interacts with eminent personalities about their personal and professional life.</desc>
+  </programme>
+  <programme start="20260818080000 +0530" stop="20260818085000 +0530" channel="AMRITA.in">
+    <title>Super Star Senior</title>
+    <desc>Several people take the centre stage to showcase their talents to a panel of judges.</desc>
+  </programme>
+  <programme start="20260818085000 +0530" stop="20260818090000 +0530" channel="AMRITA.in">
+    <title>Ruchiyonam</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260818090000 +0530" stop="20260818093000 +0530" channel="AMRITA.in">
+    <title>Dhe Pinneem</title>
+    <desc>With Prakashan Paappadi and his family, simple daily events create humorous situations.</desc>
+  </programme>
+  <programme start="20260818093000 +0530" stop="20260818100000 +0530" channel="AMRITA.in">
+    <title>Sree Padmanabham</title>
+    <desc>A king disturbed by the domestic unrest surrenders his kingdom to Lord Padmanabha.</desc>
+  </programme>
+  <programme start="20260818100000 +0530" stop="20260818125000 +0530" channel="AMRITA.in">
+    <title>Polytechnic</title>
+    <desc>Pauly, a politician, falls in love with the daughter of his opponent, Sukumaran.</desc>
+  </programme>
+  <programme start="20260818125000 +0530" stop="20260818130000 +0530" channel="AMRITA.in">
+    <title>Ruchiyonam</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260818130000 +0530" stop="20260818133000 +0530" channel="AMRITA.in">
+    <title>Ucha Vartha</title>
+    <desc>The host talks about some of the latest news stories from all around the region.</desc>
+  </programme>
+  <programme start="20260818133000 +0530" stop="20260818160000 +0530" channel="AMRITA.in">
+    <title>Lokpal</title>
+    <desc>Nandagopal, a chef, becomes the saviour of people in distress and fights corruption.</desc>
+  </programme>
+  <programme start="20260818160000 +0530" stop="20260818183000 +0530" channel="AMRITA.in">
+    <title>Good Bad &amp; Ugly</title>
+    <desc>Ex gangster seeks redemption as old misdeeds resurface, yet he triumphs through grit.</desc>
+  </programme>
+  <programme start="20260818183000 +0530" stop="20260818190000 +0530" channel="AMRITA.in">
+    <title>Sandhya Deepam</title>
+    <desc>Religious scholars deliver a discourse on various aspects of Kerala's rich cultural heritage.</desc>
+  </programme>
+  <programme start="20260818190000 +0530" stop="20260818193000 +0530" channel="AMRITA.in">
+    <title>Sree Padmanabham</title>
+    <desc>A king disturbed by the domestic unrest surrenders his kingdom to Lord Padmanabha.</desc>
+  </programme>
+  <programme start="20260818193000 +0530" stop="20260818200000 +0530" channel="AMRITA.in">
+    <title>Dhe Pinneem</title>
+    <desc>With Prakashan Paappadi and his family, simple daily events create humorous situations.</desc>
+  </programme>
+  <programme start="20260818200000 +0530" stop="20260818210000 +0530" channel="AMRITA.in">
+    <title>Super Star Senior</title>
+    <desc>Several people take the centre stage to showcase their talents to a panel of judges.</desc>
+  </programme>
+  <programme start="20260818210000 +0530" stop="20260818220000 +0530" channel="AMRITA.in">
+    <title>Comedy Masters</title>
+    <desc>Talented comedians perform humorous acts to entertain the audience.</desc>
+  </programme>
+  <programme start="20260818220000 +0530" stop="20260818230000 +0530" channel="AMRITA.in">
+    <title>Top 10 at Ten</title>
+    <desc>The host presents a summary of ten of the most important news updates.</desc>
+  </programme>
+  <programme start="20260818230000 +0530" stop="20260818231000 +0530" channel="AMRITA.in">
+    <title>Ruchiyonam</title>
+    <desc>.</desc>
+  </programme>
+  <programme start="20260818231000 +0530" stop="20260819000000 +0530" channel="AMRITA.in">
+    <title>Super Star Senior</title>
+    <desc>Several people take the centre stage to showcase their talents to a panel of judges.</desc>
+  </programme>
+  <programme start="20260814233000 +0530" stop="20260815000000 +0530" channel="News.24.in">
+    <title>Gulf Today</title>
+    <desc>A host delivers thorough regional news, explaining the latest developments with clear, accessible coverage and up-to-date insights from across the area.</desc>
+  </programme>
+  <programme start="20260815000000 +0530" stop="20260815003000 +0530" channel="News.24.in">
+    <title>Gulf Focus</title>
+    <desc>The host presents the latest news and updates pertaining to social, economic and political issues affecting the Malayali population in the Gulf countries.</desc>
+  </programme>
+  <programme start="20260815003000 +0530" stop="20260815013000 +0530" channel="News.24.in">
+    <title>Encounter</title>
+    <desc>The host fires some candid questions and tries to extract straightforward answers from eminent politicians about the social issues.</desc>
+  </programme>
+  <programme start="20260815013000 +0530" stop="20260815020000 +0530" channel="News.24.in">
+    <title>100 News</title>
+    <desc>The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+  </programme>
+  <programme start="20260815020000 +0530" stop="20260815023000 +0530" channel="News.24.in">
+    <title>24 Round UP</title>
+    <desc>The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+  </programme>
+  <programme start="20260815023000 +0530" stop="20260815030000 +0530" channel="News.24.in">
+    <title>Gulf Today</title>
+    <desc>A host delivers thorough regional news, explaining the latest developments with clear, accessible coverage and up-to-date insights from across the area.</desc>
+  </programme>
+  <programme start="20260815030000 +0530" stop="20260815033000 +0530" channel="News.24.in">
+    <title>100 News</title>
+    <desc>The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+  </programme>
+  <programme start="20260815033000 +0530" stop="20260815050000 +0530" channel="News.24.in">
+    <title>Late Edition</title>
+    <desc>A host explains the newest, most important news about society, the economy, and politics, highlighting key updates and developments for viewers.</desc>
+  </programme>
+  <programme start="20260815050000 +0530" stop="20260815053000 +0530" channel="News.24.in">
+    <title>24 Round UP</title>
+    <desc>The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+  </programme>
+  <programme start="20260815053000 +0530" stop="20260815060000 +0530" channel="News.24.in">
+    <title>Encounter</title>
+    <desc>The host fires some candid questions and tries to extract straightforward answers from eminent politicians about the social issues.</desc>
+  </programme>
+  <programme start="20260815060000 +0530" stop="20260815070000 +0530" channel="News.24.in">
+    <title>Morning Breaks</title>
+    <desc>Morning Breaks is a refreshing start to the day, blending news, culture, and lively segments that energize mornings with insights, positivity, and engaging conversations.</desc>
+  </programme>
+  <programme start="20260815070000 +0530" stop="20260815103000 +0530" channel="News.24.in">
+    <title>Good Morning With R Sreekandan Nair</title>
+    <desc>Start your day with R Sreekandan Nair as he delivers the latest news and updates. Stay informed-watch Good Morning now!</desc>
+  </programme>
+  <programme start="20260815103000 +0530" stop="20260815123000 +0530" channel="News.24.in">
+    <title>Breaking News</title>
+    <desc>The host highlights major national and international news, sharing top stories, current events, and important updates. Viewers get a concise briefing on what's happening around the world.</desc>
+  </programme>
+  <programme start="20260815123000 +0530" stop="20260815130000 +0530" channel="News.24.in">
+    <title>100 News</title>
+    <desc>The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+  </programme>
+  <programme start="20260815130000 +0530" stop="20260815140000 +0530" channel="News.24.in">
+    <title>1 Pm News</title>
+    <desc>A host shares up-to-date insights, breakthroughs, and news on key issues affecting many people's lives, offering clarity on evolving events and their real-world impacts.</desc>
+  </programme>
+  <programme start="20260815140000 +0530" stop="20260815143000 +0530" channel="News.24.in">
+    <title>Police Diary</title>
+    <desc>The host narrates different crimes stories in a dramatized version and suggests the right measures to avert crimes.</desc>
+  </programme>
+  <programme start="20260815143000 +0530" stop="20260815150000 +0530" channel="News.24.in">
+    <title>24 Round UP</title>
+    <desc>The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+  </programme>
+  <programme start="20260815150000 +0530" stop="20260815160000 +0530" channel="News.24.in">
+    <title>Thammil Thammil</title>
+    <desc>Vivek, a talented singer and dancer, falls for Doctor Rajagopal's sister. To win her affection, he makes his sister and brother-in-law rent a house across Rajagopal's home.</desc>
+  </programme>
+  <programme start="20260815160000 +0530" stop="20260815170000 +0530" channel="News.24.in">
+    <title>Good Evening 24</title>
+    <desc>Good Evening 24 is a vibrant magazine show that blends news, culture, and entertainment, offering viewers engaging stories, lively discussions, and a refreshing evening experience.</desc>
+  </programme>
+  <programme start="20260815170000 +0530" stop="20260815173000 +0530" channel="News.24.in">
+    <title>Riding Reporters</title>
+    <desc>A Special report.</desc>
+  </programme>
+  <programme start="20260815173000 +0530" stop="20260815180000 +0530" channel="News.24.in">
+    <title>100 News</title>
+    <desc>The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+  </programme>
+  <programme start="20260815180000 +0530" stop="20260815183000 +0530" channel="News.24.in">
+    <title>6 PM News</title>
+    <desc>At 6 PM, the host provides a comprehensive roundup of the day's biggest headlines, covering national and global news, politics, business updates, and key developments shaping current affairs.</desc>
+  </programme>
+  <programme start="20260815183000 +0530" stop="20260815190000 +0530" channel="News.24.in">
+    <title>Pothujanam Kazhuthayalla Sir</title>
+    <desc>This program explores various issues, capturing public opinions firsthand and presenting them to the audience for a deeper understanding of diverse perspectives.</desc>
+  </programme>
+  <programme start="20260815190000 +0530" stop="20260815200000 +0530" channel="News.24.in">
+    <title>Encounter</title>
+    <desc>The host fires some candid questions and tries to extract straightforward answers from eminent politicians about the social issues.</desc>
+  </programme>
+  <programme start="20260815200000 +0530" stop="20260815201500 +0530" channel="News.24.in">
+    <title>24 On 24</title>
+    <desc>The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+  </programme>
+  <programme start="20260815201500 +0530" stop="20260815213000 +0530" channel="News.24.in">
+    <title>Janakeeya Kodathi</title>
+    <desc>Janakeeya Kodathi</desc>
+  </programme>
+  <programme start="20260815213000 +0530" stop="20260815220000 +0530" channel="News.24.in">
+    <title>Kuttavum Shikshayum</title>
+    <desc>The movie starring Kamal Haasan, Sridevi, Bahadoor and K. P. Ummer in the lead roles. It is directed by M.Masthan.</desc>
+  </programme>
+  <programme start="20260815220000 +0530" stop="20260815223000 +0530" channel="News.24.in">
+    <title>Varthamazha</title>
+    <desc>Varthamazha is a story about family, love, and overcoming challenges.</desc>
+  </programme>
+  <programme start="20260815223000 +0530" stop="20260815230000 +0530" channel="News.24.in">
+    <title>Police Diary</title>
+    <desc>The host narrates different crimes stories in a dramatized version and suggests the right measures to avert crimes.</desc>
+  </programme>
+  <programme start="20260815230000 +0530" stop="20260815233000 +0530" channel="News.24.in">
+    <title>Late Edition</title>
+    <desc>A host explains the newest, most important news about society, the economy, and politics, highlighting key updates and developments for viewers.</desc>
+  </programme>
+  <programme start="20260815233000 +0530" stop="20260816000000 +0530" channel="News.24.in">
+    <title>Arabia This Week</title>
+    <desc>The presenter showcases the features and prices of a variety of consumer products available to purchase from the comfort of one's home.</desc>
+  </programme>
+  <programme start="20260816000000 +0530" stop="20260816003000 +0530" channel="News.24.in">
+    <title>Gulf Focus</title>
+    <desc>The host presents the latest news and updates pertaining to social, economic and political issues affecting the Malayali population in the Gulf countries.</desc>
+  </programme>
+  <programme start="20260816003000 +0530" stop="20260816013000 +0530" channel="News.24.in">
+    <title>Encounter</title>
+    <desc>The host fires some candid questions and tries to extract straightforward answers from eminent politicians about the social issues.</desc>
+  </programme>
+  <programme start="20260816013000 +0530" stop="20260816020000 +0530" channel="News.24.in">
+    <title>100 News</title>
+    <desc>The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+  </programme>
+  <programme start="20260816020000 +0530" stop="20260816023000 +0530" channel="News.24.in">
+    <title>24 Round UP</title>
+    <desc>The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+  </programme>
+  <programme start="20260816023000 +0530" stop="20260816030000 +0530" channel="News.24.in">
+    <title>Gulf Today</title>
+    <desc>A host delivers thorough regional news, explaining the latest developments with clear, accessible coverage and up-to-date insights from across the area.</desc>
+  </programme>
+  <programme start="20260816030000 +0530" stop="20260816033000 +0530" channel="News.24.in">
+    <title>100 News</title>
+    <desc>The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+  </programme>
+  <programme start="20260816033000 +0530" stop="20260816050000 +0530" channel="News.24.in">
+    <title>Late Edition</title>
+    <desc>A host explains the newest, most important news about society, the economy, and politics, highlighting key updates and developments for viewers.</desc>
+  </programme>
+  <programme start="20260816050000 +0530" stop="20260816053000 +0530" channel="News.24.in">
+    <title>24 Round UP</title>
+    <desc>The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+  </programme>
+  <programme start="20260816053000 +0530" stop="20260816060000 +0530" channel="News.24.in">
+    <title>America This Week</title>
+    <desc>'America This Week' is a podcast hosted by Matt Taibbi and Walter Kirn. They discuss American politics, culture, and media. The latest episode covers delusions in pop culture.</desc>
+  </programme>
+  <programme start="20260816060000 +0530" stop="20260816070000 +0530" channel="News.24.in">
+    <title>Morning Breaks</title>
+    <desc>Morning Breaks is a refreshing start to the day, blending news, culture, and lively segments that energize mornings with insights, positivity, and engaging conversations.</desc>
+  </programme>
+  <programme start="20260816070000 +0530" stop="20260816103000 +0530" channel="News.24.in">
+    <title>Good Morning With R Sreekandan Nair</title>
+    <desc>Start your day with R Sreekandan Nair as he delivers the latest news and updates. Stay informed-watch Good Morning now!</desc>
+  </programme>
+  <programme start="20260816103000 +0530" stop="20260816123000 +0530" channel="News.24.in">
+    <title>Breaking News</title>
+    <desc>The host highlights major national and international news, sharing top stories, current events, and important updates. Viewers get a concise briefing on what's happening around the world.</desc>
+  </programme>
+  <programme start="20260816123000 +0530" stop="20260816130000 +0530" channel="News.24.in">
+    <title>100 News</title>
+    <desc>The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+  </programme>
+  <programme start="20260816130000 +0530" stop="20260816140000 +0530" channel="News.24.in">
+    <title>1 Pm News</title>
+    <desc>A host shares up-to-date insights, breakthroughs, and news on key issues affecting many people's lives, offering clarity on evolving events and their real-world impacts.</desc>
+  </programme>
+  <programme start="20260816140000 +0530" stop="20260816143000 +0530" channel="News.24.in">
+    <title>Police Diary</title>
+    <desc>The host narrates different crimes stories in a dramatized version and suggests the right measures to avert crimes.</desc>
+  </programme>
+  <programme start="20260816143000 +0530" stop="20260816150000 +0530" channel="News.24.in">
+    <title>24 Round UP</title>
+    <desc>The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+  </programme>
+  <programme start="20260816150000 +0530" stop="20260816160000 +0530" channel="News.24.in">
+    <title>Janakeeya Kodathi</title>
+    <desc>Janakeeya Kodathi</desc>
+  </programme>
+  <programme start="20260816160000 +0530" stop="20260816170000 +0530" channel="News.24.in">
+    <title>Good Evening 24</title>
+    <desc>Good Evening 24 is a vibrant magazine show that blends news, culture, and entertainment, offering viewers engaging stories, lively discussions, and a refreshing evening experience.</desc>
+  </programme>
+  <programme start="20260816170000 +0530" stop="20260816173000 +0530" channel="News.24.in">
+    <title>Riding Reporters</title>
+    <desc>A Special report.</desc>
+  </programme>
+  <programme start="20260816173000 +0530" stop="20260816180000 +0530" channel="News.24.in">
+    <title>100 News</title>
+    <desc>The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+  </programme>
+  <programme start="20260816180000 +0530" stop="20260816183000 +0530" channel="News.24.in">
+    <title>6 PM News</title>
+    <desc>At 6 PM, the host provides a comprehensive roundup of the day's biggest headlines, covering national and global news, politics, business updates, and key developments shaping current affairs.</desc>
+  </programme>
+  <programme start="20260816183000 +0530" stop="20260816190000 +0530" channel="News.24.in">
+    <title>Pothujanam Kazhuthayalla Sir</title>
+    <desc>This program explores various issues, capturing public opinions firsthand and presenting them to the audience for a deeper understanding of diverse perspectives.</desc>
+  </programme>
+  <programme start="20260816190000 +0530" stop="20260816200000 +0530" channel="News.24.in">
+    <title>Encounter</title>
+    <desc>The host fires some candid questions and tries to extract straightforward answers from eminent politicians about the social issues.</desc>
+  </programme>
+  <programme start="20260816200000 +0530" stop="20260816201500 +0530" channel="News.24.in">
+    <title>24 On 24</title>
+    <desc>The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+  </programme>
+  <programme start="20260816201500 +0530" stop="20260816213000 +0530" channel="News.24.in">
+    <title>Janakeeya Kodathi</title>
+    <desc>Janakeeya Kodathi</desc>
+  </programme>
+  <programme start="20260816213000 +0530" stop="20260816220000 +0530" channel="News.24.in">
+    <title>Kuttavum Shikshayum</title>
+    <desc>The movie starring Kamal Haasan, Sridevi, Bahadoor and K. P. Ummer in the lead roles. It is directed by M.Masthan.</desc>
+  </programme>
+  <programme start="20260816220000 +0530" stop="20260816223000 +0530" channel="News.24.in">
+    <title>Varthamazha</title>
+    <desc>Varthamazha is a story about family, love, and overcoming challenges.</desc>
+  </programme>
+  <programme start="20260816223000 +0530" stop="20260816230000 +0530" channel="News.24.in">
+    <title>Police Diary</title>
+    <desc>The host narrates different crimes stories in a dramatized version and suggests the right measures to avert crimes.</desc>
+  </programme>
+  <programme start="20260816230000 +0530" stop="20260816233000 +0530" channel="News.24.in">
+    <title>Late Edition</title>
+    <desc>A host explains the newest, most important news about society, the economy, and politics, highlighting key updates and developments for viewers.</desc>
+  </programme>
+  <programme start="20260816233000 +0530" stop="20260817000000 +0530" channel="News.24.in">
+    <title>Gulf Today</title>
+    <desc>A host delivers thorough regional news, explaining the latest developments with clear, accessible coverage and up-to-date insights from across the area.</desc>
+  </programme>
+  <programme start="20260817000000 +0530" stop="20260817003000 +0530" channel="News.24.in">
+    <title>Gulf Focus</title>
+    <desc>The host presents the latest news and updates pertaining to social, economic and political issues affecting the Malayali population in the Gulf countries.</desc>
+  </programme>
+  <programme start="20260817003000 +0530" stop="20260817013000 +0530" channel="News.24.in">
+    <title>Encounter</title>
+    <desc>The host fires some candid questions and tries to extract straightforward answers from eminent politicians about the social issues.</desc>
+  </programme>
+  <programme start="20260817013000 +0530" stop="20260817020000 +0530" channel="News.24.in">
+    <title>100 News</title>
+    <desc>The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+  </programme>
+  <programme start="20260817020000 +0530" stop="20260817023000 +0530" channel="News.24.in">
+    <title>24 Round UP</title>
+    <desc>The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+  </programme>
+  <programme start="20260817023000 +0530" stop="20260817030000 +0530" channel="News.24.in">
+    <title>Gulf Today</title>
+    <desc>A host delivers thorough regional news, explaining the latest developments with clear, accessible coverage and up-to-date insights from across the area.</desc>
+  </programme>
+  <programme start="20260817030000 +0530" stop="20260817033000 +0530" channel="News.24.in">
+    <title>100 News</title>
+    <desc>The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+  </programme>
+  <programme start="20260817033000 +0530" stop="20260817050000 +0530" channel="News.24.in">
+    <title>Late Edition</title>
+    <desc>A host explains the newest, most important news about society, the economy, and politics, highlighting key updates and developments for viewers.</desc>
+  </programme>
+  <programme start="20260817050000 +0530" stop="20260817053000 +0530" channel="News.24.in">
+    <title>24 Round UP</title>
+    <desc>The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+  </programme>
+  <programme start="20260817053000 +0530" stop="20260817060000 +0530" channel="News.24.in">
+    <title>American Dialogue</title>
+    <desc>The host conducts interviews with famous personalities, delving into their life and experiences.</desc>
+  </programme>
+  <programme start="20260817060000 +0530" stop="20260817070000 +0530" channel="News.24.in">
+    <title>Morning Breaks</title>
+    <desc>Morning Breaks is a refreshing start to the day, blending news, culture, and lively segments that energize mornings with insights, positivity, and engaging conversations.</desc>
+  </programme>
+  <programme start="20260817070000 +0530" stop="20260817103000 +0530" channel="News.24.in">
+    <title>Good Morning With R Sreekandan Nair</title>
+    <desc>Start your day with R Sreekandan Nair as he delivers the latest news and updates. Stay informed-watch Good Morning now!</desc>
+  </programme>
+  <programme start="20260817103000 +0530" stop="20260817123000 +0530" channel="News.24.in">
+    <title>Breaking News</title>
+    <desc>The host highlights major national and international news, sharing top stories, current events, and important updates. Viewers get a concise briefing on what's happening around the world.</desc>
+  </programme>
+  <programme start="20260817123000 +0530" stop="20260817130000 +0530" channel="News.24.in">
+    <title>100 News</title>
+    <desc>The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+  </programme>
+  <programme start="20260817130000 +0530" stop="20260817140000 +0530" channel="News.24.in">
+    <title>1 Pm News</title>
+    <desc>A host shares up-to-date insights, breakthroughs, and news on key issues affecting many people's lives, offering clarity on evolving events and their real-world impacts.</desc>
+  </programme>
+  <programme start="20260817140000 +0530" stop="20260817143000 +0530" channel="News.24.in">
+    <title>Police Diary</title>
+    <desc>The host narrates different crimes stories in a dramatized version and suggests the right measures to avert crimes.</desc>
+  </programme>
+  <programme start="20260817143000 +0530" stop="20260817150000 +0530" channel="News.24.in">
+    <title>24 Round UP</title>
+    <desc>The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+  </programme>
+  <programme start="20260817150000 +0530" stop="20260817160000 +0530" channel="News.24.in">
+    <title>Janakeeya Kodathi</title>
+    <desc>Janakeeya Kodathi</desc>
+  </programme>
+  <programme start="20260817160000 +0530" stop="20260817170000 +0530" channel="News.24.in">
+    <title>Good Evening 24</title>
+    <desc>Good Evening 24 is a vibrant magazine show that blends news, culture, and entertainment, offering viewers engaging stories, lively discussions, and a refreshing evening experience.</desc>
+  </programme>
+  <programme start="20260817170000 +0530" stop="20260817173000 +0530" channel="News.24.in">
+    <title>Riding Reporters</title>
+    <desc>A Special report.</desc>
+  </programme>
+  <programme start="20260817173000 +0530" stop="20260817180000 +0530" channel="News.24.in">
+    <title>100 News</title>
+    <desc>The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+  </programme>
+  <programme start="20260817180000 +0530" stop="20260817183000 +0530" channel="News.24.in">
+    <title>6 PM News</title>
+    <desc>At 6 PM, the host provides a comprehensive roundup of the day's biggest headlines, covering national and global news, politics, business updates, and key developments shaping current affairs.</desc>
+  </programme>
+  <programme start="20260817183000 +0530" stop="20260817190000 +0530" channel="News.24.in">
+    <title>Pothujanam Kazhuthayalla Sir</title>
+    <desc>This program explores various issues, capturing public opinions firsthand and presenting them to the audience for a deeper understanding of diverse perspectives.</desc>
+  </programme>
+  <programme start="20260817190000 +0530" stop="20260817200000 +0530" channel="News.24.in">
+    <title>Encounter</title>
+    <desc>The host fires some candid questions and tries to extract straightforward answers from eminent politicians about the social issues.</desc>
+  </programme>
+  <programme start="20260817200000 +0530" stop="20260817201500 +0530" channel="News.24.in">
+    <title>24 On 24</title>
+    <desc>The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+  </programme>
+  <programme start="20260817201500 +0530" stop="20260817213000 +0530" channel="News.24.in">
+    <title>Thammil Thammil</title>
+    <desc>Vivek, a talented singer and dancer, falls for Doctor Rajagopal's sister. To win her affection, he makes his sister and brother-in-law rent a house across Rajagopal's home.</desc>
+  </programme>
+  <programme start="20260817213000 +0530" stop="20260817220000 +0530" channel="News.24.in">
+    <title>Kuttavum Shikshayum</title>
+    <desc>The movie starring Kamal Haasan, Sridevi, Bahadoor and K. P. Ummer in the lead roles. It is directed by M.Masthan.</desc>
+  </programme>
+  <programme start="20260817220000 +0530" stop="20260817223000 +0530" channel="News.24.in">
+    <title>Varthamazha</title>
+    <desc>Varthamazha is a story about family, love, and overcoming challenges.</desc>
+  </programme>
+  <programme start="20260817223000 +0530" stop="20260817230000 +0530" channel="News.24.in">
+    <title>Police Diary</title>
+    <desc>The host narrates different crimes stories in a dramatized version and suggests the right measures to avert crimes.</desc>
+  </programme>
+  <programme start="20260817230000 +0530" stop="20260817233000 +0530" channel="News.24.in">
+    <title>Late Edition</title>
+    <desc>A host explains the newest, most important news about society, the economy, and politics, highlighting key updates and developments for viewers.</desc>
+  </programme>
+  <programme start="20260817233000 +0530" stop="20260818000000 +0530" channel="News.24.in">
+    <title>Gulf Today</title>
+    <desc>A host delivers thorough regional news, explaining the latest developments with clear, accessible coverage and up-to-date insights from across the area.</desc>
   </programme>
 </tv>
