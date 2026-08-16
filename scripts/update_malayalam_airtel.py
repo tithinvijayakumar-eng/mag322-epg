@@ -67,6 +67,19 @@ def make_node(item, mag_id):
         ET.SubElement(p, 'desc').text = desc
     return p
 
+def ensure_channel(root, name, mag_id):
+    for ch in root.findall('channel'):
+        if ch.get('id') == mag_id:
+            return
+    ch = ET.Element('channel', {'id': mag_id})
+    ET.SubElement(ch, 'display-name').text = name
+    first_programme = root.find('programme')
+    if first_programme is None:
+        root.append(ch)
+    else:
+        root.insert(list(root).index(first_programme), ch)
+    print(f'Added channel declaration: {name} ({mag_id})')
+
 def main():
     tree = ET.parse(XML_PATH)
     root = tree.getroot()
@@ -83,6 +96,9 @@ def main():
             if not nodes:
                 print(f'SKIP {name}: no valid Airtel EPG')
                 continue
+
+            ensure_channel(root, name, mag_id)
+
             for p in list(root.findall('programme')):
                 if p.get('channel') == mag_id:
                     root.remove(p)
