@@ -83884,4 +83884,248 @@
     <title>Gulf Today</title>
     <desc>A host delivers thorough regional news, explaining the latest developments with clear, accessible coverage and up-to-date insights from across the area.</desc>
   </programme>
+  <programme start="20260818000000 +0530" stop="20260818003000 +0530" channel="News.24.in">
+    <title>Gulf Focus</title>
+    <desc>The host presents the latest news and updates pertaining to social, economic and political issues affecting the Malayali population in the Gulf countries.</desc>
+  </programme>
+  <programme start="20260818003000 +0530" stop="20260818013000 +0530" channel="News.24.in">
+    <title>Encounter</title>
+    <desc>The host fires some candid questions and tries to extract straightforward answers from eminent politicians about the social issues.</desc>
+  </programme>
+  <programme start="20260818013000 +0530" stop="20260818020000 +0530" channel="News.24.in">
+    <title>100 News</title>
+    <desc>The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+  </programme>
+  <programme start="20260818020000 +0530" stop="20260818023000 +0530" channel="News.24.in">
+    <title>24 Round UP</title>
+    <desc>The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+  </programme>
+  <programme start="20260818023000 +0530" stop="20260818030000 +0530" channel="News.24.in">
+    <title>Gulf Today</title>
+    <desc>A host delivers thorough regional news, explaining the latest developments with clear, accessible coverage and up-to-date insights from across the area.</desc>
+  </programme>
+  <programme start="20260818030000 +0530" stop="20260818033000 +0530" channel="News.24.in">
+    <title>100 News</title>
+    <desc>The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+  </programme>
+  <programme start="20260818033000 +0530" stop="20260818050000 +0530" channel="News.24.in">
+    <title>Late Edition</title>
+    <desc>A host explains the newest, most important news about society, the economy, and politics, highlighting key updates and developments for viewers.</desc>
+  </programme>
+  <programme start="20260818050000 +0530" stop="20260818053000 +0530" channel="News.24.in">
+    <title>24 Round UP</title>
+    <desc>The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+  </programme>
+  <programme start="20260818053000 +0530" stop="20260818060000 +0530" channel="News.24.in">
+    <title>Encounter</title>
+    <desc>The host fires some candid questions and tries to extract straightforward answers from eminent politicians about the social issues.</desc>
+  </programme>
+  <programme start="20260818060000 +0530" stop="20260818070000 +0530" channel="News.24.in">
+    <title>Morning Breaks</title>
+    <desc>Morning Breaks is a refreshing start to the day, blending news, culture, and lively segments that energize mornings with insights, positivity, and engaging conversations.</desc>
+  </programme>
+  <programme start="20260818070000 +0530" stop="20260818103000 +0530" channel="News.24.in">
+    <title>Good Morning With R Sreekandan Nair</title>
+    <desc>Start your day with R Sreekandan Nair as he delivers the latest news and updates. Stay informed-watch Good Morning now!</desc>
+  </programme>
+  <programme start="20260818103000 +0530" stop="20260818123000 +0530" channel="News.24.in">
+    <title>Breaking News</title>
+    <desc>The host highlights major national and international news, sharing top stories, current events, and important updates. Viewers get a concise briefing on what's happening around the world.</desc>
+  </programme>
+  <programme start="20260818123000 +0530" stop="20260818130000 +0530" channel="News.24.in">
+    <title>100 News</title>
+    <desc>The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+  </programme>
+  <programme start="20260818130000 +0530" stop="20260818140000 +0530" channel="News.24.in">
+    <title>1 Pm News</title>
+    <desc>A host shares up-to-date insights, breakthroughs, and news on key issues affecting many people's lives, offering clarity on evolving events and their real-world impacts.</desc>
+  </programme>
+  <programme start="20260818140000 +0530" stop="20260818143000 +0530" channel="News.24.in">
+    <title>Police Diary</title>
+    <desc>The host narrates different crimes stories in a dramatized version and suggests the right measures to avert crimes.</desc>
+  </programme>
+  <programme start="20260818143000 +0530" stop="20260818150000 +0530" channel="News.24.in">
+    <title>24 Round UP</title>
+    <desc>The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+  </programme>
+  <programme start="20260818150000 +0530" stop="20260818160000 +0530" channel="News.24.in">
+    <title>Thammil Thammil</title>
+    <desc>Vivek, a talented singer and dancer, falls for Doctor Rajagopal's sister. To win her affection, he makes his sister and brother-in-law rent a house across Rajagopal's home.</desc>
+  </programme>
+  <programme start="20260818160000 +0530" stop="20260818170000 +0530" channel="News.24.in">
+    <title>Good Evening 24</title>
+    <desc>Good Evening 24 is a vibrant magazine show that blends news, culture, and entertainment, offering viewers engaging stories, lively discussions, and a refreshing evening experience.</desc>
+  </programme>
+  <programme start="20260818170000 +0530" stop="20260818173000 +0530" channel="News.24.in">
+    <title>Riding Reporters</title>
+    <desc>A Special report.</desc>
+  </programme>
+  <programme start="20260818173000 +0530" stop="20260818180000 +0530" channel="News.24.in">
+    <title>100 News</title>
+    <desc>The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+  </programme>
+  <programme start="20260818180000 +0530" stop="20260818183000 +0530" channel="News.24.in">
+    <title>6 PM News</title>
+    <desc>At 6 PM, the host provides a comprehensive roundup of the day's biggest headlines, covering national and global news, politics, business updates, and key developments shaping current affairs.</desc>
+  </programme>
+  <programme start="20260818183000 +0530" stop="20260818190000 +0530" channel="News.24.in">
+    <title>Pothujanam Kazhuthayalla Sir</title>
+    <desc>This program explores various issues, capturing public opinions firsthand and presenting them to the audience for a deeper understanding of diverse perspectives.</desc>
+  </programme>
+  <programme start="20260818190000 +0530" stop="20260818200000 +0530" channel="News.24.in">
+    <title>Encounter</title>
+    <desc>The host fires some candid questions and tries to extract straightforward answers from eminent politicians about the social issues.</desc>
+  </programme>
+  <programme start="20260818200000 +0530" stop="20260818201500 +0530" channel="News.24.in">
+    <title>24 On 24</title>
+    <desc>The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+  </programme>
+  <programme start="20260818201500 +0530" stop="20260818213000 +0530" channel="News.24.in">
+    <title>Thammil Thammil</title>
+    <desc>Vivek, a talented singer and dancer, falls for Doctor Rajagopal's sister. To win her affection, he makes his sister and brother-in-law rent a house across Rajagopal's home.</desc>
+  </programme>
+  <programme start="20260818213000 +0530" stop="20260818220000 +0530" channel="News.24.in">
+    <title>Kuttavum Shikshayum</title>
+    <desc>The movie starring Kamal Haasan, Sridevi, Bahadoor and K. P. Ummer in the lead roles. It is directed by M.Masthan.</desc>
+  </programme>
+  <programme start="20260818220000 +0530" stop="20260818223000 +0530" channel="News.24.in">
+    <title>Varthamazha</title>
+    <desc>Varthamazha is a story about family, love, and overcoming challenges.</desc>
+  </programme>
+  <programme start="20260818223000 +0530" stop="20260818230000 +0530" channel="News.24.in">
+    <title>Police Diary</title>
+    <desc>The host narrates different crimes stories in a dramatized version and suggests the right measures to avert crimes.</desc>
+  </programme>
+  <programme start="20260818230000 +0530" stop="20260818233000 +0530" channel="News.24.in">
+    <title>Late Edition</title>
+    <desc>A host explains the newest, most important news about society, the economy, and politics, highlighting key updates and developments for viewers.</desc>
+  </programme>
+  <programme start="20260818233000 +0530" stop="20260819000000 +0530" channel="News.24.in">
+    <title>Gulf Today</title>
+    <desc>A host delivers thorough regional news, explaining the latest developments with clear, accessible coverage and up-to-date insights from across the area.</desc>
+  </programme>
+  <programme start="20260819000000 +0530" stop="20260819003000 +0530" channel="News.24.in">
+    <title>Gulf Focus</title>
+    <desc>The host presents the latest news and updates pertaining to social, economic and political issues affecting the Malayali population in the Gulf countries.</desc>
+  </programme>
+  <programme start="20260819003000 +0530" stop="20260819013000 +0530" channel="News.24.in">
+    <title>Encounter</title>
+    <desc>The host fires some candid questions and tries to extract straightforward answers from eminent politicians about the social issues.</desc>
+  </programme>
+  <programme start="20260819013000 +0530" stop="20260819020000 +0530" channel="News.24.in">
+    <title>100 News</title>
+    <desc>The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+  </programme>
+  <programme start="20260819020000 +0530" stop="20260819023000 +0530" channel="News.24.in">
+    <title>24 Round UP</title>
+    <desc>The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+  </programme>
+  <programme start="20260819023000 +0530" stop="20260819030000 +0530" channel="News.24.in">
+    <title>Gulf Today</title>
+    <desc>A host delivers thorough regional news, explaining the latest developments with clear, accessible coverage and up-to-date insights from across the area.</desc>
+  </programme>
+  <programme start="20260819030000 +0530" stop="20260819033000 +0530" channel="News.24.in">
+    <title>100 News</title>
+    <desc>The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+  </programme>
+  <programme start="20260819033000 +0530" stop="20260819050000 +0530" channel="News.24.in">
+    <title>Late Edition</title>
+    <desc>A host explains the newest, most important news about society, the economy, and politics, highlighting key updates and developments for viewers.</desc>
+  </programme>
+  <programme start="20260819050000 +0530" stop="20260819053000 +0530" channel="News.24.in">
+    <title>24 Round UP</title>
+    <desc>The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+  </programme>
+  <programme start="20260819053000 +0530" stop="20260819060000 +0530" channel="News.24.in">
+    <title>Encounter</title>
+    <desc>The host fires some candid questions and tries to extract straightforward answers from eminent politicians about the social issues.</desc>
+  </programme>
+  <programme start="20260819060000 +0530" stop="20260819070000 +0530" channel="News.24.in">
+    <title>Morning Breaks</title>
+    <desc>Morning Breaks is a refreshing start to the day, blending news, culture, and lively segments that energize mornings with insights, positivity, and engaging conversations.</desc>
+  </programme>
+  <programme start="20260819070000 +0530" stop="20260819103000 +0530" channel="News.24.in">
+    <title>Good Morning With R Sreekandan Nair</title>
+    <desc>Start your day with R Sreekandan Nair as he delivers the latest news and updates. Stay informed-watch Good Morning now!</desc>
+  </programme>
+  <programme start="20260819103000 +0530" stop="20260819123000 +0530" channel="News.24.in">
+    <title>Breaking News</title>
+    <desc>The host highlights major national and international news, sharing top stories, current events, and important updates. Viewers get a concise briefing on what's happening around the world.</desc>
+  </programme>
+  <programme start="20260819123000 +0530" stop="20260819130000 +0530" channel="News.24.in">
+    <title>100 News</title>
+    <desc>The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+  </programme>
+  <programme start="20260819130000 +0530" stop="20260819140000 +0530" channel="News.24.in">
+    <title>1 Pm News</title>
+    <desc>A host shares up-to-date insights, breakthroughs, and news on key issues affecting many people's lives, offering clarity on evolving events and their real-world impacts.</desc>
+  </programme>
+  <programme start="20260819140000 +0530" stop="20260819143000 +0530" channel="News.24.in">
+    <title>Police Diary</title>
+    <desc>The host narrates different crimes stories in a dramatized version and suggests the right measures to avert crimes.</desc>
+  </programme>
+  <programme start="20260819143000 +0530" stop="20260819150000 +0530" channel="News.24.in">
+    <title>24 Round UP</title>
+    <desc>The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+  </programme>
+  <programme start="20260819150000 +0530" stop="20260819160000 +0530" channel="News.24.in">
+    <title>Thammil Thammil</title>
+    <desc>Vivek, a talented singer and dancer, falls for Doctor Rajagopal's sister. To win her affection, he makes his sister and brother-in-law rent a house across Rajagopal's home.</desc>
+  </programme>
+  <programme start="20260819160000 +0530" stop="20260819170000 +0530" channel="News.24.in">
+    <title>Good Evening 24</title>
+    <desc>Good Evening 24 is a vibrant magazine show that blends news, culture, and entertainment, offering viewers engaging stories, lively discussions, and a refreshing evening experience.</desc>
+  </programme>
+  <programme start="20260819170000 +0530" stop="20260819173000 +0530" channel="News.24.in">
+    <title>Riding Reporters</title>
+    <desc>A Special report.</desc>
+  </programme>
+  <programme start="20260819173000 +0530" stop="20260819180000 +0530" channel="News.24.in">
+    <title>100 News</title>
+    <desc>The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+  </programme>
+  <programme start="20260819180000 +0530" stop="20260819183000 +0530" channel="News.24.in">
+    <title>6 PM News</title>
+    <desc>At 6 PM, the host provides a comprehensive roundup of the day's biggest headlines, covering national and global news, politics, business updates, and key developments shaping current affairs.</desc>
+  </programme>
+  <programme start="20260819183000 +0530" stop="20260819190000 +0530" channel="News.24.in">
+    <title>Pothujanam Kazhuthayalla Sir</title>
+    <desc>This program explores various issues, capturing public opinions firsthand and presenting them to the audience for a deeper understanding of diverse perspectives.</desc>
+  </programme>
+  <programme start="20260819190000 +0530" stop="20260819200000 +0530" channel="News.24.in">
+    <title>Encounter</title>
+    <desc>The host fires some candid questions and tries to extract straightforward answers from eminent politicians about the social issues.</desc>
+  </programme>
+  <programme start="20260819200000 +0530" stop="20260819201500 +0530" channel="News.24.in">
+    <title>24 On 24</title>
+    <desc>The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+  </programme>
+  <programme start="20260819201500 +0530" stop="20260819213000 +0530" channel="News.24.in">
+    <title>Thammil Thammil</title>
+    <desc>Vivek, a talented singer and dancer, falls for Doctor Rajagopal's sister. To win her affection, he makes his sister and brother-in-law rent a house across Rajagopal's home.</desc>
+  </programme>
+  <programme start="20260819213000 +0530" stop="20260819220000 +0530" channel="News.24.in">
+    <title>Kuttavum Shikshayum</title>
+    <desc>The movie starring Kamal Haasan, Sridevi, Bahadoor and K. P. Ummer in the lead roles. It is directed by M.Masthan.</desc>
+  </programme>
+  <programme start="20260819220000 +0530" stop="20260819223000 +0530" channel="News.24.in">
+    <title>Varthamazha</title>
+    <desc>Varthamazha is a story about family, love, and overcoming challenges.</desc>
+  </programme>
+  <programme start="20260819223000 +0530" stop="20260819230000 +0530" channel="News.24.in">
+    <title>Police Diary</title>
+    <desc>The host narrates different crimes stories in a dramatized version and suggests the right measures to avert crimes.</desc>
+  </programme>
+  <programme start="20260819230000 +0530" stop="20260819233000 +0530" channel="News.24.in">
+    <title>Late Edition</title>
+    <desc>A host explains the newest, most important news about society, the economy, and politics, highlighting key updates and developments for viewers.</desc>
+  </programme>
+  <programme start="20260819233000 +0530" stop="20260820000000 +0530" channel="News.24.in">
+    <title>Gulf Today</title>
+    <desc>A host delivers thorough regional news, explaining the latest developments with clear, accessible coverage and up-to-date insights from across the area.</desc>
+  </programme>
+  <programme start="20260820000000 +0530" stop="20260820003000 +0530" channel="News.24.in">
+    <title>Gulf Focus</title>
+    <desc>The host presents the latest news and updates pertaining to social, economic and political issues affecting the Malayali population in the Gulf countries.</desc>
+  </programme>
 </tv>
