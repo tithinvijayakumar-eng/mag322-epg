@@ -79334,15 +79334,15 @@
     <title>Helen</title>
     <desc>Helen disappears after work and causing mystery.</desc>
   </programme>
-  <programme start="20260818002000 +0530" stop="20260818031000 +0530" channel="AsianetMovies.in">
+  <programme start="20260818010000 +0530" stop="20260818030000 +0530" channel="AsianetMovies.in">
     <title>Four Friends</title>
     <desc>Four cancer patients become friends and plan a trip to Malaysia.</desc>
   </programme>
-  <programme start="20260818031000 +0530" stop="20260818052000 +0530" channel="AsianetMovies.in">
+  <programme start="20260818030000 +0530" stop="20260818050000 +0530" channel="AsianetMovies.in">
     <title>Sarkar Colony</title>
     <desc>Shivaramakrishnan is a government employee who struggles to make ends meet. In order to earn some quick money, he and his friends start a daycare centre, which proves to be even more disastrous.</desc>
   </programme>
-  <programme start="20260818052000 +0530" stop="20260818070000 +0530" channel="AsianetMovies.in">
+  <programme start="20260818050000 +0530" stop="20260818070000 +0530" channel="AsianetMovies.in">
     <title>Acha Dhin</title>
     <desc>Durgaprasad stumbles upon a deadly terrorist plot while seeking a loan for his wife's medical treatment, and he must act swiftly to save the city from destruction.</desc>
   </programme>
@@ -79366,19 +79366,19 @@
     <title>Natturajavu</title>
     <desc>Charlie faces father's secrets as Karnan seeks revenge, risking his life.</desc>
   </programme>
-  <programme start="20260818220000 +0530" stop="20260819010000 +0530" channel="AsianetMovies.in">
+  <programme start="20260818220000 +0530" stop="20260819001500 +0530" channel="AsianetMovies.in">
     <title>Kuttanpillayude sivarathri</title>
     <desc>Constable Pillai's love for the jackfruit tree causes conflict in the family.</desc>
   </programme>
-  <programme start="20260819010000 +0530" stop="20260819030000 +0530" channel="AsianetMovies.in">
+  <programme start="20260819001500 +0530" stop="20260819024000 +0530" channel="AsianetMovies.in">
     <title>Ranam</title>
     <desc>Aadhi, lured back into crime by his old gang leader, finds redemption and love when he meets Seema, leading him to reconsider his criminal life.</desc>
   </programme>
-  <programme start="20260819030000 +0530" stop="20260819050000 +0530" channel="AsianetMovies.in">
+  <programme start="20260819024000 +0530" stop="20260819044000 +0530" channel="AsianetMovies.in">
     <title>Aadu Oru Bheekara Jeevi Aanu</title>
     <desc>Shaji Pappan's team emerges victorious in a tug of war competition, earning a cash prize, a trophy, and a female goat. However, the situation takes a turn when the team decides to slaughter the goat.</desc>
   </programme>
-  <programme start="20260819050000 +0530" stop="20260819070000 +0530" channel="AsianetMovies.in">
+  <programme start="20260819044000 +0530" stop="20260819070000 +0530" channel="AsianetMovies.in">
     <title>Bhramaram</title>
     <desc>A jeep driver finds his old schoolmates to prove his innocence after 30 years.</desc>
   </programme>
@@ -81215,8 +81215,8 @@
     <desc>Relive the magic, excitement, and unforgettable performances from the grand premiere launch of the popular kids' singing competition show, Sa Re Ga Ma Pa Keralam L'il Champs.</desc>
   </programme>
   <programme start="20260818080000 +0530" stop="20260818100000 +0530" channel="ts694">
-    <title>Movie</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
+    <title>Kalki</title>
+    <desc>Kalki, an orphan, takes on familial duties in her teens. Her life shifts after marrying Mano, but complications arise when her sister joins them.</desc>
   </programme>
   <programme start="20260818100000 +0530" stop="20260818103000 +0530" channel="ts694">
     <title>Snehapoorvam Shyama</title>
@@ -81226,13 +81226,9 @@
     <title>Durga</title>
     <desc>IG Durga Prasad leads a new anti-terror squad under political pressure. His probe uncovers his own brother among militants, forcing him into a tragic final showdown.</desc>
   </programme>
-  <programme start="20260818110000 +0530" stop="20260818113000 +0530" channel="ts694">
+  <programme start="20260818110000 +0530" stop="20260818120000 +0530" channel="ts694">
     <title>Kudumbasree Sharada</title>
     <desc>Sharada, a resilient single mom with a tough past, bravely raises her three daughters alone, pushing through societal judgments and challenges while striving for a better life for them.</desc>
-  </programme>
-  <programme start="20260818113000 +0530" stop="20260818120000 +0530" channel="ts694">
-    <title>Akale</title>
-    <desc>Happiness in relationships requires love, understanding, and effort from both individuals. A lack of balance can lead to pain and heartache.</desc>
   </programme>
   <programme start="20260818120000 +0530" stop="20260818123000 +0530" channel="ts694">
     <title>Pranayavilasam</title>
@@ -81262,13 +81258,9 @@
     <title>Mangalyam</title>
     <desc>A young woman with grand aspirations marries a man from a diverse background, navigating the challenges and joys of life together, creating a unique and enriching journey.</desc>
   </programme>
-  <programme start="20260818153000 +0530" stop="20260818160000 +0530" channel="ts694">
-    <title>Pranayavilasam</title>
-    <desc>Trapped under his controlling father's thumb and sent to the wrong college, Suraj's entire world shifts when he unexpectedly breaks up with his girlfriend.</desc>
-  </programme>
-  <programme start="20260818160000 +0530" stop="20260818163000 +0530" channel="ts694">
-    <title>Valyettan</title>
-    <desc>Arjun stands united with his brothers, protecting family honour while rivalry, sacrifice and loyalty shape his journey.</desc>
+  <programme start="20260818153000 +0530" stop="20260818163000 +0530" channel="ts694">
+    <title>Kudumbasree Sharada</title>
+    <desc>Sharada, a resilient single mom with a tough past, bravely raises her three daughters alone, pushing through societal judgments and challenges while striving for a better life for them.</desc>
   </programme>
   <programme start="20260818163000 +0530" stop="20260818170000 +0530" channel="ts694">
     <title>Chembarathi</title>
@@ -81283,8 +81275,8 @@
     <desc>Chacko's CM dream shatters when his daughter elopes with an opposition comrade. This political satire follows young couples navigating clashing political beliefs in marriage.</desc>
   </programme>
   <programme start="20260818180000 +0530" stop="20260818183000 +0530" channel="ts694">
-    <title>Movie</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
+    <title>Karnan</title>
+    <desc>A small village in Tamil Nadu is inhabited by people belonging to a lower caste. Karnan, a young man, is revolted by the inhuman treatment given to his villagers and fights for their rights.</desc>
   </programme>
   <programme start="20260818183000 +0530" stop="20260818190000 +0530" channel="ts694">
     <title>Akale</title>
@@ -81294,17 +81286,13 @@
     <title>Kudumbasree Sharada</title>
     <desc>Sharada, a resilient single mom with a tough past, bravely raises her three daughters alone, pushing through societal judgments and challenges while striving for a better life for them.</desc>
   </programme>
-  <programme start="20260818193000 +0530" stop="20260818200000 +0530" channel="ts694">
+  <programme start="20260818193000 +0530" stop="20260818203000 +0530" channel="ts694">
     <title>Valyettan</title>
     <desc>Arjun stands united with his brothers, protecting family honour while rivalry, sacrifice and loyalty shape his journey.</desc>
   </programme>
-  <programme start="20260818200000 +0530" stop="20260818203000 +0530" channel="ts694">
-    <title>Chembarathi</title>
-    <desc>Kalyani enters into a family that's controlled by Akhilandeswari. Kalyani captures the heart of Akhilandeswari's elder son, it leads to a conflict.</desc>
-  </programme>
   <programme start="20260818203000 +0530" stop="20260818210000 +0530" channel="ts694">
-    <title>Chembarathi</title>
-    <desc>Kalyani enters into a family that's controlled by Akhilandeswari. Kalyani captures the heart of Akhilandeswari's elder son, it leads to a conflict.</desc>
+    <title>Durga</title>
+    <desc>IG Durga Prasad leads a new anti-terror squad under political pressure. His probe uncovers his own brother among militants, forcing him into a tragic final showdown.</desc>
   </programme>
   <programme start="20260818210000 +0530" stop="20260818213000 +0530" channel="ts694">
     <title>Pranayavilasam</title>
@@ -81323,16 +81311,16 @@
     <desc>A young woman with grand aspirations marries a man from a diverse background, navigating the challenges and joys of life together, creating a unique and enriching journey.</desc>
   </programme>
   <programme start="20260818230000 +0530" stop="20260818233000 +0530" channel="ts694">
-    <title>Chembarathi</title>
-    <desc>Kalyani enters into a family that's controlled by Akhilandeswari. Kalyani captures the heart of Akhilandeswari's elder son, it leads to a conflict.</desc>
+    <title>Durga</title>
+    <desc>IG Durga Prasad leads a new anti-terror squad under political pressure. His probe uncovers his own brother among militants, forcing him into a tragic final showdown.</desc>
   </programme>
   <programme start="20260818233000 +0530" stop="20260819000000 +0530" channel="ts694">
-    <title>Chembarathi</title>
-    <desc>Kalyani enters into a family that's controlled by Akhilandeswari. Kalyani captures the heart of Akhilandeswari's elder son, it leads to a conflict.</desc>
+    <title>Snehapoorvam Shyama</title>
+    <desc>Sina's scheming against Sujata causes tension, while health problems and unexpected changes in behavior ripple through their friend group, leading to drama and revelations that shake their bonds.</desc>
   </programme>
   <programme start="20260819000000 +0530" stop="20260819003000 +0530" channel="ts694">
-    <title>Valyettan</title>
-    <desc>Arjun stands united with his brothers, protecting family honour while rivalry, sacrifice and loyalty shape his journey.</desc>
+    <title>Mangalyam</title>
+    <desc>A young woman with grand aspirations marries a man from a diverse background, navigating the challenges and joys of life together, creating a unique and enriching journey.</desc>
   </programme>
   <programme start="20260819003000 +0530" stop="20260819010000 +0530" channel="ts694">
     <title>Durga - Special</title>
@@ -81346,11 +81334,7 @@
     <title>Krishna Gadha</title>
     <desc>Krishna and Mahalakshmi love each other. A mafia gang attacks her family and kidnaps kids. Krishna must save them to win Mahalakshmi's approval.</desc>
   </programme>
-  <programme start="20260819020000 +0530" stop="20260819023000 +0530" channel="ts694">
-    <title>Kudumbasree Sharada</title>
-    <desc>Sharada, a resilient single mom with a tough past, bravely raises her three daughters alone, pushing through societal judgments and challenges while striving for a better life for them.</desc>
-  </programme>
-  <programme start="20260819023000 +0530" stop="20260819030000 +0530" channel="ts694">
+  <programme start="20260819020000 +0530" stop="20260819030000 +0530" channel="ts694">
     <title>Valyettan</title>
     <desc>Arjun stands united with his brothers, protecting family honour while rivalry, sacrifice and loyalty shape his journey.</desc>
   </programme>
@@ -81359,20 +81343,20 @@
     <desc>Trapped under his controlling father's thumb and sent to the wrong college, Suraj's entire world shifts when he unexpectedly breaks up with his girlfriend.</desc>
   </programme>
   <programme start="20260819033000 +0530" stop="20260819040000 +0530" channel="ts694">
-    <title>Chembarathi</title>
-    <desc>Kalyani enters into a family that's controlled by Akhilandeswari. Kalyani captures the heart of Akhilandeswari's elder son, it leads to a conflict.</desc>
+    <title>Kudumbasree Sharada</title>
+    <desc>Sharada, a resilient single mom with a tough past, bravely raises her three daughters alone, pushing through societal judgments and challenges while striving for a better life for them.</desc>
   </programme>
   <programme start="20260819040000 +0530" stop="20260819043000 +0530" channel="ts694">
-    <title>Chembarathi</title>
-    <desc>Kalyani enters into a family that's controlled by Akhilandeswari. Kalyani captures the heart of Akhilandeswari's elder son, it leads to a conflict.</desc>
+    <title>Durga</title>
+    <desc>IG Durga Prasad leads a new anti-terror squad under political pressure. His probe uncovers his own brother among militants, forcing him into a tragic final showdown.</desc>
   </programme>
   <programme start="20260819043000 +0530" stop="20260819050000 +0530" channel="ts694">
     <title>Snehapoorvam Shyama</title>
     <desc>Sina's scheming against Sujata causes tension, while health problems and unexpected changes in behavior ripple through their friend group, leading to drama and revelations that shake their bonds.</desc>
   </programme>
   <programme start="20260819050000 +0530" stop="20260819060000 +0530" channel="ts694">
-    <title>Nirmalyam</title>
-    <desc>A young man takes over at an old, decaying temple while the priest is away, quickly forming a close bond with the daughter of the local oracle.</desc>
+    <title>Valyettan</title>
+    <desc>Arjun stands united with his brothers, protecting family honour while rivalry, sacrifice and loyalty shape his journey.</desc>
   </programme>
   <programme start="20260819060000 +0530" stop="20260819070000 +0530" channel="ts694">
     <title>Deva Sangeetham</title>
@@ -81384,7 +81368,7 @@
   </programme>
   <programme start="20260819080000 +0530" stop="20260819100000 +0530" channel="ts694">
     <title>Movie</title>
-    <desc>Movie name is yet to be announced by this channel.</desc>
+    <desc>The movie name is yet to be announced by the channel.</desc>
   </programme>
   <programme start="20260819100000 +0530" stop="20260819103000 +0530" channel="ts694">
     <title>Snehapoorvam Shyama</title>
