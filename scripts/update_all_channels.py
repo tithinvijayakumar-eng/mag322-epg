@@ -212,6 +212,14 @@ def main():
                 root.insert(list(root).index(first_programme), new_ch)
             existing_channels[xmltv_id] = new_ch
 
+        if xmltv_id in {'SURYA.MUSIC.in', 'MANORAMA.NEWS.in', 'REPORTER.in'} and src_channel is not None:
+            channel = existing_channels[xmltv_id]
+            for icon in list(channel.findall('icon')):
+                channel.remove(icon)
+            source_icon = src_channel.find('icon')
+            if source_icon is not None and source_icon.get('src'):
+                ET.SubElement(channel, 'icon', {'src': source_icon.get('src')})
+
         for p in list(root.findall('programme')):
             if p.get('channel') == xmltv_id:
                 root.remove(p)
