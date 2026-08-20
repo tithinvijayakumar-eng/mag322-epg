@@ -8,6 +8,7 @@ from pathlib import Path
 
 XML_PATH = Path('MAG322_5CH_EXTERNAL_EPG_TEST.xml')
 IST = timezone(timedelta(hours=5, minutes=30))
+UAE = timezone(timedelta(hours=4))
 
 # name, provider, provider channel id, MAG322 XMLTV id
 CHANNELS = [
@@ -108,7 +109,8 @@ def parse_time(value):
 
 
 def xmltv_time(value):
-    return parse_time(value).strftime('%Y%m%d%H%M%S +0530')
+    # Preserve the programme instant, but serialize XMLTV timestamps in UAE time.
+    return parse_time(value).astimezone(UAE).strftime('%Y%m%d%H%M%S +0400')
 
 
 def make_node(item, mag_id):
