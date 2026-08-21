@@ -76513,8 +76513,8 @@
     <desc>One of the most prestigious singing reality shows returns with judges KS Chithra, Sithara, and Vidhu Prathap, bringing a thrilling musical battle for viewers to enjoy.</desc>
   </programme>
   <programme start="20260822193000 +0400" stop="20260822210000 +0400" channel="ts292">
-    <title>Big Boss Agnipariksha S01</title>
-    <desc>The first digital pre-show selects common people for the main Bigg Boss season, putting aspiring contestants through challenges before they can enter the house.</desc>
+    <title>Big Boss Agnipariksha</title>
+    <desc>Big Boss Agnipariksha</desc>
   </programme>
   <programme start="20260822210000 +0400" stop="20260822233000 +0400" channel="ts292">
     <title>Vaazha</title>
@@ -76561,8 +76561,8 @@
     <desc>One of the most prestigious singing reality shows returns with judges KS Chithra, Sithara, and Vidhu Prathap, bringing a thrilling musical battle for viewers to enjoy.</desc>
   </programme>
   <programme start="20260823113000 +0400" stop="20260823130000 +0400" channel="ts292">
-    <title>Big Boss Agnipariksha S01</title>
-    <desc>The first digital pre-show selects common people for the main Bigg Boss season, putting aspiring contestants through challenges before they can enter the house.</desc>
+    <title>Big Boss Agnipariksha</title>
+    <desc>Big Boss Agnipariksha</desc>
   </programme>
   <programme start="20260823130000 +0400" stop="20260823132500 +0400" channel="ts292">
     <title>Onaruchimelam 2026</title>
@@ -76593,30 +76593,26 @@
     <desc>One of the most prestigious singing reality shows returns with judges KS Chithra, Sithara, and Vidhu Prathap, bringing a thrilling musical battle for viewers to enjoy.</desc>
   </programme>
   <programme start="20260823193000 +0400" stop="20260823210000 +0400" channel="ts292">
-    <title>Big Boss Agnipariksha S01</title>
-    <desc>The first digital pre-show selects common people for the main Bigg Boss season, putting aspiring contestants through challenges before they can enter the house.</desc>
+    <title>Big Boss Agnipariksha</title>
+    <desc>Big Boss Agnipariksha</desc>
   </programme>
-  <programme start="20260823210000 +0400" stop="20260824000000 +0400" channel="ts292">
+  <programme start="20260823210000 +0400" stop="20260823213000 +0400" channel="ts292">
+    <title>Line Cut With Anjana Nambiar</title>
+    <desc>Line Cut With Anjana Nambiar</desc>
+  </programme>
+  <programme start="20260823213000 +0400" stop="20260824003000 +0400" channel="ts292">
     <title>Pushpa: The Rise</title>
     <desc>Pushpa a feisty uneducated mother to becoming a graduate and an entrepreneur, who decides to change her life. She is an inspiration for many like her to believe in fighting and never losing hope!</desc>
   </programme>
-  <programme start="20260824000000 +0400" stop="20260824023000 +0400" channel="ts292">
+  <programme start="20260824003000 +0400" stop="20260824030000 +0400" channel="ts292">
     <title>Baba Kalyani</title>
     <desc>IPS officer Baba Kalyani, head of the Anti-Terrorist Cell, discovers a terrorist group plotting a bombing in Kochi. He races against time to stop them and save the city.</desc>
   </programme>
-  <programme start="20260824023000 +0400" stop="20260824030000 +0400" channel="ts292">
-    <title>Chirikkum Thalika Ii</title>
-    <desc>Chirikkum Thalika, a Malayalam reality show on Asianet Plus, compiles funny scenes from Malayalam films to entertain viewers with lighthearted humor.</desc>
+  <programme start="20260824030000 +0400" stop="20260824043000 +0400" channel="ts292">
+    <title>Khaleefayude Onavirunnu</title>
+    <desc>Stanly's harsh remarks deeply upset Aleena when he dismisses her wish to help orphanages. Tensions rise further after Balachandran prevents the new servant from serving the meal.</desc>
   </programme>
-  <programme start="20260824030000 +0400" stop="20260824033000 +0400" channel="ts292">
-    <title>Chirikkum Thalika Ii</title>
-    <desc>Chirikkum Thalika, a Malayalam reality show on Asianet Plus, compiles funny scenes from Malayalam films to entertain viewers with lighthearted humor.</desc>
-  </programme>
-  <programme start="20260824033000 +0400" stop="20260824060000 +0400" channel="ts292">
-    <title>Movie</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
-  </programme>
-  <programme start="20260824060000 +0400" stop="20260824073000 +0400" channel="ts292">
+  <programme start="20260824043000 +0400" stop="20260824073000 +0400" channel="ts292">
     <title>Movie</title>
     <desc>The movie name is yet to be announced by the channel.</desc>
   </programme>
@@ -76732,220 +76728,176 @@
     <title>Aayur Rekha</title>
     <desc>Doctor Aparna is the Managing Director of a hospital, whose divorce with her husband is in progress. However, when she is found dead, a police officer sets out to find the culprit.</desc>
   </programme>
-  <programme start="20260822043000 +0400" stop="20260822073000 +0400" channel="AsianetPlus.in">
-    <title>Movie</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
+  <programme start="20260822043000 +0400" stop="20260822063000 +0400" channel="AsianetPlus.in">
+    <title>Vadhyar</title>
+    <desc>A young man reluctantly becomes a teacher while dreaming of a flashy career in the metro. Torn between his aspirations and reality, he navigates the unexpected twists of life.</desc>
+  </programme>
+  <programme start="20260822063000 +0400" stop="20260822070000 +0400" channel="AsianetPlus.in">
+    <title>Europe Malayalee Journal</title>
+    <desc>Join us in this lively show as we dive into the unique challenges Malayalees face while living in Europe, sharing relatable experiences and heartfelt stories that resonate with the community.</desc>
+  </programme>
+  <programme start="20260822070000 +0400" stop="20260822073000 +0400" channel="AsianetPlus.in">
+    <title>48Th Soorya Festival 2025</title>
+    <desc>Experts discuss the advances in farming, caring for animals, growing plants, and other related farm activities, highlighting trends, methods, and potential benefits for producers and consumers.</desc>
   </programme>
   <programme start="20260822073000 +0400" stop="20260822103000 +0400" channel="AsianetPlus.in">
-    <title>Movie</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
+    <title>Njan Salperu Ramankutty</title>
+    <desc>Movie starring Jayaram, Gayathiri, Jagathy.</desc>
   </programme>
   <programme start="20260822103000 +0400" stop="20260822133000 +0400" channel="AsianetPlus.in">
-    <title>Movie</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
+    <title>Nakshathra Tharattu</title>
+    <desc>Movie starring Kunchacko Boban, Shalini.</desc>
   </programme>
   <programme start="20260822133000 +0400" stop="20260822163000 +0400" channel="AsianetPlus.in">
+    <title>Simhasanam</title>
+    <desc>Movie starring Prithviraj, Vandana Menon, Aishwarya Devan.</desc>
+  </programme>
+  <programme start="20260822163000 +0400" stop="20260822170000 +0400" channel="AsianetPlus.in">
+    <title>Malikapuram</title>
+    <desc>A young soul's faith and innocence are tested through loss and miracles, leading to a heartfelt journey of hope, courage and the strength of belief.</desc>
+  </programme>
+  <programme start="20260822170000 +0400" stop="20260822173000 +0400" channel="AsianetPlus.in">
+    <title>Eatho Janma Kalpanayil</title>
+    <desc>Sruthy, a simple girl, and Ashwin, a rich tycoon, clash over a business mishap, igniting a complex love-hate story amid family and societal challenges.</desc>
+  </programme>
+  <programme start="20260822173000 +0400" stop="20260822180000 +0400" channel="AsianetPlus.in">
+    <title>Chandrikayil Aliyunnu Chandrakantham</title>
+    <desc>Alakananda's battle between her dream to be a doctor and her father's IPS officer wish shifts when she marries Gautham, leading to complex family and love dynamics.</desc>
+  </programme>
+  <programme start="20260822180000 +0400" stop="20260822183000 +0400" channel="AsianetPlus.in">
+    <title>Teacher Amma</title>
+    <desc>Teacher Amma devotes her life to guiding students, while balancing family duties, emotional struggles and personal sacrifices.</desc>
+  </programme>
+  <programme start="20260822183000 +0400" stop="20260822190000 +0400" channel="AsianetPlus.in">
+    <title>Paadatha Painkili</title>
+    <desc>Kanmani, a humble maid, faces family conspiracies but finds support and love from Deva after a failed wedding leads to their marriage amidst struggles.</desc>
+  </programme>
+  <programme start="20260822190000 +0400" stop="20260822193000 +0400" channel="AsianetPlus.in">
+    <title>Snehakkoottu</title>
+    <desc>Close-knit friends support one another through love, sacrifice and challenges, proving the strength of lasting companionship.</desc>
+  </programme>
+  <programme start="20260822193000 +0400" stop="20260822200000 +0400" channel="AsianetPlus.in">
+    <title>Santhwanam -1</title>
+    <desc>Thampi and his wife are heartbroken when their only son defies them, marries, and settles in the United States. A granddaughter's visit brings hope and change.</desc>
+  </programme>
+  <programme start="20260822200000 +0400" stop="20260822203000 +0400" channel="AsianetPlus.in">
+    <title>Ishttam Maathram</title>
+    <desc>This heartwarming drama follows a compassionate woman navigating the joys and trials of love and family, striving to bring harmony and genuine happiness to those she holds dear.</desc>
+  </programme>
+  <programme start="20260822203000 +0400" stop="20260822210000 +0400" channel="AsianetPlus.in">
+    <title>Atham Pathinu Ponnonam 2026</title>
+    <desc>Atham Pathinu Ponnonam 2026</desc>
+  </programme>
+  <programme start="20260822210000 +0400" stop="20260823000000 +0400" channel="AsianetPlus.in">
+    <title>Bandhukkal Sathrukkal</title>
+    <desc>The animosity between 2 brothers extends to their wives and their grown-up children. The younger generation try to move on with their respective lives.</desc>
+  </programme>
+  <programme start="20260823000000 +0400" stop="20260823020000 +0400" channel="AsianetPlus.in">
+    <title>News</title>
+    <desc>News updates and developments of the day.</desc>
+  </programme>
+  <programme start="20260823020000 +0400" stop="20260823043000 +0400" channel="AsianetPlus.in">
+    <title>Ayitham</title>
+    <desc>Bhama falls in love with Shankaran but she is married off to another man. She is in for a rude shock when she discovers that her husband is already married.</desc>
+  </programme>
+  <programme start="20260823043000 +0400" stop="20260823070000 +0400" channel="AsianetPlus.in">
+    <title>Bachelor Party</title>
+    <desc>Movie starring Remya Nambeesan, Asif Ali, Prithviraj Sukumaran, Nithya Menen.</desc>
+  </programme>
+  <programme start="20260823070000 +0400" stop="20260823072500 +0400" channel="AsianetPlus.in">
+    <title>Malikapuram</title>
+    <desc>A young soul's faith and innocence are tested through loss and miracles, leading to a heartfelt journey of hope, courage and the strength of belief.</desc>
+  </programme>
+  <programme start="20260823072500 +0400" stop="20260823073000 +0400" channel="AsianetPlus.in">
+    <title>Paribhavam Parvathy II</title>
+    <desc>Parvathy faces emotional turmoil and societal challenges, as her journey highlights resilience, relationships, and the fight for dignity.</desc>
+  </programme>
+  <programme start="20260823073000 +0400" stop="20260823103000 +0400" channel="AsianetPlus.in">
+    <title>Senior Mandrake</title>
+    <desc>Kuttan becomes wealthy after selling a statue known for bringing bad luck, but his fortunes change when the statue returns to his house.</desc>
+  </programme>
+  <programme start="20260823103000 +0400" stop="20260823110000 +0400" channel="AsianetPlus.in">
+    <title>48Th Soorya Festival 2025</title>
+    <desc>Experts discuss the advances in farming, caring for animals, growing plants, and other related farm activities, highlighting trends, methods, and potential benefits for producers and consumers.</desc>
+  </programme>
+  <programme start="20260823110000 +0400" stop="20260823133000 +0400" channel="AsianetPlus.in">
+    <title>Kadal Kadannu Oru Maathukutty</title>
+    <desc>The story of a man sent to his native-place to convince a celebrity to be a part of the silver jubilee celebration of their association.</desc>
+  </programme>
+  <programme start="20260823133000 +0400" stop="20260823163000 +0400" channel="AsianetPlus.in">
+    <title>Kokkarakko</title>
+    <desc>Follow the journey of four friends who are chicken thieves. Their lives change when they are caught.</desc>
+  </programme>
+  <programme start="20260823163000 +0400" stop="20260823170000 +0400" channel="AsianetPlus.in">
+    <title>Malikapuram</title>
+    <desc>A young soul's faith and innocence are tested through loss and miracles, leading to a heartfelt journey of hope, courage and the strength of belief.</desc>
+  </programme>
+  <programme start="20260823170000 +0400" stop="20260823173000 +0400" channel="AsianetPlus.in">
+    <title>Eatho Janma Kalpanayil</title>
+    <desc>Sruthy, a simple girl, and Ashwin, a rich tycoon, clash over a business mishap, igniting a complex love-hate story amid family and societal challenges.</desc>
+  </programme>
+  <programme start="20260823173000 +0400" stop="20260823180000 +0400" channel="AsianetPlus.in">
+    <title>Chandrikayil Aliyunnu Chandrakantham</title>
+    <desc>Alakananda's battle between her dream to be a doctor and her father's IPS officer wish shifts when she marries Gautham, leading to complex family and love dynamics.</desc>
+  </programme>
+  <programme start="20260823180000 +0400" stop="20260823183000 +0400" channel="AsianetPlus.in">
+    <title>Teacher Amma</title>
+    <desc>Teacher Amma devotes her life to guiding students, while balancing family duties, emotional struggles and personal sacrifices.</desc>
+  </programme>
+  <programme start="20260823183000 +0400" stop="20260823190000 +0400" channel="AsianetPlus.in">
+    <title>Paadatha Painkili</title>
+    <desc>Kanmani, a humble maid, faces family conspiracies but finds support and love from Deva after a failed wedding leads to their marriage amidst struggles.</desc>
+  </programme>
+  <programme start="20260823190000 +0400" stop="20260823193000 +0400" channel="AsianetPlus.in">
+    <title>Snehakkoottu</title>
+    <desc>Close-knit friends support one another through love, sacrifice and challenges, proving the strength of lasting companionship.</desc>
+  </programme>
+  <programme start="20260823193000 +0400" stop="20260823200000 +0400" channel="AsianetPlus.in">
+    <title>Santhwanam -1</title>
+    <desc>Thampi and his wife are heartbroken when their only son defies them, marries, and settles in the United States. A granddaughter's visit brings hope and change.</desc>
+  </programme>
+  <programme start="20260823200000 +0400" stop="20260823203000 +0400" channel="AsianetPlus.in">
+    <title>Ishttam Maathram</title>
+    <desc>This heartwarming drama follows a compassionate woman navigating the joys and trials of love and family, striving to bring harmony and genuine happiness to those she holds dear.</desc>
+  </programme>
+  <programme start="20260823203000 +0400" stop="20260823210000 +0400" channel="AsianetPlus.in">
+    <title>Atham Pathinu Ponnonam 2026</title>
+    <desc>Atham Pathinu Ponnonam 2026</desc>
+  </programme>
+  <programme start="20260823210000 +0400" stop="20260823233000 +0400" channel="AsianetPlus.in">
+    <title>Sobharaj</title>
+    <desc>When Sobharaj, the notorious leader of an underworld gang, dies in a police encounter, the deputy superintendent finds a lookalike of him to use as an undercover spy.</desc>
+  </programme>
+  <programme start="20260823233000 +0400" stop="20260824020000 +0400" channel="AsianetPlus.in">
+    <title>Santhwanam</title>
+    <desc>Sridevi enjoys a peaceful life with her husband, Balakrishnan, and his siblings, but the family faces adversities that test their bond.</desc>
+  </programme>
+  <programme start="20260824020000 +0400" stop="20260824043000 +0400" channel="AsianetPlus.in">
+    <title>Black Cat</title>
+    <desc>Black is a mentally challenged person who works as a hitman for a rich, pompous person and has an obsession for black clothes.</desc>
+  </programme>
+  <programme start="20260824043000 +0400" stop="20260824073000 +0400" channel="AsianetPlus.in">
     <title>Movie</title>
     <desc>The movie name is yet to be announced by the channel.</desc>
   </programme>
-  <programme start="20260822163000 +0400" stop="20260822193000 +0400" channel="AsianetPlus.in">
+  <programme start="20260824073000 +0400" stop="20260824103000 +0400" channel="AsianetPlus.in">
     <title>Movie</title>
     <desc>The movie name is yet to be announced by the channel.</desc>
   </programme>
-  <programme start="20260822193000 +0400" stop="20260822223000 +0400" channel="AsianetPlus.in">
+  <programme start="20260824103000 +0400" stop="20260824133000 +0400" channel="AsianetPlus.in">
     <title>Movie</title>
     <desc>The movie name is yet to be announced by the channel.</desc>
   </programme>
-  <programme start="20260822223000 +0400" stop="20260822233000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
+  <programme start="20260824133000 +0400" stop="20260824163000 +0400" channel="AsianetPlus.in">
+    <title>Movie</title>
     <desc>The movie name is yet to be announced by the channel.</desc>
   </programme>
-  <programme start="20260822233000 +0400" stop="20260823003000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
+  <programme start="20260824163000 +0400" stop="20260824193000 +0400" channel="AsianetPlus.in">
+    <title>Movie</title>
     <desc>The movie name is yet to be announced by the channel.</desc>
   </programme>
-  <programme start="20260823003000 +0400" stop="20260823013000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
-  </programme>
-  <programme start="20260823013000 +0400" stop="20260823023000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
-  </programme>
-  <programme start="20260823023000 +0400" stop="20260823033000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
-  </programme>
-  <programme start="20260823033000 +0400" stop="20260823043000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
-  </programme>
-  <programme start="20260823043000 +0400" stop="20260823053000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
-  </programme>
-  <programme start="20260823053000 +0400" stop="20260823063000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
-  </programme>
-  <programme start="20260823063000 +0400" stop="20260823073000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
-  </programme>
-  <programme start="20260823073000 +0400" stop="20260823083000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
-  </programme>
-  <programme start="20260823083000 +0400" stop="20260823093000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
-  </programme>
-  <programme start="20260823093000 +0400" stop="20260823103000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
-  </programme>
-  <programme start="20260823103000 +0400" stop="20260823113000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
-  </programme>
-  <programme start="20260823113000 +0400" stop="20260823123000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
-  </programme>
-  <programme start="20260823123000 +0400" stop="20260823133000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
-  </programme>
-  <programme start="20260823133000 +0400" stop="20260823143000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
-  </programme>
-  <programme start="20260823143000 +0400" stop="20260823153000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
-  </programme>
-  <programme start="20260823153000 +0400" stop="20260823163000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
-  </programme>
-  <programme start="20260823163000 +0400" stop="20260823173000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
-  </programme>
-  <programme start="20260823173000 +0400" stop="20260823183000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
-  </programme>
-  <programme start="20260823183000 +0400" stop="20260823193000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
-  </programme>
-  <programme start="20260823193000 +0400" stop="20260823203000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
-  </programme>
-  <programme start="20260823203000 +0400" stop="20260823213000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
-  </programme>
-  <programme start="20260823213000 +0400" stop="20260823223000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
-  </programme>
-  <programme start="20260823223000 +0400" stop="20260823233000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
-  </programme>
-  <programme start="20260823233000 +0400" stop="20260824003000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
-  </programme>
-  <programme start="20260824003000 +0400" stop="20260824013000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
-  </programme>
-  <programme start="20260824013000 +0400" stop="20260824023000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
-  </programme>
-  <programme start="20260824023000 +0400" stop="20260824033000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
-  </programme>
-  <programme start="20260824033000 +0400" stop="20260824043000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
-  </programme>
-  <programme start="20260824043000 +0400" stop="20260824053000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
-  </programme>
-  <programme start="20260824053000 +0400" stop="20260824063000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
-  </programme>
-  <programme start="20260824063000 +0400" stop="20260824073000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
-  </programme>
-  <programme start="20260824073000 +0400" stop="20260824083000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
-  </programme>
-  <programme start="20260824083000 +0400" stop="20260824093000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
-  </programme>
-  <programme start="20260824093000 +0400" stop="20260824103000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
-  </programme>
-  <programme start="20260824103000 +0400" stop="20260824113000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
-  </programme>
-  <programme start="20260824113000 +0400" stop="20260824123000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
-  </programme>
-  <programme start="20260824123000 +0400" stop="20260824133000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
-  </programme>
-  <programme start="20260824133000 +0400" stop="20260824143000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
-  </programme>
-  <programme start="20260824143000 +0400" stop="20260824153000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
-  </programme>
-  <programme start="20260824153000 +0400" stop="20260824163000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
-  </programme>
-  <programme start="20260824163000 +0400" stop="20260824173000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
-  </programme>
-  <programme start="20260824173000 +0400" stop="20260824183000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
-  </programme>
-  <programme start="20260824183000 +0400" stop="20260824193000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
-  </programme>
-  <programme start="20260824193000 +0400" stop="20260824203000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
-  </programme>
-  <programme start="20260824203000 +0400" stop="20260824213000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
-    <desc>The movie name is yet to be announced by the channel.</desc>
-  </programme>
-  <programme start="20260824213000 +0400" stop="20260824223000 +0400" channel="AsianetPlus.in">
-    <title>Movies</title>
+  <programme start="20260824193000 +0400" stop="20260824223000 +0400" channel="AsianetPlus.in">
+    <title>Movie</title>
     <desc>The movie name is yet to be announced by the channel.</desc>
   </programme>
   <programme start="20260824223000 +0400" stop="20260824233000 +0400" channel="AsianetPlus.in">
@@ -77020,19 +76972,19 @@
     <title>Blast</title>
     <desc>When a modest family with hidden martial arts skills encounters a ruthless gang, they unite to survive. Together, they face overwhelming odds in a thrilling and emotional battle.</desc>
   </programme>
-  <programme start="20260822203000 +0400" stop="20260822233000 +0400" channel="AsianetMovies.in">
+  <programme start="20260822203000 +0400" stop="20260822231500 +0400" channel="AsianetMovies.in">
     <title>Natturajavu</title>
     <desc>Charlie faces father's secrets as Karnan seeks revenge, risking his life.</desc>
   </programme>
-  <programme start="20260822233000 +0400" stop="20260823013000 +0400" channel="AsianetMovies.in">
+  <programme start="20260822231500 +0400" stop="20260823013000 +0400" channel="AsianetMovies.in">
     <title>Vakkalathu Narayanankutty</title>
     <desc>Narayanan can't become a lawyer but puts up a fight whenever the law is broken.</desc>
   </programme>
-  <programme start="20260823013000 +0400" stop="20260823033000 +0400" channel="AsianetMovies.in">
+  <programme start="20260823013000 +0400" stop="20260823030000 +0400" channel="AsianetMovies.in">
     <title>Cheriya Kallnum Valiya Polisum</title>
     <desc>Sadasivan discovers a house where Kumaran died by suicide to protect his wife, Soumini. A mysterious blind man's constant presence raises deeper questions about the tragedy.</desc>
   </programme>
-  <programme start="20260823033000 +0400" stop="20260823053000 +0400" channel="AsianetMovies.in">
+  <programme start="20260823030000 +0400" stop="20260823053000 +0400" channel="AsianetMovies.in">
     <title>Sundarakkilladi</title>
     <desc>Without knowing the risk of his work, a man goes to a village to dig a well as they are facing water scarcity. However, his life takes a turn when he falls in love with a girl.</desc>
   </programme>
@@ -77090,7 +77042,7 @@
   </programme>
   <programme start="20260824173000 +0400" stop="20260824203000 +0400" channel="AsianetMovies.in">
     <title>Mr. X</title>
-    <desc>Mr. X</desc>
+    <desc>A covert intelligence agency tackles five major national threats, sending skilled operatives on secret missions to prevent dangerous plots and protect the country's security.</desc>
   </programme>
   <programme start="20260824203000 +0400" stop="20260824233000 +0400" channel="AsianetMovies.in">
     <title>Bangalore Days</title>
@@ -77934,23 +77886,23 @@
   </programme>
   <programme start="20260821223000 +0400" stop="20260822043000 +0400" channel="SURYA.COMEDY.in">
     <title>Chiri Pooram</title>
-    <desc>Chirippooram</desc>
+    <desc>A vibrant Malayalam comedy show featuring an entertaining blend of hilarious skits, iconic cinematic comedy scenes, and rib-tickling humor to keep viewers laughing non-stop.</desc>
   </programme>
   <programme start="20260822043000 +0400" stop="20260822053000 +0400" channel="SURYA.COMEDY.in">
     <title>Fun Action Drama</title>
-    <desc>Fun Action Drama</desc>
+    <desc>A vibrant collection of hilarious Malayalam comedy scenes and iconic movie moments featuring legendary actors, delivering a daily dose of endless laughter and pure entertainment.</desc>
   </programme>
   <programme start="20260822053000 +0400" stop="20260822063000 +0400" channel="SURYA.COMEDY.in">
     <title>Immini Ballya Thamasha</title>
-    <desc>Immini Ballya Thamasha</desc>
+    <desc>A rip-roaring Malayalam comedy show on Surya Comedy featuring hilarious skits, witty stand-up performances, and classic humor to keep viewers thoroughly entertained.</desc>
   </programme>
   <programme start="20260822063000 +0400" stop="20260822073000 +0400" channel="SURYA.COMEDY.in">
     <title>Happy hours</title>
-    <desc>Happy hours</desc>
+    <desc>A talented ensemble of comedians unites to deliver witty skits, punchy satire, and side-splitting performances for non-stop laughter and pure entertainment.</desc>
   </programme>
   <programme start="20260822073000 +0400" stop="20260822080000 +0400" channel="SURYA.COMEDY.in">
     <title>Bada Comedy</title>
-    <desc>Bada Comedyandnbsp;</desc>
+    <desc>A laugh-filled Malayalam comedy series featuring hilarious spoofs, witty banter, and entertaining skits performed by talented comic artists to deliver wholesome family entertainment.</desc>
   </programme>
   <programme start="20260822080000 +0400" stop="20260822090000 +0400" channel="SURYA.COMEDY.in">
     <title>Full On Comedy</title>
@@ -77962,7 +77914,7 @@
   </programme>
   <programme start="20260822093000 +0400" stop="20260822100000 +0400" channel="SURYA.COMEDY.in">
     <title>Adaar Padaar</title>
-    <desc>Adaar Padaarandnbsp;</desc>
+    <desc>A hilarious Kannada comedy show delivering non-stop entertainment with witty skits, quirky characters, and side-splitting gags performed by talented comedians to brighten up your day.</desc>
   </programme>
   <programme start="20260822100000 +0400" stop="20260822103000 +0400" channel="SURYA.COMEDY.in">
     <title>Dhe Ippo Sheriyakki Tharam</title>
@@ -77970,15 +77922,15 @@
   </programme>
   <programme start="20260822103000 +0400" stop="20260822113000 +0400" channel="SURYA.COMEDY.in">
     <title>Funlimited</title>
-    <desc>Funlimited</desc>
+    <desc>A hilarious compilation of side-splitting comedy clips, witty sketches, and classic humorous scenes designed to deliver non-stop laughter and lighthearted entertainment.</desc>
   </programme>
   <programme start="20260822113000 +0400" stop="20260822130000 +0400" channel="SURYA.COMEDY.in">
     <title>Mollywood times</title>
-    <desc>Mollywood times</desc>
+    <desc>An ambitious young director strives to revolutionize Malayalam horror cinema, defying his skeptical father's warnings while navigating the steep creative hurdles of a demanding industry.</desc>
   </programme>
   <programme start="20260822130000 +0400" stop="20260822133000 +0400" channel="SURYA.COMEDY.in">
     <title>Aram Aram Kinnaram</title>
-    <desc>Aram Aram Kinnaram</desc>
+    <desc>A hilarious Malayalam comedy reality show where popular television celebrities compete in fun games, witty spoofs, music, and entertaining acts hosted by actress Shwetha Menon.</desc>
   </programme>
   <programme start="20260822133000 +0400" stop="20260822143000 +0400" channel="SURYA.COMEDY.in">
     <title>Chayayodoppam Chiri</title>
@@ -77986,11 +77938,11 @@
   </programme>
   <programme start="20260822143000 +0400" stop="20260822153000 +0400" channel="SURYA.COMEDY.in">
     <title>Jigarthanda</title>
-    <desc>Jigarthanda</desc>
+    <desc>Aspiring filmmaker Rahul secretly stalks a feared gangster named Arumuga for movie inspiration, landing himself in a dangerous and unpredictable web of crime.</desc>
   </programme>
   <programme start="20260822153000 +0400" stop="20260822163000 +0400" channel="SURYA.COMEDY.in">
     <title>Fun Action Drama</title>
-    <desc>Fun Action Drama</desc>
+    <desc>A vibrant collection of hilarious Malayalam comedy scenes and iconic movie moments featuring legendary actors, delivering a daily dose of endless laughter and pure entertainment.</desc>
   </programme>
   <programme start="20260822163000 +0400" stop="20260822173000 +0400" channel="SURYA.COMEDY.in">
     <title>Full On Comedy</title>
@@ -77998,7 +77950,7 @@
   </programme>
   <programme start="20260822173000 +0400" stop="20260822180000 +0400" channel="SURYA.COMEDY.in">
     <title>Bada Comedy</title>
-    <desc>Bada Comedyandnbsp;</desc>
+    <desc>A laugh-filled Malayalam comedy series featuring hilarious spoofs, witty banter, and entertaining skits performed by talented comic artists to deliver wholesome family entertainment.</desc>
   </programme>
   <programme start="20260822180000 +0400" stop="20260822183000 +0400" channel="SURYA.COMEDY.in">
     <title>Scratch N Win</title>
@@ -78006,39 +77958,39 @@
   </programme>
   <programme start="20260822183000 +0400" stop="20260822193000 +0400" channel="SURYA.COMEDY.in">
     <title>Funlimited</title>
-    <desc>Funlimited</desc>
+    <desc>A hilarious compilation of side-splitting comedy clips, witty sketches, and classic humorous scenes designed to deliver non-stop laughter and lighthearted entertainment.</desc>
   </programme>
   <programme start="20260822193000 +0400" stop="20260822210000 +0400" channel="SURYA.COMEDY.in">
     <title>Mollywood times</title>
-    <desc>Mollywood times</desc>
+    <desc>An ambitious young director strives to revolutionize Malayalam horror cinema, defying his skeptical father's warnings while navigating the steep creative hurdles of a demanding industry.</desc>
   </programme>
   <programme start="20260822210000 +0400" stop="20260822213000 +0400" channel="SURYA.COMEDY.in">
     <title>Valleem pulleem</title>
-    <desc>Valleem pulleem</desc>
+    <desc>A delightful compilation featuring hilarious scenes, witty dialogues, and side-splitting comedy clips from popular blockbuster movies, showcasing celebrated actors at their funniest best.</desc>
   </programme>
   <programme start="20260822213000 +0400" stop="20260822223000 +0400" channel="SURYA.COMEDY.in">
     <title>Aram Aram Kinnaram</title>
-    <desc>Aram Aram Kinnaram</desc>
+    <desc>A hilarious Malayalam comedy reality show where popular television celebrities compete in fun games, witty spoofs, music, and entertaining acts hosted by actress Shwetha Menon.</desc>
   </programme>
   <programme start="20260822223000 +0400" stop="20260823043000 +0400" channel="SURYA.COMEDY.in">
     <title>Chiri Pooram</title>
-    <desc>Chirippooram</desc>
+    <desc>A vibrant Malayalam comedy show featuring an entertaining blend of hilarious skits, iconic cinematic comedy scenes, and rib-tickling humor to keep viewers laughing non-stop.</desc>
   </programme>
   <programme start="20260823043000 +0400" stop="20260823053000 +0400" channel="SURYA.COMEDY.in">
     <title>Fun Action Drama</title>
-    <desc>Fun Action Drama</desc>
+    <desc>A vibrant collection of hilarious Malayalam comedy scenes and iconic movie moments featuring legendary actors, delivering a daily dose of endless laughter and pure entertainment.</desc>
   </programme>
   <programme start="20260823053000 +0400" stop="20260823063000 +0400" channel="SURYA.COMEDY.in">
     <title>Immini Ballya Thamasha</title>
-    <desc>Immini Ballya Thamasha</desc>
+    <desc>A rip-roaring Malayalam comedy show on Surya Comedy featuring hilarious skits, witty stand-up performances, and classic humor to keep viewers thoroughly entertained.</desc>
   </programme>
   <programme start="20260823063000 +0400" stop="20260823073000 +0400" channel="SURYA.COMEDY.in">
     <title>Happy hours</title>
-    <desc>Happy hours</desc>
+    <desc>A talented ensemble of comedians unites to deliver witty skits, punchy satire, and side-splitting performances for non-stop laughter and pure entertainment.</desc>
   </programme>
   <programme start="20260823073000 +0400" stop="20260823080000 +0400" channel="SURYA.COMEDY.in">
     <title>Bada Comedy</title>
-    <desc>Bada Comedyandnbsp;</desc>
+    <desc>A laugh-filled Malayalam comedy series featuring hilarious spoofs, witty banter, and entertaining skits performed by talented comic artists to deliver wholesome family entertainment.</desc>
   </programme>
   <programme start="20260823080000 +0400" stop="20260823090000 +0400" channel="SURYA.COMEDY.in">
     <title>Full On Comedy</title>
@@ -78050,7 +78002,7 @@
   </programme>
   <programme start="20260823093000 +0400" stop="20260823100000 +0400" channel="SURYA.COMEDY.in">
     <title>Adaar Padaar</title>
-    <desc>Adaar Padaarandnbsp;</desc>
+    <desc>A hilarious Kannada comedy show delivering non-stop entertainment with witty skits, quirky characters, and side-splitting gags performed by talented comedians to brighten up your day.</desc>
   </programme>
   <programme start="20260823100000 +0400" stop="20260823103000 +0400" channel="SURYA.COMEDY.in">
     <title>Dhe Ippo Sheriyakki Tharam</title>
@@ -78058,15 +78010,15 @@
   </programme>
   <programme start="20260823103000 +0400" stop="20260823113000 +0400" channel="SURYA.COMEDY.in">
     <title>Funlimited</title>
-    <desc>Funlimited</desc>
+    <desc>A hilarious compilation of side-splitting comedy clips, witty sketches, and classic humorous scenes designed to deliver non-stop laughter and lighthearted entertainment.</desc>
   </programme>
   <programme start="20260823113000 +0400" stop="20260823130000 +0400" channel="SURYA.COMEDY.in">
     <title>Mollywood times</title>
-    <desc>Mollywood times</desc>
+    <desc>An ambitious young director strives to revolutionize Malayalam horror cinema, defying his skeptical father's warnings while navigating the steep creative hurdles of a demanding industry.</desc>
   </programme>
   <programme start="20260823130000 +0400" stop="20260823133000 +0400" channel="SURYA.COMEDY.in">
     <title>Aram Aram Kinnaram</title>
-    <desc>Aram Aram Kinnaram</desc>
+    <desc>A hilarious Malayalam comedy reality show where popular television celebrities compete in fun games, witty spoofs, music, and entertaining acts hosted by actress Shwetha Menon.</desc>
   </programme>
   <programme start="20260823133000 +0400" stop="20260823143000 +0400" channel="SURYA.COMEDY.in">
     <title>Chayayodoppam Chiri</title>
@@ -78074,11 +78026,11 @@
   </programme>
   <programme start="20260823143000 +0400" stop="20260823153000 +0400" channel="SURYA.COMEDY.in">
     <title>Jigarthanda</title>
-    <desc>Jigarthanda</desc>
+    <desc>Aspiring filmmaker Rahul secretly stalks a feared gangster named Arumuga for movie inspiration, landing himself in a dangerous and unpredictable web of crime.</desc>
   </programme>
   <programme start="20260823153000 +0400" stop="20260823163000 +0400" channel="SURYA.COMEDY.in">
     <title>Fun Action Drama</title>
-    <desc>Fun Action Drama</desc>
+    <desc>A vibrant collection of hilarious Malayalam comedy scenes and iconic movie moments featuring legendary actors, delivering a daily dose of endless laughter and pure entertainment.</desc>
   </programme>
   <programme start="20260823163000 +0400" stop="20260823173000 +0400" channel="SURYA.COMEDY.in">
     <title>Full On Comedy</title>
@@ -78086,7 +78038,7 @@
   </programme>
   <programme start="20260823173000 +0400" stop="20260823180000 +0400" channel="SURYA.COMEDY.in">
     <title>Bada Comedy</title>
-    <desc>Bada Comedyandnbsp;</desc>
+    <desc>A laugh-filled Malayalam comedy series featuring hilarious spoofs, witty banter, and entertaining skits performed by talented comic artists to deliver wholesome family entertainment.</desc>
   </programme>
   <programme start="20260823180000 +0400" stop="20260823183000 +0400" channel="SURYA.COMEDY.in">
     <title>Scratch N Win</title>
@@ -78094,19 +78046,19 @@
   </programme>
   <programme start="20260823183000 +0400" stop="20260823193000 +0400" channel="SURYA.COMEDY.in">
     <title>Funlimited</title>
-    <desc>Funlimited</desc>
+    <desc>A hilarious compilation of side-splitting comedy clips, witty sketches, and classic humorous scenes designed to deliver non-stop laughter and lighthearted entertainment.</desc>
   </programme>
   <programme start="20260823193000 +0400" stop="20260823210000 +0400" channel="SURYA.COMEDY.in">
     <title>Mollywood times</title>
-    <desc>Mollywood times</desc>
+    <desc>An ambitious young director strives to revolutionize Malayalam horror cinema, defying his skeptical father's warnings while navigating the steep creative hurdles of a demanding industry.</desc>
   </programme>
   <programme start="20260823210000 +0400" stop="20260823213000 +0400" channel="SURYA.COMEDY.in">
     <title>Valleem pulleem</title>
-    <desc>Valleem pulleem</desc>
+    <desc>A delightful compilation featuring hilarious scenes, witty dialogues, and side-splitting comedy clips from popular blockbuster movies, showcasing celebrated actors at their funniest best.</desc>
   </programme>
   <programme start="20260823213000 +0400" stop="20260823223000 +0400" channel="SURYA.COMEDY.in">
     <title>Aram Aram Kinnaram</title>
-    <desc>Aram Aram Kinnaram</desc>
+    <desc>A hilarious Malayalam comedy reality show where popular television celebrities compete in fun games, witty spoofs, music, and entertaining acts hosted by actress Shwetha Menon.</desc>
   </programme>
   <programme start="20260823223000 +0400" stop="20260824043000 +0400" channel="SURYA.COMEDY.in">
     <title>Back To Back Comedy</title>
@@ -78350,7 +78302,7 @@
   </programme>
   <programme start="20260822073000 +0400" stop="20260822080000 +0400" channel="SURYA.MUSIC.in">
     <title>Cine Nxt</title>
-    <desc>Cine Nxt</desc>
+    <desc>An engaging Malayalam music show featuring the latest cinematic tracks, trending chartbusters, exclusive movie buzz, and sneak peeks into upcoming releases.</desc>
   </programme>
   <programme start="20260822080000 +0400" stop="20260822083000 +0400" channel="SURYA.MUSIC.in">
     <title>Hridayam</title>
@@ -78454,7 +78406,7 @@
   </programme>
   <programme start="20260823073000 +0400" stop="20260823080000 +0400" channel="SURYA.MUSIC.in">
     <title>Cine Nxt</title>
-    <desc>Cine Nxt</desc>
+    <desc>An engaging Malayalam music show featuring the latest cinematic tracks, trending chartbusters, exclusive movie buzz, and sneak peeks into upcoming releases.</desc>
   </programme>
   <programme start="20260823080000 +0400" stop="20260823083000 +0400" channel="SURYA.MUSIC.in">
     <title>Hridayam</title>
@@ -79886,7 +79838,7 @@
   </programme>
   <programme start="20260823233000 +0400" stop="20260824003000 +0400" channel="flowers.in">
     <title>Dance Dhamaka</title>
-    <desc>Dance Dhamaka</desc>
+    <desc>A spectacular dance reality show spotlighting mesmerizing dancers as they showcase incredible passion, fierce competition, and artistic excellence on stage.</desc>
   </programme>
   <programme start="20260824003000 +0400" stop="20260824010000 +0400" channel="flowers.in">
     <title>Uppum Mulakum 3</title>
@@ -79898,7 +79850,7 @@
   </programme>
   <programme start="20260824013000 +0400" stop="20260824023000 +0400" channel="flowers.in">
     <title>Onakoottu 2026</title>
-    <desc>Onakoottu 2026</desc>
+    <desc>A delightful Onam special show bringing together popular celebrities to share traditional festive recipes, joyful laughter, and heartwarming celebrations in the true spirit of the harvest.</desc>
   </programme>
   <programme start="20260824023000 +0400" stop="20260824033000 +0400" channel="flowers.in">
     <title>Flowers Top Singer 6</title>
@@ -79906,7 +79858,7 @@
   </programme>
   <programme start="20260824033000 +0400" stop="20260824043000 +0400" channel="flowers.in">
     <title>Dance Dhamaka</title>
-    <desc>Dance Dhamaka</desc>
+    <desc>A spectacular dance reality show spotlighting mesmerizing dancers as they showcase incredible passion, fierce competition, and artistic excellence on stage.</desc>
   </programme>
   <programme start="20260824043000 +0400" stop="20260824050000 +0400" channel="flowers.in">
     <title>Samrambaka</title>
@@ -79922,7 +79874,7 @@
   </programme>
   <programme start="20260824070000 +0400" stop="20260824073000 +0400" channel="flowers.in">
     <title>Dance Dhamaka</title>
-    <desc>Dance Dhamaka</desc>
+    <desc>A spectacular dance reality show spotlighting mesmerizing dancers as they showcase incredible passion, fierce competition, and artistic excellence on stage.</desc>
   </programme>
   <programme start="20260824073000 +0400" stop="20260824080000 +0400" channel="flowers.in">
     <title>Uppum Mulakum</title>
@@ -79934,7 +79886,7 @@
   </programme>
   <programme start="20260824103000 +0400" stop="20260824113000 +0400" channel="flowers.in">
     <title>Onakoottu 2026</title>
-    <desc>Onakoottu 2026</desc>
+    <desc>A delightful Onam special show bringing together popular celebrities to share traditional festive recipes, joyful laughter, and heartwarming celebrations in the true spirit of the harvest.</desc>
   </programme>
   <programme start="20260824113000 +0400" stop="20260824143000 +0400" channel="flowers.in">
     <title>Movie</title>
@@ -79942,7 +79894,7 @@
   </programme>
   <programme start="20260824143000 +0400" stop="20260824150000 +0400" channel="flowers.in">
     <title>Dance Dhamaka</title>
-    <desc>Dance Dhamaka</desc>
+    <desc>A spectacular dance reality show spotlighting mesmerizing dancers as they showcase incredible passion, fierce competition, and artistic excellence on stage.</desc>
   </programme>
   <programme start="20260824150000 +0400" stop="20260824153000 +0400" channel="flowers.in">
     <title>Uppum Mulakum</title>
@@ -79950,11 +79902,11 @@
   </programme>
   <programme start="20260824153000 +0400" stop="20260824160000 +0400" channel="flowers.in">
     <title>Onaradham 2026</title>
-    <desc>Onaradham 2026</desc>
+    <desc>A vibrant festive travelogue journeying across towns and villages to capture authentic Onam traditions, grand cultural revelry, and joyful community celebrations in all their splendor.</desc>
   </programme>
   <programme start="20260824160000 +0400" stop="20260824170000 +0400" channel="flowers.in">
     <title>Onakoottu 2026</title>
-    <desc>Onakoottu 2026</desc>
+    <desc>A delightful Onam special show bringing together popular celebrities to share traditional festive recipes, joyful laughter, and heartwarming celebrations in the true spirit of the harvest.</desc>
   </programme>
   <programme start="20260824170000 +0400" stop="20260824173000 +0400" channel="flowers.in">
     <title>Uppum Mulakum 3</title>
@@ -81746,7 +81698,7 @@
   </programme>
   <programme start="20260822083000 +0400" stop="20260822090000 +0400" channel="KOCHU.TV.in">
     <title>Super Singoo</title>
-    <desc>Super Singoo</desc>
+    <desc>Singoo, the dynamic lion superhero, embarks on thrilling adventures and fun-filled missions, entertaining young kids with exciting heroic feats, moral lessons, and joyful everyday antics.</desc>
   </programme>
   <programme start="20260822090000 +0400" stop="20260822123000 +0400" channel="KOCHU.TV.in">
     <title>Heidi</title>
@@ -81754,7 +81706,7 @@
   </programme>
   <programme start="20260822123000 +0400" stop="20260822130000 +0400" channel="KOCHU.TV.in">
     <title>Super Singoo</title>
-    <desc>Super Singoo</desc>
+    <desc>Singoo, the dynamic lion superhero, embarks on thrilling adventures and fun-filled missions, entertaining young kids with exciting heroic feats, moral lessons, and joyful everyday antics.</desc>
   </programme>
   <programme start="20260822130000 +0400" stop="20260822140000 +0400" channel="KOCHU.TV.in">
     <title>Heidi</title>
@@ -81774,7 +81726,7 @@
   </programme>
   <programme start="20260822180000 +0400" stop="20260822183000 +0400" channel="KOCHU.TV.in">
     <title>Super Singoo</title>
-    <desc>Super Singoo</desc>
+    <desc>Singoo, the dynamic lion superhero, embarks on thrilling adventures and fun-filled missions, entertaining young kids with exciting heroic feats, moral lessons, and joyful everyday antics.</desc>
   </programme>
   <programme start="20260822183000 +0400" stop="20260822193000 +0400" channel="KOCHU.TV.in">
     <title>Balaveer</title>
@@ -81834,7 +81786,7 @@
   </programme>
   <programme start="20260823083000 +0400" stop="20260823090000 +0400" channel="KOCHU.TV.in">
     <title>Super Singoo</title>
-    <desc>Super Singoo</desc>
+    <desc>Singoo, the dynamic lion superhero, embarks on thrilling adventures and fun-filled missions, entertaining young kids with exciting heroic feats, moral lessons, and joyful everyday antics.</desc>
   </programme>
   <programme start="20260823090000 +0400" stop="20260823123000 +0400" channel="KOCHU.TV.in">
     <title>Heidi</title>
@@ -81842,7 +81794,7 @@
   </programme>
   <programme start="20260823123000 +0400" stop="20260823130000 +0400" channel="KOCHU.TV.in">
     <title>Super Singoo</title>
-    <desc>Super Singoo</desc>
+    <desc>Singoo, the dynamic lion superhero, embarks on thrilling adventures and fun-filled missions, entertaining young kids with exciting heroic feats, moral lessons, and joyful everyday antics.</desc>
   </programme>
   <programme start="20260823130000 +0400" stop="20260823140000 +0400" channel="KOCHU.TV.in">
     <title>Heidi</title>
@@ -81862,7 +81814,7 @@
   </programme>
   <programme start="20260823180000 +0400" stop="20260823183000 +0400" channel="KOCHU.TV.in">
     <title>Super Singoo</title>
-    <desc>Super Singoo</desc>
+    <desc>Singoo, the dynamic lion superhero, embarks on thrilling adventures and fun-filled missions, entertaining young kids with exciting heroic feats, moral lessons, and joyful everyday antics.</desc>
   </programme>
   <programme start="20260823183000 +0400" stop="20260823193000 +0400" channel="KOCHU.TV.in">
     <title>Balaveer</title>
@@ -81910,7 +81862,7 @@
   </programme>
   <programme start="20260824053000 +0400" stop="20260824060000 +0400" channel="KOCHU.TV.in">
     <title>Sabash Bola</title>
-    <desc>Sabash Bola</desc>
+    <desc>Empowered by his unwavering devotion to Lord Shiva, young Bhola fearlessly defends Kailashpur against evil forces and dark magic to protect his beloved town from looming threats.</desc>
   </programme>
   <programme start="20260824060000 +0400" stop="20260824063000 +0400" channel="KOCHU.TV.in">
     <title>Little Hakka</title>
@@ -82182,7 +82134,7 @@
   </programme>
   <programme start="20260822153000 +0400" stop="20260822160000 +0400" channel="News.24.in">
     <title>Riding Reporters</title>
-    <desc>A Special report.</desc>
+    <desc>The host presents a comprehensive roundup of major global headlines, analyzing key social, economic, political, and sports developments to keep viewers informed on crucial current affairs.</desc>
   </programme>
   <programme start="20260822160000 +0400" stop="20260822163000 +0400" channel="News.24.in">
     <title>100 News</title>
@@ -82206,7 +82158,7 @@
   </programme>
   <programme start="20260822184500 +0400" stop="20260822200000 +0400" channel="News.24.in">
     <title>Janakeeya Kodathi</title>
-    <desc>Janakeeya Kodathi</desc>
+    <desc>A gripping Malayalam drama where righteous individuals stand up against corruption and societal injustice to ensure truth and moral accountability prevail.</desc>
   </programme>
   <programme start="20260822200000 +0400" stop="20260822203000 +0400" channel="News.24.in">
     <title>Kuttavum Shikshayum</title>
@@ -82294,7 +82246,7 @@
   </programme>
   <programme start="20260823133000 +0400" stop="20260823143000 +0400" channel="News.24.in">
     <title>Janakeeya Kodathi</title>
-    <desc>Janakeeya Kodathi</desc>
+    <desc>A gripping Malayalam drama where righteous individuals stand up against corruption and societal injustice to ensure truth and moral accountability prevail.</desc>
   </programme>
   <programme start="20260823143000 +0400" stop="20260823153000 +0400" channel="News.24.in">
     <title>Good Evening 24</title>
@@ -82302,7 +82254,7 @@
   </programme>
   <programme start="20260823153000 +0400" stop="20260823160000 +0400" channel="News.24.in">
     <title>Riding Reporters</title>
-    <desc>A Special report.</desc>
+    <desc>The host presents a comprehensive roundup of major global headlines, analyzing key social, economic, political, and sports developments to keep viewers informed on crucial current affairs.</desc>
   </programme>
   <programme start="20260823160000 +0400" stop="20260823163000 +0400" channel="News.24.in">
     <title>100 News</title>
@@ -82326,7 +82278,7 @@
   </programme>
   <programme start="20260823184500 +0400" stop="20260823200000 +0400" channel="News.24.in">
     <title>Janakeeya Kodathi</title>
-    <desc>Janakeeya Kodathi</desc>
+    <desc>A gripping Malayalam drama where righteous individuals stand up against corruption and societal injustice to ensure truth and moral accountability prevail.</desc>
   </programme>
   <programme start="20260823200000 +0400" stop="20260823203000 +0400" channel="News.24.in">
     <title>Kuttavum Shikshayum</title>
@@ -82414,7 +82366,7 @@
   </programme>
   <programme start="20260824133000 +0400" stop="20260824143000 +0400" channel="News.24.in">
     <title>Janakeeya Kodathi</title>
-    <desc>Janakeeya Kodathi</desc>
+    <desc>A gripping Malayalam drama where righteous individuals stand up against corruption and societal injustice to ensure truth and moral accountability prevail.</desc>
   </programme>
   <programme start="20260824143000 +0400" stop="20260824153000 +0400" channel="News.24.in">
     <title>Good Evening 24</title>
@@ -82422,7 +82374,7 @@
   </programme>
   <programme start="20260824153000 +0400" stop="20260824160000 +0400" channel="News.24.in">
     <title>Riding Reporters</title>
-    <desc>A Special report.</desc>
+    <desc>The host presents a comprehensive roundup of major global headlines, analyzing key social, economic, political, and sports developments to keep viewers informed on crucial current affairs.</desc>
   </programme>
   <programme start="20260824160000 +0400" stop="20260824163000 +0400" channel="News.24.in">
     <title>100 News</title>
