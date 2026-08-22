@@ -812,6 +812,12 @@
     <url>http://www.mydishtv.in</url>
     <display-name lang="en">Discovery Turbo</display-name>
   </channel>
+  <channel id="ts1367">
+    <display-name>News Malayalam 24x7 HD</display-name>
+  </channel>
+  <channel id="rajmusixmalayalam.in">
+    <display-name>Raj Music Malayalam</display-name>
+  </channel>
   <programme channel="ASIANET.HD.in" start="20260822210000 +0530" stop="20260822223000 +0530">
     <title lang="en">Bigg Boss Agnipariksha</title>
     <desc lang="en">This is TV Show - Entertainment Category.</desc>
@@ -83041,5 +83047,1169 @@
   <programme start="20260825223000 +0400" stop="20260825230000 +0400" channel="News.24.in">
     <title>Gulf Focus</title>
     <desc>The host presents the latest news and updates pertaining to social, economic and political issues affecting the Malayali population in the Gulf countries.</desc>
+  </programme>
+  <programme start="20260821220000 +0400" stop="20260821233000 +0400" channel="ts1367">
+    <title>Nightout</title>
+    <desc>Join us for a special report with exclusive insights from around the world. Stay tuned for breaking news and in-depth coverage of important events!</desc>
+  </programme>
+  <programme start="20260821233000 +0400" stop="20260822003000 +0400" channel="ts1367">
+    <title>Sandhyaa Vaartha</title>
+    <desc>News Bulletin Various events and Current affairs.</desc>
+  </programme>
+  <programme start="20260822003000 +0400" stop="20260822013000 +0400" channel="ts1367">
+    <title>Twenty Twenty</title>
+    <desc>The host presents the latest updates on politics, sports, social, and economic news.</desc>
+  </programme>
+  <programme start="20260822013000 +0400" stop="20260822023000 +0400" channel="ts1367">
+    <title>Superfast 100</title>
+    <desc>News bulletin covering latest incidents and developments.</desc>
+  </programme>
+  <programme start="20260822023000 +0400" stop="20260822033000 +0400" channel="ts1367">
+    <title>Night Edition</title>
+    <desc>Catch a special report on the latest breaking stories and in-depth coverage. Stay informed with exclusive updates and valuable insights-watch now for more!</desc>
+  </programme>
+  <programme start="20260822033000 +0400" stop="20260822043000 +0400" channel="ts1367">
+    <title>News Persia</title>
+    <desc>The host presents the latest updates on various social, political, and economic issues.</desc>
+  </programme>
+  <programme start="20260822043000 +0400" stop="20260822053000 +0400" channel="ts1367">
+    <title>Udayam Malayalam</title>
+    <desc>The host presents the latest updates on politics, sports, social, and economic news.</desc>
+  </programme>
+  <programme start="20260822053000 +0400" stop="20260822063000 +0400" channel="ts1367">
+    <title>Praathal Vaartha</title>
+    <desc>News Bulletin Various events and Current affairs.</desc>
+  </programme>
+  <programme start="20260822063000 +0400" stop="20260822073000 +0400" channel="ts1367">
+    <title>Praathal Vaartha</title>
+    <desc>News Bulletin Various events and Current affairs.</desc>
+  </programme>
+  <programme start="20260822073000 +0400" stop="20260822083000 +0400" channel="ts1367">
+    <title>Superfast 100</title>
+    <desc>News bulletin covering latest incidents and developments.</desc>
+  </programme>
+  <programme start="20260822083000 +0400" stop="20260822093000 +0400" channel="ts1367">
+    <title>Superfast 100</title>
+    <desc>News bulletin covering latest incidents and developments.</desc>
+  </programme>
+  <programme start="20260822093000 +0400" stop="20260822103000 +0400" channel="ts1367">
+    <title>Superfast 100</title>
+    <desc>News bulletin covering latest incidents and developments.</desc>
+  </programme>
+  <programme start="20260822103000 +0400" stop="20260822113000 +0400" channel="ts1367">
+    <title>Superfast 100</title>
+    <desc>News bulletin covering latest incidents and developments.</desc>
+  </programme>
+  <programme start="20260822113000 +0400" stop="20260822123000 +0400" channel="ts1367">
+    <title>News Lunch</title>
+    <desc>The host presents the latest updates on politics, sports, social, and economic news.</desc>
+  </programme>
+  <programme start="20260822123000 +0400" stop="20260822133000 +0400" channel="ts1367">
+    <title>News Afternoon</title>
+    <desc>News bulletin covering latest incidents and developments.</desc>
+  </programme>
+  <programme start="20260822133000 +0400" stop="20260822143000 +0400" channel="ts1367">
+    <title>News Afternoon</title>
+    <desc>News bulletin covering latest incidents and developments.</desc>
+  </programme>
+  <programme start="20260822143000 +0400" stop="20260822153000 +0400" channel="ts1367">
+    <title>News Afternoon</title>
+    <desc>News bulletin covering latest incidents and developments.</desc>
+  </programme>
+  <programme start="20260822153000 +0400" stop="20260822163000 +0400" channel="ts1367">
+    <title>News Afternoon</title>
+    <desc>News bulletin covering latest incidents and developments.</desc>
+  </programme>
+  <programme start="20260822163000 +0400" stop="20260822173000 +0400" channel="ts1367">
+    <title>Evening Malayalam</title>
+    <desc>News Bulletin Various events and Current affairs.</desc>
+  </programme>
+  <programme start="20260822173000 +0400" stop="20260822183000 +0400" channel="ts1367">
+    <title>Sandhyaa Vaartha</title>
+    <desc>News Bulletin Various events and Current affairs.</desc>
+  </programme>
+  <programme start="20260822183000 +0400" stop="20260822193000 +0400" channel="ts1367">
+    <title>Twenty Twenty</title>
+    <desc>The host presents the latest updates on politics, sports, social, and economic news.</desc>
+  </programme>
+  <programme start="20260822193000 +0400" stop="20260822203000 +0400" channel="ts1367">
+    <title>Superfast 100</title>
+    <desc>News bulletin covering latest incidents and developments.</desc>
+  </programme>
+  <programme start="20260822203000 +0400" stop="20260822213000 +0400" channel="ts1367">
+    <title>Night Edition</title>
+    <desc>Catch a special report on the latest breaking stories and in-depth coverage. Stay informed with exclusive updates and valuable insights-watch now for more!</desc>
+  </programme>
+  <programme start="20260822213000 +0400" stop="20260822220000 +0400" channel="ts1367">
+    <title>News Persia</title>
+    <desc>The host presents the latest updates on various social, political, and economic issues.</desc>
+  </programme>
+  <programme start="20260822220000 +0400" stop="20260822233000 +0400" channel="ts1367">
+    <title>Nightout</title>
+    <desc>Join us for a special report with exclusive insights from around the world. Stay tuned for breaking news and in-depth coverage of important events!</desc>
+  </programme>
+  <programme start="20260822233000 +0400" stop="20260823003000 +0400" channel="ts1367">
+    <title>Sandhyaa Vaartha</title>
+    <desc>News Bulletin Various events and Current affairs.</desc>
+  </programme>
+  <programme start="20260823003000 +0400" stop="20260823013000 +0400" channel="ts1367">
+    <title>Twenty Twenty</title>
+    <desc>The host presents the latest updates on politics, sports, social, and economic news.</desc>
+  </programme>
+  <programme start="20260823013000 +0400" stop="20260823023000 +0400" channel="ts1367">
+    <title>Superfast 100</title>
+    <desc>News bulletin covering latest incidents and developments.</desc>
+  </programme>
+  <programme start="20260823023000 +0400" stop="20260823033000 +0400" channel="ts1367">
+    <title>Night Edition</title>
+    <desc>Catch a special report on the latest breaking stories and in-depth coverage. Stay informed with exclusive updates and valuable insights-watch now for more!</desc>
+  </programme>
+  <programme start="20260823033000 +0400" stop="20260823043000 +0400" channel="ts1367">
+    <title>News Persia</title>
+    <desc>The host presents the latest updates on various social, political, and economic issues.</desc>
+  </programme>
+  <programme start="20260823043000 +0400" stop="20260823053000 +0400" channel="ts1367">
+    <title>Udayam Malayalam</title>
+    <desc>The host presents the latest updates on politics, sports, social, and economic news.</desc>
+  </programme>
+  <programme start="20260823053000 +0400" stop="20260823063000 +0400" channel="ts1367">
+    <title>Praathal Vaartha</title>
+    <desc>News Bulletin Various events and Current affairs.</desc>
+  </programme>
+  <programme start="20260823063000 +0400" stop="20260823073000 +0400" channel="ts1367">
+    <title>Praathal Vaartha</title>
+    <desc>News Bulletin Various events and Current affairs.</desc>
+  </programme>
+  <programme start="20260823073000 +0400" stop="20260823083000 +0400" channel="ts1367">
+    <title>Superfast 100</title>
+    <desc>News bulletin covering latest incidents and developments.</desc>
+  </programme>
+  <programme start="20260823083000 +0400" stop="20260823093000 +0400" channel="ts1367">
+    <title>Superfast 100</title>
+    <desc>News bulletin covering latest incidents and developments.</desc>
+  </programme>
+  <programme start="20260823093000 +0400" stop="20260823103000 +0400" channel="ts1367">
+    <title>Superfast 100</title>
+    <desc>News bulletin covering latest incidents and developments.</desc>
+  </programme>
+  <programme start="20260823103000 +0400" stop="20260823113000 +0400" channel="ts1367">
+    <title>Superfast 100</title>
+    <desc>News bulletin covering latest incidents and developments.</desc>
+  </programme>
+  <programme start="20260823113000 +0400" stop="20260823123000 +0400" channel="ts1367">
+    <title>News Lunch</title>
+    <desc>The host presents the latest updates on politics, sports, social, and economic news.</desc>
+  </programme>
+  <programme start="20260823123000 +0400" stop="20260823133000 +0400" channel="ts1367">
+    <title>News Afternoon</title>
+    <desc>News bulletin covering latest incidents and developments.</desc>
+  </programme>
+  <programme start="20260823133000 +0400" stop="20260823143000 +0400" channel="ts1367">
+    <title>News Afternoon</title>
+    <desc>News bulletin covering latest incidents and developments.</desc>
+  </programme>
+  <programme start="20260823143000 +0400" stop="20260823153000 +0400" channel="ts1367">
+    <title>News Afternoon</title>
+    <desc>News bulletin covering latest incidents and developments.</desc>
+  </programme>
+  <programme start="20260823153000 +0400" stop="20260823163000 +0400" channel="ts1367">
+    <title>News Afternoon</title>
+    <desc>News bulletin covering latest incidents and developments.</desc>
+  </programme>
+  <programme start="20260823163000 +0400" stop="20260823173000 +0400" channel="ts1367">
+    <title>Evening Malayalam</title>
+    <desc>News Bulletin Various events and Current affairs.</desc>
+  </programme>
+  <programme start="20260823173000 +0400" stop="20260823183000 +0400" channel="ts1367">
+    <title>Sandhyaa Vaartha</title>
+    <desc>News Bulletin Various events and Current affairs.</desc>
+  </programme>
+  <programme start="20260823183000 +0400" stop="20260823193000 +0400" channel="ts1367">
+    <title>Twenty Twenty</title>
+    <desc>The host presents the latest updates on politics, sports, social, and economic news.</desc>
+  </programme>
+  <programme start="20260823193000 +0400" stop="20260823203000 +0400" channel="ts1367">
+    <title>Superfast 100</title>
+    <desc>News bulletin covering latest incidents and developments.</desc>
+  </programme>
+  <programme start="20260823203000 +0400" stop="20260823213000 +0400" channel="ts1367">
+    <title>Night Edition</title>
+    <desc>Catch a special report on the latest breaking stories and in-depth coverage. Stay informed with exclusive updates and valuable insights-watch now for more!</desc>
+  </programme>
+  <programme start="20260823213000 +0400" stop="20260823220000 +0400" channel="ts1367">
+    <title>News Persia</title>
+    <desc>The host presents the latest updates on various social, political, and economic issues.</desc>
+  </programme>
+  <programme start="20260823220000 +0400" stop="20260823233000 +0400" channel="ts1367">
+    <title>Nightout</title>
+    <desc>Join us for a special report with exclusive insights from around the world. Stay tuned for breaking news and in-depth coverage of important events!</desc>
+  </programme>
+  <programme start="20260823233000 +0400" stop="20260824003000 +0400" channel="ts1367">
+    <title>Sandhyaa Vaartha</title>
+    <desc>News Bulletin Various events and Current affairs.</desc>
+  </programme>
+  <programme start="20260824003000 +0400" stop="20260824013000 +0400" channel="ts1367">
+    <title>Twenty Twenty</title>
+    <desc>The host presents the latest updates on politics, sports, social, and economic news.</desc>
+  </programme>
+  <programme start="20260824013000 +0400" stop="20260824023000 +0400" channel="ts1367">
+    <title>Superfast 100</title>
+    <desc>News bulletin covering latest incidents and developments.</desc>
+  </programme>
+  <programme start="20260824023000 +0400" stop="20260824033000 +0400" channel="ts1367">
+    <title>Night Edition</title>
+    <desc>Catch a special report on the latest breaking stories and in-depth coverage. Stay informed with exclusive updates and valuable insights-watch now for more!</desc>
+  </programme>
+  <programme start="20260824033000 +0400" stop="20260824043000 +0400" channel="ts1367">
+    <title>News Persia</title>
+    <desc>The host presents the latest updates on various social, political, and economic issues.</desc>
+  </programme>
+  <programme start="20260824043000 +0400" stop="20260824053000 +0400" channel="ts1367">
+    <title>Udayam Malayalam</title>
+    <desc>The host presents the latest updates on politics, sports, social, and economic news.</desc>
+  </programme>
+  <programme start="20260824053000 +0400" stop="20260824063000 +0400" channel="ts1367">
+    <title>Praathal Vaartha</title>
+    <desc>News Bulletin Various events and Current affairs.</desc>
+  </programme>
+  <programme start="20260824063000 +0400" stop="20260824073000 +0400" channel="ts1367">
+    <title>Praathal Vaartha</title>
+    <desc>News Bulletin Various events and Current affairs.</desc>
+  </programme>
+  <programme start="20260824073000 +0400" stop="20260824083000 +0400" channel="ts1367">
+    <title>Superfast 100</title>
+    <desc>News bulletin covering latest incidents and developments.</desc>
+  </programme>
+  <programme start="20260824083000 +0400" stop="20260824093000 +0400" channel="ts1367">
+    <title>Superfast 100</title>
+    <desc>News bulletin covering latest incidents and developments.</desc>
+  </programme>
+  <programme start="20260824093000 +0400" stop="20260824103000 +0400" channel="ts1367">
+    <title>Superfast 100</title>
+    <desc>News bulletin covering latest incidents and developments.</desc>
+  </programme>
+  <programme start="20260824103000 +0400" stop="20260824113000 +0400" channel="ts1367">
+    <title>Superfast 100</title>
+    <desc>News bulletin covering latest incidents and developments.</desc>
+  </programme>
+  <programme start="20260824113000 +0400" stop="20260824123000 +0400" channel="ts1367">
+    <title>News Lunch</title>
+    <desc>The host presents the latest updates on politics, sports, social, and economic news.</desc>
+  </programme>
+  <programme start="20260824123000 +0400" stop="20260824133000 +0400" channel="ts1367">
+    <title>News Afternoon</title>
+    <desc>News bulletin covering latest incidents and developments.</desc>
+  </programme>
+  <programme start="20260824133000 +0400" stop="20260824143000 +0400" channel="ts1367">
+    <title>News Afternoon</title>
+    <desc>News bulletin covering latest incidents and developments.</desc>
+  </programme>
+  <programme start="20260824143000 +0400" stop="20260824153000 +0400" channel="ts1367">
+    <title>News Afternoon</title>
+    <desc>News bulletin covering latest incidents and developments.</desc>
+  </programme>
+  <programme start="20260824153000 +0400" stop="20260824163000 +0400" channel="ts1367">
+    <title>News Afternoon</title>
+    <desc>News bulletin covering latest incidents and developments.</desc>
+  </programme>
+  <programme start="20260824163000 +0400" stop="20260824173000 +0400" channel="ts1367">
+    <title>Evening Malayalam</title>
+    <desc>News Bulletin Various events and Current affairs.</desc>
+  </programme>
+  <programme start="20260824173000 +0400" stop="20260824183000 +0400" channel="ts1367">
+    <title>Sandhyaa Vaartha</title>
+    <desc>News Bulletin Various events and Current affairs.</desc>
+  </programme>
+  <programme start="20260824183000 +0400" stop="20260824193000 +0400" channel="ts1367">
+    <title>Twenty Twenty</title>
+    <desc>The host presents the latest updates on politics, sports, social, and economic news.</desc>
+  </programme>
+  <programme start="20260824193000 +0400" stop="20260824203000 +0400" channel="ts1367">
+    <title>Superfast 100</title>
+    <desc>News bulletin covering latest incidents and developments.</desc>
+  </programme>
+  <programme start="20260824203000 +0400" stop="20260824213000 +0400" channel="ts1367">
+    <title>Night Edition</title>
+    <desc>Catch a special report on the latest breaking stories and in-depth coverage. Stay informed with exclusive updates and valuable insights-watch now for more!</desc>
+  </programme>
+  <programme start="20260824213000 +0400" stop="20260824220000 +0400" channel="ts1367">
+    <title>News Persia</title>
+    <desc>The host presents the latest updates on various social, political, and economic issues.</desc>
+  </programme>
+  <programme start="20260824220000 +0400" stop="20260824233000 +0400" channel="ts1367">
+    <title>Nightout</title>
+    <desc>Join us for a special report with exclusive insights from around the world. Stay tuned for breaking news and in-depth coverage of important events!</desc>
+  </programme>
+  <programme start="20260824233000 +0400" stop="20260825003000 +0400" channel="ts1367">
+    <title>Sandhyaa Vaartha</title>
+    <desc>News Bulletin Various events and Current affairs.</desc>
+  </programme>
+  <programme start="20260825003000 +0400" stop="20260825013000 +0400" channel="ts1367">
+    <title>Twenty Twenty</title>
+    <desc>The host presents the latest updates on politics, sports, social, and economic news.</desc>
+  </programme>
+  <programme start="20260825013000 +0400" stop="20260825023000 +0400" channel="ts1367">
+    <title>Superfast 100</title>
+    <desc>News bulletin covering latest incidents and developments.</desc>
+  </programme>
+  <programme start="20260825023000 +0400" stop="20260825033000 +0400" channel="ts1367">
+    <title>Night Edition</title>
+    <desc>Catch a special report on the latest breaking stories and in-depth coverage. Stay informed with exclusive updates and valuable insights-watch now for more!</desc>
+  </programme>
+  <programme start="20260825033000 +0400" stop="20260825043000 +0400" channel="ts1367">
+    <title>News Persia</title>
+    <desc>The host presents the latest updates on various social, political, and economic issues.</desc>
+  </programme>
+  <programme start="20260825043000 +0400" stop="20260825053000 +0400" channel="ts1367">
+    <title>Udayam Malayalam</title>
+    <desc>The host presents the latest updates on politics, sports, social, and economic news.</desc>
+  </programme>
+  <programme start="20260825053000 +0400" stop="20260825063000 +0400" channel="ts1367">
+    <title>Praathal Vaartha</title>
+    <desc>News Bulletin Various events and Current affairs.</desc>
+  </programme>
+  <programme start="20260825063000 +0400" stop="20260825073000 +0400" channel="ts1367">
+    <title>Praathal Vaartha</title>
+    <desc>News Bulletin Various events and Current affairs.</desc>
+  </programme>
+  <programme start="20260825073000 +0400" stop="20260825083000 +0400" channel="ts1367">
+    <title>Superfast 100</title>
+    <desc>News bulletin covering latest incidents and developments.</desc>
+  </programme>
+  <programme start="20260825083000 +0400" stop="20260825093000 +0400" channel="ts1367">
+    <title>Superfast 100</title>
+    <desc>News bulletin covering latest incidents and developments.</desc>
+  </programme>
+  <programme start="20260825093000 +0400" stop="20260825103000 +0400" channel="ts1367">
+    <title>Superfast 100</title>
+    <desc>News bulletin covering latest incidents and developments.</desc>
+  </programme>
+  <programme start="20260825103000 +0400" stop="20260825113000 +0400" channel="ts1367">
+    <title>Superfast 100</title>
+    <desc>News bulletin covering latest incidents and developments.</desc>
+  </programme>
+  <programme start="20260825113000 +0400" stop="20260825123000 +0400" channel="ts1367">
+    <title>News Lunch</title>
+    <desc>The host presents the latest updates on politics, sports, social, and economic news.</desc>
+  </programme>
+  <programme start="20260825123000 +0400" stop="20260825133000 +0400" channel="ts1367">
+    <title>News Afternoon</title>
+    <desc>News bulletin covering latest incidents and developments.</desc>
+  </programme>
+  <programme start="20260825133000 +0400" stop="20260825143000 +0400" channel="ts1367">
+    <title>News Afternoon</title>
+    <desc>News bulletin covering latest incidents and developments.</desc>
+  </programme>
+  <programme start="20260825143000 +0400" stop="20260825153000 +0400" channel="ts1367">
+    <title>News Afternoon</title>
+    <desc>News bulletin covering latest incidents and developments.</desc>
+  </programme>
+  <programme start="20260825153000 +0400" stop="20260825163000 +0400" channel="ts1367">
+    <title>News Afternoon</title>
+    <desc>News bulletin covering latest incidents and developments.</desc>
+  </programme>
+  <programme start="20260825163000 +0400" stop="20260825173000 +0400" channel="ts1367">
+    <title>Evening Malayalam</title>
+    <desc>News Bulletin Various events and Current affairs.</desc>
+  </programme>
+  <programme start="20260825173000 +0400" stop="20260825183000 +0400" channel="ts1367">
+    <title>Sandhyaa Vaartha</title>
+    <desc>News Bulletin Various events and Current affairs.</desc>
+  </programme>
+  <programme start="20260825183000 +0400" stop="20260825193000 +0400" channel="ts1367">
+    <title>Twenty Twenty</title>
+    <desc>The host presents the latest updates on politics, sports, social, and economic news.</desc>
+  </programme>
+  <programme start="20260825193000 +0400" stop="20260825203000 +0400" channel="ts1367">
+    <title>Superfast 100</title>
+    <desc>News bulletin covering latest incidents and developments.</desc>
+  </programme>
+  <programme start="20260825203000 +0400" stop="20260825213000 +0400" channel="ts1367">
+    <title>Night Edition</title>
+    <desc>Catch a special report on the latest breaking stories and in-depth coverage. Stay informed with exclusive updates and valuable insights-watch now for more!</desc>
+  </programme>
+  <programme start="20260825213000 +0400" stop="20260825220000 +0400" channel="ts1367">
+    <title>News Persia</title>
+    <desc>The host presents the latest updates on various social, political, and economic issues.</desc>
+  </programme>
+  <programme start="20260825220000 +0400" stop="20260825233000 +0400" channel="ts1367">
+    <title>Nightout</title>
+    <desc>Join us for a special report with exclusive insights from around the world. Stay tuned for breaking news and in-depth coverage of important events!</desc>
+  </programme>
+  <programme start="20260821220000 +0400" stop="20260821223000 +0400" channel="rajmusixmalayalam.in">
+    <title>1980S</title>
+    <desc>A comprehensive collection of the most popular and melodious Malayalam songs from the 1980s, playing one after another to bring back the golden era's nostalgic musical charm.</desc>
+  </programme>
+  <programme start="20260821223000 +0400" stop="20260821230000 +0400" channel="rajmusixmalayalam.in">
+    <title>Golli Soda</title>
+    <desc>A comprehensive collection of some of the most popular songs performed by renowned artists and bands played back to back.</desc>
+  </programme>
+  <programme start="20260821230000 +0400" stop="20260821233000 +0400" channel="rajmusixmalayalam.in">
+    <title>Ever Green</title>
+    <desc>A comprehensive compilation of some of the hit evergreen songs written and composed by famous artists and musicians from all over the country.</desc>
+  </programme>
+  <programme start="20260821233000 +0400" stop="20260822000000 +0400" channel="rajmusixmalayalam.in">
+    <title>Karthika</title>
+    <desc>Deepa, a dark-skinned girl, is treated badly by her fair-skinned sister. She gets married to Dr Karthik but has to fight societal and family pressures in order to lead a happy married life.</desc>
+  </programme>
+  <programme start="20260822000000 +0400" stop="20260822003000 +0400" channel="rajmusixmalayalam.in">
+    <title>Onv</title>
+    <desc>Ottaplakkal Neelakandan Velu Kurup was a Malayalam poet and lyricist from Kerala, India, who won the Jnanpith Award, the highest literary award in India.</desc>
+  </programme>
+  <programme start="20260822003000 +0400" stop="20260822010000 +0400" channel="rajmusixmalayalam.in">
+    <title>Best Of 90'S</title>
+    <desc>A nostalgic musical journey through the unforgettable hits of the 1990s, capturing the magic of melodies that defined an entire generation of music lovers.</desc>
+  </programme>
+  <programme start="20260822010000 +0400" stop="20260822013000 +0400" channel="rajmusixmalayalam.in">
+    <title>Hit Chart</title>
+    <desc>Tune into a comprehensive compilation of some of the latest and most popular songs performed by various artists.</desc>
+  </programme>
+  <programme start="20260822013000 +0400" stop="20260822020000 +0400" channel="rajmusixmalayalam.in">
+    <title>Manoharam</title>
+    <desc>Manu, a talented poster artist, struggles to find work with the advent of digital technology. After being jilted by his fiancee, he attempts to rebuild his life.</desc>
+  </programme>
+  <programme start="20260822020000 +0400" stop="20260822023000 +0400" channel="rajmusixmalayalam.in">
+    <title>Nostalgia</title>
+    <desc>Enjoy a heartwarming collection of timeless classics that shaped musical history, evoking powerful emotions and memories that remain fresh even today.</desc>
+  </programme>
+  <programme start="20260822023000 +0400" stop="20260822030000 +0400" channel="rajmusixmalayalam.in">
+    <title>Dileep</title>
+    <desc>Dileep is a popular Malayalam actor known for his versatile roles and comedy, starring in over 150 films and winning multiple awards for his impactful performances.</desc>
+  </programme>
+  <programme start="20260822030000 +0400" stop="20260822033000 +0400" channel="rajmusixmalayalam.in">
+    <title>Kamal</title>
+    <desc>Enjoy a playlist of top Malayalam songs from renowned musicians and singers, non-stop!</desc>
+  </programme>
+  <programme start="20260822033000 +0400" stop="20260822040000 +0400" channel="rajmusixmalayalam.in">
+    <title>Omana Thinkal</title>
+    <desc>Directed by Yatheendra Das and produced by Kora George. The film stars Kaviyoor Ponnamma, Venu Nagavally, Baby Anju and Babu Namboothiri in the lead roles.</desc>
+  </programme>
+  <programme start="20260822040000 +0400" stop="20260822043000 +0400" channel="rajmusixmalayalam.in">
+    <title>1980S</title>
+    <desc>A comprehensive collection of the most popular and melodious Malayalam songs from the 1980s, playing one after another to bring back the golden era's nostalgic musical charm.</desc>
+  </programme>
+  <programme start="20260822043000 +0400" stop="20260822050000 +0400" channel="rajmusixmalayalam.in">
+    <title>Gireesh</title>
+    <desc>A comprehensive compilation of some of the hit songs written and composed by Gireesh Puthenchery, a prominent Malayalam lyricist.</desc>
+  </programme>
+  <programme start="20260822050000 +0400" stop="20260822053000 +0400" channel="rajmusixmalayalam.in">
+    <title>Kana Marayathu</title>
+    <desc>Sherly, an orphan, falls in love with Roy not knowing that he is her financial supporter. But Roy keeps his distance from her due to their age gap.</desc>
+  </programme>
+  <programme start="20260822053000 +0400" stop="20260822060000 +0400" channel="rajmusixmalayalam.in">
+    <title>Poornima</title>
+    <desc>Despite being in love with each other, Purnima and Prakash end up marrying Vasant and Vandana respectively. Things take an unexpected turn when Vasant and Vandana die in a car accident.</desc>
+  </programme>
+  <programme start="20260822060000 +0400" stop="20260822063000 +0400" channel="rajmusixmalayalam.in">
+    <title>Devaragam</title>
+    <desc>Vishnu and Lakshmi fall in love. But Lakshmi's father accepts a wedding proposal against her wish.</desc>
+  </programme>
+  <programme start="20260822063000 +0400" stop="20260822070000 +0400" channel="rajmusixmalayalam.in">
+    <title>Isai Thendral</title>
+    <desc>Famous playback singers present some of the most popular songs in their discography that helped them define and advance their careers.</desc>
+  </programme>
+  <programme start="20260822070000 +0400" stop="20260822073000 +0400" channel="rajmusixmalayalam.in">
+    <title>Meera</title>
+    <desc>Meera's life changes after she witnesses a policeman committing a murder. He then vows to kill her, but Jeeva, a man who falls in love with her, takes it upon himself to protect her.</desc>
+  </programme>
+  <programme start="20260822073000 +0400" stop="20260822080000 +0400" channel="rajmusixmalayalam.in">
+    <title>Siby Hits</title>
+    <desc>Siby Hits showcases a curated selection of iconic Malayalam film songs, celebrating timeless hits with captivating performances that revive the essence of classic music eras beautifully.</desc>
+  </programme>
+  <programme start="20260822080000 +0400" stop="20260822083000 +0400" channel="rajmusixmalayalam.in">
+    <title>Ever Green</title>
+    <desc>A comprehensive compilation of some of the hit evergreen songs written and composed by famous artists and musicians from all over the country.</desc>
+  </programme>
+  <programme start="20260822083000 +0400" stop="20260822090000 +0400" channel="rajmusixmalayalam.in">
+    <title>Karthika</title>
+    <desc>Deepa, a dark-skinned girl, is treated badly by her fair-skinned sister. She gets married to Dr Karthik but has to fight societal and family pressures in order to lead a happy married life.</desc>
+  </programme>
+  <programme start="20260822090000 +0400" stop="20260822093000 +0400" channel="rajmusixmalayalam.in">
+    <title>Onv</title>
+    <desc>Ottaplakkal Neelakandan Velu Kurup was a Malayalam poet and lyricist from Kerala, India, who won the Jnanpith Award, the highest literary award in India.</desc>
+  </programme>
+  <programme start="20260822093000 +0400" stop="20260822100000 +0400" channel="rajmusixmalayalam.in">
+    <title>Best Of 90'S</title>
+    <desc>A nostalgic musical journey through the unforgettable hits of the 1990s, capturing the magic of melodies that defined an entire generation of music lovers.</desc>
+  </programme>
+  <programme start="20260822100000 +0400" stop="20260822103000 +0400" channel="rajmusixmalayalam.in">
+    <title>Hit Chart</title>
+    <desc>Tune into a comprehensive compilation of some of the latest and most popular songs performed by various artists.</desc>
+  </programme>
+  <programme start="20260822103000 +0400" stop="20260822110000 +0400" channel="rajmusixmalayalam.in">
+    <title>Manoharam</title>
+    <desc>Manu, a talented poster artist, struggles to find work with the advent of digital technology. After being jilted by his fiancee, he attempts to rebuild his life.</desc>
+  </programme>
+  <programme start="20260822110000 +0400" stop="20260822113000 +0400" channel="rajmusixmalayalam.in">
+    <title>Nostalgia</title>
+    <desc>Enjoy a heartwarming collection of timeless classics that shaped musical history, evoking powerful emotions and memories that remain fresh even today.</desc>
+  </programme>
+  <programme start="20260822113000 +0400" stop="20260822120000 +0400" channel="rajmusixmalayalam.in">
+    <title>Dileep</title>
+    <desc>Dileep is a popular Malayalam actor known for his versatile roles and comedy, starring in over 150 films and winning multiple awards for his impactful performances.</desc>
+  </programme>
+  <programme start="20260822120000 +0400" stop="20260822123000 +0400" channel="rajmusixmalayalam.in">
+    <title>Kamal</title>
+    <desc>Enjoy a playlist of top Malayalam songs from renowned musicians and singers, non-stop!</desc>
+  </programme>
+  <programme start="20260822123000 +0400" stop="20260822130000 +0400" channel="rajmusixmalayalam.in">
+    <title>Omana Thinkal</title>
+    <desc>Directed by Yatheendra Das and produced by Kora George. The film stars Kaviyoor Ponnamma, Venu Nagavally, Baby Anju and Babu Namboothiri in the lead roles.</desc>
+  </programme>
+  <programme start="20260822130000 +0400" stop="20260822133000 +0400" channel="rajmusixmalayalam.in">
+    <title>1980S</title>
+    <desc>A comprehensive collection of the most popular and melodious Malayalam songs from the 1980s, playing one after another to bring back the golden era's nostalgic musical charm.</desc>
+  </programme>
+  <programme start="20260822133000 +0400" stop="20260822140000 +0400" channel="rajmusixmalayalam.in">
+    <title>Golli Soda</title>
+    <desc>A comprehensive collection of some of the most popular songs performed by renowned artists and bands played back to back.</desc>
+  </programme>
+  <programme start="20260822140000 +0400" stop="20260822143000 +0400" channel="rajmusixmalayalam.in">
+    <title>Lets Dance</title>
+    <desc>Let's Dance features electrifying dance performances by talented pairs and solo dancers, showcasing a vibrant variety of styles in a thrilling, fast-paced format that captivates viewers throughout.</desc>
+  </programme>
+  <programme start="20260822143000 +0400" stop="20260822150000 +0400" channel="rajmusixmalayalam.in">
+    <title>Revathi</title>
+    <desc>A comprehensive compilation of popular Malayalam songs from movies featuring Indian actress Revathy is played back to back.</desc>
+  </programme>
+  <programme start="20260822150000 +0400" stop="20260822153000 +0400" channel="rajmusixmalayalam.in">
+    <title>Dew Drops</title>
+    <desc>Enjoy a playlist of top Malayalam songs from renowned musicians and singers, non-stop!</desc>
+  </programme>
+  <programme start="20260822153000 +0400" stop="20260822160000 +0400" channel="rajmusixmalayalam.in">
+    <title>Ishq</title>
+    <desc>Enjoy a playlist of top Malayalam songs from renowned musicians and singers, non-stop!</desc>
+  </programme>
+  <programme start="20260822160000 +0400" stop="20260822163000 +0400" channel="rajmusixmalayalam.in">
+    <title>Neela Kuyil</title>
+    <desc>Jaisurya, a journalist who is already engaged to his lover Rani, is forced to marry Chittu, a village girl, when he goes to a remote area to cover a story.</desc>
+  </programme>
+  <programme start="20260822163000 +0400" stop="20260822170000 +0400" channel="rajmusixmalayalam.in">
+    <title>Venugopal Hits</title>
+    <desc>Venugopal Hits features a timeless collection of romantic and evergreen Malayalam film songs, capturing the soulful and melodious essence of G. Venugopal's celebrated singing career.</desc>
+  </programme>
+  <programme start="20260822170000 +0400" stop="20260822173000 +0400" channel="rajmusixmalayalam.in">
+    <title>Gireesh</title>
+    <desc>A comprehensive compilation of some of the hit songs written and composed by Gireesh Puthenchery, a prominent Malayalam lyricist.</desc>
+  </programme>
+  <programme start="20260822173000 +0400" stop="20260822180000 +0400" channel="rajmusixmalayalam.in">
+    <title>Kana Marayathu</title>
+    <desc>Sherly, an orphan, falls in love with Roy not knowing that he is her financial supporter. But Roy keeps his distance from her due to their age gap.</desc>
+  </programme>
+  <programme start="20260822180000 +0400" stop="20260822183000 +0400" channel="rajmusixmalayalam.in">
+    <title>Poornima</title>
+    <desc>Despite being in love with each other, Purnima and Prakash end up marrying Vasant and Vandana respectively. Things take an unexpected turn when Vasant and Vandana die in a car accident.</desc>
+  </programme>
+  <programme start="20260822183000 +0400" stop="20260822190000 +0400" channel="rajmusixmalayalam.in">
+    <title>Devaragam</title>
+    <desc>Vishnu and Lakshmi fall in love. But Lakshmi's father accepts a wedding proposal against her wish.</desc>
+  </programme>
+  <programme start="20260822190000 +0400" stop="20260822193000 +0400" channel="rajmusixmalayalam.in">
+    <title>Isai Thendral</title>
+    <desc>Famous playback singers present some of the most popular songs in their discography that helped them define and advance their careers.</desc>
+  </programme>
+  <programme start="20260822193000 +0400" stop="20260822200000 +0400" channel="rajmusixmalayalam.in">
+    <title>Meera</title>
+    <desc>Meera's life changes after she witnesses a policeman committing a murder. He then vows to kill her, but Jeeva, a man who falls in love with her, takes it upon himself to protect her.</desc>
+  </programme>
+  <programme start="20260822200000 +0400" stop="20260822203000 +0400" channel="rajmusixmalayalam.in">
+    <title>Siby Hits</title>
+    <desc>Siby Hits showcases a curated selection of iconic Malayalam film songs, celebrating timeless hits with captivating performances that revive the essence of classic music eras beautifully.</desc>
+  </programme>
+  <programme start="20260822203000 +0400" stop="20260822210000 +0400" channel="rajmusixmalayalam.in">
+    <title>Ever Green</title>
+    <desc>A comprehensive compilation of some of the hit evergreen songs written and composed by famous artists and musicians from all over the country.</desc>
+  </programme>
+  <programme start="20260822210000 +0400" stop="20260822213000 +0400" channel="rajmusixmalayalam.in">
+    <title>Karthika</title>
+    <desc>Deepa, a dark-skinned girl, is treated badly by her fair-skinned sister. She gets married to Dr Karthik but has to fight societal and family pressures in order to lead a happy married life.</desc>
+  </programme>
+  <programme start="20260822213000 +0400" stop="20260822220000 +0400" channel="rajmusixmalayalam.in">
+    <title>Onv</title>
+    <desc>Ottaplakkal Neelakandan Velu Kurup was a Malayalam poet and lyricist from Kerala, India, who won the Jnanpith Award, the highest literary award in India.</desc>
+  </programme>
+  <programme start="20260822220000 +0400" stop="20260822223000 +0400" channel="rajmusixmalayalam.in">
+    <title>Best Of 90'S</title>
+    <desc>A nostalgic musical journey through the unforgettable hits of the 1990s, capturing the magic of melodies that defined an entire generation of music lovers.</desc>
+  </programme>
+  <programme start="20260822223000 +0400" stop="20260822230000 +0400" channel="rajmusixmalayalam.in">
+    <title>Hit Chart</title>
+    <desc>Tune into a comprehensive compilation of some of the latest and most popular songs performed by various artists.</desc>
+  </programme>
+  <programme start="20260822230000 +0400" stop="20260822233000 +0400" channel="rajmusixmalayalam.in">
+    <title>Gireesh</title>
+    <desc>A comprehensive compilation of some of the hit songs written and composed by Gireesh Puthenchery, a prominent Malayalam lyricist.</desc>
+  </programme>
+  <programme start="20260822233000 +0400" stop="20260823000000 +0400" channel="rajmusixmalayalam.in">
+    <title>Kana Marayathu</title>
+    <desc>Sherly, an orphan, falls in love with Roy not knowing that he is her financial supporter. But Roy keeps his distance from her due to their age gap.</desc>
+  </programme>
+  <programme start="20260823000000 +0400" stop="20260823003000 +0400" channel="rajmusixmalayalam.in">
+    <title>Poornima</title>
+    <desc>Despite being in love with each other, Purnima and Prakash end up marrying Vasant and Vandana respectively. Things take an unexpected turn when Vasant and Vandana die in a car accident.</desc>
+  </programme>
+  <programme start="20260823003000 +0400" stop="20260823010000 +0400" channel="rajmusixmalayalam.in">
+    <title>Devaragam</title>
+    <desc>Vishnu and Lakshmi fall in love. But Lakshmi's father accepts a wedding proposal against her wish.</desc>
+  </programme>
+  <programme start="20260823010000 +0400" stop="20260823013000 +0400" channel="rajmusixmalayalam.in">
+    <title>Isai Thendral</title>
+    <desc>Famous playback singers present some of the most popular songs in their discography that helped them define and advance their careers.</desc>
+  </programme>
+  <programme start="20260823013000 +0400" stop="20260823020000 +0400" channel="rajmusixmalayalam.in">
+    <title>Meera</title>
+    <desc>Meera's life changes after she witnesses a policeman committing a murder. He then vows to kill her, but Jeeva, a man who falls in love with her, takes it upon himself to protect her.</desc>
+  </programme>
+  <programme start="20260823020000 +0400" stop="20260823023000 +0400" channel="rajmusixmalayalam.in">
+    <title>Siby Hits</title>
+    <desc>Siby Hits showcases a curated selection of iconic Malayalam film songs, celebrating timeless hits with captivating performances that revive the essence of classic music eras beautifully.</desc>
+  </programme>
+  <programme start="20260823023000 +0400" stop="20260823030000 +0400" channel="rajmusixmalayalam.in">
+    <title>Ever Green</title>
+    <desc>A comprehensive compilation of some of the hit evergreen songs written and composed by famous artists and musicians from all over the country.</desc>
+  </programme>
+  <programme start="20260823030000 +0400" stop="20260823033000 +0400" channel="rajmusixmalayalam.in">
+    <title>Karthika</title>
+    <desc>Deepa, a dark-skinned girl, is treated badly by her fair-skinned sister. She gets married to Dr Karthik but has to fight societal and family pressures in order to lead a happy married life.</desc>
+  </programme>
+  <programme start="20260823033000 +0400" stop="20260823040000 +0400" channel="rajmusixmalayalam.in">
+    <title>Onv</title>
+    <desc>Ottaplakkal Neelakandan Velu Kurup was a Malayalam poet and lyricist from Kerala, India, who won the Jnanpith Award, the highest literary award in India.</desc>
+  </programme>
+  <programme start="20260823040000 +0400" stop="20260823043000 +0400" channel="rajmusixmalayalam.in">
+    <title>Best Of 90'S</title>
+    <desc>A nostalgic musical journey through the unforgettable hits of the 1990s, capturing the magic of melodies that defined an entire generation of music lovers.</desc>
+  </programme>
+  <programme start="20260823043000 +0400" stop="20260823050000 +0400" channel="rajmusixmalayalam.in">
+    <title>Golli Soda</title>
+    <desc>A comprehensive collection of some of the most popular songs performed by renowned artists and bands played back to back.</desc>
+  </programme>
+  <programme start="20260823050000 +0400" stop="20260823053000 +0400" channel="rajmusixmalayalam.in">
+    <title>Lets Dance</title>
+    <desc>Let's Dance features electrifying dance performances by talented pairs and solo dancers, showcasing a vibrant variety of styles in a thrilling, fast-paced format that captivates viewers throughout.</desc>
+  </programme>
+  <programme start="20260823053000 +0400" stop="20260823060000 +0400" channel="rajmusixmalayalam.in">
+    <title>Revathi</title>
+    <desc>A comprehensive compilation of popular Malayalam songs from movies featuring Indian actress Revathy is played back to back.</desc>
+  </programme>
+  <programme start="20260823060000 +0400" stop="20260823063000 +0400" channel="rajmusixmalayalam.in">
+    <title>Dew Drops</title>
+    <desc>Enjoy a playlist of top Malayalam songs from renowned musicians and singers, non-stop!</desc>
+  </programme>
+  <programme start="20260823063000 +0400" stop="20260823070000 +0400" channel="rajmusixmalayalam.in">
+    <title>Ishq</title>
+    <desc>Enjoy a playlist of top Malayalam songs from renowned musicians and singers, non-stop!</desc>
+  </programme>
+  <programme start="20260823070000 +0400" stop="20260823073000 +0400" channel="rajmusixmalayalam.in">
+    <title>Neela Kuyil</title>
+    <desc>Jaisurya, a journalist who is already engaged to his lover Rani, is forced to marry Chittu, a village girl, when he goes to a remote area to cover a story.</desc>
+  </programme>
+  <programme start="20260823073000 +0400" stop="20260823080000 +0400" channel="rajmusixmalayalam.in">
+    <title>Venugopal Hits</title>
+    <desc>Venugopal Hits features a timeless collection of romantic and evergreen Malayalam film songs, capturing the soulful and melodious essence of G. Venugopal's celebrated singing career.</desc>
+  </programme>
+  <programme start="20260823080000 +0400" stop="20260823083000 +0400" channel="rajmusixmalayalam.in">
+    <title>Gireesh</title>
+    <desc>A comprehensive compilation of some of the hit songs written and composed by Gireesh Puthenchery, a prominent Malayalam lyricist.</desc>
+  </programme>
+  <programme start="20260823083000 +0400" stop="20260823090000 +0400" channel="rajmusixmalayalam.in">
+    <title>Kana Marayathu</title>
+    <desc>Sherly, an orphan, falls in love with Roy not knowing that he is her financial supporter. But Roy keeps his distance from her due to their age gap.</desc>
+  </programme>
+  <programme start="20260823090000 +0400" stop="20260823093000 +0400" channel="rajmusixmalayalam.in">
+    <title>Poornima</title>
+    <desc>Despite being in love with each other, Purnima and Prakash end up marrying Vasant and Vandana respectively. Things take an unexpected turn when Vasant and Vandana die in a car accident.</desc>
+  </programme>
+  <programme start="20260823093000 +0400" stop="20260823100000 +0400" channel="rajmusixmalayalam.in">
+    <title>Devaragam</title>
+    <desc>Vishnu and Lakshmi fall in love. But Lakshmi's father accepts a wedding proposal against her wish.</desc>
+  </programme>
+  <programme start="20260823100000 +0400" stop="20260823103000 +0400" channel="rajmusixmalayalam.in">
+    <title>Isai Thendral</title>
+    <desc>Famous playback singers present some of the most popular songs in their discography that helped them define and advance their careers.</desc>
+  </programme>
+  <programme start="20260823103000 +0400" stop="20260823110000 +0400" channel="rajmusixmalayalam.in">
+    <title>Meera</title>
+    <desc>Meera's life changes after she witnesses a policeman committing a murder. He then vows to kill her, but Jeeva, a man who falls in love with her, takes it upon himself to protect her.</desc>
+  </programme>
+  <programme start="20260823110000 +0400" stop="20260823113000 +0400" channel="rajmusixmalayalam.in">
+    <title>Siby Hits</title>
+    <desc>Siby Hits showcases a curated selection of iconic Malayalam film songs, celebrating timeless hits with captivating performances that revive the essence of classic music eras beautifully.</desc>
+  </programme>
+  <programme start="20260823113000 +0400" stop="20260823120000 +0400" channel="rajmusixmalayalam.in">
+    <title>Ever Green</title>
+    <desc>A comprehensive compilation of some of the hit evergreen songs written and composed by famous artists and musicians from all over the country.</desc>
+  </programme>
+  <programme start="20260823120000 +0400" stop="20260823123000 +0400" channel="rajmusixmalayalam.in">
+    <title>Karthika</title>
+    <desc>Deepa, a dark-skinned girl, is treated badly by her fair-skinned sister. She gets married to Dr Karthik but has to fight societal and family pressures in order to lead a happy married life.</desc>
+  </programme>
+  <programme start="20260823123000 +0400" stop="20260823130000 +0400" channel="rajmusixmalayalam.in">
+    <title>Onv</title>
+    <desc>Ottaplakkal Neelakandan Velu Kurup was a Malayalam poet and lyricist from Kerala, India, who won the Jnanpith Award, the highest literary award in India.</desc>
+  </programme>
+  <programme start="20260823130000 +0400" stop="20260823133000 +0400" channel="rajmusixmalayalam.in">
+    <title>Best Of 90'S</title>
+    <desc>A nostalgic musical journey through the unforgettable hits of the 1990s, capturing the magic of melodies that defined an entire generation of music lovers.</desc>
+  </programme>
+  <programme start="20260823133000 +0400" stop="20260823140000 +0400" channel="rajmusixmalayalam.in">
+    <title>Hit Chart</title>
+    <desc>Tune into a comprehensive compilation of some of the latest and most popular songs performed by various artists.</desc>
+  </programme>
+  <programme start="20260823140000 +0400" stop="20260823143000 +0400" channel="rajmusixmalayalam.in">
+    <title>Manoharam</title>
+    <desc>Manu, a talented poster artist, struggles to find work with the advent of digital technology. After being jilted by his fiancee, he attempts to rebuild his life.</desc>
+  </programme>
+  <programme start="20260823143000 +0400" stop="20260823150000 +0400" channel="rajmusixmalayalam.in">
+    <title>Nostalgia</title>
+    <desc>Enjoy a heartwarming collection of timeless classics that shaped musical history, evoking powerful emotions and memories that remain fresh even today.</desc>
+  </programme>
+  <programme start="20260823150000 +0400" stop="20260823153000 +0400" channel="rajmusixmalayalam.in">
+    <title>Dileep</title>
+    <desc>Dileep is a popular Malayalam actor known for his versatile roles and comedy, starring in over 150 films and winning multiple awards for his impactful performances.</desc>
+  </programme>
+  <programme start="20260823153000 +0400" stop="20260823160000 +0400" channel="rajmusixmalayalam.in">
+    <title>Kamal</title>
+    <desc>Enjoy a playlist of top Malayalam songs from renowned musicians and singers, non-stop!</desc>
+  </programme>
+  <programme start="20260823160000 +0400" stop="20260823163000 +0400" channel="rajmusixmalayalam.in">
+    <title>Omana Thinkal</title>
+    <desc>Directed by Yatheendra Das and produced by Kora George. The film stars Kaviyoor Ponnamma, Venu Nagavally, Baby Anju and Babu Namboothiri in the lead roles.</desc>
+  </programme>
+  <programme start="20260823163000 +0400" stop="20260823170000 +0400" channel="rajmusixmalayalam.in">
+    <title>1980S</title>
+    <desc>A comprehensive collection of the most popular and melodious Malayalam songs from the 1980s, playing one after another to bring back the golden era's nostalgic musical charm.</desc>
+  </programme>
+  <programme start="20260823170000 +0400" stop="20260823173000 +0400" channel="rajmusixmalayalam.in">
+    <title>Golli Soda</title>
+    <desc>A comprehensive collection of some of the most popular songs performed by renowned artists and bands played back to back.</desc>
+  </programme>
+  <programme start="20260823173000 +0400" stop="20260823180000 +0400" channel="rajmusixmalayalam.in">
+    <title>Lets Dance</title>
+    <desc>Let's Dance features electrifying dance performances by talented pairs and solo dancers, showcasing a vibrant variety of styles in a thrilling, fast-paced format that captivates viewers throughout.</desc>
+  </programme>
+  <programme start="20260823180000 +0400" stop="20260823183000 +0400" channel="rajmusixmalayalam.in">
+    <title>Revathi</title>
+    <desc>A comprehensive compilation of popular Malayalam songs from movies featuring Indian actress Revathy is played back to back.</desc>
+  </programme>
+  <programme start="20260823183000 +0400" stop="20260823190000 +0400" channel="rajmusixmalayalam.in">
+    <title>Dew Drops</title>
+    <desc>Enjoy a playlist of top Malayalam songs from renowned musicians and singers, non-stop!</desc>
+  </programme>
+  <programme start="20260823190000 +0400" stop="20260823193000 +0400" channel="rajmusixmalayalam.in">
+    <title>Ishq</title>
+    <desc>Enjoy a playlist of top Malayalam songs from renowned musicians and singers, non-stop!</desc>
+  </programme>
+  <programme start="20260823193000 +0400" stop="20260823200000 +0400" channel="rajmusixmalayalam.in">
+    <title>Neela Kuyil</title>
+    <desc>Jaisurya, a journalist who is already engaged to his lover Rani, is forced to marry Chittu, a village girl, when he goes to a remote area to cover a story.</desc>
+  </programme>
+  <programme start="20260823200000 +0400" stop="20260823203000 +0400" channel="rajmusixmalayalam.in">
+    <title>Venugopal Hits</title>
+    <desc>Venugopal Hits features a timeless collection of romantic and evergreen Malayalam film songs, capturing the soulful and melodious essence of G. Venugopal's celebrated singing career.</desc>
+  </programme>
+  <programme start="20260823203000 +0400" stop="20260823210000 +0400" channel="rajmusixmalayalam.in">
+    <title>Gireesh</title>
+    <desc>A comprehensive compilation of some of the hit songs written and composed by Gireesh Puthenchery, a prominent Malayalam lyricist.</desc>
+  </programme>
+  <programme start="20260823210000 +0400" stop="20260823213000 +0400" channel="rajmusixmalayalam.in">
+    <title>Kana Marayathu</title>
+    <desc>Sherly, an orphan, falls in love with Roy not knowing that he is her financial supporter. But Roy keeps his distance from her due to their age gap.</desc>
+  </programme>
+  <programme start="20260823213000 +0400" stop="20260823220000 +0400" channel="rajmusixmalayalam.in">
+    <title>Poornima</title>
+    <desc>Despite being in love with each other, Purnima and Prakash end up marrying Vasant and Vandana respectively. Things take an unexpected turn when Vasant and Vandana die in a car accident.</desc>
+  </programme>
+  <programme start="20260823220000 +0400" stop="20260823223000 +0400" channel="rajmusixmalayalam.in">
+    <title>Devaragam</title>
+    <desc>Vishnu and Lakshmi fall in love. But Lakshmi's father accepts a wedding proposal against her wish.</desc>
+  </programme>
+  <programme start="20260823223000 +0400" stop="20260823230000 +0400" channel="rajmusixmalayalam.in">
+    <title>Isai Thendral</title>
+    <desc>Famous playback singers present some of the most popular songs in their discography that helped them define and advance their careers.</desc>
+  </programme>
+  <programme start="20260823230000 +0400" stop="20260823233000 +0400" channel="rajmusixmalayalam.in">
+    <title>Golli Soda</title>
+    <desc>A comprehensive collection of some of the most popular songs performed by renowned artists and bands played back to back.</desc>
+  </programme>
+  <programme start="20260823233000 +0400" stop="20260824000000 +0400" channel="rajmusixmalayalam.in">
+    <title>Lets Dance</title>
+    <desc>Let's Dance features electrifying dance performances by talented pairs and solo dancers, showcasing a vibrant variety of styles in a thrilling, fast-paced format that captivates viewers throughout.</desc>
+  </programme>
+  <programme start="20260824000000 +0400" stop="20260824003000 +0400" channel="rajmusixmalayalam.in">
+    <title>Revathi</title>
+    <desc>A comprehensive compilation of popular Malayalam songs from movies featuring Indian actress Revathy is played back to back.</desc>
+  </programme>
+  <programme start="20260824003000 +0400" stop="20260824010000 +0400" channel="rajmusixmalayalam.in">
+    <title>Dew Drops</title>
+    <desc>Enjoy a playlist of top Malayalam songs from renowned musicians and singers, non-stop!</desc>
+  </programme>
+  <programme start="20260824010000 +0400" stop="20260824013000 +0400" channel="rajmusixmalayalam.in">
+    <title>Ishq</title>
+    <desc>Enjoy a playlist of top Malayalam songs from renowned musicians and singers, non-stop!</desc>
+  </programme>
+  <programme start="20260824013000 +0400" stop="20260824020000 +0400" channel="rajmusixmalayalam.in">
+    <title>Neela Kuyil</title>
+    <desc>Jaisurya, a journalist who is already engaged to his lover Rani, is forced to marry Chittu, a village girl, when he goes to a remote area to cover a story.</desc>
+  </programme>
+  <programme start="20260824020000 +0400" stop="20260824023000 +0400" channel="rajmusixmalayalam.in">
+    <title>Venugopal Hits</title>
+    <desc>Venugopal Hits features a timeless collection of romantic and evergreen Malayalam film songs, capturing the soulful and melodious essence of G. Venugopal's celebrated singing career.</desc>
+  </programme>
+  <programme start="20260824023000 +0400" stop="20260824030000 +0400" channel="rajmusixmalayalam.in">
+    <title>Gireesh</title>
+    <desc>A comprehensive compilation of some of the hit songs written and composed by Gireesh Puthenchery, a prominent Malayalam lyricist.</desc>
+  </programme>
+  <programme start="20260824030000 +0400" stop="20260824033000 +0400" channel="rajmusixmalayalam.in">
+    <title>Kana Marayathu</title>
+    <desc>Sherly, an orphan, falls in love with Roy not knowing that he is her financial supporter. But Roy keeps his distance from her due to their age gap.</desc>
+  </programme>
+  <programme start="20260824033000 +0400" stop="20260824040000 +0400" channel="rajmusixmalayalam.in">
+    <title>Poornima</title>
+    <desc>Despite being in love with each other, Purnima and Prakash end up marrying Vasant and Vandana respectively. Things take an unexpected turn when Vasant and Vandana die in a car accident.</desc>
+  </programme>
+  <programme start="20260824040000 +0400" stop="20260824043000 +0400" channel="rajmusixmalayalam.in">
+    <title>Devaragam</title>
+    <desc>Vishnu and Lakshmi fall in love. But Lakshmi's father accepts a wedding proposal against her wish.</desc>
+  </programme>
+  <programme start="20260824043000 +0400" stop="20260824050000 +0400" channel="rajmusixmalayalam.in">
+    <title>Best Of 90'S</title>
+    <desc>A nostalgic musical journey through the unforgettable hits of the 1990s, capturing the magic of melodies that defined an entire generation of music lovers.</desc>
+  </programme>
+  <programme start="20260824050000 +0400" stop="20260824053000 +0400" channel="rajmusixmalayalam.in">
+    <title>Hit Chart</title>
+    <desc>Tune into a comprehensive compilation of some of the latest and most popular songs performed by various artists.</desc>
+  </programme>
+  <programme start="20260824053000 +0400" stop="20260824060000 +0400" channel="rajmusixmalayalam.in">
+    <title>Manoharam</title>
+    <desc>Manu, a talented poster artist, struggles to find work with the advent of digital technology. After being jilted by his fiancee, he attempts to rebuild his life.</desc>
+  </programme>
+  <programme start="20260824060000 +0400" stop="20260824063000 +0400" channel="rajmusixmalayalam.in">
+    <title>Nostalgia</title>
+    <desc>Enjoy a heartwarming collection of timeless classics that shaped musical history, evoking powerful emotions and memories that remain fresh even today.</desc>
+  </programme>
+  <programme start="20260824063000 +0400" stop="20260824070000 +0400" channel="rajmusixmalayalam.in">
+    <title>Dileep</title>
+    <desc>Dileep is a popular Malayalam actor known for his versatile roles and comedy, starring in over 150 films and winning multiple awards for his impactful performances.</desc>
+  </programme>
+  <programme start="20260824070000 +0400" stop="20260824073000 +0400" channel="rajmusixmalayalam.in">
+    <title>Kamal</title>
+    <desc>Enjoy a playlist of top Malayalam songs from renowned musicians and singers, non-stop!</desc>
+  </programme>
+  <programme start="20260824073000 +0400" stop="20260824080000 +0400" channel="rajmusixmalayalam.in">
+    <title>Omana Thinkal</title>
+    <desc>Directed by Yatheendra Das and produced by Kora George. The film stars Kaviyoor Ponnamma, Venu Nagavally, Baby Anju and Babu Namboothiri in the lead roles.</desc>
+  </programme>
+  <programme start="20260824080000 +0400" stop="20260824083000 +0400" channel="rajmusixmalayalam.in">
+    <title>1980S</title>
+    <desc>A comprehensive collection of the most popular and melodious Malayalam songs from the 1980s, playing one after another to bring back the golden era's nostalgic musical charm.</desc>
+  </programme>
+  <programme start="20260824083000 +0400" stop="20260824090000 +0400" channel="rajmusixmalayalam.in">
+    <title>Golli Soda</title>
+    <desc>A comprehensive collection of some of the most popular songs performed by renowned artists and bands played back to back.</desc>
+  </programme>
+  <programme start="20260824090000 +0400" stop="20260824093000 +0400" channel="rajmusixmalayalam.in">
+    <title>Lets Dance</title>
+    <desc>Let's Dance features electrifying dance performances by talented pairs and solo dancers, showcasing a vibrant variety of styles in a thrilling, fast-paced format that captivates viewers throughout.</desc>
+  </programme>
+  <programme start="20260824093000 +0400" stop="20260824100000 +0400" channel="rajmusixmalayalam.in">
+    <title>Revathi</title>
+    <desc>A comprehensive compilation of popular Malayalam songs from movies featuring Indian actress Revathy is played back to back.</desc>
+  </programme>
+  <programme start="20260824100000 +0400" stop="20260824103000 +0400" channel="rajmusixmalayalam.in">
+    <title>Dew Drops</title>
+    <desc>Enjoy a playlist of top Malayalam songs from renowned musicians and singers, non-stop!</desc>
+  </programme>
+  <programme start="20260824103000 +0400" stop="20260824110000 +0400" channel="rajmusixmalayalam.in">
+    <title>Ishq</title>
+    <desc>Enjoy a playlist of top Malayalam songs from renowned musicians and singers, non-stop!</desc>
+  </programme>
+  <programme start="20260824110000 +0400" stop="20260824113000 +0400" channel="rajmusixmalayalam.in">
+    <title>Neela Kuyil</title>
+    <desc>Jaisurya, a journalist who is already engaged to his lover Rani, is forced to marry Chittu, a village girl, when he goes to a remote area to cover a story.</desc>
+  </programme>
+  <programme start="20260824113000 +0400" stop="20260824120000 +0400" channel="rajmusixmalayalam.in">
+    <title>Venugopal Hits</title>
+    <desc>Venugopal Hits features a timeless collection of romantic and evergreen Malayalam film songs, capturing the soulful and melodious essence of G. Venugopal's celebrated singing career.</desc>
+  </programme>
+  <programme start="20260824120000 +0400" stop="20260824123000 +0400" channel="rajmusixmalayalam.in">
+    <title>Gireesh</title>
+    <desc>A comprehensive compilation of some of the hit songs written and composed by Gireesh Puthenchery, a prominent Malayalam lyricist.</desc>
+  </programme>
+  <programme start="20260824123000 +0400" stop="20260824130000 +0400" channel="rajmusixmalayalam.in">
+    <title>Kana Marayathu</title>
+    <desc>Sherly, an orphan, falls in love with Roy not knowing that he is her financial supporter. But Roy keeps his distance from her due to their age gap.</desc>
+  </programme>
+  <programme start="20260824130000 +0400" stop="20260824133000 +0400" channel="rajmusixmalayalam.in">
+    <title>Poornima</title>
+    <desc>Despite being in love with each other, Purnima and Prakash end up marrying Vasant and Vandana respectively. Things take an unexpected turn when Vasant and Vandana die in a car accident.</desc>
+  </programme>
+  <programme start="20260824133000 +0400" stop="20260824140000 +0400" channel="rajmusixmalayalam.in">
+    <title>Devaragam</title>
+    <desc>Vishnu and Lakshmi fall in love. But Lakshmi's father accepts a wedding proposal against her wish.</desc>
+  </programme>
+  <programme start="20260824140000 +0400" stop="20260824143000 +0400" channel="rajmusixmalayalam.in">
+    <title>Isai Thendral</title>
+    <desc>Famous playback singers present some of the most popular songs in their discography that helped them define and advance their careers.</desc>
+  </programme>
+  <programme start="20260824143000 +0400" stop="20260824150000 +0400" channel="rajmusixmalayalam.in">
+    <title>Meera</title>
+    <desc>Meera's life changes after she witnesses a policeman committing a murder. He then vows to kill her, but Jeeva, a man who falls in love with her, takes it upon himself to protect her.</desc>
+  </programme>
+  <programme start="20260824150000 +0400" stop="20260824153000 +0400" channel="rajmusixmalayalam.in">
+    <title>Siby Hits</title>
+    <desc>Siby Hits showcases a curated selection of iconic Malayalam film songs, celebrating timeless hits with captivating performances that revive the essence of classic music eras beautifully.</desc>
+  </programme>
+  <programme start="20260824153000 +0400" stop="20260824160000 +0400" channel="rajmusixmalayalam.in">
+    <title>Ever Green</title>
+    <desc>A comprehensive compilation of some of the hit evergreen songs written and composed by famous artists and musicians from all over the country.</desc>
+  </programme>
+  <programme start="20260824160000 +0400" stop="20260824163000 +0400" channel="rajmusixmalayalam.in">
+    <title>Karthika</title>
+    <desc>Deepa, a dark-skinned girl, is treated badly by her fair-skinned sister. She gets married to Dr Karthik but has to fight societal and family pressures in order to lead a happy married life.</desc>
+  </programme>
+  <programme start="20260824163000 +0400" stop="20260824170000 +0400" channel="rajmusixmalayalam.in">
+    <title>Onv</title>
+    <desc>Ottaplakkal Neelakandan Velu Kurup was a Malayalam poet and lyricist from Kerala, India, who won the Jnanpith Award, the highest literary award in India.</desc>
+  </programme>
+  <programme start="20260824170000 +0400" stop="20260824173000 +0400" channel="rajmusixmalayalam.in">
+    <title>Best Of 90'S</title>
+    <desc>A nostalgic musical journey through the unforgettable hits of the 1990s, capturing the magic of melodies that defined an entire generation of music lovers.</desc>
+  </programme>
+  <programme start="20260824173000 +0400" stop="20260824180000 +0400" channel="rajmusixmalayalam.in">
+    <title>Hit Chart</title>
+    <desc>Tune into a comprehensive compilation of some of the latest and most popular songs performed by various artists.</desc>
+  </programme>
+  <programme start="20260824180000 +0400" stop="20260824183000 +0400" channel="rajmusixmalayalam.in">
+    <title>Manoharam</title>
+    <desc>Manu, a talented poster artist, struggles to find work with the advent of digital technology. After being jilted by his fiancee, he attempts to rebuild his life.</desc>
+  </programme>
+  <programme start="20260824183000 +0400" stop="20260824190000 +0400" channel="rajmusixmalayalam.in">
+    <title>Nostalgia</title>
+    <desc>Enjoy a heartwarming collection of timeless classics that shaped musical history, evoking powerful emotions and memories that remain fresh even today.</desc>
+  </programme>
+  <programme start="20260824190000 +0400" stop="20260824193000 +0400" channel="rajmusixmalayalam.in">
+    <title>Dileep</title>
+    <desc>Dileep is a popular Malayalam actor known for his versatile roles and comedy, starring in over 150 films and winning multiple awards for his impactful performances.</desc>
+  </programme>
+  <programme start="20260824193000 +0400" stop="20260824200000 +0400" channel="rajmusixmalayalam.in">
+    <title>Kamal</title>
+    <desc>Enjoy a playlist of top Malayalam songs from renowned musicians and singers, non-stop!</desc>
+  </programme>
+  <programme start="20260824200000 +0400" stop="20260824203000 +0400" channel="rajmusixmalayalam.in">
+    <title>Omana Thinkal</title>
+    <desc>Directed by Yatheendra Das and produced by Kora George. The film stars Kaviyoor Ponnamma, Venu Nagavally, Baby Anju and Babu Namboothiri in the lead roles.</desc>
+  </programme>
+  <programme start="20260824203000 +0400" stop="20260824210000 +0400" channel="rajmusixmalayalam.in">
+    <title>1980S</title>
+    <desc>A comprehensive collection of the most popular and melodious Malayalam songs from the 1980s, playing one after another to bring back the golden era's nostalgic musical charm.</desc>
+  </programme>
+  <programme start="20260824210000 +0400" stop="20260824213000 +0400" channel="rajmusixmalayalam.in">
+    <title>Golli Soda</title>
+    <desc>A comprehensive collection of some of the most popular songs performed by renowned artists and bands played back to back.</desc>
+  </programme>
+  <programme start="20260824213000 +0400" stop="20260824220000 +0400" channel="rajmusixmalayalam.in">
+    <title>Lets Dance</title>
+    <desc>Let's Dance features electrifying dance performances by talented pairs and solo dancers, showcasing a vibrant variety of styles in a thrilling, fast-paced format that captivates viewers throughout.</desc>
+  </programme>
+  <programme start="20260824220000 +0400" stop="20260824223000 +0400" channel="rajmusixmalayalam.in">
+    <title>Revathi</title>
+    <desc>A comprehensive compilation of popular Malayalam songs from movies featuring Indian actress Revathy is played back to back.</desc>
+  </programme>
+  <programme start="20260824223000 +0400" stop="20260824230000 +0400" channel="rajmusixmalayalam.in">
+    <title>Dew Drops</title>
+    <desc>Enjoy a playlist of top Malayalam songs from renowned musicians and singers, non-stop!</desc>
+  </programme>
+  <programme start="20260824230000 +0400" stop="20260824233000 +0400" channel="rajmusixmalayalam.in">
+    <title>Best Of 90'S</title>
+    <desc>A nostalgic musical journey through the unforgettable hits of the 1990s, capturing the magic of melodies that defined an entire generation of music lovers.</desc>
+  </programme>
+  <programme start="20260824233000 +0400" stop="20260825000000 +0400" channel="rajmusixmalayalam.in">
+    <title>Hit Chart</title>
+    <desc>Tune into a comprehensive compilation of some of the latest and most popular songs performed by various artists.</desc>
+  </programme>
+  <programme start="20260825000000 +0400" stop="20260825003000 +0400" channel="rajmusixmalayalam.in">
+    <title>Manoharam</title>
+    <desc>Manu, a talented poster artist, struggles to find work with the advent of digital technology. After being jilted by his fiancee, he attempts to rebuild his life.</desc>
+  </programme>
+  <programme start="20260825003000 +0400" stop="20260825010000 +0400" channel="rajmusixmalayalam.in">
+    <title>Nostalgia</title>
+    <desc>Enjoy a heartwarming collection of timeless classics that shaped musical history, evoking powerful emotions and memories that remain fresh even today.</desc>
+  </programme>
+  <programme start="20260825010000 +0400" stop="20260825013000 +0400" channel="rajmusixmalayalam.in">
+    <title>Dileep</title>
+    <desc>Dileep is a popular Malayalam actor known for his versatile roles and comedy, starring in over 150 films and winning multiple awards for his impactful performances.</desc>
+  </programme>
+  <programme start="20260825013000 +0400" stop="20260825020000 +0400" channel="rajmusixmalayalam.in">
+    <title>Kamal</title>
+    <desc>Enjoy a playlist of top Malayalam songs from renowned musicians and singers, non-stop!</desc>
+  </programme>
+  <programme start="20260825020000 +0400" stop="20260825023000 +0400" channel="rajmusixmalayalam.in">
+    <title>Omana Thinkal</title>
+    <desc>Directed by Yatheendra Das and produced by Kora George. The film stars Kaviyoor Ponnamma, Venu Nagavally, Baby Anju and Babu Namboothiri in the lead roles.</desc>
+  </programme>
+  <programme start="20260825023000 +0400" stop="20260825030000 +0400" channel="rajmusixmalayalam.in">
+    <title>1980S</title>
+    <desc>A comprehensive collection of the most popular and melodious Malayalam songs from the 1980s, playing one after another to bring back the golden era's nostalgic musical charm.</desc>
+  </programme>
+  <programme start="20260825030000 +0400" stop="20260825033000 +0400" channel="rajmusixmalayalam.in">
+    <title>Golli Soda</title>
+    <desc>A comprehensive collection of some of the most popular songs performed by renowned artists and bands played back to back.</desc>
+  </programme>
+  <programme start="20260825033000 +0400" stop="20260825040000 +0400" channel="rajmusixmalayalam.in">
+    <title>Lets Dance</title>
+    <desc>Let's Dance features electrifying dance performances by talented pairs and solo dancers, showcasing a vibrant variety of styles in a thrilling, fast-paced format that captivates viewers throughout.</desc>
+  </programme>
+  <programme start="20260825040000 +0400" stop="20260825043000 +0400" channel="rajmusixmalayalam.in">
+    <title>Revathi</title>
+    <desc>A comprehensive compilation of popular Malayalam songs from movies featuring Indian actress Revathy is played back to back.</desc>
+  </programme>
+  <programme start="20260825043000 +0400" stop="20260825050000 +0400" channel="rajmusixmalayalam.in">
+    <title>Devaragam</title>
+    <desc>Vishnu and Lakshmi fall in love. But Lakshmi's father accepts a wedding proposal against her wish.</desc>
+  </programme>
+  <programme start="20260825050000 +0400" stop="20260825053000 +0400" channel="rajmusixmalayalam.in">
+    <title>Isai Thendral</title>
+    <desc>Famous playback singers present some of the most popular songs in their discography that helped them define and advance their careers.</desc>
+  </programme>
+  <programme start="20260825053000 +0400" stop="20260825060000 +0400" channel="rajmusixmalayalam.in">
+    <title>Meera</title>
+    <desc>Meera's life changes after she witnesses a policeman committing a murder. He then vows to kill her, but Jeeva, a man who falls in love with her, takes it upon himself to protect her.</desc>
+  </programme>
+  <programme start="20260825060000 +0400" stop="20260825063000 +0400" channel="rajmusixmalayalam.in">
+    <title>Siby Hits</title>
+    <desc>Siby Hits showcases a curated selection of iconic Malayalam film songs, celebrating timeless hits with captivating performances that revive the essence of classic music eras beautifully.</desc>
+  </programme>
+  <programme start="20260825063000 +0400" stop="20260825070000 +0400" channel="rajmusixmalayalam.in">
+    <title>Ever Green</title>
+    <desc>A comprehensive compilation of some of the hit evergreen songs written and composed by famous artists and musicians from all over the country.</desc>
+  </programme>
+  <programme start="20260825070000 +0400" stop="20260825073000 +0400" channel="rajmusixmalayalam.in">
+    <title>Karthika</title>
+    <desc>Deepa, a dark-skinned girl, is treated badly by her fair-skinned sister. She gets married to Dr Karthik but has to fight societal and family pressures in order to lead a happy married life.</desc>
+  </programme>
+  <programme start="20260825073000 +0400" stop="20260825080000 +0400" channel="rajmusixmalayalam.in">
+    <title>Onv</title>
+    <desc>Ottaplakkal Neelakandan Velu Kurup was a Malayalam poet and lyricist from Kerala, India, who won the Jnanpith Award, the highest literary award in India.</desc>
+  </programme>
+  <programme start="20260825080000 +0400" stop="20260825083000 +0400" channel="rajmusixmalayalam.in">
+    <title>Best Of 90'S</title>
+    <desc>A nostalgic musical journey through the unforgettable hits of the 1990s, capturing the magic of melodies that defined an entire generation of music lovers.</desc>
+  </programme>
+  <programme start="20260825083000 +0400" stop="20260825090000 +0400" channel="rajmusixmalayalam.in">
+    <title>Hit Chart</title>
+    <desc>Tune into a comprehensive compilation of some of the latest and most popular songs performed by various artists.</desc>
+  </programme>
+  <programme start="20260825090000 +0400" stop="20260825093000 +0400" channel="rajmusixmalayalam.in">
+    <title>Manoharam</title>
+    <desc>Manu, a talented poster artist, struggles to find work with the advent of digital technology. After being jilted by his fiancee, he attempts to rebuild his life.</desc>
+  </programme>
+  <programme start="20260825093000 +0400" stop="20260825100000 +0400" channel="rajmusixmalayalam.in">
+    <title>Nostalgia</title>
+    <desc>Enjoy a heartwarming collection of timeless classics that shaped musical history, evoking powerful emotions and memories that remain fresh even today.</desc>
+  </programme>
+  <programme start="20260825100000 +0400" stop="20260825103000 +0400" channel="rajmusixmalayalam.in">
+    <title>Dileep</title>
+    <desc>Dileep is a popular Malayalam actor known for his versatile roles and comedy, starring in over 150 films and winning multiple awards for his impactful performances.</desc>
+  </programme>
+  <programme start="20260825103000 +0400" stop="20260825110000 +0400" channel="rajmusixmalayalam.in">
+    <title>Kamal</title>
+    <desc>Enjoy a playlist of top Malayalam songs from renowned musicians and singers, non-stop!</desc>
+  </programme>
+  <programme start="20260825110000 +0400" stop="20260825113000 +0400" channel="rajmusixmalayalam.in">
+    <title>Omana Thinkal</title>
+    <desc>Directed by Yatheendra Das and produced by Kora George. The film stars Kaviyoor Ponnamma, Venu Nagavally, Baby Anju and Babu Namboothiri in the lead roles.</desc>
+  </programme>
+  <programme start="20260825113000 +0400" stop="20260825120000 +0400" channel="rajmusixmalayalam.in">
+    <title>1980S</title>
+    <desc>A comprehensive collection of the most popular and melodious Malayalam songs from the 1980s, playing one after another to bring back the golden era's nostalgic musical charm.</desc>
+  </programme>
+  <programme start="20260825120000 +0400" stop="20260825123000 +0400" channel="rajmusixmalayalam.in">
+    <title>Golli Soda</title>
+    <desc>A comprehensive collection of some of the most popular songs performed by renowned artists and bands played back to back.</desc>
+  </programme>
+  <programme start="20260825123000 +0400" stop="20260825130000 +0400" channel="rajmusixmalayalam.in">
+    <title>Lets Dance</title>
+    <desc>Let's Dance features electrifying dance performances by talented pairs and solo dancers, showcasing a vibrant variety of styles in a thrilling, fast-paced format that captivates viewers throughout.</desc>
+  </programme>
+  <programme start="20260825130000 +0400" stop="20260825133000 +0400" channel="rajmusixmalayalam.in">
+    <title>Revathi</title>
+    <desc>A comprehensive compilation of popular Malayalam songs from movies featuring Indian actress Revathy is played back to back.</desc>
+  </programme>
+  <programme start="20260825133000 +0400" stop="20260825140000 +0400" channel="rajmusixmalayalam.in">
+    <title>Dew Drops</title>
+    <desc>Enjoy a playlist of top Malayalam songs from renowned musicians and singers, non-stop!</desc>
+  </programme>
+  <programme start="20260825140000 +0400" stop="20260825143000 +0400" channel="rajmusixmalayalam.in">
+    <title>Ishq</title>
+    <desc>Enjoy a playlist of top Malayalam songs from renowned musicians and singers, non-stop!</desc>
+  </programme>
+  <programme start="20260825143000 +0400" stop="20260825150000 +0400" channel="rajmusixmalayalam.in">
+    <title>Neela Kuyil</title>
+    <desc>Jaisurya, a journalist who is already engaged to his lover Rani, is forced to marry Chittu, a village girl, when he goes to a remote area to cover a story.</desc>
+  </programme>
+  <programme start="20260825150000 +0400" stop="20260825153000 +0400" channel="rajmusixmalayalam.in">
+    <title>Venugopal Hits</title>
+    <desc>Venugopal Hits features a timeless collection of romantic and evergreen Malayalam film songs, capturing the soulful and melodious essence of G. Venugopal's celebrated singing career.</desc>
+  </programme>
+  <programme start="20260825153000 +0400" stop="20260825160000 +0400" channel="rajmusixmalayalam.in">
+    <title>Gireesh</title>
+    <desc>A comprehensive compilation of some of the hit songs written and composed by Gireesh Puthenchery, a prominent Malayalam lyricist.</desc>
+  </programme>
+  <programme start="20260825160000 +0400" stop="20260825163000 +0400" channel="rajmusixmalayalam.in">
+    <title>Kana Marayathu</title>
+    <desc>Sherly, an orphan, falls in love with Roy not knowing that he is her financial supporter. But Roy keeps his distance from her due to their age gap.</desc>
+  </programme>
+  <programme start="20260825163000 +0400" stop="20260825170000 +0400" channel="rajmusixmalayalam.in">
+    <title>Poornima</title>
+    <desc>Despite being in love with each other, Purnima and Prakash end up marrying Vasant and Vandana respectively. Things take an unexpected turn when Vasant and Vandana die in a car accident.</desc>
+  </programme>
+  <programme start="20260825170000 +0400" stop="20260825173000 +0400" channel="rajmusixmalayalam.in">
+    <title>Devaragam</title>
+    <desc>Vishnu and Lakshmi fall in love. But Lakshmi's father accepts a wedding proposal against her wish.</desc>
+  </programme>
+  <programme start="20260825173000 +0400" stop="20260825180000 +0400" channel="rajmusixmalayalam.in">
+    <title>Isai Thendral</title>
+    <desc>Famous playback singers present some of the most popular songs in their discography that helped them define and advance their careers.</desc>
+  </programme>
+  <programme start="20260825180000 +0400" stop="20260825183000 +0400" channel="rajmusixmalayalam.in">
+    <title>Meera</title>
+    <desc>Meera's life changes after she witnesses a policeman committing a murder. He then vows to kill her, but Jeeva, a man who falls in love with her, takes it upon himself to protect her.</desc>
+  </programme>
+  <programme start="20260825183000 +0400" stop="20260825190000 +0400" channel="rajmusixmalayalam.in">
+    <title>Siby Hits</title>
+    <desc>Siby Hits showcases a curated selection of iconic Malayalam film songs, celebrating timeless hits with captivating performances that revive the essence of classic music eras beautifully.</desc>
+  </programme>
+  <programme start="20260825190000 +0400" stop="20260825193000 +0400" channel="rajmusixmalayalam.in">
+    <title>Ever Green</title>
+    <desc>A comprehensive compilation of some of the hit evergreen songs written and composed by famous artists and musicians from all over the country.</desc>
+  </programme>
+  <programme start="20260825193000 +0400" stop="20260825200000 +0400" channel="rajmusixmalayalam.in">
+    <title>Karthika</title>
+    <desc>Deepa, a dark-skinned girl, is treated badly by her fair-skinned sister. She gets married to Dr Karthik but has to fight societal and family pressures in order to lead a happy married life.</desc>
+  </programme>
+  <programme start="20260825200000 +0400" stop="20260825203000 +0400" channel="rajmusixmalayalam.in">
+    <title>Onv</title>
+    <desc>Ottaplakkal Neelakandan Velu Kurup was a Malayalam poet and lyricist from Kerala, India, who won the Jnanpith Award, the highest literary award in India.</desc>
+  </programme>
+  <programme start="20260825203000 +0400" stop="20260825210000 +0400" channel="rajmusixmalayalam.in">
+    <title>Best Of 90'S</title>
+    <desc>A nostalgic musical journey through the unforgettable hits of the 1990s, capturing the magic of melodies that defined an entire generation of music lovers.</desc>
+  </programme>
+  <programme start="20260825210000 +0400" stop="20260825213000 +0400" channel="rajmusixmalayalam.in">
+    <title>Hit Chart</title>
+    <desc>Tune into a comprehensive compilation of some of the latest and most popular songs performed by various artists.</desc>
+  </programme>
+  <programme start="20260825213000 +0400" stop="20260825220000 +0400" channel="rajmusixmalayalam.in">
+    <title>Manoharam</title>
+    <desc>Manu, a talented poster artist, struggles to find work with the advent of digital technology. After being jilted by his fiancee, he attempts to rebuild his life.</desc>
+  </programme>
+  <programme start="20260825220000 +0400" stop="20260825223000 +0400" channel="rajmusixmalayalam.in">
+    <title>Nostalgia</title>
+    <desc>Enjoy a heartwarming collection of timeless classics that shaped musical history, evoking powerful emotions and memories that remain fresh even today.</desc>
+  </programme>
+  <programme start="20260825223000 +0400" stop="20260825230000 +0400" channel="rajmusixmalayalam.in">
+    <title>Dileep</title>
+    <desc>Dileep is a popular Malayalam actor known for his versatile roles and comedy, starring in over 150 films and winning multiple awards for his impactful performances.</desc>
   </programme>
 </tv>
