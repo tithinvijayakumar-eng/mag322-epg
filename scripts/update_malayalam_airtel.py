@@ -28,6 +28,12 @@ CHANNELS = [
     ('Safari TV', 'airtel', 'LIVETV_LIVETVCHANNEL_SAFARI_TV', 'SAFARI.TV.in'),
     ('Kochu TV', 'airtel', 'LIVETV_LIVETVCHANNEL_KOCHU_TV', 'KOCHU.TV.in'),
     ('24 News', 'airtel', 'LIVETV_LIVETVCHANNEL_TWENTY_FOUR', 'News.24.in'),
+    ('Jeevan TV HD', 'tataplay', '1848', 'jeevantv.in'),
+    ('Kaumudy TV HD', 'tataplay', '1851', 'kaumudytv.in'),
+    ('Raj News Malayalam HD', 'tataplay', '1853', 'rajnewsmalayalam.in'),
+    ('Shekinah TV', 'tataplay', '1856', 'ts1313'),
+    ('News Malayalam 24x7 HD', 'tataplay', '1857', 'ts1367'),
+    ('Raj Music Malayalam', 'tataplay', '1877', 'rajmusixmalayalam.in'),
 ]
 
 AIRTEL_HEADERS = {
