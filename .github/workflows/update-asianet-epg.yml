@@ -8,6 +8,7 @@ on:
     paths:
       - 'scripts/update_all_channels.py'
       - 'scripts/update_malayalam_airtel.py'
+      - 'scripts/update_malayalam_airtel_fallbacks.py'
       - '.github/workflows/update-asianet-epg.yml'
 
 permissions:
@@ -26,6 +27,8 @@ jobs:
         run: python scripts/update_all_channels.py
       - name: Overlay verified Malayalam sources
         run: python scripts/update_malayalam_airtel.py
+      - name: Overlay Airtel fallbacks
+        run: python scripts/update_malayalam_airtel_fallbacks.py
       - name: Commit XMLTV if changed
         run: |
           git config user.name "github-actions[bot]"
