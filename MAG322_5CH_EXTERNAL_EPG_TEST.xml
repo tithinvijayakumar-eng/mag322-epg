@@ -80185,6 +80185,10 @@
     <title>Swayamvarapanthal</title>
     <desc>Nandini, a devoted village girl, works tirelessly for her family. Surya, resentful of his mother, forms a bond with her, leading to conflict. Discover how destiny shapes their lives.</desc>
   </programme>
+  <programme start="20260911223000 +0400" stop="20260911230000 +0400" channel="SURYA.HD.in">
+    <title>Chattambipaaru</title>
+    <desc>Born into a humble family facing financial struggles, Parvathi leaves home to create a better life, bravely confronting life's challenges with courage, resilience, and determination.</desc>
+  </programme>
   <programme start="20260907203000 +0400" stop="20260907233000 +0400" channel="SURYA.MOVIES.in">
     <title>Agni Nakshathram</title>
     <desc>Rudra becomes famous after it is known that she can predict the future. When a sorcerer arrives at her home with intentions of harming her, Nambi, a man with divine powers, decides to protect her.</desc>
@@ -80329,7 +80333,7 @@
     <title>Praja</title>
     <desc>Ex-don Zakkir is living peacefully and trying to begin a new life. However, due to the evil deeds of two dons, he is unable to live peacefully.</desc>
   </programme>
-  <programme start="20260911203000 +0400" stop="20260911223000 +0400" channel="SURYA.MOVIES.in">
+  <programme start="20260911203000 +0400" stop="20260911233000 +0400" channel="SURYA.MOVIES.in">
     <title>Kothu</title>
     <desc>Special segments delve into extraordinary events, critical investigations, and inspiring stories of courage, impact, and transformation.</desc>
   </programme>
@@ -84834,8 +84838,8 @@
     <desc>A host delivers thorough regional news, explaining the latest developments with clear, accessible coverage and up-to-date insights from across the area.</desc>
   </programme>
   <programme start="20260908223000 +0400" stop="20260908230000 +0400" channel="News.24.in">
-    <title>Gulf Focus</title>
-    <desc>The host presents the latest news and updates pertaining to social, economic and political issues affecting the Malayali population in the Gulf countries.</desc>
+    <title>24 Round UP</title>
+    <desc>The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
   </programme>
   <programme start="20260908230000 +0400" stop="20260909000000 +0400" channel="News.24.in">
     <title>Encounter</title>
