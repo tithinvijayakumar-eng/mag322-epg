@@ -79592,15 +79592,11 @@
     <title>KGF</title>
     <desc>Rocky seeks power in Mumbai, facing the gold mafia to gain wealth.</desc>
   </programme>
-  <programme start="20260909203000 +0400" stop="20260909233000 +0400" channel="AsianetMovies.in">
-    <title>Malayankunju</title>
-    <desc>A technician's tranquil life is disrupted by a newborn's cries, triggering dark memories of a landslide that evoke a mix of guilt, anger, and casteist sentiments.</desc>
-  </programme>
-  <programme start="20260909233000 +0400" stop="20260910013000 +0400" channel="AsianetMovies.in">
+  <programme start="20260909225000 +0400" stop="20260910012000 +0400" channel="AsianetMovies.in">
     <title>Oru Indian Pranayakadha</title>
     <desc>Aymanam, an ambitious youth politician, wins Irene's heart-an insightful Indo-Canadian filmmaker chronicling politics-blending romance with ambition in a captivating tale of love and aspirations.</desc>
   </programme>
-  <programme start="20260910013000 +0400" stop="20260910033000 +0400" channel="AsianetMovies.in">
+  <programme start="20260910012000 +0400" stop="20260910033000 +0400" channel="AsianetMovies.in">
     <title>Female Unnikrishnan</title>
     <desc>Unni has never developed a masculine voice. Will he overcome all the obstacles?</desc>
   </programme>
@@ -81568,11 +81564,11 @@
     <title>Krishna Gadha</title>
     <desc>Krishna and Mahalakshmi love each other. A mafia gang attacks her family and kidnaps kids. Krishna must save them to win Mahalakshmi's approval.</desc>
   </programme>
-  <programme start="20260910210000 +0400" stop="20260910213000 +0400" channel="ts694">
+  <programme start="20260910210000 +0400" stop="20260910213200 +0400" channel="ts694">
     <title>Mangalyam</title>
     <desc>A young woman with grand aspirations marries a man from a diverse background, navigating the challenges and joys of life together, creating a unique and enriching journey.</desc>
   </programme>
-  <programme start="20260910213000 +0400" stop="20260910220000 +0400" channel="ts694">
+  <programme start="20260910213200 +0400" stop="20260910220000 +0400" channel="ts694">
     <title>Durga</title>
     <desc>IG Durga Prasad leads a new anti-terror squad under political pressure. His probe uncovers his own brother among militants, forcing him into a tragic final showdown.</desc>
   </programme>
@@ -81620,9 +81616,13 @@
     <title>Snehapoorvam Shyama</title>
     <desc>Sina's scheming against Sujata causes tension, while health problems and unexpected changes in behavior ripple through their friend group, leading to drama and revelations that shake their bonds.</desc>
   </programme>
-  <programme start="20260911033000 +0400" stop="20260911043000 +0400" channel="ts694">
-    <title>Nirmalyam</title>
-    <desc>A young man takes over at an old, decaying temple while the priest is away, quickly forming a close bond with the daughter of the local oracle.</desc>
+  <programme start="20260911033000 +0400" stop="20260911040000 +0400" channel="ts694">
+    <title>Valliettan</title>
+    <desc>A family action drama centered on power, respect, and relationships, where strong emotions and conflicts shape the destiny of characters.</desc>
+  </programme>
+  <programme start="20260911040000 +0400" stop="20260911043000 +0400" channel="ts694">
+    <title>Akale</title>
+    <desc>Happiness in relationships requires love, understanding, and effort from both individuals. A lack of balance can lead to pain and heartache.</desc>
   </programme>
   <programme start="20260911043000 +0400" stop="20260911053000 +0400" channel="ts694">
     <title>Deva Sangeetham</title>
